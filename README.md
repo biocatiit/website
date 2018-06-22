@@ -52,8 +52,8 @@ output directory and run
 ```
 python -m SimpleHTTPServer
 ```
-(note: this is the python 2 way, python 3 requires a different command)
 This displays the website at [http://localhost:8000/](http://localhost:8000/).
+(note: this is the python 2 way, python 3 requires a different command)
 
 ### Build and display the html (make)
 
@@ -70,3 +70,12 @@ of those changes. To stop the devserver run
 ```
 ./develop_server.sh stop
 ```
+
+## Useful links
+
+* [Pelican documenation](http://docs.getpelican.com/en/stable/)
+* [Pelican-boostrap3 theme documenation](https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3)
+* [Pelican bootstrap-rst plugin documenation](https://github.com/getpelican/pelican-plugins/tree/master/bootstrap-rst)
+    * [boostrap-rst demo](https://rougier.github.io/bootstrap-rst/)
+* [Basics of rst](http://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html)
+* [Basics of markdown](https://www.markdownguide.org/)
