@@ -58,6 +58,9 @@ USE_FOLDER_AS_CATEGORY = True
 THEME = "./themes/pelican-bootstrap3"
 BOOTSTRAP_THEME = 'sandstone'
 
+BANNER = './images/conf.jpg'
+BANNER_ALL_PAGES = True
+
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
 
@@ -78,6 +81,7 @@ TYPOGRIFY = True
 PHOTO_LIBRARY = "./content/carousel"
 
 HIDE_SIDEBAR = True
+
 
 # Tell Pelican to change the path to 'static/custom.css' in the output dir
 EXTRA_PATH_METADATA = {

@@ -3,6 +3,8 @@
 :save_as: index.html
 :title: Welcome to BioCAT
 
+
+
 .. class:: center
 
     .. raw:: html
@@ -70,41 +72,6 @@ BioCAT is a member of `Illinois Institute of Technology <http://www.iit.edu/>`_'
 (IIT) `Center for Synchrotron Radiation Research and Instrumentation (CSSRI)
 <http://www.csrri.iit.edu/>`_.
 
-.. row::
-
-    .. -------------------------------------------------------------------------
-    .. column::
-        :width: 3
-
-        .. thumbnail::
-
-            .. image:: /images/conf.jpg
-                :class: img-circle
-    .. -------------------------------------------------------------------------
-    .. column::
-        :width: 3
-
-        .. thumbnail::
-
-            .. image:: /images/conf.jpg
-                :class: img-circle
-    .. -------------------------------------------------------------------------
-    .. column::
-        :width: 3
-
-        .. thumbnail::
-
-            .. image:: /images/conf.jpg
-                :class: img-circle
-    .. -------------------------------------------------------------------------
-    .. column::
-        :width: 3
-
-        .. thumbnail::
-
-            .. image:: /images/conf.jpg
-                :class: img-circle
-
 
 
 
@@ -134,6 +101,49 @@ BioCAT is a member of `Illinois Institute of Technology <http://www.iit.edu/>`_'
             .. button:: Learn More
                 :class: primary block
                 :target: {filename}/2017_sosnick_highlight.rst
+        .. row::
+
+            .. -------------------------------------------------------------------------
+            .. column::
+                :width: 6
+
+
+                .. thumbnail::
+
+                    .. image:: {filename}/images/2017_sosnick_highlight.jpg
+                        :class: img-rounded
+
+                    .. caption::
+
+                        :h3:`Proteins May Prevent Dysfunction and Disease by Relaxing`
+
+                        A new study suggests many proteins remain expanded in the cell,
+                        rather than contracting into tight folded shapes.
+
+                    .. button:: Learn More
+                        :class: primary block
+                        :target: {filename}/2017_sosnick_highlight.rst
+
+
+            .. -------------------------------------------------------------------------
+            .. column::
+                :width: 6
+
+                .. thumbnail::
+
+                    .. image:: {filename}/images/2017_sosnick_highlight.jpg
+                        :class: img-rounded
+
+                    .. caption::
+
+                        :h3:`MuscleX Workshop at the Myofilament Conference`
+
+                        The first BioCAT MuscleX workshop will take place at the
+                        6th Biennial Myofilament Conference in Madison Wi on 5/23/2018.
+
+                    .. button:: Learn More
+                        :class: primary block
+                        :target: {filename}/pages/about_facility.rst
 
 
     .. -------------------------------------------------------------------------
@@ -158,5 +168,47 @@ BioCAT is a member of `Illinois Institute of Technology <http://www.iit.edu/>`_'
                 :class: primary block
                 :target: {filename}/pages/about_facility.rst
 
+        .. row::
+
+            .. -------------------------------------------------------------------------
+            .. column::
+                :width: 6
 
 
+                .. thumbnail::
+
+                    .. image:: {filename}/images/conf.jpg
+                        :class: img-rounded
+
+                    .. caption::
+
+                        :h3:`Proteins May Prevent Dysfunction and Disease by Relaxing`
+
+                        A new study suggests many proteins remain expanded in the cell,
+                        rather than contracting into tight folded shapes.
+
+                    .. button:: Learn More
+                        :class: primary block
+                        :target: {filename}/2017_sosnick_highlight.rst
+
+
+            .. -------------------------------------------------------------------------
+            .. column::
+                :width: 6
+
+
+                .. thumbnail::
+
+                    .. image:: {filename}/images/conf.jpg
+                        :class: img-rounded
+
+                    .. caption::
+
+                        :h3:`MuscleX Workshop at the Myofilament Conference`
+
+                        The first BioCAT MuscleX workshop will take place at the
+                        6th Biennial Myofilament Conference in Madison Wi on 5/23/2018.
+
+                    .. button:: Learn More
+                        :class: primary block
+                        :target: {filename}/pages/about_facility.rst

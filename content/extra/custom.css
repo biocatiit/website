@@ -1,6 +1,10 @@
 .carousel {
-  width: auto;
+  width: 100%;
   max-height: auto;
-  max-width: 800px;
+  min-height: 100%;
   overflow: hidden;
+  padding-left: 0px;
+  padding-right: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
 }

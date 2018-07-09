@@ -8,6 +8,14 @@
             under non-crystalline conditions similar to their functional states in
             living tissues.
 
+.. lead::   **Overview**  BioCAT is organized as a National Institutes of Health (NIH) Biotechnology Research
+                Resource and is funded by the National Institute of General Biomedical Sciences
+                (NIGMS).
+
+                .. button:: More
+                    :class: primary block
+                    :target: {filename}/pages/about_overview.rst
+
 
 .. row::
 
@@ -22,7 +30,7 @@
 
             .. caption::
 
-                :h3:`Overview`
+                :h3:`Facilities`
 
                 BioCAT is organized as a National Institutes of Health (NIH) Biotechnology Research
                 Resource and is funded by the National Institute of General Biomedical Sciences
@@ -44,7 +52,7 @@
 
             .. caption::
 
-                :h3:`Facility`
+                :h3:`Fiber Diffraction`
 
                 The BioCAT undulator beamline 18ID at the Advanced Photon Source,
                 is a state-of-the-art instrument for biological small and wide
@@ -66,7 +74,7 @@
 
             .. caption::
 
-                :h3:`Techniques`
+                :h3:`SAXS`
 
                 BioCAT supports a number of techniques for analysis of partially-ordered
                 and disordered biological materials.
