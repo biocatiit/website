@@ -67,7 +67,7 @@ DISPLAY_PAGES_ON_MENU = False
 MENUITEMS=[
     ('About','/pages/about-biocat.html'),
     ('Users', ''),
-    ('Science', ''),
+    ('Science', 'science_highlights.html'),
     ('Contact', '')
 
     ]
@@ -91,4 +91,4 @@ EXTRA_PATH_METADATA = {
 
 CUSTOM_CSS = 'static/css/custom.css'
 
-INDEX_SAVE_AS = 'blog_index.html'
+INDEX_SAVE_AS = 'science_highlights.html'
