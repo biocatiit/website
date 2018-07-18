@@ -49,7 +49,7 @@ debugging your set-up and more time taking high-quality data.
 
             .. button:: More
                 :class: primary block
-                :target: {filename}/pages/about_saxs.rst
+                :target: {filename}/pages/about_techniques.rst
 
 
     .. -------------------------------------------------------------------------

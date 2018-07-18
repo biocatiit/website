@@ -1,12 +1,14 @@
 Proteins May Prevent Dysfunction and Disease by Relaxing
 #########################################################
 
-:date: 2018-04-02
+:date: 2017-12-12
 :tags: user highlight; science highlight
 :category: science
 :slug: proteins-prevent-disease-by-relaxing
 :authors: BioCAT
-:summary: A new study suggests many proteins remain expanded in the cell, rather than contracting into tight folded shapes
+:summary: Determining how proteins function on a molecular level is crucial to understanding the
+underlying basis for disease. Now scientists using the U.S. Department of Energy’s Advanced
+Photon Source (APS) at Argonne National Laboratory are...
 
 .. image:: {filename}/images/2017_sosnick_highlight.jpg
     :class: img-responsive

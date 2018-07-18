@@ -159,14 +159,14 @@ BioCAT is a member of `Illinois Institute of Technology <http://www.iit.edu/>`_'
 
             .. caption::
 
-                :h3:`MuscleX Workshop at the Myofilament Conference`
+                :h3:`MuscleX: Muscle X-ray Diffraction Workshop`
 
                 The first BioCAT MuscleX workshop will take place at the
                 6th Biennial Myofilament Conference in Madison Wi on 5/23/2018.
 
             .. button:: Learn More
                 :class: primary block
-                :target: {filename}/pages/about_facility.rst
+                :target: {filename}/pages/musclex.rst
 
         .. row::
 
@@ -182,14 +182,13 @@ BioCAT is a member of `Illinois Institute of Technology <http://www.iit.edu/>`_'
 
                     .. caption::
 
-                        :h3:`Proteins May Prevent Dysfunction and Disease by Relaxing`
+                        :h3:`MuscleX Workshop Wrap-Up`
 
-                        A new study suggests many proteins remain expanded in the cell,
-                        rather than contracting into tight folded shapes.
+                       The MuscleX workshop was a great success with 63 registered attendees!
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/2017_sosnick_highlight.rst
+                        :target: {filename}/pages/muscle_wrapup.rst
 
 
             .. -------------------------------------------------------------------------

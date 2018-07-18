@@ -38,7 +38,7 @@
 
             .. button:: More
                 :class: primary block
-                :target: {filename}/pages/about_overview.rst
+                :target: {filename}/pages/about_facility.rst
 
 
     .. -------------------------------------------------------------------------
@@ -60,7 +60,7 @@
 
             .. button:: More
                 :class: primary block
-                :target: {filename}/pages/about_facility.rst
+                :target: {filename}/pages/about_fiber.rst
 
 
     .. -------------------------------------------------------------------------
@@ -81,5 +81,5 @@
 
             .. button:: More
                 :class: primary block
-                :target: {filename}/pages/about_techniques.rst
+                :target: {filename}/pages/about_saxs.rst
 

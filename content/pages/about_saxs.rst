@@ -102,3 +102,40 @@ performed with as little as 10mgs of sample.
             12(5), 654-60 (2002)
         *   Doniach S., “Changes in biomolecular conformation seen by small
             angle X-ray scattering,” Chem Rev., 101, 1763-78 (2001)
+
+.. row::
+
+    .. -------------------------------------------------------------------------
+    .. column::
+        :width: 6
+
+        .. thumbnail::
+
+            .. image:: {filename}/images/conf.jpg
+                :class: img-rounded
+
+            .. caption::
+
+                :h4:`Aux. SAXS Instrumentation`
+
+            .. button:: Learn More
+                :class: primary block
+                :target: {filename}/pages/about_instrumentation.rst
+
+    .. -------------------------------------------------------------------------
+    .. column::
+        :width: 6
+
+        .. thumbnail::
+
+            .. image:: {filename}/images/conf.jpg
+                :class: img-rounded
+
+            .. caption::
+
+                :h4:`SAXS Configurations`
+
+            .. button:: Learn More
+                :class: primary block
+                :target: {filename}/pages/about_saxscamera.rst
+                
