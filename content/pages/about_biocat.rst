@@ -21,7 +21,7 @@
 
     .. -------------------------------------------------------------------------
     .. column::
-        :width: 4
+        :width: 3
 
         .. thumbnail::
 
@@ -43,7 +43,7 @@
 
     .. -------------------------------------------------------------------------
     .. column::
-        :width: 4
+        :width: 3
 
         .. thumbnail::
 
@@ -65,7 +65,29 @@
 
     .. -------------------------------------------------------------------------
     .. column::
-        :width: 4
+        :width: 3
+
+        .. thumbnail::
+
+            .. image:: {filename}/images/conf.jpg
+                :class: img-rounded
+
+            .. caption::
+
+                :h3:`Microdiffraction and XFM`
+
+                The BioCAT micro-Diffraction and X-ray Florescent Microscopy(XFM)
+                instruments are highly efficient tools for X-ray elemental mapping
+                and micro-X-ray Diffraction studies of biological samples.
+
+            .. button:: More
+                :class: primary block
+                :target: {filename}/pages/about_microdiffraction_xfm.rst
+
+
+    .. -------------------------------------------------------------------------
+    .. column::
+        :width: 3
 
         .. thumbnail::
 
@@ -82,4 +104,5 @@
             .. button:: More
                 :class: primary block
                 :target: {filename}/pages/about_saxs.rst
+
 

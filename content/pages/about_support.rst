@@ -18,3 +18,24 @@ at the APS) can handle larger jobs. The Advanced Photon Source has a
 well-equippedmetrology shop which we use to characterize mirror and
 multilayer optics. For animal care we have access to the Animal Housing
 Facility in the Engineering Research Building at IIT.
+
+
+.. row::
+
+    .. -------------------------------------------------------------------------
+    .. column::
+        :width: 3
+
+        .. thumbnail::
+
+            .. image:: {filename}/images/conf.jpg
+                :class: img-rounded
+
+            .. caption::
+
+                :h4:`Biochemistry Lab`
+
+            .. button:: Learn More
+                :class: primary block
+                :target: {filename}/pages/wetlab.rst
+

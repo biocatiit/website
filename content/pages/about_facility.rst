@@ -13,7 +13,7 @@
 
     .. -------------------------------------------------------------------------
     .. column::
-        :width: 3
+        :width: 4
 
         .. thumbnail::
 
@@ -30,7 +30,7 @@
 
     .. -------------------------------------------------------------------------
     .. column::
-        :width: 3
+        :width: 4
 
         .. thumbnail::
 
@@ -47,99 +47,7 @@
 
     .. -------------------------------------------------------------------------
     .. column::
-        :width: 3
-
-        .. thumbnail::
-
-            .. image:: {filename}/images/conf.jpg
-                :class: img-rounded
-
-            .. caption::
-
-                :h4:`SAXS Configurations`
-
-            .. button:: Learn More
-                :class: primary block
-                :target: {filename}/pages/about_saxscamera.rst
-
-
-    .. -------------------------------------------------------------------------
-    .. column::
-        :width: 3
-
-        .. thumbnail::
-
-            .. image:: {filename}/images/conf.jpg
-                :class: img-rounded
-
-            .. caption::
-
-                :h4:`X-ray Fluorescence`
-
-            .. button:: Learn More
-                :class: primary block
-                :target: {filename}/pages/about_fluorescence.rst
-
-
-.. row::
-
-    .. -------------------------------------------------------------------------
-    .. column::
-        :width: 3
-
-        .. thumbnail::
-
-            .. image:: {filename}/images/conf.jpg
-                :class: img-rounded
-
-            .. caption::
-
-                :h4:`Fiber Crystallography`
-
-            .. button:: Learn More
-                :class: primary block
-                :target: {filename}/pages/about_fiber.rst
-
-
-    .. -------------------------------------------------------------------------
-    .. column::
-        :width: 3
-
-        .. thumbnail::
-
-            .. image:: {filename}/images/conf.jpg
-                :class: img-rounded
-
-            .. caption::
-
-                :h4:`Muscle Diffraction`
-
-            .. button:: Learn More
-                :class: primary block
-                :target: {filename}/pages/about_muscle.rst
-
-
-    .. -------------------------------------------------------------------------
-    .. column::
-        :width: 3
-
-        .. thumbnail::
-
-            .. image:: {filename}/images/conf.jpg
-                :class: img-rounded
-
-            .. caption::
-
-                :h4:`Aux. SAXS Instrumentation`
-
-            .. button:: Learn More
-                :class: primary block
-                :target: {filename}/pages/about_instrumentation.rst
-
-
-    .. -------------------------------------------------------------------------
-    .. column::
-        :width: 3
+        :width: 4
 
         .. thumbnail::
 

@@ -71,3 +71,22 @@ frozen hydrated samples at liquid nitrogen temperatures.
         on biological samples at the BioCAT Beamline 18-ID at the Advanced
         Photon Source," J. Synchrotron Rad. 21 (5), 1200-1205 (2014).
         DOI: 10.1107/S1600577514012259
+
+.. row::
+
+    .. -------------------------------------------------------------------------
+    .. column::
+        :width: 3
+
+        .. thumbnail::
+
+            .. image:: {filename}/images/conf.jpg
+                :class: img-rounded
+
+            .. caption::
+
+                :h4:`X-ray Fluorescence`
+
+            .. button:: Learn More
+                :class: primary block
+                :target: {filename}/pages/about_fluorescence.rst
