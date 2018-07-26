@@ -6,7 +6,6 @@ Stress-Triggered Phase Separation Is an Adaptive, Evolutionarily Tuned Response
 :category: science
 :slug: stress-triggered-separation
 :authors: BioCAT
-:summary: In eukaryotic cells, diverse stresses trigger coalescence of various RNAbinding proteins into so-called stress granules. In vitro, stress-granuleassociated proteins...
 
 
 .. row::
@@ -17,7 +16,7 @@ Stress-Triggered Phase Separation Is an Adaptive, Evolutionarily Tuned Response
 
 		.. thumbnail::
 
-			.. image:: {filename}/images/sosnick_cell.png
+			.. image:: {filename}/images/scihi/2017_SosnickCell.jpg
 				:class: img-responsive
 
 	.. ------------------------------------------------------------------------

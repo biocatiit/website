@@ -6,7 +6,6 @@ The Chd1 Chromatin Remodeler Shifts Nucleosomal DNA Bidirectionally as a Monomer
 :category: science
 :slug: Chd1-chromatin
 :authors: BioCAT
-:summary: DNA in eukaryotic cells is normally found associated with prot4ens called histone in particles called nucleosomes linked by short segMents of DNA. Chromatin remodelers are specialized ATP-dependent molecular machines that can reorganize the structure of nucelsomes as needed for such processes such as replication, transcription and DNA repair...
 
 .. row::
 
@@ -16,7 +15,7 @@ The Chd1 Chromatin Remodeler Shifts Nucleosomal DNA Bidirectionally as a Monomer
 
         .. thumbnail::
 
-            .. image:: {filename}/images/Chd1.png
+            .. image:: {filename}/images/scihi/2017_Chd1.jpg
                 :class: img-responsive
 
     .. -------------------------------------------------------------------------

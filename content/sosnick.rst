@@ -6,9 +6,17 @@ Perplexing cooperative folding and stability of a low-sequence complexity, polyp
 :category: science
 :slug: perplexing-folding
 :authors: BioCAT
-:summary: The physical basis of proteinfolding stability and cooperativity remains a topic of great interest. Folding of globular proteins is generally assumed to be driven by energetically favorable burial of hydrophobic groups and that early development of secondary structure increases the cooperativity of folding...
 
 .. row::
+
+	.. -----------------------------------------------------------------------
+	.. column::
+		:width: 4
+
+		.. thumbnail::
+
+			.. image:: {filename}/images/scihi/2017_SosnickPNAS.jpg
+				:class: img-responsive
 	
 	.. -----------------------------------------------------------------------
 	.. column::
@@ -20,14 +28,7 @@ Perplexing cooperative folding and stability of a low-sequence complexity, polyp
 
 		Author Affiliations: aDepartment of Chemistry, The University of Chicago, Chicago, IL 60637; bDepartment of Biochemistry and Molecular Biology, The University of Chicago, Chicago, IL 60637; c Institute for Biophysical Dynamics, The University of Chicago, Chicago, IL 60637; and dGraduate Program in Biophysical Sciences, The University of Chicago, Chicago, IL 60637.
 
-	.. -----------------------------------------------------------------------
-	.. column::
-		:width: 4
-
-		.. thumbnail::
-
-			.. image:: {filename}/images/sosnick.png
-				:class: img-responsive
+	
 
 
 

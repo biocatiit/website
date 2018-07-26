@@ -6,9 +6,18 @@ The POTRA domains of Toc75 exhibit chaperone-like function to facilitate import 
 :category: science
 :slug: import-into-chloroplasts
 :authors: BioCAT
-:summary: Chloroplasts, like mitochondria, are organelles of endosymbiotic origin, having evolved from initial engulfment of a cyanobacterium by a eukaryotic cell. Most of the bacterial genome was subsequently lost...
+
 
 .. row ::
+
+	.. -----------------------------------------------------------------------------
+	.. column::
+		:width: 4
+
+		.. thumbnail::
+
+			.. image:: {filename}/images/scihi/2017_Noinaj.jpg
+				:class: img-responsive
 
 	.. -----------------------------------------------------------------------------
 	.. column::
@@ -67,14 +76,6 @@ The POTRA domains of Toc75 exhibit chaperone-like function to facilitate import 
 		Institute of Technology, Sector 18ID, Advanced Photon Source, Argonne National
 		Laboratory, Lemont, IL 60439
 
-	.. -----------------------------------------------------------------------------
-	.. column::
-		:width: 4
-
-		.. thumbnail::
-
-			.. image:: {filename}/images/noinaj.png
-				:class: img-responsive
 
 
 

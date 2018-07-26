@@ -6,9 +6,9 @@ Asymmetric unwrapping of nucleosomal DNA propagates asymmetric opening and disso
 :category: science
 :slug: asymmetric-unwrapping
 :authors: BioCAT
-:summary: Nucleosomes are protein–DNA structures which eukaryotic organisms use to package and organize DNA inside the nucleus. Nucleosomes need to be disassembled to permit transcription of DNA and reassembled...
 
-.. image:: {filename}/images/lois.png
+
+.. image:: {filename}/images/scihi/2017_Lois.jpg
 	:class: img-responsive
 
 

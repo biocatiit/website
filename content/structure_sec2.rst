@@ -6,41 +6,15 @@ An Unusual Shape Change to Deliver Selenocysteine to Proteins
 :category: science
 :slug: structure-of-eEFSec2
 :authors: BioCAT
-:summary: The element selenium is incorporated into proteins through the 21st amino acid selenocysteine (Sec). Such selenoproteins are critically important to all types of life, suggesting that being able to accurately decode the Sec codon and correctly...
 
-.. image:: {filename}/images/structure_sec2.png
+.. image:: {filename}/images/scihi/structure_sec2.png
 	:class: img-responsive
 
 .. caption::
 
 	**Fig. 1.** (A) Cartoon (left) and surface diagram (right) of the overall structure and domain organization of human eEFSec. The color-coding is according to the scheme shown below. (B) The GTP-to-GDP exchange on human eEFSec induces an unexpected conformational change in D4, but not in D1. A comparison of the GTP- (light blue) and GDP-bound states (light red) reveals a lack of the canonical conformational change in the EF-Tu-like domain (D1-3). instead, D4 swings ~26° towards the dorsal face of the molecule and away from the trNA-binding site. The view is rotated ~90° clockwise relative to that in (A). 
 
-	_
-
-
-
-.. row::
 	
-	.. -----------------------------------------------------------------
-	.. column::
-		:width: 3
-
-		18-id-d • bio-cAT • life sciences • fiber diffraction,
-		microdiffraction, small-angle x-ray
-		scattering, time-resolved x-ray scattering •
-		3.5-35 kev • on-site • Accepting general
-		users •
-
-		19-id-d • Sbc-cAT • life sciences • macromolecular
-		crystallography, multi-wavelength
-		anomalous dispersion, subatomic (<0.85 Å)
-		resolution, microbeam, ultra-low-temperature
-		(15k), large unit cell crystallography, singlewavelength
-		anomalous dispersion • 6.5-19.5
-		kev • on-site, remote, mail-in • Accepting general
-		users •
-
-		_
 
 The element selenium is incorporated into proteins through the 21st
 amino acid selenocysteine (Sec). Such selenoproteins are critically

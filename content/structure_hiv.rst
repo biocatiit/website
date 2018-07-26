@@ -6,7 +6,7 @@ Solution Structure of the HIV-1 Intron Splicing Silencer and Its Interactions wi
 :category: science
 :slug: structure-of-hiv
 :authors: BioCAT
-:summary: Human immunodeficiency virus type 1 (HIV-1) requires controlled synthesis of its protein complement for persistent infection and successful virion production. Genome expression is tightly regulated at the levels of transcription...
+
 
 .. row::
 
@@ -16,7 +16,7 @@ Solution Structure of the HIV-1 Intron Splicing Silencer and Its Interactions wi
 
 		.. thumbnail::
 
-			.. image:: {filename}images/hiv.png
+			.. image:: {filename}images/scihi/2016_HIV1.jpg
 				:class: img-responsive
 
 
