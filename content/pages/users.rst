@@ -12,7 +12,7 @@ you will need to become familliar with the
 `process for obtaining time <{filename}/pages/users_apply.rst>`_ at our beamline.
 
 Prior to scheduling awarded time, it will be necessary to ensure that your
-experiment satisfies all applicable safety and compliance requirements.
+experiment satisfies all applicable `safety and compliance requirements <{filename}/pages/users_safety.rst>`_.
 
 Please read through the material in each of these three categories as the
 information contained within is there to help you make it smoothly through
