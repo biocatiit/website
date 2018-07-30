@@ -1,4 +1,4 @@
-Unearthing the Mechanism of thr Frank-Starling Law, A Central Regulator of Heart Function
+Unearthing the Mechanism of the Frank-Starling Law, A Central Regulator of Heart Function
 #########################################################################################
 
 :date: 2016-01-01

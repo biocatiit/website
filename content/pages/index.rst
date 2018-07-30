@@ -110,15 +110,14 @@ BioCAT is a member of `Illinois Institute of Technology <http://www.iit.edu/>`_'
 
                 .. thumbnail::
 
-                    .. image:: {filename}/images/2017_sosnick_highlight.jpg
+                    .. image:: {filename}/images/scihi/2017_Chd1.jpg
                         :class: img-rounded
 
                     .. caption::
 
-                        :h3:`Proteins May Prevent Dysfunction and Disease by Relaxing`
+                        :h3:`The Chd1 Chromatin Remodeler Shifts Nucleosomal DNA Bidirectionally as a Monomer`
 
-                        A new study suggests many proteins remain expanded in the cell,
-                        rather than contracting into tight folded shapes.
+                        DNA in eukaryotic cells is normally found associated with prot4ens called histone in particles called nucleosomes linked by short segMents of DNA.
 
                     .. button:: Learn More
                         :class: primary block
@@ -131,19 +130,18 @@ BioCAT is a member of `Illinois Institute of Technology <http://www.iit.edu/>`_'
 
                 .. thumbnail::
 
-                    .. image:: {filename}/images/2017_sosnick_highlight.jpg
+                    .. image:: {filename}/images/scihi/2017_SosnickPNAS.jpg
                         :class: img-rounded
 
                     .. caption::
 
-                        :h3:`MuscleX Workshop at the Myofilament Conference`
+                        :h3:`Perplexing cooperative folding and stability of a low-sequence complexity, polyproline 2 protein lacking a hydrophobic core`
 
-                        The first BioCAT MuscleX workshop will take place at the
-                        6th Biennial Myofilament Conference in Madison Wi on 5/23/2018.
+                       The physical basis of proteinfolding stability and cooperativity remains a topic of great interest.
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/pages/about_facility.rst
+                        :target: {filename}/pages/sosnick.rst
 
 
     .. -------------------------------------------------------------------------
