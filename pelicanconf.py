@@ -66,7 +66,7 @@ DISPLAY_PAGES_ON_MENU = False
 
 MENUITEMS=[
     ('About','/pages/about-biocat.html'),
-    ('Users', ''),
+    ('Users', '/pages/users.html'),
     ('Science', '/science_highlights.html'),
     ('Contact', '')
 
