@@ -108,10 +108,11 @@ use, and complete time at BioCAT. Please also check the
 #.  Complete Training and Orientation
 
     Once you arrive, both the `APS <https://www.aps.anl.gov/Safety-and-Training/Training/For-Users-and-Employees/Required-Training-for-Users>`_
-    and BioCAT will require certain training and orientation sessions to be taken
-    before you may proceed with your experiment. These sessions will be determined by
-    the ESAF process. Some of these are avaliable on-line. Please visit our Safety &
-    Compliance webpage for further details.
+    and `BioCAT <{filename}/pages/users_safety.rst>`_ will require certain
+    training and orientation sessions to be taken before you may proceed with
+    your experiment. These sessions will be determined by the ESAF process.
+    Some of these are avaliable on-line. Please visit our `Safety and Compliance <{filename}/pages/users_safety.rst>`_
+    webpage for further details.
 
 #.  Observe Beam-Line Etiquette
 
