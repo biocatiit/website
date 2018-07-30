@@ -8,13 +8,7 @@
             under non-crystalline conditions similar to their functional states in
             living tissues.
 
-.. lead::   **Overview**  BioCAT is organized as a National Institutes of Health (NIH) Biotechnology Research
-                Resource and is funded by the National Institute of General Biomedical Sciences
-                (NIGMS).
-
-                .. button:: More
-                    :class: primary block
-                    :target: {filename}/pages/about_overview.rst
+.. lead::   **Overview**  BioCAT is organized as a National Institutes of Health (NIH) Biotechnology Research Resource and is funded by the National Institute of General Biomedical Sciences (NIGMS). Its primary research tool is a very high brightness X-ray beam-line with an on-site biochemical preparation laboratory.
 
 
 .. row::

@@ -44,7 +44,7 @@ LINKS = (('About Biocat', '#'),
 
 SOCIAL = ()
 
-DEFAULT_PAGINATION = False
+DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
@@ -58,8 +58,8 @@ USE_FOLDER_AS_CATEGORY = True
 THEME = "./themes/pelican-bootstrap3"
 BOOTSTRAP_THEME = 'sandstone'
 
-BANNER = './images/conf.jpg'
-BANNER_ALL_PAGES = True
+# BANNER = './images/conf.jpg'
+# BANNER_ALL_PAGES = False
 
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
