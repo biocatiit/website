@@ -22,29 +22,38 @@
                   <!-- Wrapper for slides -->
                   <div class="carousel-inner">
                     <div class="item active">
-                      <img src="/images/conf.jpg" alt="Science 1" style="width:100%">
+                      <img src="/images/conf.jpg" alt="Beamtime at BioCAT" style="width:100%">
                       <div class="carousel-caption">
-                        <h3>Science 1</h3>
-                        <p>Here goes something about science</p>
-                        <a href="http://google.com" class="btn btn-primary" role="button">Learn More</a>
+                        <h3>Get Beamtime</h3>
+                        <p>BioCAT is a national user facility funded by the NIH,
+                        and beamtime is free for experimenters. Beamtime is awarded
+                        through the APS GUP process, which considers feasiblity
+                        and scientific merit.</p>
+                        <a href="/pages/applying-for-time.html" class="btn btn-primary" role="button">Learn More</a>
                       </div>
                     </div>
 
                     <div class="item">
-                      <img src="/images/conf.jpg" alt="Science 2" style="width:100%">
+                      <img src="/images/2017_sosnick_highlight.jpg" alt="IDPs" style="width:100%">
                       <div class="carousel-caption">
-                        <h3>Science 2</h3>
-                        <p>Something else about science</p>
-                        <a href="http://google.com" class="btn btn-primary" role="button">Learn More</a>
+                        <h3>Proteins May Prevent Dysfunction and Disease by Relaxing</h3>
+                        <p>A new study suggests many proteins remain expanded in the cell,
+                        rather than contracting into tight folded shapes.</p>
+                        <a href="/science/proteins-prevent-disease-by-relaxing.html" class="btn btn-primary" role="button">Learn More</a>
                       </div>
                     </div>
 
                     <div class="item">
-                      <img src="/images/conf.jpg" alt="Science 3" style="width:100%">
+                      <img src="/images/scihi/2016_Starling.jpg" alt="Science 3" style="width:100%">
                       <div class="carousel-caption">
-                        <h3>Science 3</h3>
-                        <p>Yet more science</p>
-                        <a href="http://google.com" class="btn btn-primary" role="button">Learn More</a>
+                        <h3>Unearthing the Mechanism of the Frank-Starling Law</h3>
+                        <p>Recent X-ray diffraction experiments show that the protein
+                        titin is critically important for transmitting the stretch-induced
+                        signals within the heart’s muscles known to impact the strength with
+                        which the heart contracts. This work not only solves a piece of the
+                        mystery of how the frank-Starling law determines cardiac function, but
+                        provides an avenue for targeted development of drugs to treat heart failure.</p>
+                        <a href="/science/frank-starling-law.html" class="btn btn-primary" role="button">Learn More</a>
                       </div>
                     </div>
                   </div>
@@ -61,21 +70,6 @@
                 </div>
             </div>
         </div>
-
-.. lead::   The Biophysics Collaborative Access Team (BioCAT) is an X-ray facility
-            located at the `Advanced Photon Source (APS) <http://www.aps.anl.gov/>`_
-            at `Argonne National Laboratory (ANL) <http://www.anl.gov/>`_. It is
-            funded by the `National Institutes of Health (NIH) <http://www.nih.gov/>`_
-            to study the structure and dynamics of partially ordered biological systems.
-
-BioCAT is a member of `Illinois Institute of Technology <http://www.iit.edu/>`_'s
-(IIT) `Center for Synchrotron Radiation Research and Instrumentation (CSSRI)
-<http://www.csrri.iit.edu/>`_.
-
-
-
-
-
 
 
 .. row::
@@ -115,13 +109,16 @@ BioCAT is a member of `Illinois Institute of Technology <http://www.iit.edu/>`_'
 
                     .. caption::
 
-                        :h3:`The Chd1 Chromatin Remodeler Shifts Nucleosomal DNA Bidirectionally as a Monomer`
+                        :h4:`The Chd1 Chromatin Remodeler Shifts Nucleosomal DNA
+                        Bidirectionally as a Monomer`
 
-                        DNA in eukaryotic cells is normally found associated with prot4ens called histone in particles called nucleosomes linked by short segMents of DNA.
+                        A new study illuminates the method of of nucleosome sliding
+                        by chromatin remodlers. This is an essential part of processes
+                        like replication, transcription, and DNA repair.
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/2017_sosnick_highlight.rst
+                        :target: {filename}/chd1.rst
 
 
             .. -------------------------------------------------------------------------
@@ -135,13 +132,18 @@ BioCAT is a member of `Illinois Institute of Technology <http://www.iit.edu/>`_'
 
                     .. caption::
 
-                        :h3:`Perplexing cooperative folding and stability of a low-sequence complexity, polyproline 2 protein lacking a hydrophobic core`
+                        :h4:`Perplexing cooperative folding and stability of a
+                        low-sequence complexity, polyproline 2 protein lacking a
+                        hydrophobic core`
 
-                       The physical basis of proteinfolding stability and cooperativity remains a topic of great interest.
+                        By examining a protein lacking a hydrophobic core, a new study
+                        explores the origins of cooperativity and stability in protein
+                        folding, including the balance between solvent and polypeptide
+                        chain entropies.
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/pages/sosnick.rst
+                        :target: {filename}/sosnick.rst
 
 
     .. -------------------------------------------------------------------------
@@ -152,7 +154,7 @@ BioCAT is a member of `Illinois Institute of Technology <http://www.iit.edu/>`_'
 
         .. thumbnail::
 
-            .. image:: {filename}/images/conf.jpg
+            .. image:: {filename}/images/Audience2.jpg
                 :class: img-rounded
 
             .. caption::
@@ -163,7 +165,7 @@ BioCAT is a member of `Illinois Institute of Technology <http://www.iit.edu/>`_'
 
             .. button:: Learn More
                 :class: primary block
-                :target: {filename}/pages/muscle_wrapup.rst
+                :target: {filename}/news/musclex_wrapup.rst
 
         .. row::
 
@@ -174,20 +176,19 @@ BioCAT is a member of `Illinois Institute of Technology <http://www.iit.edu/>`_'
 
                 .. thumbnail::
 
-                    .. image:: {filename}/images/conf.jpg
+                    .. image:: {filename}/images/news/musclex.png
                         :class: img-rounded
 
                     .. caption::
 
-                        :h3:`MuscleX: Muscle X-ray Diffraction Workshop`
+                        :h4:`MuscleX Workshop`
 
-                        The first BioCAT MuscleX workshop will take place at the 6th Biennial Myofilament Conference in Madison Wi on 5/23/2018.
-
-                        
+                        The first BioCAT MuscleX workshop will take place at the
+                        6th Biennial Myofilament Conference in Madison Wi on 5/23/2018.
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/pages/musclex.rst
+                        :target: {filename}/news/musclex.rst
 
 
             .. -------------------------------------------------------------------------
@@ -202,7 +203,7 @@ BioCAT is a member of `Illinois Institute of Technology <http://www.iit.edu/>`_'
 
                     .. caption::
 
-                        :h3:`MuscleX Workshop at the Myofilament Conference`
+                        :h4:`MuscleX Workshop at the Myofilament Conference`
 
                         The first BioCAT MuscleX workshop will take place at the
                         6th Biennial Myofilament Conference in Madison Wi on 5/23/2018.
