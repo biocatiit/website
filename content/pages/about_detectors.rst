@@ -1,4 +1,4 @@
-:title: Detectors for Fiber Diffraction and Scattering
+:title: Detectors
 :category: about
 :slug: detectors
 

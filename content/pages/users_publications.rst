@@ -10,7 +10,7 @@ When you publish using data from BioCAT you need to:
 *   Use the proper acknowledgment of the APS and BioCAT
 *   Notify both the APS and BioCAT of such publications.
 
-Peer-reviewed publications are are the primary measure of scientific output.
+Peer-reviewed publications are the primary measure of scientific output.
 Properly documented publications insure that funds are avaliable to continue
 operating the BioCAT facility.
 

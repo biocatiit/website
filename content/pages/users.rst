@@ -23,6 +23,12 @@ information contained within is there to help you make it smoothly through
 the experiment process: from concept all the way through to data collection
 and analysis.
 
+After your successful experiments at BioCAT, it is important to `acknowledge
+the facility <{filename}/pages/users_publications.rst>`_ when you publish your
+results. Peer-reviewed publications are the primary measure of scientific
+output. Properly documented publications insure that funds are avaliable to
+continue operating the BioCAT facility.
+
 
 .. row::
 
