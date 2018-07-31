@@ -68,7 +68,8 @@ MENUITEMS=[
     ('About','/pages/about-biocat.html'),
     ('Users', '/pages/users.html'),
     ('Science', '/science_highlights.html'),
-    ('Contact', '/pages/contact.html')
+    ('Contact', '/pages/contact.html'),
+    ('Links', '/pages/links.html')
 
     ]
 
