@@ -29,4 +29,5 @@ Macromolecular Small-Angle Solution Scattering (SAXS)
 *   `How to design a time-resolved (TR) SAXS experiment <{filename}/pages/users_howto_trsaxs_design.rst>`_
 *   `How to prepare your sample for equilibrium SAXS <{filename}/pages/users_howto_saxs_prepare.rst>`_
 *   `How to collect SAXS data at the beamline <{filename}/pages/users_howto_saxs_collect.rst>`_
-*   How to analyze SAXS data at the beamline
+*   `How to analyze SAXS data at the beamline <{filename}/pages/users_howto_saxs_analyze.rst>`_
+*   `How to analyze MALS data at the beamline <{filename}/pages/users_howto_mals_analyze.rst>`_

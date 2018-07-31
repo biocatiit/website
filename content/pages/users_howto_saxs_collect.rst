@@ -20,7 +20,6 @@ Protein Preparation Methods
     quality check and future reference.
 
 
-
 SAXS Collection Method
 ========================
 
@@ -171,7 +170,6 @@ Collection Workflow
             back up to HPLC)
 
     *   Data from HPLC runs are saved in pre-determined folder (usually date followed by PI last name).
-
 
 
 Computer Workflow: SAXS
