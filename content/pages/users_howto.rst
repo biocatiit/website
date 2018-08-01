@@ -21,7 +21,6 @@ Small- and Wide-Angle Fiber-Diffraction (includes muscle diffraction)
 
 *   `How to design a fiber-diffraction experiment <{filename}/pages/users_howto_fiber_design.rst>`_
 
-
 Macromolecular Small-Angle Solution Scattering (SAXS)
 =======================================================
 
@@ -31,3 +30,8 @@ Macromolecular Small-Angle Solution Scattering (SAXS)
 *   `How to collect SAXS data at the beamline <{filename}/pages/users_howto_saxs_collect.rst>`_
 *   `How to analyze SAXS data at the beamline <{filename}/pages/users_howto_saxs_analyze.rst>`_
 *   `How to analyze MALS data at the beamline <{filename}/pages/users_howto_mals_analyze.rst>`_
+
+Microbeam Imaging
+===================
+
+*   `How to design and perform a Microprobe Experiment <{filename}/pages/users_howto_microprobe_design.rst>`_

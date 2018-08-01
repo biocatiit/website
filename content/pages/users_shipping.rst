@@ -58,13 +58,10 @@ reduction of staff and lack of deliveries at Argonne on the weekend.
 
 If you would like to ship materials to BioCAT, our shipping address is:
 
-    BioCAT - Argonne National Laboratory
-
-    APS/ Sector 18/ 435B
-
-    9700 S. Cass Avenue
-
-    Argonne, IL 60439-4860
+    | BioCAT - Argonne National Laboratory
+    | APS/ Sector 18/ 435B
+    | 9700 S. Cass Avenue
+    | Argonne, IL 60439-4860
 
 
 From BioCAT

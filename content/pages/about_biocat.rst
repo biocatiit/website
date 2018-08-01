@@ -3,12 +3,17 @@
 :slug: about-biocat
 
 
-.. lead::   **BioCAT's Mission:** To develop and operate state-of-the-art facilities at the Advanced Photon
-            Source for the study of the structure and dynamics of biological systems
-            under non-crystalline conditions similar to their functional states in
-            living tissues.
+.. lead::
 
-.. lead::   **Overview**  BioCAT is organized as a National Institutes of Health (NIH) Biotechnology Research Resource and is funded by the National Institute of General Biomedical Sciences (NIGMS). Its primary research tool is a very high brightness X-ray beam-line with an on-site biochemical preparation laboratory.
+    **BioCAT's Mission:** To develop and operate state-of-the-art facilities at the Advanced Photon
+    Source for the study of the structure and dynamics of biological systems
+    under non-crystalline conditions similar to their functional states in
+    living tissues.
+
+    **Overview:**  BioCAT is organized as a National Institutes of Health (NIH)
+    Biotechnology Research Resource and is funded by the National Institute of
+    General Biomedical Sciences (NIGMS). Its primary research tool is a very high
+    brightness X-ray beam-line with an on-site biochemical preparation laboratory.
 
 
 .. row::
@@ -68,7 +73,7 @@
 
             .. caption::
 
-                :h3:`Microdiffraction and XFM`
+                :h3:`Microbeam Imaging`
 
                 The BioCAT micro-Diffraction and X-ray Florescent Microscopy(XFM)
                 instruments are highly efficient tools for X-ray elemental mapping

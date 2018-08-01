@@ -13,9 +13,8 @@
 
         :h3:`Main Phone Numbers`
 
-        Office: 630-252-0549
-
-        Experiment Floor: 630-252-1818
+        | Office: 630-252-0549
+        | Experiment Floor: 630-252-1818
 
     .. -------------------------------------------------------------------------
     .. column::
@@ -23,13 +22,10 @@
 
         :h3:`Mailing Address`
 
-        BioCAT, Argonne National Laboratory
-
-        APS/ Sector 18/ 435B
-
-        9700 South Cass Ave.
-
-        Argonne, IL 60439-4860
+        | BioCAT, Argonne National Laboratory
+        | APS/ Sector 18/ 435B
+        | 9700 South Cass Ave.
+        | Argonne, IL 60439-4860
 
 
 .. row::

@@ -8,68 +8,77 @@
 .. class:: center
 
     .. raw:: html
-        <div class="container">
-            <div class="span12">
 
-                <div id="myCarousel" class="carousel slide" data-ride="carousel">
-                  <!-- Indicators -->
-                  <ol class="carousel-indicators">
-                    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                    <li data-target="#myCarousel" data-slide-to="1"></li>
-                    <li data-target="#myCarousel" data-slide-to="2"></li>
-                  </ol>
+        <div id="myCarousel" class="carousel slide" data-ride="carousel">
+          <!-- Indicators -->
+          <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+          </ol>
 
-                  <!-- Wrapper for slides -->
-                  <div class="carousel-inner">
-                    <div class="item active">
-                      <img src="/images/conf.jpg" alt="Beamtime at BioCAT" style="width:100%">
-                      <div class="carousel-caption">
-                        <h3>Get Beamtime</h3>
-                        <p>BioCAT is a national user facility funded by the NIH,
-                        and beamtime is free for experimenters. Beamtime is awarded
-                        through the APS GUP process, which considers feasiblity
-                        and scientific merit.</p>
-                        <a href="/pages/applying-for-time.html" class="btn btn-primary" role="button">Learn More</a>
-                      </div>
-                    </div>
-
-                    <div class="item">
-                      <img src="/images/2017_sosnick_highlight.jpg" alt="IDPs" style="width:100%">
-                      <div class="carousel-caption">
-                        <h3>Proteins May Prevent Dysfunction and Disease by Relaxing</h3>
-                        <p>A new study suggests many proteins remain expanded in the cell,
-                        rather than contracting into tight folded shapes.</p>
-                        <a href="/science/proteins-prevent-disease-by-relaxing.html" class="btn btn-primary" role="button">Learn More</a>
-                      </div>
-                    </div>
-
-                    <div class="item">
-                      <img src="/images/scihi/2016_Starling.jpg" alt="Science 3" style="width:100%">
-                      <div class="carousel-caption">
-                        <h3>Unearthing the Mechanism of the Frank-Starling Law</h3>
-                        <p>Recent X-ray diffraction experiments show that the protein
-                        titin is critically important for transmitting the stretch-induced
-                        signals within the heart’s muscles known to impact the strength with
-                        which the heart contracts. This work not only solves a piece of the
-                        mystery of how the frank-Starling law determines cardiac function, but
-                        provides an avenue for targeted development of drugs to treat heart failure.</p>
-                        <a href="/science/frank-starling-law.html" class="btn btn-primary" role="button">Learn More</a>
-                      </div>
-                    </div>
-                  </div>
-
-                  <!-- Left and right controls -->
-                  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-                    <span class="glyphicon glyphicon-chevron-left"></span>
-                    <span class="sr-only">Previous</span>
-                  </a>
-                  <a class="right carousel-control" href="#myCarousel" data-slide="next">
-                    <span class="glyphicon glyphicon-chevron-right"></span>
-                    <span class="sr-only">Next</span>
-                  </a>
-                </div>
+          <!-- Wrapper for slides -->
+          <div class="carousel-inner">
+            <div class="item active">
+              <img src="/images/carousel/conf.jpg" alt="Beamtime at BioCAT" style="width:100%">
+              <div class="carousel-caption">
+                <h3>Get Beamtime</h3>
+                <p>BioCAT is a national user facility funded by the NIH,
+                and beamtime is free for experimenters. Beamtime is awarded
+                through the APS GUP process, which considers feasiblity
+                and scientific merit.</p>
+                <a href="/pages/applying-for-time.html" class="btn btn-primary" role="button">Learn More</a>
+              </div>
+              <div class="carousel-caption2">
+                <h3>Get Beamtime</h3>
+                <a href="/pages/applying-for-time.html" class="btn btn-primary" role="button">Learn More</a>
+              </div>
             </div>
+
+            <div class="item">
+              <img src="/images/carousel/2017_sosnick_highlight.jpg" alt="IDPs" style="width:100%">
+              <div class="carousel-caption">
+                <h3>Proteins May Prevent Dysfunction and Disease by Relaxing</h3>
+                <p>A new study suggests many proteins remain expanded in the cell,
+                rather than contracting into tight folded shapes.</p>
+                <a href="/science/proteins-prevent-disease-by-relaxing.html" class="btn btn-primary" role="button">Learn More</a>
+              </div>
+              <div class="carousel-caption2">
+                <h3>Proteins May Prevent Dysfunction and Disease by Relaxing</h3>
+                <a href="/science/proteins-prevent-disease-by-relaxing.html" class="btn btn-primary" role="button">Learn More</a>
+              </div>
+            </div>
+
+            <div class="item">
+              <img src="/images/carousel/2016_Starling.jpg" alt="Science 3" style="width:100%">
+              <div class="carousel-caption">
+                <h3>Unearthing the Mechanism of the Frank-Starling Law</h3>
+                <p>Recent X-ray diffraction experiments show that the protein
+                titin is critically important for transmitting the stretch-induced
+                signals within the heart’s muscles known to impact the strength with
+                which the heart contracts. This work not only solves a piece of the
+                mystery of how the frank-Starling law determines cardiac function, but
+                provides an avenue for targeted development of drugs to treat heart failure.</p>
+                <a href="/science/frank-starling-law.html" class="btn btn-primary" role="button">Learn More</a>
+              </div>
+              <div class="carousel-caption2">
+                <h3>Unearthing the Mechanism of the Frank-Starling Law</h3>
+                <a href="/science/frank-starling-law.html" class="btn btn-primary" role="button">Learn More</a>
+              </div>
+            </div>
+          </div>
+
+          <!-- Left and right controls -->
+          <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left"></span>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="right carousel-control" href="#myCarousel" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right"></span>
+            <span class="sr-only">Next</span>
+          </a>
         </div>
+        <div style="margin-top:75px"></div>
 
 
 .. row::

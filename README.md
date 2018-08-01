@@ -71,6 +71,11 @@ of those changes. To stop the devserver run
 ./develop_server.sh stop
 ```
 
+## Notes about image formats
+
+Staff images should be cropped to a square (1:1 aspect ratio)
+Carousel images should be cropped to a 2:1 aspect ratio.
+
 ## Useful links
 
 * [Pelican documenation](http://docs.getpelican.com/en/stable/)
