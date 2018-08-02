@@ -6,7 +6,6 @@ The Push and Pull of Plant Viruses
 :category: science
 :slug: push-plant-viruses
 :authors: BioCAT
-:summary: New insights into the way a simple-seeming plant virus, the turnip crinkle virus (TCV), goes about replicating in infected cells have been obtained using solution nuclear magnetic resonance spectroscopy (NMR) and small/wide angle x-ray scattering (SAXS/WAXS) studies with a novel methodology at two APS x-ray beamlines. The findings build on earlier work but provide a clearer understanding of RNA genetics and can even explain the paradox of how RNA translation and protein synthesis operate in parallel even though they pull the machinery, the enzymes and ribosome, of the host cell in different directions. The work may have implications for coping with crop plant viral diseases.
 
 .. row::
 

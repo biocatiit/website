@@ -7,7 +7,6 @@ A Closer Look at Protein Breathing
 :category: science
 :slug: protein-breathing
 :authors: BioCAT
-:summary: To take a static view of proteins and regard them as simple strings of amino acids that do grunt work in cells would be a mistake. Decades of biomedical research have proven that proteins are often large, complex in structure, and, as is becoming increasingly apparent, undergo sophisticated changes in space and time in order to keep cells functioning properly. Some proteins, when in solution, exhibit dramatic fluctuations in their three-dimensional structures, movement that looks like breathing. Because this movement has usually been studied in relatively dilute solutions, and not in the crowded interior of a cell, it has been difficult to know how much of the motion would actually occur in living systems. Recognizing the need for a new approach to the problem, researchers used the APS to study the breathing motions of a diverse group of five animal proteins. Their results provide badly needed modeling of protein movement in solution and data that can be used widely in biomedical applications, such as therapeutic drug design.
 
 .. row::
 

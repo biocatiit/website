@@ -6,8 +6,6 @@ Mechanisms of a Molecular Trash Disposal
 :category: science
 :slug: molecular-trash
 :authors: BioCAT
-:summary: The ubiquitin proteasome system (UPS) is part of the waste management system of a cell. Proteins that are destined to have limited life spans in the cell are identified and sorted for destruction. This is accomplished by labeling the proteins with the molecule ubiquitin, which is present in all eukaryotes. Once tagged, the proteins are degraded by a complex machine known as the proteasome. The UPS is not just a molecular wood chipper; it performs its function with specificity that is provided by the class of ubiquitination enzymes called E3 ligases. The E3 ligases identify proteins to be degraded through domains called F-boxes, but the mechanism of enzymatic transfer of ubiquitin to the doomed protein is still not completely understood and may be facilitated by the dimerization of another domain, known as the D-domain. In studies carried out at the NE-CAT 8-BM-B, BioCars 14-BM-C, BioCAT 18-ID-D, and SBC-CAT 19-BM-D beamlines, all at the APS, researchers solved the structures of two of these D-domains: one from the yeast protein Cdc4 (2.5 Å) and another from human β-TrCP (2.4 Å). This work provides new insights into the mechanism of the E3 ligases by revealing that D-domain dimerization plays a role in positioning different substrates for ubiquitination.
-
 
 .. row::
 

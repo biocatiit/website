@@ -6,7 +6,6 @@ Deconstructing Heart Muscle
 :category: science
 :slug: deconstructing-heart-muscle
 :authors: BioCAT
-:summary: The stars of muscle contraction—be it the flex of a bicep or the throb of the heart—are microscopic fibers spun from the proteins actin and myosin. To play their parts properly, these proteins need help from an additional, less well-understood molecule known as myosin-binding protein-C. Thanks to data collected at Bio-CAT beamline 18-ID-D at the APS, researchers from the University of Wisconsin Medical School and the Illinois Institute of Technology have gleaned insights into this protein's contribution to a smoothly beating heart.
 
 
 .. row::

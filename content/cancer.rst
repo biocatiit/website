@@ -6,9 +6,6 @@ A "Copper Bullet" to Kill Cancer
 :category: science
 :slug: kill-cancer
 :authors: BioCAT
-:summary: A drug normally used to treat Alzheimer's disease may act as a “copper bullet,” killing tumor cells by coating itself in copper ions, according to research derived in part from studies at the APS. Researchers from Wayne State University, the Henry Ford Hospital, the Illinois Institute of Technology, and Shandong University using Bio-CAT beamline 18-ID-D at the APS found that the drug clioquinol, when mixed with copper (Fig. 1), killed two types of prostate cancer cell in Petri dishes. The drug without copper also slowed the growth of prostate tumors implanted in mice by up to two-thirds, apparently by soaking up copper ions (charged atoms) present in the implanted tumor cells.
-
-
 
 .. row::
 

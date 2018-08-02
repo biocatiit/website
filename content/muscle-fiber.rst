@@ -6,8 +6,6 @@ Muscle-Fiber Research Expands
 :category: science
 :slug: muscle-fiber-research
 :authors: BioCAT
-:summary: It has been known that muscle fibers shorten slowly under heavier loads and faster under lighter loads. Now, researchers from the Università degli Studi di Firenze, Università di Roma, Dexela Ltd., the Illinois institute of Technology, and King’s College London, using the Bio-CAT 18-IDD beamline at the APS have discovered the molecular basis of this fundamental property of muscle function. Their work was the cover article for the issue of Cell magazine in which it was published. Understanding exactly how muscle fibers work helps lay the groundwork for the development of new treatments for muscle disorders as well as enhancing the understanding of athletic performance.
-
 
 .. row::
 

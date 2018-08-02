@@ -6,7 +6,6 @@ Protein Assembly and Disease
 :category: science
 :slug: protein-assembly-disease
 :authors: BioCAT
-:summary: For some time now, proteins known as amyloids have been implicated in the onset and advance of Alzheimer’s and other diseases, such as type 2 diabetes. One of the curious aspects of linking these proteins to diseases is that it seems to be primarily unusual protein folding and assembly that leads to disease. This is especially so in the case of Alzheimer’s and cerebral amyloid angiopathy, where mutations such as the Iowa mutant are associated with familial inheritance and early onset of the disease. Patients carrying the mutation develop neuritic plaques and large deposits of the mutant protein in cerebral blood vessels. Exactly how the protein does so much damage has been the subject of intense recent research, including these fi ndings by researchers from The University of Chicago, the National Institutes of Health, and the Illinois Institute of Technology. With the help of the Bio-CAT 18-ID beamline at the APS, the team used x-ray diffraction, electron microscopy, and nuclear magnetic resonance (NMR) spectroscopy to show how the mutant and normal proteins differ with respect to folding and assembly. What the research group found goes a long way toward explaining how the mutant protein is able to create so much havoc in tissues and how -amyloids relate to disease. 
 
 .. row::
 

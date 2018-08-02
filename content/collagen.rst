@@ -1,4 +1,3 @@
-
 Non-enzymatic decomposition of collagen fibers by a biglycan antibody and a plausible mechanism for rheumatoid arthritis
 ########################################################################################################################
 

@@ -1,7 +1,7 @@
 The Correct Signals to Regulate Assembly in Bacteria
 ####################################################
 
-:date: 2006-01-01
+:date: 2006-03-03
 :tags: user highlight; science highlight
 :category: science
 :slug: signals-regulate-assembly
@@ -15,74 +15,125 @@ The Correct Signals to Regulate Assembly in Bacteria
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/2006-1.png
+            .. image:: {filename}/images/scihi/signaling.jpg
                 :class: img-responsive
-
-            .. caption::
-                
-                **Fig. 1.** . Reflection (shown in false
-                color) from an intact contracting
-                frog thigh muscle.
 
     .. -------------------------------------------------------------------------
     .. column::
         :width: 8
 
-        Any time we move our arms, billions of protein molecules work in unison to contract
-        one muscle while letting another muscle relax. The mechanical details of muscle contraction
-        have been known for a long time, deduced from experiments with frog legs,
-        reconstruction of the proteins involved in crystallographic studies, and many other
-        kinds of research. But no one has ever taken such detailed time-lapse molecular pictures of the
-        proteins at work within living muscle. Researchers from Brandeis University, the University of
-        Florence, and Illinois Institute of Technology investigated whether the muscle-contracting proteins
-        work the same way inside muscles as they do inside laboratories. But muscle cells are full of
-        water and the proteins don't line up quite as regularly as they would purified in crystals. So rather
-        than spend 30 to 40 hours collecting data with a typical x-ray tube, the researchers turned to the
-        Bio-CAT beamline 18-ID at the APS. With a million times more intensity than a “home source” xray
-        tube—and the ability to focus the x-ray beam into a narrow line—the team got a detailed view
-        of the proteins at work (Fig. 1). Not only did they measure the degree of movement of the proteins,
-        but they saw that the proteins synchronized themselves in living muscle much better than
-        anticipated.
+        You are what you eat” is just another way of saying that input determines output,
+        after some metabolic messing around in between. It’s the “in between” that interests
+        biologists, because that is where the difference between healthy and diseased cells can originate.
+        If the normal sequence of intermediate steps between the beginning and end of a biochemical
+        pathway is disrupted, the disruption can lead to major changes in cellular functioning. A better understanding of the
+        input-output relationships is critical to medical progress. The steps necessary for producing the right output can be
+        numerous and complex, and some pathways have taken decades to unravel. In one of the identified mechanisms,
+        called “two-component signal transduction,” the input causes a receiver domain to be phosphorylated, a step that governs
+        what happens to the output modules. By employing x-ray scattering and electron microscopy researchers from
+        Pennsylvania State University; the University of California, Berkeley; Lawrence Berkeley National Laboratory; The
+        University of Georgia; and the Illinois Institute of Technology using the BioCAT 18-ID beamline at the APS were able
+        to describe—in stunning detail—a novel two-component mechanism for assembling a protein associated with bacterial
+        transcription. Their work greatly advances our understanding of what happens in normal and, by inference, diseased
+        cells.
 
-        Although muscles look like a long single unit to the eye, they are actually made up of small
-        segments called sarcomeres, linked together along the length of a single cell. Every sarcomere
-        contracts at about the same time, shortening the overall length of the muscle. Proteins are the
-        workhorses behind the contraction. One row of proteins—known as actin—forms a kind of stiff
-        track along which other proteins—called myosin—attach. Myosin molecules have long handles
-        that wrap around each other to form a connected, rigid backbone. From this backbone rise lever
-        arms, which are topped by flexible heads that grab onto the actin track. As the lever arm swings
-        on its pivot, the heads pull the actin filaments, shortening the sarcomere.
+        .. thumbnail::
 
-        To view this activity in a living muscle, the team first stimulated the thigh muscle of a Rana
-        pipiens (commonly known as the Northern Leopard Frog) to make the muscle contract, and then
-        kept the muscle tense. They then released the muscle quickly and briefly—within a millisecond—
-        so that it shortened by about 1% of its length. At the same time, the extreme brilliance of APS xray
-        beams allowed the researchers to take “snapshots” of the proteins. From the scattering of xrays
-        by the actin and myosin, the team could reconstruct the positions of the different parts of the
-        proteins: the track, the heads, the handles and lever arms.
+                .. image:: {filename}/images/scihi/signaling1.png
+                    :class: img-responsive
 
-        The myosin heads start out almost perpendicular to the actin track: about 10º to 15º off, with
-        a group of myosin heads every 14 nm. Then, when the muscle shortens, the arms swing a full 60º
-        through the perpendicular axis, moving the heads a total distance of 10 nm.
+        Transcription is the process by which the cell’s
+        DNA is read to make RNA, which is in turn translated
+        into protein. The DNA-to-RNA transition is, naturally,
+        quite complex and intricately regulated, because the
+        cell can only function normally if DNA is translated to
+        protein at the exact right moment. RNA polymerases—those
+        enzymes responsible for creating
+        RNA from DNA—are many and varied. One RNA
+        polymerase will function normally only with the help of
+        enhancer-binding proteins, such as the nitrogen-regulatory
+        protein C of enteric bacteria (NtrC). NtrC is
+        believed to be involved in regulating transcription for
+        up to 2% of the genome, so determining its structure
+        is of great importance.
 
-        In addition, the more in-sync the myosin proteins moved with each other, the clearer the data
-        were that the team collected. The researchers expected the myosin heads to be at a variety of
-        angles. But the lever arms only differed by a few tens of degrees from each other. Because most
-        other data on actin and myosin have been collected from purified muscle proteins, this work
-        reveals a more accurate image of what's going on in active, intact muscles. 
+        The structures of the enhancer-binding proteins
+        like NtrC are quite complex—in addition to their
+        ATPase and DNA-binding domains, they have a regulatory
+        domain, which (in half the cases) has been
+        found to be a receiver domain for a two-component
+        signal transduction system. Until now, available structural
+        data on NtrC-like proteins, while suggestive of
+        how the “in between” steps could occur, did not provide
+        a complete model. The researchers in this study,
+        with the help of beamline 18-ID, used small- and wide-angle x-ray scattering (SAXS/WAXS) and electron
+        microscopy (EM) to develop structures for the
+        full-length NtrC from Salmonella typhimurium. These
+        new data not only provide a complete picture of how
+        the individual domains of the protein fit into the activated
+        enzyme, but they also reveal a new mechanism
+        for using two-component signal transduction in regulating
+        AAA+ ATPase domains. The group was also
+        able to identify additional structural features—the
+        ordering of the DNA binding domain and an outward
+        extension of a GAFTGA loop region—that could be
+        important in the hydrolysis-activation process and
+        may suggest avenues for further study. 
 
-        *— Mary Beckman*
+        .. thumbnail::
 
-        See: Hugh Huxley1*, Massimo Reconditi
-        2, Alex Stewart
-        1**, and Tom Irving3, "X-ray interference
-        studies of crossbridge action in muscle contraction: evidence from quick releases," J. Mol. Biol.
-        363, 743 (May 2006). DOI: 10.1016/j.jmb.2006.08.075
+                .. image:: {filename}/images/scihi/signaling2.png
+                    :class: img-responsive
 
-        Author affiliations: 1Brandeis University, 2University of Florence, 3Illinois Institute of Technology
+        The new mechanism discovered by the research
+        group involves juxtaposition of the receiver domains
+        and the ATPase ring. The beautiful structure of the
+        NtrC revealed by this study shows a central ATPase
+        domain, with six receiver domains packed tightly
+        around it (Fig. 1). Three dimers of DNA-binding
+        domains lie underneath the main ring—these
+        domains become flexible and are belived to detach
+        from the central ring when inorganic phosphate is
+        released. In addition, by using the NtrC structure and
+        previous biochemical data, the researchers were able
+        to postulate contact between the activated receiver
+        domain of one subunit and the ATPase domain of
+        another, thus explaining how the NtrC receiver
+        domains play a positive role in regulating assembly of
+        the ATPase domains into their functional ring form
+        (Fig. 2). This configuration of receiver and ATPase
+        domains differs markedly from previous models proposed
+        for how two-component signal transduction
+        “negatively” regulates assembly of AAA+ ATPase
+        rings in a related protein called NtrC1. By using the
+        new model, researchers can identify structural differences
+        underlying positive versus negative regulation
+        for this family of enhancer-binding proteins. The
+        structure also allows hypotheses about how specific
+        changes in NtrC amino acids and in order-disorder of
+        the GAFTGA loop and DNA-binding domains could
+        affect assembly, thereby suggesting explanations for
+        disease states, drug-design possibilities, and, in the
+        broad view, how input affects output. 
+        *— Mona Mort*
 
-        Correspondence: huxley@brandeis.edu; alex@brandeis.edu
+        See: S. De Carlo1, B. Chen3, T.R. Hoover4, E.
+        Kondrashkina5, E. Nogales1,2*, and B.T. Nixon3*, “The
+        Structural Basis for Regulated Assembly and
+        Function of the Transcriptional Activator NtrC,” Gene.
+        Dev. 20, 1485 (2006, cover story).
+        DOI: 10.1101/gad.1418306
 
-        Bio-CAT is a National Institutes of Health-supported Research Center RR- 08630. H.E.H. received support
-        during part of this work from NIH Grant no. AR43733. Use of the Advanced Photon Source was supported by
-        the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, under Contract No. W31-109-ENG-38.
+        Author Affiliations: 1University of California, Berkeley, 2Lawrence
+        Berkeley National Laboratory, 3The Pennsylvania State University,
+        4University of Georgia, 5Illinois Institute of Technology
+        Correspondence: *btn1@psu.edu for SAXS/WAXS, enogales@lbl.gov
+        for EM
+
+        This work was funded by a Genomes to Life grant from the U.S. Department of
+        Energy to E.N. and B.T.N. E.N. is a Howard Hughes Medical Institute Investigator.
+        BioCAT is a National Institutes of Health-supported Research Center grant (No.
+        RR-08630). Use of the Advanced Photon Source was supported by the U.S.
+        Department of Energy, Office of Science, Office of Basic Energy Sciences, under
+        Contract No. W-31-109-ENG-38.
+

@@ -18,9 +18,7 @@ Conformational states and recognition of amyloidogenic peptides of human Insulin
             .. image:: {filename}/images/scihi/2013_Peptides.jpg
                 :class: img-responsive
 
-            .. caption::
-
-                SAXS analysis of IDE. Pair distribution functions and scattering curves of WT IDE and IDE R767A (C and D), and IDE S132C/E817C (E and F). Curve fitting is based on atomic models using the program CRYSOL (single model) or OLIGOMER (mixture). D2/D3, D2/D3 pivot; D1/D4, D1/D4 pivot; C, closed state; M, monomer; D, dimer; T, tetramer. The diagrams and ratios shown below the scattering profiles represent the distribution of mixture that could best fit the SAXS data.
+        SAXS analysis of IDE. Pair distribution functions and scattering curves of WT IDE and IDE R767A (C and D), and IDE S132C/E817C (E and F). Curve fitting is based on atomic models using the program CRYSOL (single model) or OLIGOMER (mixture). D2/D3, D2/D3 pivot; D1/D4, D1/D4 pivot; C, closed state; M, monomer; D, dimer; T, tetramer. The diagrams and ratios shown below the scattering profiles represent the distribution of mixture that could best fit the SAXS data.
 
     .. -------------------------------------------------------------------------
     .. column::

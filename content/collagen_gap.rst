@@ -6,9 +6,6 @@ Filling the Gaps in Collagen Structure
 :category: science
 :slug: collageen-structure-filling
 :authors: BioCAT
-:summary: Collagens—we might take them for granted, but without them there would be no way to build tissues of the heart, skin, cornea, or bones. In much the same way that wood is used to frame a house and form a structure for the overlying construction materials, collagens are proteins used in the framing of mammalian tissues, but gaining an accurate picture of their three-dimensional structure in the body has proven more difficult. Knowing more about the structure of collagens could help biochemists improve their understanding of heart disease and cancer. Thanks to work by a research group based at the Illinois Institute of Technology and using the BioCAT 18-ID beamline at the APS, a complete structure for a collagen molecule—as it actually appears in the extracellular matrix (ECM)—is now available. This new knowledge of collagen structure provides important insights about several molecules involved in human disease.
-
-
 
 .. row::
 

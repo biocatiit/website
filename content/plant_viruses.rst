@@ -6,8 +6,6 @@ Revealing the Structural Secrets of Plant Viruses
 :category: science
 :slug: plant-viruses
 :authors: BioCAT
-:summary: Viruses are extremely successful at finding ways to circumvent just about every host defense system. The secrets to this success seem to lie in their simplicity—small genomes and a metabolism that relies in part on the biochemistry of the host— and in their elegant, often breathtakingly beautiful and highly functional structures. Viral architecture, especially the coat protein structure, is intricately intertwined with successful invasion and infection of the host. Yet for many viruses, and particularly for a very large group of plant viruses, details of their structures have remained elusive. But researchers using a high-brilliance x-ray beamline at the APS have obtained important details about the structures of a soybean and a potato virus. This is good news for crop scientists concerned with finding ways to combat viral infestations.
-
 
 .. row::
 

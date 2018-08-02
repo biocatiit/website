@@ -6,8 +6,6 @@ Getting to Know Cellulose
 :category: science
 :slug: cellulose-info
 :authors: BioCAT
-:summary: As humans continue to deplete the Earth’s supply of fossil fuels, finding new sources of energy becomes a priority. Biomass, such as cornhusks left after harvest, is one such alternative energy source. Before efficient use can be made of such materials, understanding how to break down cellulose—the fi ber in human nutrition and the main component of much biomass waste—is crucial. With the help of the NE-CAT and Bio-CAT beamlines at the APS and the SPring-8 (Japan) beamline BL38B1, an international research team from Los Alamos National Laboratory, the University of Tokyo, and the University of Grenoble has identifi ed important new features of cellulose structure. Their work provides important new details that could be used in designing more efficient treatments for cellulosic biomass. 
-
 
 .. row::
 
