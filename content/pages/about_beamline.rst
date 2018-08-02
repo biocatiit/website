@@ -60,7 +60,7 @@ to enter the experimental enclosure.
     :class: img-responsive
     :align: center
 
-The experimental enclosure is 14m long x 5m wide x 3.3m tall. The first
+The experimental enclosure is 14 m long x 5 m wide x 3.3 m tall. The first
 2 m are taken up by the vertical collimation slits and the downstream
 support, which incorporates filter/shutter assemblies, and an ion chamber
 for the primary beam (I0) monitor. Following the vertical collimation slits

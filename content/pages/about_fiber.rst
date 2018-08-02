@@ -88,7 +88,7 @@ instrument is that it gives us useful and simple setup for near small angle
 through to wide angle (1/160 Å\ :sup:`-1` to 1/2 Å\ :sup:`-1`) with a low background and high
 signal to noise ratio. Another advantage of this instrument is that it is more
 straightforward to change camera lengths from 250 mm to 1 m allowing for ranges
-of d spacing from 1/125 – 1/3.5 Å (shortest camera) and 1/500-1/13 Å
+of d spacing from 1/125 – 1/3.5 Å\ :sup:`-1` (shortest camera) and 1/500-1/13 Å\ :sup:`-1`
 (longest camera) at 12 keV. The delicate crystallinity of user samples coupled
 with the high intensity of the X-ray beam necessitates cryo capabilities. This is
 less straightforward then for crystallography beamlines due to the sample sizes
