@@ -86,14 +86,14 @@ HIDE_SIDEBAR = True
 
 # Tell Pelican to change the path to 'static/custom.css' in the output dir
 EXTRA_PATH_METADATA = {
-    'extra/custom.css': {'path': 'static/css/custom.css'},
+    'extra/custom.css': {'path': 'static/custom.css'},
     # 'extra/business_cards/*'  :   {'path':'pages/business_cards/'}
     # 'extra/custom.js': {'path': 'static/js/custom.js'}
 }
 
 ARTICLE_EXCLUDES = ['extra']
 
-CUSTOM_CSS = 'static/css/custom.css'
+CUSTOM_CSS = 'static/custom.css'
 
 # INDEX_SAVE_AS = 'articles/science_highlights.html'
 INDEX_SAVE_AS = 'science_highlights.html'

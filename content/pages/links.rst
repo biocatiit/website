@@ -22,8 +22,9 @@
 
         *   `Wiki <http://www.bio.aps.anl.gov/staffwiki/>`_
         *   `Useful links on the wiki <http://www.bio.aps.anl.gov/staffwiki/Links/>`_
+        *   `BioCAT github page <http://github.com/biocatiit>`_
         *   `Storage ring status <http://www3.aps.anl.gov/aod/blops/status/srStatus.html>`_
-        *   `APS Stockroom Catalog <https://beam.aps.anl.gov/pls/apsweb/st0006.start_page>`_
+        *   `APS Stockroom Catalog <http://beam.aps.anl.gov/pls/apsweb/st0006.start_page>`_
 
 
 .. row::
@@ -59,3 +60,11 @@
         *   `Mucal X-ray absorption cross section calculator <http://www.csrri.iit.edu/mucal.html>`_
         *   `MX <http://mx.iit.edu/>`_
         *   `EPICS <http://www.aps.anl.gov/epics/>`_
+
+    .. column::
+        :width: 6
+
+        :h3:`National Institutes of Health`
+
+        *   `National Institute of General Biomedical Sciences (NIGMS) <http://www.nigms.nih.gov/>`_
+        *   `Biomedical Technology Resources (BTRs) <http://www.btrportal.org>`_
