@@ -38,7 +38,6 @@
 
         Fiber and Muscle Diffraction:
 
-        *   Tom Irving
         *   Weikang Ma
 
         SAXS:

@@ -31,35 +31,34 @@
 The design features of the BioCAT beam-line 18 ID and the unique source properties
 of the APS allow collection of fiber diffraction patterns of exceptional quality
 from complex, weakly diffracting biological systems within very short exposure
-times. The small focal spots achievable with this instrument (~50 x 150 μm2)
+times. The small focal spots achievable with this instrument (~30 x 150 μm\ :sup:`2`)
 have allowed excellent discrimination of fine detail in fiber patterns from
 muscle, connective tissue, and filamentous viruses as well as detection of
 weak diffraction features in the presence of large backgrounds. The low
 divergence of the undulator source and the independent horizontal and vertical
 focusing of our optics simultaneously allows small beam spots at the sample
-and at the detector that can be varied over a wide range. These beam sizes
-are very well matched to the resolution of our high sensitivity CCD detectors.
-The high X-ray flux of this instrument (~2.0 x 1013 photons/s) permits dynamic
-experiments on these systems with a high time-resolution (sub-milli-second).
+and at the detector that can be varied over a wide range. The high X-ray flux
+of this instrument (~2.0 x 10\ :sup:`13` photons/s) permits dynamic experiments on
+these systems with a high time-resolution (sub-milli-second).
 
-The available sample-to-detector lengths range from 0.2 to 5.7 m to cover a
+The available sample-to-detector lengths range from 0.2 to 9 m to cover a
 very large range of reciprocal space and the CCD detector has very flexible
 binning and streak-camera modes for time-resolved experiments. We are
 currently developing micro-diffraction capabilities that will allow examination
-of ordered structures in regions as small as 5 x 5 μm2. Applications include,
+of ordered structures in regions as small as 1 x 5 μm\ :sup:`2`. Applications include,
 for example, finding small ordered regions in connective tissue for high
 resolution studies and mapping amyloid structures in brain tissues that may
 be associated with neurodegenerative disease.
 
 
-*   How to Design a Fiber Diffraction Experiment
+*   References
 
     *   Books:
 
         *   J. M. Squire, The Structural Basis of Muscle Diffraction, Plenum,
             New York, 1981. (out of print but in many libraries. Good introduction
             to principles of fiber diffraction)
-        *   B. K. Vainstein, X-ray Diffraction from Chain Molecules, Elsevier, 1966.
+        *   \B. K. Vainstein, X-ray Diffraction from Chain Molecules, Elsevier, 1966.
         *   C. Cantor and P. Schimmel, Biophysical Chemistry part II: Techniques
             for the study of Biological Structure and Function Chapter 14. Freeman, 1980.
 
@@ -75,44 +74,55 @@ be associated with neurodegenerative disease.
 Capabilities for X-ray Fiber Crystallography
 ===============================================
 
-We now have two mature, high-performance, instruments for fiber crystallography,
-one based on the KB mirror micro-focusing optics described above, and the other
-based on the collimated main beam. The useful d-space range from the micro-
-diffraction instrument is 1/200 – 1/3.4 Å-1 at 12 keV and 1/900-1/20 Å-1 at 8
-keV. Beam sizes and divergences for different focal positions are given in
-Table 3. The beam can be focused at the detector for maximum X-ray pattern
-data quality, the sample for maximum spatial resolution or somewhere in between
-when compromises are necessary. The second instrument focuses the main beam at a
-slit to give a well collimated 60 x 60 mm beam, which although is larger than
-with the micro-diffraction instrument, is still small enough to find the ordered
-domains in many samples. The advantage of this instrument is that it gives us
-useful and simple setup for near small angle through to wide angle (1/160 Å-1
-to 1/2 Å-1) with a low background and high signal to noise ratio. Another
-advantage of this instrument is that it is more straightforward to change
-camera lengths from 250 mm to 1m allowing for ranges of d spacing from 1/125
-– 1/3.5 Å-1 (shortest camera) and 1/500-1/13 Å  (longest camera) at 12 keV.
-The delicate crystallinity of user samples coupled with the high intensity
-of the X-ray beam necessitates cryo capabilities. This is less straightforward
-then for crystallography beamlines due to the sample sizes and nature (tissue
-dissections, preparations, sections). To maintain fibrous samples at liquid
-nitrogen temperature we have a custom cold nitrogen stream system made to our
-specifications (it lacks the warm shield gas layer used in conventional
-crystallography cryo-jets) by Cryo Industries of America. Leica CPC plunge-
-freezing station for sample cryo-freezing / manipulation before being placed
-in the cryo-jet stream.
+Fiber crystallography experiments use either the focussed main beam or the output
+of one of our two Compound Refractive Lenses (CRL's). The first of these has a
+focal length of 1.8 m and a spot size at the focus of 23 x 4 μm\ :sup:`2` with a flux
+of ~2 x 10\ :sup:`12` photons/s. The second CRL has a focal length of 50 cm with a focal
+spot of ~ 1 x 5 μm\ :sup:`2` containing ~2 x 10\ :sup:`11` photons/s. The beam focus can be
+located at the detector for maximum X-ray pattern data quality, the sample for
+maximum spatial resolution or somewhere in between when compromises are necessary.
+It also possible to focus the main beam at a slit to give a well collimated 60 x 60 mm\ :sup:`2`
+beam, which although is larger than with the micro-diffraction instrument, is still
+small enough to find the ordered domains in many samples. The advantage of this
+instrument is that it gives us useful and simple setup for near small angle
+through to wide angle (1/160 Å\ :sup:`-1` to 1/2 Å\ :sup:`-1`) with a low background and high
+signal to noise ratio. Another advantage of this instrument is that it is more
+straightforward to change camera lengths from 250 mm to 1 m allowing for ranges
+of d spacing from 1/125 – 1/3.5 Å (shortest camera) and 1/500-1/13 Å
+(longest camera) at 12 keV. The delicate crystallinity of user samples coupled
+with the high intensity of the X-ray beam necessitates cryo capabilities. This is
+less straightforward then for crystallography beamlines due to the sample sizes
+and nature (tissue dissections, preparations, sections). To maintain fibrous
+samples at liquid nitrogen temperature we have a custom cold nitrogen stream
+system made to our specifications (it lacks the warm shield gas layer used in
+conventional crystallography cryo-jets) by Cryo Industries of America. Leica
+CPC plunge-freezing station for sample cryo-freezing / manipulation before being
+placed in the cryo-jet stream.
 
 Instrumentation for muscle diffraction
 ================================================
 
-For online muscle mechanics and X-ray measurements we have a horizontal muscle
-mechanics rig equipped with a laser diffraction system including a linear CCD
-sarcomere length computer system (Dexela Inc., UK), motors (Aurora Scientific
-308B or Guth Scientific Instruments linear motor Si-MOTDB) and various force
-transducers for different force levels, and a high power muscle stimulator
-(Aurora Scientific 701B). For higher throughput measurements on transgenic
-mouse cardiac muscle samples, many users prefer to use small individual sample
-cells that allow length adjustment with sarcomere length being monitored by an
-offline video microscope and image analysis system (Aurora Scientific model 900B).
-For whole muscle studies we have an Aurora 300B muscle lever system custom modified
-for fast step response. Also available are fast shutters, capable of 0.5 ms exposures,
-storage oscilloscopes and a National Instruments based A/D, D/A system.
+For online muscle mechanics and X-ray measurements we have several horizontal
+muscle mechanics rigs that are optimized for either skinned or intact muscle
+preparations. Different chamber sizes can be custom fabricated using 3D
+printing to accommodate different sizes of muscles. One of these rigs is based
+on a design by Dr. Pieter De Tombe (University College London) and is equipped
+with a laser diffraction system including a linear CCD sarcomere length computer
+system (Dexela Inc., UK) for on line sarcomere length measurement allowing for
+feedback control in intact muscle preparations. Other rigs have simpler laser
+diffraction arrangements suitable for setting initial sarcomere length in skinned
+muscles. For these rigs we have several motors (Aurora Scientific 308B, 315C or
+Güth Scientific Instruments linear motor Si-MOTDB) and various force (Güth KG or
+Aurora 400 series) transducers for different force levels. For higher throughput
+measurements on transgenic mouse cardiac muscle samples, some users prefer to use
+small individual sample cells that allow length adjustment with sarcomere length
+being monitored by an offline video microscope and image analysis system (Aurora
+Scientific model 900B). For whole muscle studies we have 2 Aurora 300B muscle
+lever system custom modified for fast step response.  These are used in a vertical
+rig designed for whole rodent and frog leg muscles with electrical stimulation
+with a high power muscle stimulator (Aurora Scientific 701B). Also available are
+fast shutters, capable of 0.5 ms exposures, various storage oscilloscopes for
+measuring timing. For remote controlled solution exchange we have four Hamilton
+Microlab 500 series dual syringe pumps equipped with multiway valves. We also
+have one Aurora 600A (Linux based) and one Aurora 605 A (windows based) AD/DA
+data acquisition and control systems.
