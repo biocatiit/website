@@ -51,19 +51,15 @@ Explanation of terms:
     If ESH-120 will satisfy the requirement, this course can be taken through an ANL web-page.
     Otherwise, both courses are taught by ANL's Laser Safety Officer:
 
-    Bruce Murdoch
-
-    \(630) 252 4905
-
-    btmurdoch@anl.gov
+    | Bruce Murdoch
+    | (630) 252 4905
+    | btmurdoch@anl.gov
 
     and is scheduled through:
 
-    Sue Dornfeld
-
-    \(630) 252 6323
-
-    ssdornfeld@anl.gov
+    | Sue Dornfeld
+    | (630) 252 6323
+    | ssdornfeld@anl.gov
 
 *   The Standard Operating Procedure (SOP)
     The SOP becomes the official safety document for the specific laser being
@@ -111,11 +107,9 @@ Explanation of terms:
     The Eye Exam is required to document any existing damage. The medical
     record is kept on file here at ANL's Medical Department. Our liason there is:
 
-    Karen Souders
-
-    \(630) 252 2809
-
-    ksouders@anl.gov
+    | Karen Souders
+    | (630) 252 2809
+    | ksouders@anl.gov
 
     A copy of the Special Eye Examination Sheet must be provided to both the
     Medical Department and BioCAT.
@@ -138,17 +132,14 @@ Explanation of terms:
             an exam. The exam is conducted just off-site in LaGrange near LaGrange
             hospital:
 
-            Dr. Fick
-
-            Room 203, LaGrage Eye Associates
-
-            1323 Memorial Dr.
-
-            LaGrange, IL
-
-            \(708) 352 7422
+            | Dr. Fick
+            | Room 203, LaGrage Eye Associates
+            | 1323 Memorial Dr.
+            | LaGrange, IL
+            | (708) 352 7422
 
     *   Off-Site
+
         You may elect to have your exam taken off-site at a preferred medical
         center. The physician must fill out ANL's Special Eye Examination Sheet
         which may be requested from the ANL Medical Department.

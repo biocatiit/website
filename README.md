@@ -71,6 +71,12 @@ of those changes. To stop the devserver run
 ./develop_server.sh stop
 ```
 
+## Notes about image formats
+
+* Staff images should be cropped to a square (1:1 aspect ratio), 750x750 px
+* Carousel images and top of page images should be cropped to a 2:1 aspect ratio, 1200x600
+* Thumbnail images should be 750x500 px
+
 ## Useful links
 
 * [Pelican documenation](http://docs.getpelican.com/en/stable/)

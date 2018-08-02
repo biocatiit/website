@@ -68,7 +68,8 @@ MENUITEMS=[
     ('About','/pages/about-biocat.html'),
     ('Users', '/pages/users.html'),
     ('Science', '/science_highlights.html'),
-    ('Contact', '')
+    ('Contact', '/pages/contact.html'),
+    ('Links', '/pages/links.html')
 
     ]
 
@@ -85,10 +86,25 @@ HIDE_SIDEBAR = True
 
 # Tell Pelican to change the path to 'static/custom.css' in the output dir
 EXTRA_PATH_METADATA = {
-    'extra/custom.css': {'path': 'static/css/custom.css'},
+    'extra/custom.css': {'path': 'static/custom.css'},
+    # 'extra/business_cards/*'  :   {'path':'pages/business_cards/'}
     # 'extra/custom.js': {'path': 'static/js/custom.js'}
 }
 
-CUSTOM_CSS = 'static/css/custom.css'
+ARTICLE_EXCLUDES = ['extra']
 
+CUSTOM_CSS = 'static/custom.css'
+
+# INDEX_SAVE_AS = 'articles/science_highlights.html'
 INDEX_SAVE_AS = 'science_highlights.html'
+
+AUTHOR_SAVE_AS = ''
+TAG_SAVE_AS = ''
+TAGS_SAVE_AS = ''
+ARTICLE_URL = '{category}/{slug}.html'
+ARTICLE_SAVE_AS = '{category}/{slug}.html'
+ARCHIVES_SAVE_AS = ''
+
+GOOGLE_ANALYTICS = 'UA-104830878-3'
+
+GITHUB_URL = 'http://github.com/biocatiit/website'

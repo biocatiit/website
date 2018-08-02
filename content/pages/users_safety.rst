@@ -18,7 +18,7 @@ Before arriving at BioCAT, please look at the following links:
     An overview of the safety issues found at our sector. This document is the
     basis for the walking tour of our facility that you will take once you arrive.
 
-*   How to Transport Hazardous Materials
+*   `How to Transport Hazardous Materials <https://www.aps.anl.gov/Safety-and-Training/Safety/Using-Material-Samples/Transporting-Hazardous-Materials>`_
 
     What chemicals may and may not be brought on-site without special arrangments.
 
