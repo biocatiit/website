@@ -72,7 +72,7 @@ continue operating the BioCAT facility.
 
         .. thumbnail::
 
-            .. image:: {filename}/images/conf.jpg
+            .. image:: {filename}/images/safety.jpg
                 :class: img-rounded
 
             .. caption::
@@ -143,7 +143,7 @@ continue operating the BioCAT facility.
 
         .. thumbnail::
 
-            .. image:: {filename}/images/conf.jpg
+            .. image:: {filename}/images/computing.jpg
                 :class: img-rounded
 
             .. caption::

@@ -20,7 +20,7 @@
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
             <div class="item active">
-              <img src="/images/carousel/conf.jpg" alt="Beamtime at BioCAT" style="width:100%">
+              <img src="/images/carousel/happy_users.jpg" alt="Beamtime at BioCAT" style="width:100%">
               <div class="carousel-caption">
                 <h3>Get Beamtime</h3>
                 <p>BioCAT is a national user facility funded by the NIH,

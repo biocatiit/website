@@ -46,7 +46,7 @@
 
         .. thumbnail::
 
-            .. image:: {filename}/images/conf.jpg
+            .. image:: {filename}/images/fiber_diffraction.jpg
                 :class: img-rounded
 
             .. caption::
@@ -68,7 +68,7 @@
 
         .. thumbnail::
 
-            .. image:: {filename}/images/conf.jpg
+            .. image:: {filename}/images/microbeam.jpg
                 :class: img-rounded
 
             .. caption::
