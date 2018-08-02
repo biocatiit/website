@@ -1,4 +1,4 @@
-:save_as: index.html
+:save_as: publications.html
 :title: Publications
 
 **BioCAT Experimenters:**
