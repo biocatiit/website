@@ -19,7 +19,7 @@ Muscle-Fiber Research Expands
                 :class: img-responsive
 
             .. caption::
-                
+
                 **Fig. 1.** The upper panel (a) shows the M3 x-ray reflection from
                 an active single muscle fiber at constant length (L0) recorded
                 at APS. The reflection is split into two peaks of roughly equal
@@ -96,24 +96,12 @@ Muscle-Fiber Research Expands
         1, Marco
         Linari
         1, Leonardo Lucii
-        1, Pasquale Bianco1,2, Elisabetta
-        Brunello1,2, Valérie Decostre1, Alex Stewart
-        3, David B. Gore4,
-        Thomas C. Irving, Malcolm Irving5*, and Vincenzo
-        Lombardi
-        1,2, “Skeletal Muscle Performance Determined by
+        1, Pasquale Bianco, Elisabetta
+        Brunello, Valérie Decostre, Alex Stewart, David B. Gore,
+        Thomas C. Irving, Malcolm Irving, and Vincenzo
+        Lombardi, “Skeletal Muscle Performance Determined by
         Modulation,” Cell 131, 784 (November 16, 2007). DOI
         10.1016/j.cell.2007.09.045
-
-        Author affiliations: 1Laboratorio di Fisiologia, Dipartimento
-        di Biologia Animale e Genetica, Università degli Studi di
-        Firenze; 2CRS SOFT-INFM-CNR, Università di Roma ‘‘La
-        Sapienza’’; 3Dexela Ltd.; 4Bio-CAT/Illinois Institute of
-        Technology, Department of Biological, Chemical, & Physical
-        Sciences; 5Randall Division of Cell and Molecular
-        Biophysics, King’s College London
-
-        Correspondence: *malcolm.irving@kcl.ac.uk
 
         Use of the Advanced Photon Source was supported by the U.S.
         Department of Energy, Office of Science, Office of Basic Energy

@@ -19,7 +19,7 @@ The Molecular Mechanism of Stretch Activation in Insect Muscle
                 :class: img-responsive
 
             .. caption::
-                
+
                 X-ray pattern from contracting flight muscle. top: Match-mismatch of crossbridge origins with actin target zones. bottom: Thick filament twisting bring myosin crossbridges closer to actin binding sites ("target zones"). Pink = target zones; red = myosin heads. Intruder at bottom: Lethocerus indicus.
 
     .. -------------------------------------------------------------------------
@@ -40,11 +40,7 @@ The Molecular Mechanism of Stretch Activation in Insect Muscle
 
         The Reedy group has been collaborating with the Irving group for more than 18 years and this project has been a major motivator for many of the technical developments in fiber diffraction at the Bio-CAT facility. The present experiment, providing a solution to a long standing puzzle, has raised much excitement in the muscle biophysics community. Ken Holmes of Heidelberg University, who did the very first synchrotron diffraction experiment of any kind back in 1970, said recently that Reedy’s group has finally accomplished the same insect muscle experiment that Rosenbaum, Holmes, and Witz hoped to perform when they innovated use of synchrotron radiation for x-ray diffraction 40 years ago (Nature 230, 434 [1971]).
 
-        See: Robert J. Perz-Edwards1*, Thomas C. Irving2, Bruce A. J. Baumann3, David Gore2, Daniel C. Hutchinson1, Uroš Kržič5, Rebecca L. Porter1, Andrew B. Ward4, Michael K. Reedy1, “Turning muscles on: stretch triggers tropomyosin movement in insect flight muscles,” “X-ray diffraction evidence for myosin-troponin connections and tropomyosin movement during stretch activation of insect flight muscle,” Proce. Nat. Acad. Sci. USA, published online before print, December 9, 2010. DOI:10.1073/pnas.1014599107
-
-        Author affiliations: 1Duke University, 2Illinois Institute of Technology, 3Florida State University, 4The Scripps Research Institute, 5European Molecular Biology Laboratory
-
-        Correspondence: *rjpe@cellbio.duke.edu
+        See: Robert J. Perz-Edwards, Thomas C. Irving, Bruce A. J. Baumann, David Gore, Daniel C. Hutchinson, Uroš Kržič, Rebecca L. Porter, Andrew B. Ward, Michael K. Reedy, “Turning muscles on: stretch triggers tropomyosin movement in insect flight muscles,” “X-ray diffraction evidence for myosin-troponin connections and tropomyosin movement during stretch activation of insect flight muscle,” Proce. Nat. Acad. Sci. USA, published online before print, December 9, 2010. DOI:10.1073/pnas.1014599107
 
         This research was supported by National Institutes of Health grant AR-14317 (to MKR). Use of the Advanced Photon Source, an Office of Science User Facility operated for the U.S. Department of Energy (DOE) Office of Science by Argonne National Laboratory, was supported by the U.S. DOE under Contract No. DE-AC02-06CH11357. Bio-CAT is an NIH supported Research Center t RR-08630.
 

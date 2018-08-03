@@ -19,7 +19,7 @@ The Push and Pull of Plant Viruses
                 :class: img-responsive
 
             .. caption::
-                
+
                 **Fig. 1.** A new method (G2G, “Global measurements to Global structure”) has been developed for
                 structure determination of large RNAs in solution using residual dipolar coupling (RDC) from NMR
                 measurements, represented by the blue and red contour linked by black lines with residue labels;
@@ -141,27 +141,18 @@ The Push and Pull of Plant Viruses
 
         *— David Bradley*
 
-        See: Xiaobing Zuo1, Jinbu Wang1, Ping
-        Yu1, Dan Eyler2, Huan Xu1‡, Mary R.
-        Starich1, David M. Tiede3, Anne E.
-        Simon4, Wojciech Kasprzak1, Charles
-        D. Schwieters5, Bruce A. Shapiro1, and
-        Yun-Xing Wang1*, “Solution structure of
+        See: Xiaobing Zuo, Jinbu Wang, Ping
+        Yu, Dan Eyler, Huan Xu, Mary R.
+        Starich, David M. Tiede, Anne E.
+        Simon, Wojciech Kasprzak, Charles
+        D. Schwieters, Bruce A. Shapiro, and
+        Yun-Xing Wang, “Solution structure of
         the cap-independent translational
         enhancer and ribosome-binding element
         in the 30 UTR of turnip crinkle
         virus,” Proc. Nat. Acad. Sci. USA
         107(4), 1385 (January 26, 2010). DOI:
         10.1073/pnas.0908140107
-        Author affiliations: 1National Cancer
-        Institute at Frederick, 2Johns Hopkins
-        University, 3Argonne National
-        Laboratory, 4University of Maryland
-        College Park, 5National Institutes of
-        Health. ‡Present address: Fudan
-        University
-        Correspondence:
-        *wangyunx@mail.nih.gov.
 
         This research was supported (in part) by the
         Intramural Research Program of the

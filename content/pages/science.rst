@@ -18,4 +18,12 @@ around 40.
     </iframe>
 
 When you publish your science from BioCAT, please follow
-`the guidelines <{filename}/pages/users_publications>`_.
+`the guidelines <{filename}/pages/users_publications.rst>`_.
+
+
+Science Highlights
+===================
+
+.. lead::
+    BioCAT users and staff regularly produce excellent science that is `highlighted
+    on this website </category/science.html>`_.

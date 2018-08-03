@@ -19,7 +19,7 @@ At the Crossroads of Chromosomes
                 :class: img-responsive
 
             .. caption::
-                
+
                 Structure of the centromere histone complex containing two chains of CENP-A (red) and two copies of its close binding partner, histone H4 (blue). (Image: Ben E. Black, University of Pennsylvania School of Medicine)
 
     .. -------------------------------------------------------------------------
@@ -44,11 +44,9 @@ At the Crossroads of Chromosomes
 
         Besides being a major advance in the understanding of molecules driving human inheritance, this work also brings about the exciting prospect that the key epigenetic components are now in hand to engineer clinically useful artificial chromosomes that will be inherited alongside our own natural chromosomes— and with the same high fidelity, says Black.
 
-        See: Nikolina Sekulic, Emily A. Bassett, Danielle J. Rogers, and Ben E. Black*, “The structure of (CENP-A–H4)2 reveals physical features that mark centromeres,” Nature 467, 347 (16 September 2010). DOI:10.1038/nature09323
+        See: Nikolina Sekulic, Emily A. Bassett, Danielle J. Rogers, and Ben E. Black, “The structure of (CENP-A–H4)2 reveals physical features that mark centromeres,” Nature 467, 347 (16 September 2010). DOI:10.1038/nature09323
 
         Author affiliation: University of Pennsylvania School of Medicine
-
-        Correspondence: *blackbe@mail.med.upenn.edu
 
         This work was supported by the National Institutes of Health (NIH) research grant GM82989, a Career Award in the Biomedical Sciences from the Burroughs Wellcome Fund, and a Rita Allen Foundation Scholar Award to B.E.B. N.S. is supported by a postdoctoral fellowship from the American Cancer Society and E.A.B. has been supported by the Penn Structural Biology Training Grant (NIH GM08275) and a predoctoral fellowship from the American Heart Association.
 

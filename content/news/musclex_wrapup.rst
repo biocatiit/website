@@ -7,7 +7,10 @@ MuscleX: Muscle X-ray Diffraction Workshop Wrap-Up
 :authors: BioCAT
 
 .. image:: {filename}/images/Audience2.jpg
-                :class: img-reactive
+    :class: img-reactive
+    :target: {filename}/images/Audience2.jpg
+
+The MuscleX workshop was a great success with 63 registered attendees!
 
 .. row::
 
@@ -20,17 +23,17 @@ MuscleX: Muscle X-ray Diffraction Workshop Wrap-Up
         Madison, Wisconsin 5/23/2018
 
 
-        **1:00 PM** BioCAT Update and Overview - Tom Irving (BioCAT)
+        **1:00 PM** `BioCAT Update and Overview - Tom Irving (BioCAT) <{filename}/files/MyofilamentWorkshopIntro_Irving.pdf>`_
 
-        **1:30 PM** New opportunities with intact and skinned skeletal muscle - Weikang Ma (BioCAT)
+        **1:30 PM** `New opportunities with intact and skinned skeletal muscle - Weikang Ma (BioCAT) <{filename}/files/MyofilamentWorkshop_Weikang.pdf>`_
 
-        **2:00 PM** Best Practices for X-ray Diffraction Experiments with Cardiac Muscle - Vickie Yuan (U Washington)
+        **2:00 PM** `Best Practices for X-ray Diffraction Experiments with Cardiac Muscle - Vickie Yuan (U Washington) <{filename}/files/MyofilamentWorkshopSamplePrep_Vicky.pdf>`_
 
         **2:30 PM** Multiscale modeling, X-ray patterns, and estimation of forces on myofilaments in intact muscle - Srba Mijailovich (IIT)
 
         **3:00 PM** Break
 
-        **3:20 PM** New opportunities for SAXS and muscle proteins - Jesse Hopkins (BioCAT)
+        **3:20 PM** `New opportunities for SAXS and muscle proteins - Jesse Hopkins (BioCAT) <{filename}/files/MyofilamentWorkshopSAXS_Jesse.pdf>`_
 
         **3:40 PM** MuscleX: New tools for analysis of X-ray diffraction patterns - Weikang Ma (BioCAT)
 
@@ -51,7 +54,8 @@ MuscleX: Muscle X-ray Diffraction Workshop Wrap-Up
         .. thumbnail::
 
             .. image:: {filename}/images/MuscleXspeakers.JPG
-                :class: img-rounded
+                :class: img-rounded, img-reactive
+                :target: {filename}/images/MuscleXspeakers.JPG
 
     .. -------------------------------------------------------------------------
     .. column::
@@ -60,7 +64,8 @@ MuscleX: Muscle X-ray Diffraction Workshop Wrap-Up
         .. thumbnail::
 
             .. image:: {filename}/images/MassimoiReeconditi.JPG
-                :class: img-rounded
+                :class: img-rounded, img-reactive
+                :target: {filename}/images/MassimoiReeconditi.JPG
 
 .. row::
 
@@ -71,7 +76,8 @@ MuscleX: Muscle X-ray Diffraction Workshop Wrap-Up
         .. thumbnail::
 
             .. image:: {filename}/images/JesseHopkins.JPG
-                :class: img-rounded
+                :class: img-rounded, img-reactive
+                :target: {filename}/images/JesseHopkins.JPG
 
     .. -------------------------------------------------------------------------
     .. column::
@@ -80,7 +86,8 @@ MuscleX: Muscle X-ray Diffraction Workshop Wrap-Up
         .. thumbnail::
 
             .. image:: {filename}/images/VickyYuan.JPG
-                :class: img-rounded
+                :class: img-rounded, img-reactive
+                :target: {filename}/images/VickyYuan.JPG
 
 .. row::
 
@@ -91,4 +98,5 @@ MuscleX: Muscle X-ray Diffraction Workshop Wrap-Up
         .. thumbnail::
 
             .. image:: {filename}/images/WeikangMa.JPG
-                :class: img-rounded
+                :class: img-rounded, img-reactive
+                :target: {filename}/images/WeikangMa.JPG

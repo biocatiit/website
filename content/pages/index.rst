@@ -87,11 +87,13 @@
     .. column::
         :width: 6
 
-        :h1:`Science Highlights`
+        .. raw:: html
+
+            <p><h1><a href="/category/science.html" >Science&nbsp;Highlights</a></h1></p>
 
         .. thumbnail::
 
-            .. image:: {filename}/images/2017_sosnick_highlight.jpg
+            .. image:: {filename}/images/scihi/2017_sosnick_highlight.jpg
                 :class: img-rounded
 
             .. caption::
@@ -103,7 +105,7 @@
 
             .. button:: Learn More
                 :class: primary block
-                :target: {filename}/2017_sosnick_highlight.rst
+                :target: {filename}/scihi/2017_sosnick_highlight.rst
         .. row::
 
             .. -------------------------------------------------------------------------
@@ -127,7 +129,7 @@
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/chd1.rst
+                        :target: {filename}/scihi/2017_chd1.rst
 
 
             .. -------------------------------------------------------------------------
@@ -152,14 +154,16 @@
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/sosnick.rst
+                        :target: {filename}/scihi/2017_sosnick.rst
 
 
     .. -------------------------------------------------------------------------
     .. column::
         :width: 6
 
-        :h1:`News`
+        .. raw:: html
+
+            <p><h1><a href="/category/news.html" >News</a></h1></p>
 
         .. thumbnail::
 

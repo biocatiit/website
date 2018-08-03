@@ -20,29 +20,11 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 PLUGIN_PATHS = ['./plugins']
-PLUGINS = ['bootstrap-rst', 'i18n_subsites', 'render_math']
-# PLUGINS = ['bootstrap-rst2', 'i18n_subsites', 'render_math']
-
+PLUGINS = ['bootstrap-rst', 'i18n_subsites', 'render_math',]
 
 JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n'],
 }
-
-# # Blogroll
-LINKS = (('About Biocat', '#'),
-         ('Science Highlights', '#'),
-         ('Contact Us', '#'),
-         ('Apply for beamtime', '#'),
-         ('Prepare for your beamtime', '#'),
-         ('APS', '#'),)
-
-# LINKS = ()
-
-# Social widget
-# SOCIAL = (('You can add links in your config file', '#'),
-#           ('Another social link', '#'),)
-
-SOCIAL = ()
 
 DEFAULT_PAGINATION = 10
 
@@ -67,19 +49,17 @@ DISPLAY_PAGES_ON_MENU = False
 MENUITEMS=[
     ('About','/pages/about-biocat.html'),
     ('Users', '/pages/users.html'),
-    ('Science', '/publications.html'),
+    ('Science', '/pages/biocat-science.html'),
     ('Contact', '/pages/contact.html'),
     ('Links', '/pages/links.html')
 
     ]
 
-STATIC_PATHS = ['images', 'extra']
+STATIC_PATHS = ['images', 'extra', 'files']
 
 DELETE_OUTPUT_DIRECTORY = True
 
 TYPOGRIFY = True
-
-PHOTO_LIBRARY = "./content/carousel"
 
 HIDE_SIDEBAR = True
 

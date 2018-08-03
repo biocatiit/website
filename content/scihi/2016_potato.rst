@@ -1,7 +1,7 @@
 Unique Bacterial Chemist in the War on Potatoes
 ###############################################
 
-:date: 2017-02-02
+:date: 2016-02-02
 :tags: user highlight; science highlight
 :category: science
 :slug: bacterial-chemist-potato
@@ -43,7 +43,7 @@ Unique Bacterial Chemist in the War on Potatoes
 
         Still, understanding how 5-NAA is broken down could prove useful to agriculture. “The
         5NAA molecule is similar enough to thaxtomin that studying its degradation might
-        inspire future work to engineer an enzyme or bacterium, or even the plant itself, to 
+        inspire future work to engineer an enzyme or bacterium, or even the plant itself, to
         detoxify thaxtomin,” said senior researcher Raquel Lieberman, an associate professor
         at Georgia Tech.
 
@@ -145,25 +145,12 @@ Unique Bacterial Chemist in the War on Potatoes
         zero,” he said. “It’s indescribable. It’s momentous, magnificent and impactful. I’ll never
         be able to measure the impact.”
 
-        See: Sibel Kalyoncu1
-        , David P. Heaner, Jr.
-        1
-        , Zohre Kurt1
-        , Casey M. Bethel1
-        , Chiamaka
-        U. Ukachukwu1
-        , Srinivas Chakravarthy2
-        , Jim C. Spain1,3
-        , and Raquel L. Lieberman1
-        *,
+        See: Sibel Kalyoncu, David P. Heaner, Jr., Zohre Kurt, Casey M. Bethel,
+        Chiamaka U. Ukachukwu, Srinivas Chakravarthy, Jim C. Spain, and Raquel L. Lieberman,
         “Enzymatic hydrolysis by transition-metal-dependent nucleophilic aromatic substitution,”
         Nat. Chem. Biol., Advance Online Publication (03 October 2016).
         DOI: 10.1038/nchembio.2191
 
-        Author affiliations: 1Georgia Institute of Technology, 2Biophysics Collaborative Access
-        Team, 3University of West Florida
-
-        Correspondence: *Raquel.lieberman@chemistry.gatech.edu
 
         This work was funded in part by a Pew Scholar and National Science Foundation
         CAREER award (0845445) to R.L.L., a Georgia Tech Molecular Biophysics Training

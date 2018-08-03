@@ -7,14 +7,14 @@ Proteins May Prevent Dysfunction and Disease by Relaxing
 :slug: proteins-prevent-disease-by-relaxing
 :authors: BioCAT
 
-.. image:: {filename}/images/2017_sosnick_highlight.jpg
+.. image:: {filename}/images/scihi/2017_sosnick_highlight.jpg
     :class: img-responsive
 
 Determining how proteins function on a molecular level is crucial to understanding the
 underlying basis for disease. Now scientists using the U.S. Department of Energy’s Advanced
 Photon Source (APS) at Argonne National Laboratory are one step closer to unraveling the
 mystery of how intrinsically disordered proteins work, according to new research published in
-:Science:. The team used simulations and high-brightness x-rays to tackle the question. Their
+*Science*. The team used simulations and high-brightness x-rays to tackle the question. Their
 results conclude that these proteins remain unfolded and expanded as they float loose in the
 cytoplasm of a cell.
 
@@ -40,7 +40,7 @@ behavior.
 one rigid structure, but a significant fraction of all proteins are too flexible to be studied using
 these methods. Even worse, results from two of the most commonly used methods to study
 IDPs disagree with each other," said Patricia Clark, a biophysicist at Notre Dame and co-author
-of the study published in :Science:. "So we developed a novel analysis procedure to help resolve
+of the study published in *Science*. "So we developed a novel analysis procedure to help resolve
 this."
 
 Clark worked with Tobin Sosnick, a professor at the University of Chicago, to develop a new
@@ -49,7 +49,7 @@ disordered than previously thought. SAXS is one of the two ways researchers extr
 dimensions of IDPs. In SAXS, proteins are placed in the path of an x-ray beam, scattering the xrays
 in patterns that contain information on the protein’s size and shape.
 
-"What we need to determine is how „sticky‟ they are," said co-author Sosnick. "For survival, you
+"What we need to determine is how "sticky" they are," said co-author Sosnick. "For survival, you
 want a protein to "stick" only in the right conformation, and with the right other pieces or
 partners at the right times." This stickiness is determined by the protein‟s chemistry and physics.
 Clark and Sosnick’s new approach analyzes a broader range of the x-ray scattering pattern than
@@ -75,13 +75,13 @@ to interact incorrectly with itself or other proteins, Clark said. The advanceme
 work will enable detailed study of folding and misfolding mechanisms. They also will assist with
 development of new strategies to prevent protein misfolding diseases.
 
-"The results are very clear, but contradict the current consensus," Sosnick said. "It‟s possible that
+"The results are very clear, but contradict the current consensus," Sosnick said. "It's possible that
 proteins can avoid unwanted interactions by being expanded." This reduces the chances of them
 sticking to other proteins by accident, causing dysfunction or disease.
 "While this work is a fundamental, basic research demonstration of protein behavior, the
 implications are really broad," Clark said.
 
 See: Joshua A. Riback, Micayla A. Bowman, Adam M. Zmyslowski, Catherine R. Knoverek,
-John M. Jumper, James R. Hinshaw, Emily B. Kaye, Karl F. Freed, Patricia L. Clark2,
+John M. Jumper, James R. Hinshaw, Emily B. Kaye, Karl F. Freed, Patricia L. Clark,
 and TobinR. Sosnick, "Innovative scattering analysis shows that hydrophobic disordered proteins are
 expanded in water," Science 358, 238 (2017). DOI: 10.1126/science.aan5774

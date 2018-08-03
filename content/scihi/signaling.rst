@@ -78,7 +78,7 @@ The Correct Signals to Regulate Assembly in Bacteria
         ordering of the DNA binding domain and an outward
         extension of a GAFTGA loop region—that could be
         important in the hydrolysis-activation process and
-        may suggest avenues for further study. 
+        may suggest avenues for further study.
 
         .. thumbnail::
 
@@ -114,21 +114,16 @@ The Correct Signals to Regulate Assembly in Bacteria
         the GAFTGA loop and DNA-binding domains could
         affect assembly, thereby suggesting explanations for
         disease states, drug-design possibilities, and, in the
-        broad view, how input affects output. 
+        broad view, how input affects output.
         *— Mona Mort*
 
-        See: S. De Carlo1, B. Chen3, T.R. Hoover4, E.
-        Kondrashkina5, E. Nogales1,2*, and B.T. Nixon3*, “The
+        See: S. De Carlo, B. Chen, T.R. Hoover, E.
+        Kondrashkina5, E. Nogales, and B.T. Nixon, “The
         Structural Basis for Regulated Assembly and
         Function of the Transcriptional Activator NtrC,” Gene.
         Dev. 20, 1485 (2006, cover story).
         DOI: 10.1101/gad.1418306
 
-        Author Affiliations: 1University of California, Berkeley, 2Lawrence
-        Berkeley National Laboratory, 3The Pennsylvania State University,
-        4University of Georgia, 5Illinois Institute of Technology
-        Correspondence: *btn1@psu.edu for SAXS/WAXS, enogales@lbl.gov
-        for EM
 
         This work was funded by a Genomes to Life grant from the U.S. Department of
         Energy to E.N. and B.T.N. E.N. is a Howard Hughes Medical Institute Investigator.

@@ -19,7 +19,7 @@ Filling the Gaps in Collagen Structure
                 :class: img-responsive
 
             .. caption::
-                
+
                 **Fig. 1.** . . (A) Cross-section of multiple unit cells of the crystalline lattice.
                 (B) Overlap region of the 1-D repeat, with the triple helical
                 backbone of the pre-refined model (red). (C) Same as B, except
@@ -28,7 +28,7 @@ Filling the Gaps in Collagen Structure
                 microfibril twist. (E) Same as D, except three microfibrillar structures
                 are shown, packed together to reveal the interdigitation.
 
-            .. image:: {filename}/image/scihi/collage-graph.png
+            .. image:: {filename}/images/scihi/collagen-graph.png
                 :class: img-responsive
 
             .. caption::
@@ -95,7 +95,7 @@ Filling the Gaps in Collagen Structure
         matrix molecules. These data will fill in several gaps for
         researchers studying the biology of the extracellular matrix and
         related tissue disease, where framing is all-important in enduring
-        stability. 
+        stability.
         *— Mona Mort*
 
         See: J.P.R.O. Orgel

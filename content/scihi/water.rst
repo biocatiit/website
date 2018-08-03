@@ -58,9 +58,9 @@ How Water Molecules are Connected
         form two hydrogen bonds with their neighbors. In this
         case, liquid water appears to consist of structures made of
         chains and rings, which are, in turn, weakly hydrogen-bonded
-        to other chains and rings. 
+        to other chains and rings.
 
-         controversial because many computer simulations over the
+        controversial because many computer simulations over the
         last 10 years tell a very different story. Because computer
         power has increased rapidly and experimental techniques have
         been more difficult to develop, the simulations have outpaced
