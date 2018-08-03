@@ -8,7 +8,8 @@
 When you publish using data from BioCAT you need to:
 
 *   Use the proper acknowledgment of the APS and BioCAT
-*   Notify both the APS and BioCAT of such publications.
+*   Notify both the `APS <https://www.aps.anl.gov/Science/Publications>`_
+    and `BioCAT <{filename}/pages/contact.rst>`_ of such publications.
 
 Peer-reviewed publications are the primary measure of scientific output.
 Properly documented publications insure that funds are avaliable to continue
