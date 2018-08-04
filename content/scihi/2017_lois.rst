@@ -9,7 +9,7 @@ Asymmetric unwrapping of nucleosomal DNA propagates asymmetric opening and disso
 
 
 .. image:: {filename}/images/scihi/2017_Lois.jpg
-	:class: img-responsive
+    :class: img-responsive
 
 
 Nucleosomes are protein–DNA structures which eukaryotic organisms use to package

@@ -1,0 +1,84 @@
+X-ray Florescence Imaging: A New Tool for Studying Manganese Neurotoxicity
+##########################################################################
+
+:date: 2013-12-12
+:tags: user highlight; science highlight
+:category: science
+:slug: manganese-neurotoxicity
+:authors: BioCAT
+
+.. row::
+
+    .. -------------------------------------------------------------------------
+    .. column::
+        :width: 4
+
+        .. thumbnail::
+
+            .. image:: {filename}/images/scihi/2013_Xray.jpg
+                :class: img-responsive
+
+            .. caption::
+
+                Mn and Fe distributions in the choroid plexus. XRF images of
+                the Fe (A) and Mn (B) distributions in the choroid plexus (CP)
+                within the lateral ventricle (lv) as identified by increased
+                Fe signal. Images are Bregma −0.48 mm coronal sections of
+                untreated rats (top) and Mn treated (bottom). Yellow dashed
+                lines indicate the boundary between the ventricle and the
+                labeled structures (CPu and HPC, hippocampal formation). The
+                Fe signal shows the presence of CP (containing blood) within
+                the ventricle. Mn concentration in the ventricle is lower
+                than in adjacent brain structures of the CPu and HPC indicating
+                clearance of Mn from the CP. All values given are in µg/g. Scale
+                bar represents a length of 2 mm.
+
+    .. -------------------------------------------------------------------------
+    .. column::
+        :width: 8
+
+        Manganese (Mn) is an essential element required in trace amounts for
+        proper body function. However, despite its vital role in enzymatic
+        reactions, excessive Mn exposure leads to a condition known as manganism
+        or Mn induced parkinsonism. Clinical signs and symptoms of manganism
+        closely resemble those of Parkinson's disease (PD) and both diseases
+        are pathologically associated with damage to the basal ganglia. While
+        this condition was first diagnosed about 170 years ago, the mechanism
+        of the neurotoxic action of Mn remains unknown. Moreover, the possibility
+        that Mn exposure combined with other genetic and environmental factors
+        can contribute to the development of Parkinson's disease has been
+        discussed in the literature and several epidemiological studies have
+        demonstrated a correlation between Mn exposure and an elevated risk of
+        Parkinson's disease. Here, we introduce X-ray fluorescence imaging as
+        a new quantitative tool for analysis of the Mn distribution in the brain
+        with high spatial resolution. The animal model employed mimics deficits
+        observed in affected human subjects. The obtained maps of Mn distribution
+        in the brain demonstrate the highest Mn content in the globus pallidus,
+        the thalamus, and the substantia nigra pars compacta. To test the
+        hypothesis that Mn transport into/distribution within brain cells
+        mimics that of other biologically relevant metal ions, such as iron,
+        copper, or zinc, their distributions were compared. It was demonstrated
+        that the Mn distribution does not follow the distributions of any of
+        these metals in the brain. The majority of Mn in the brain was shown
+        to occur in the mobile state, confirming the relevance of the chelation
+        therapy currently used to treat Mn intoxication. In cells with
+        accumulated Mn, it can cause neurotoxic action by affecting the
+        mitochondrial respiratory chain. This can result in increased
+        susceptibility of the neurons of the globus pallidus, thalamus, and
+        substantia nigra pars compacta to various environmental or genetic
+        insults. The obtained data is the first demonstration of Mn
+        accumulation in the substantia nigra pars compacta, and thus, can
+        represent a link between Mn exposure and its potential effects for
+        development of Parkinson's disease.
+
+        Citation: Gregory Robison, Taisiya Zakharova, Sherleen Fu, Wendy
+        Jiang, Rachael Fulper, Raul Barrea, Matthew A. Marcus, Wei Zheng,
+        and Yulia Pushkar (2012) X-Ray Fluorescence Imaging: A New Tool for
+        Studying Manganese Neurotoxicity. PLoS ONE 7(11): e48899.
+        doi:10.1371/journal.pone.0048899 PMCID:PMC3501493
+
+        The Pushkar collaboration is one of the success stories of our XFM
+        developments leading to two publications in 2012. A relative latecomer
+        to our facility she is making excellent use of our existing scanning
+        diffraction imaging capabilities in combination with XFM. She provides
+        a Driving Biomedical Project for our planned future developments.

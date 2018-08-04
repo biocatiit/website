@@ -9,16 +9,16 @@ Unearthing the Mechanism of the Frank-Starling Law, A Central Regulator of Heart
 
 
 .. image:: {filename}/images/scihi/2016_Starling.jpg
-	:class: img-responsive
+    :class: img-responsive
 
 .. caption::
 
-	**Fig. 1.** A typical two-dimensional x-ray diffraction pattern of heart
-	muscle, obtained at the Biophysics Collaborative Access Team (BioCAT) beamline
-	at the APS. meridional reflections (horizontal, yellow) arise from thin
-	and thick filament proteins. Stretching of these fibers can change the
-	spacing and/or intensity of these reflection, allowing researchers to
-	observe changes within the heat’s muscle on a nanometer scale.
+    **Fig. 1.** A typical two-dimensional x-ray diffraction pattern of heart
+    muscle, obtained at the Biophysics Collaborative Access Team (BioCAT) beamline
+    at the APS. meridional reflections (horizontal, yellow) arise from thin
+    and thick filament proteins. Stretching of these fibers can change the
+    spacing and/or intensity of these reflection, allowing researchers to
+    observe changes within the heat’s muscle on a nanometer scale.
 
 
 The Frank-Starling law of the heart is a basic physiological principle

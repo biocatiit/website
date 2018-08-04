@@ -8,14 +8,14 @@ Identifying the Structure of a Tumor-Suppressing Protein
 :authors: BioCAT
 
 .. image:: {filename}/images/scihi/Tumor_2015.jpg
-	:class: img-responsive
+    :class: img-responsive
 
 .. caption::
 
-	An activated PTEN dimer that contains two non-mutant proteins (A) can
+    An activated PTEN dimer that contains two non-mutant proteins (A) can
     transform the functional lipid (D) on the cellular membrane (E) into a
     chemical form that tunes down cancer predilection. Dimers that contain a mutated
-	protein (B), or PTEN monomers cannot transform the functional lipid. Image:
+    protein (B), or PTEN monomers cannot transform the functional lipid. Image:
     Carnegie Mellon University
 
 The dimer structure of an important tumor-suppressing protein, phosphatase and tensin
