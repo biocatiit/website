@@ -56,7 +56,7 @@ Unique Bacterial Chemist in the War on Potatoes
         Biophysics CAT 18-ID beamline at the APS to reveal the chemical structure of 5-NAA,
         and published the results in the journal Nature Chemical Biology.
 
-        S. scabies bacteria are masters of chemical warfare, and not just against potatoes.
+        \S. scabies bacteria are masters of chemical warfare, and not just against potatoes.
 
         “This family of bacteria is known for the ability to synthesize lots of different molecules,
         including ones that humans use as antibiotics,” said Lieberman, lead author of the
@@ -162,17 +162,4 @@ Unique Bacterial Chemist in the War on Potatoes
         used resources of the Advanced Photon Source, a U.S. DOE Office of Science User
         Facility operated for the DOE Office of Science by Argonne National Laboratory under
         contract no. DE-AC02-06CH11357.
-
-        Argonne National Laboratory seeks solutions to pressing national problems in science
-        and technology. The nation's first national laboratory, Argonne conducts leading-edge
-        basic and applied scientific research in virtually every scientific discipline. Argonne
-        researchers work closely with researchers from hundreds of companies, universities,
-        and federal, state and municipal agencies to help them solve their specific problems,
-        advance America's scientific leadership and prepare the nation for a better future. With
-        employees from more than 60 nations, Argonne is managed by UChicago Argonne,
-        LLC for the U.S. Department of Energy's Office of Science.
-        The U.S. Department of Energy's Office of Science is the single largest supporter of
-        basic research in the physical sciences in the United States and is working to address
-        some of the most pressing challenges of our time. For more information, visit the Office
-        of Science website.a
 
