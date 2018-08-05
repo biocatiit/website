@@ -32,6 +32,16 @@ A "Copper Bullet" to Kill Cancer
     .. column::
         :width: 8
 
+        A drug normally used to treat Alzheimer's disease may act as a "copper bullet,"
+        killing tumor cells by coating itself in copper ions, according to research
+        derived in part from studies at the APS. Researchers from Wayne State
+        University, the Henry Ford Hospital, the Illinois Institute of Technology, and
+        Shandong University using BioCAT beamline 18-ID-D at the APS found that the drug
+        clioquinol, when mixed with copper (Fig. 1), killed two types of prostate cancer cell in
+        Petri dishes. The drug without copper also slowed the growth of prostate tumors
+        implanted in mice by up to two-thirds, apparently by soaking up copper ions (charged
+        atoms) present in the implanted tumor cells.
+
         Prostate cancer struck approximately 219,000 U.S. men in 2007 and killed some
         27,000 of them, according to National Cancer Institute estimates.
 
@@ -77,8 +87,6 @@ A "Copper Bullet" to Kill Cancer
         that the molecule inhibited angiogenesis as well as the
         proteasome by soaking up the available copper.
 
-        *— JR Minkel*
-
         See: Di Chen, Qiuzhi Cindy Cui, Huanjie Yang, Raul A. Barrea,
         Fazlul H. Sarkar, Shijie Sheng, Bing Yan, G. Prem Veer Reddy,
         and Q. Ping Dou, "Clioquinol, a Therapeutic Agent for Alzheimer's
@@ -86,7 +94,6 @@ A "Copper Bullet" to Kill Cancer
         Apoptosis-Inducing, and Antitumor Activities in Human
         Prostate Cancer Cells and Xenografts," Cancer Res. 67(4), 1636 (February
         15, 2007). DOI: 10.1158/0008-5472.CAN-06-354
-
 
         This work was supported by Karmanos Cancer Institute of Wayne
         State University, Deparment of Defense Breast Cancer Research
@@ -97,4 +104,6 @@ A "Copper Bullet" to Kill Cancer
         Team is an NIH-supported research center, RR08630. Use of the
         APS was supported by the U.S. Department of Energy, Office of
         Science, Office of Basic Energy Sciences, under Contract No. DEAC02-06CH11357.
+
+        Based on an APS press release by JR Minkel.
 

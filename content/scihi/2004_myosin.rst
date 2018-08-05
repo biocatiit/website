@@ -18,6 +18,18 @@ Measuring the Efficiency of the Myosin Motor at High Load
             .. image:: {filename}/images/scihi/myosin.png
                 :class: img-responsive
 
+            .. caption::
+
+                Fig. 1. Two-dimensional (2-D) patterns in the region of the M3
+                reflection recorded on a charge-coupled device detector at the
+                Bio-CAT beamline with 3-m camera-to-sample distance, normalized
+                by X-ray exposure time. Total exposure times: L\ :sub:`0`, 25 ms; L\ :sub:`2s`, 5.5
+                ms; L\ :sub:`2e`, 21 ms; and L\ :sub:`3`, 25 ms. Fiber cross-sectional area equals
+                38•10\ :sup:`3` μm\ :sup:`2`; isometric tension equals 230 kPa; sarcomere length
+                equals 2.16 μm. On the top are shown the intensity profiles
+                obtained by integrating 80 pixels on each side of the meridional
+                axis of the 2-D patterns.
+
 
     .. -------------------------------------------------------------------------
     .. column::
@@ -71,7 +83,7 @@ Measuring the Efficiency of the Myosin Motor at High Load
         researchers measured changes in intensity and in the fine
         structure of the reflection during three phases of the motor
         cycle elicited at three different loads: 0.25, 0.50, and 0.75 times
-        the isometric force (T0). To eliminate the damaging effect of
+        the isometric force (T\ :sub:`0`). To eliminate the damaging effect of
         radiation, which eventually caused the fibers to fail, the samples
         were displaced vertically a few hundred micrometers
         between each contraction. A steady isometric force was
@@ -85,21 +97,18 @@ Measuring the Efficiency of the Myosin Motor at High Load
         peak, decreases; then R increases as the myosin heads
         detach and return to their original axial position.
 
-        The recovery of R occurs at ~6 nm with 0.75 T0 and at
-        ~11 nm with 0.25 T0, showing that the axial motion that drives
+        The recovery of R occurs at ~6 nm with 0.75 T\ :sub:`0` and at
+        ~11 nm with 0.25 T\ :sub:`0`, showing that the axial motion that drives
         filament sliding is smaller at high loads.
 
         These observations help explain the efficiency of muscle fibers at the
         molecular level.
-
-        *— Elise LeQuire*
 
         See: M. Reconditi, M. Linari, L. Lucii, A. Stewart, Y.-B. Sun, P.
         Boesecke, T. Narayanan, R.F. Fischetti, T. Irving, G. Piazzesi, M.
         Irving, V. Lombardi, "The Myosin Motor in Muscle Generates a Smaller
         and Slower Working Stroke at Higher Load,"" Nature 428(6982), 578 (1
         April 2004).
-
 
         This work was supported by Ministero dell'Istruzione, dell'Università e
         della Ricerca, Telethon-945 (Italy), the National Institutes of Health
@@ -110,3 +119,4 @@ Measuring the Efficiency of the Myosin Motor at High Load
         Department of Energy, Office of Science, Office of Basic Energy
         Sciences, under Contract No.W-31-109-ENG-38.
 
+        Based on APS press release by Elise LeQuire.

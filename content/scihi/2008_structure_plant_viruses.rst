@@ -96,8 +96,6 @@ Revealing the Structural Secrets of Plant Viruses
         infest plants has just become a little
         less secretive.
 
-        *— Mona Mort*
-
         See: Amy Kendall, Michele McDonald, Wen Bian, Timothy Bowles, Sarah C.
         Baumgarten, Jian Shi, Phoebe L. Stewart, Esther Bullitt, David Gore,
         Thomas C. Irving, Wendy M. Havens, Said A. Ghabrial, Joseph S. Wall,
@@ -111,3 +109,5 @@ Revealing the Structural Secrets of Plant Viruses
         Use of the Advanced Photon Source was supported by the U.S. Department
         of Energy, Office of Science, Office of Basic Energy Sciences, under
         Contract No. DE-AC02-06CH11357.
+
+        Based on an APS press release by Mona Mort.

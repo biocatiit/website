@@ -105,8 +105,6 @@ Muscle-Fiber Research Expands
         that gives a molecular explanation for the high efficiency of
         this motor.
 
-        *-Emma Hitt*
-
         See: Gabriella Piazzesi, Massimo Reconditi, Marco Linari, Leonardo
         Lucii, Pasquale Bianco, Elisabetta Brunello, Valérie Decostre, Alex Stewart,
         David B. Gore, Thomas C. Irving, Malcolm Irving, and Vincenzo
@@ -117,3 +115,4 @@ Muscle-Fiber Research Expands
         Department of Energy, Office of Science, Office of Basic Energy
         Sciences, under Contract No. DE-AC02-06CH11357.
 
+        Based on an APS press release by Emma Hitt.

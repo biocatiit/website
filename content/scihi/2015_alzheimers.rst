@@ -71,8 +71,6 @@ question of whether additional, currently unidentified proteins are targeted
 by hPreP for degradation. Identification of hPreP substrates will illuminate
 additional roles hPreP has in other important cellular pathways.
 
-*— Emma Nichols*
-
 See: John V. King, Wenguang G. Liang, Kathryn P. Scherpelz, Alexander
 B. Schilling, Stephen C. Meredith, and Wei-Jen Tang, “Molecular Basis
 of Substrate Recognition and Degradation by Human Presequence Protease,”
@@ -84,3 +82,5 @@ General Medical Sciences of the National Institutes of Health. This research use
 of the Advanced Photon Source, a U.S. Department of Energy (DOE) Office of
 Science User Facility operated for the DOE Office of Science by Argonne National Laboratory
 under contract no. DE-AC02-06CH11357.
+
+Adapted from an APS press release by Emma Nichols.

@@ -18,6 +18,18 @@ Grasping the Structure of Insect Muscle Poised to Contract
             .. image:: {filename}/images/scihi/imuscle.png
                 :class: img-responsive
 
+            .. caption::
+
+                Fig. 1. Top left: Low-angle x-ray diffraction pattern from relaxed insect
+                flight muscle. (Pink and blue numbers represent spacings between
+                repeating structural elements as calculated from the pattern.) Top
+                right: Structure (left) of the modelled myosin heads (pink/white/green)
+                in their relaxed, pre-powerstroke state and (right) in their "rigor" or
+                post-powerstroke state. Bottom: Transition from the head shape in
+                relaxed insect muscle (blue) to rigor-like final shape (green), showing
+                the pivots needed (red on thick filament, white within head) to let the
+                neck swing from one form to the other when bound to actin.
+
 
     .. -------------------------------------------------------------------------
     .. column::
@@ -38,7 +50,7 @@ Grasping the Structure of Insect Muscle Poised to Contract
         filaments have fixed length individually, but they slide past each
         other like telescope segments to stretch or shorten the overall
         muscle. The shortening motion is driven by comma-shaped
-        myosin “heads,” which radiate out from the myosin filaments
+        myosin "heads," which radiate out from the myosin filaments
         and cyclically bind to, bend against, and then release adjacent
         actin filaments. The bind-and-bend phase of each cycle is
         called a powerstroke. Comparing bound and resting head structures
@@ -54,7 +66,7 @@ Grasping the Structure of Insect Muscle Poised to Contract
         improved synchrotron technologies and data analysis tools
         offered the prospect of modelling the relaxed structure. They
         recorded so-called low-angle x-ray diffraction patterns from
-        flight muscle fibers of giant waterbugs on the Bio-CAT beamline
+        flight muscle fibers of giant waterbugs on the BioCAT beamline
         18-ID at the APS, which gave them new and sharper details of
         the large-scale myosin filament structure. A single recording
         cannot produce both large- and fine-scale data because large
@@ -66,7 +78,7 @@ Grasping the Structure of Insect Muscle Poised to Contract
         assumption that each head could pivot at two points, and identified
         the best fit to the observed low-angle x-ray pattern. The
         model confirmed that resting myosin filaments have stacked
-        rings or “crowns” of eight heads each — two heads per myosin
+        rings or "crowns" of eight heads each — two heads per myosin
         molecule. One head of each myosin projects about 90° from the
         filament axis; the other tucks inward against the filament's circumference.
 
@@ -74,16 +86,18 @@ Grasping the Structure of Insect Muscle Poised to Contract
         myosin head conformations in waterbug and many
         other species suggests the changes that take place during a
         powerstroke cycle (Fig. 1). Each of the four projecting heads
-        rotates slightly about the “neck,” which connects to a pivot on
+        rotates slightly about the "neck," which connects to a pivot on
         the myosin filament. The rotation positions the head to bind
-        tightly to the actin filament and tilt forcefully by 45° relative to the axis of the filament. Such a powerstroke would move the head and
+        tightly to the actin filament and tilt forcefully by 45° relative
+        to the axis of the filament. Such a powerstroke would move the head and
         bound actin filament 10 nanometers down the axis. The four
         inward-pointing heads each touch an adjacent projecting head.
         These contacts may restrain both myosin heads from cleaving
         high-energy ATP molecules—the powerstroke fuel—until the right
         moment.
 
-        ep the insect aloft. As if optimized to do so, the relaxed outward
+        Insect flight muscles must contract rapidly and precisely to
+        keep the insect aloft. As if optimized to do so, the relaxed outward
         myosin heads seem poised to bind actin and begin powerstroking.
         The researchers speculate that the increased calcium in stimulated
         muscle cells may loosen the heads and modify actin filaments to
@@ -92,15 +106,15 @@ Grasping the Structure of Insect Muscle Poised to Contract
         inward and outward heads to fully enable ATP splitting and actin
         binding.
 
-        See: H.A. Al-Khayat 1, L. Hudson1, M.K. Reedy 2, T.C. Irving3, and
-        J.M. Squire1, “Myosin Head Configuration in Relaxed Insect Flight Muscle: X-ray Modeled Resting Cross-Bridges in a Pre-powerstroke
-        State Are Poised for Actin Binding,” Biophys. J. 85,
-        1063–1079 (August 2003).
-        Author affiliations: 1Imperial College London, 2Duke
-        University, 3Bio-CAT/Illinois Institute of Technology
+        See: H.A. Al-Khayat, L. Hudson, M.K. Reedy, T.C. Irving, and
+        J.M. Squire, "Myosin Head Configuration in Relaxed Insect Flight
+        Muscle: X-ray Modeled Resting Cross-Bridges in a Pre-powerstroke
+        State Are Poised for Actin Binding," Biophys. J. 85, 1063–1079 (August
+        2003).
 
         J.M.S. was supported from a UK Biotechnology and Biological
-        Sciences Research Council (BBSRC) project grant (28/S10891). M.K.R. was supported by National Institutes of Health AR-14317.
+        Sciences Research Council (BBSRC) project grant (28/S10891). M.K.R.
+        was supported by National Institutes of Health AR-14317.
         CCP13 software was developed as part of UK BBSRC/Engineering and
         Physical Sciences Research Council (EPSRC) funded projects (e.g.,
         28/B10368 and 28/B15281). Use of the Advanced Photon Source was

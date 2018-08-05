@@ -86,14 +86,11 @@ to growing protein chains. The authors note that another research team
 recently revealed that some microorganisms use different codons to encode
 Sec, suggesting that more surprises about this amino acid are in store.
 
-*-Christen Brownlee*
-
 See: Malgorzata Dobosz-Bartoszek, Mark H. Pinkerton, Zbyszek Otwinowski,
 Srinivas Chakravarthy, Dieter Söll, Paul R. Copeland, and Miljan Simonovic,
 "Crystal structures of the human elongation factor eefSec suggest a non-canonical
 mechanism for selenocysteine incorporation,” Nat. Commun. 7, 12941 (2016).
 doi: 10.1038/ncomms12941
-
 
 We thank the staff of LSCAT and SbcCAT beamlines at the APS and organizers of the
 7th Annual CCP4 USA Crystallography School for their help during x-ray data collection
@@ -113,4 +110,6 @@ National Institutes of Health (P41 gm103622). Use of the Pilatus 3 1M detector
 was provided by grant 1S10d018090-01 from the National Institute of General Medical
 Sciences. This research used resources of the Advanced Photon Source, a U.S. DOE
 Office of Science user facility operated for the DOE Office of Science by ANL under
-contract no. de-Ac02-06ch11357
+contract no. de-Ac02-06ch11357.
+
+Adapted from an APS press release by Christen Brownlee.

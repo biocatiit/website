@@ -114,13 +114,10 @@ Increased Brain Iron Coincides with Early Plaque Formation in a Mouse Model of A
         are even toxic themselves. Understanding this mechanism is our direction
         for the future."
 
-        Article by Mona Mort
-
         See: Andreana C. Leskovjan, Ariane Kretlow, Antonio Lanzirotti, Raul
         Barrea, Stefan Vogt, and Lisa M. Miller: "Increased brain iron coincides
         with early plaque formation in a mouse model of Alzheimer’s disease,"
         NeuroImage 55(1), 32 (1 March 2011). DOI:10.1016/j.neuroimage.2010.11.073
-
 
         This work was funded by National Institutes of Health Grant R01-GM66873.
         The NSLS is funded by the U.S. Department of Energy, Office of Science,
@@ -128,3 +125,5 @@ Increased Brain Iron Coincides with Early Plaque Formation in a Mouse Model of A
         of the Advanced Photon Source at Argonne National Laboratory was supported
         by the U. S. Department of Energy, Office of Science, Office of Basic
         Energy Sciences, under Contract No. DE-AC02-06CH11357.
+
+        Adapted from an APS press release by Mona Mort.

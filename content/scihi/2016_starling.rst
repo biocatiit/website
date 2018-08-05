@@ -75,15 +75,11 @@ These findings represent a significant advancement in our understanding
 of cardiac function and pave the way for future work that may lead to targeted
 development of therapies for patients with heart failure.
 
-*-Emma Nichols*
-
-
 See: Younss Ait-Mou, Karen Hsu, Gerrie P. Farman, Mohit Kumar,
 Marion L. Greaser, Thomas C. Irving, and Pieter P. de Tombe, “Titin strain
 contributes to the frank-Starling law of the heart by structural rearrangements
 of both thin- and thick-filament proteins,” Proc. Natl. Acad. Sci. USA
 113(8), 2306 (february 23, 2016). doi: 10.1073/pnas.1516732113
-
 
 This work was supported, in part, by National Institutes of Health (NIH) grants
 hl075494 and gm103622. BioCAT is supported by grant 9 P41 gm103622 from the
@@ -91,3 +87,5 @@ National Institute of General Medical Sciences of the NIH. This research used re
 of the Advanced Photon Source, a U.S. Department of Energy (DOE) Office of
 Science user facility operated for the DOE Office of Science by Argonne National Laboratory
 under contract no. de-Ac02-06ch11357.
+
+Adapted from an APS press release by Emma Nichols.

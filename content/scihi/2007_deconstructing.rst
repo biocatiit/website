@@ -88,8 +88,6 @@ Deconstructing Heart Muscle
         resulting in quicker contractions and heightened
         resting tension in the muscles.
 
-        *— JR Minkel*
-
         See: Brett A. Colson, Tanya Bekyarova, Daniel P. Fitzsimons, Thomas C.
         Irving, and Richard L. Moss, "Radial Displacement of Myosin Cross-bridges in Mouse
         Myocardium due to Ablation of Myosin Binding Protein-C," J. Mol. Biol.
@@ -100,4 +98,6 @@ Deconstructing Heart Muscle
         Health-supported Research Center (RR-08630). Use of the APS
         was supported by the U.S. Department of Energy, Office of Science,
         Office of Basic Energy Sciences, under Contract No. DE-AC02-
-        06CH11357
+        06CH11357.
+
+        Based on an APS press release by JR Minkel.

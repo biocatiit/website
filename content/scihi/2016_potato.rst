@@ -151,7 +151,6 @@ Unique Bacterial Chemist in the War on Potatoes
         Nat. Chem. Biol., Advance Online Publication (03 October 2016).
         DOI: 10.1038/nchembio.2191
 
-
         This work was funded in part by a Pew Scholar and National Science Foundation
         CAREER award (0845445) to R.L.L., a Georgia Tech Molecular Biophysics Training
         Award to S.K., a Petit Undergraduate Research Fellowship and a President’s
@@ -163,3 +162,5 @@ Unique Bacterial Chemist in the War on Potatoes
         Facility operated for the DOE Office of Science by Argonne National Laboratory under
         contract no. DE-AC02-06CH11357.
 
+        The original Georgia Institute of Technology press release by Ben Brumfield can be
+        `read here <http://www.rh.gatech.edu/news/582003/unique-bacterial-chemist-war-potatoes>`_.

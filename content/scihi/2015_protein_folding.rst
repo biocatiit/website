@@ -21,7 +21,8 @@ collapse ensues. However, other studies suggest that there is an energetic
 bottleneck to this step that renders it an all-or-none transition. To resolve
 the issue, researchers from the University of Massachusetts Medical School
 and the Illinois Institute of Technology probed the folding stages of cytochrome c,
-an archetype for protein folding behavior. Its microsecond-scale folding dynamics were unambiguously characterized with Förster resonance energy transfer (FRET)
+an archetype for protein folding behavior. Its microsecond-scale folding
+dynamics were unambiguously characterized with Förster resonance energy transfer (FRET)
 complimented by small angle x-ray scattering (SAXS) carried out at the APS.
 The SAXS and FRET measurements refuted the conventional view that
 cytochrome c folding proceeds immediately and smoothly when exposed
@@ -129,8 +130,6 @@ lysosomal storage diseases.
         the existence of barrier-limited protein folding will propel the
         search for the physical source of this behavior.
 
-        *- Philip Koth*
-
         See: Sagar V. Kathuria, Can Kayatekin, Raul Barrea, Elena Kondrashkina,
         Rita Graceffa, Liang Guo, R. Paul Nobrega, Srinivas Chakravarthy,
         \C. Robert Matthews, Thomas C. Irving, and Osman Bilsel, “Microsecond
@@ -146,3 +145,5 @@ lysosomal storage diseases.
         of the Advanced Photon Source, a U.S. Department of Energy (DOE) Office of
         Science User Facility operated for the DOE Office of Science by Argonne National Laboratory
         under Contract No. DE-AC02-06CH11357.
+
+        Adapted from an APS press release by Philip Koth.

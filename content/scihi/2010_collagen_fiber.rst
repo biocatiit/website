@@ -101,8 +101,6 @@ Packing It In: A New Look at Collagen Fibers
         study of tissue assembly and degradation, such as in osteo- and rheumatoid
         arthritis, has taken several leaps forward.
 
-        *— Mona Mort*
-
         See: Olga Antipova and Joseph P. R. O. Orgel, "In Situ D-periodic
         Molecular Structure of Type II Collagen," J. Biol. Chem. 285(10),
         7087 (March 5, 2010). DOI 10.1074/jbc.M109.060400
@@ -112,4 +110,6 @@ Packing It In: A New Look at Collagen Fibers
         National Center for Research Resources, under Grant RR-007707. Use of the
         Advanced Photon Source at Argonne National Laboratory was supported by the
         \U. S. Department of Energy, Office of Science, Office of Basic Energy Sciences,
-        under Contract No. DE-AC02-06CH1135
+        under Contract No. DE-AC02-06CH1135.
+
+        Based on an APS press release by Mona Mort.

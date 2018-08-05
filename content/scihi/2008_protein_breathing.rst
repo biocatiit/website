@@ -25,6 +25,22 @@ A Closer Look at Protein Breathing
     .. column::
         :width: 8
 
+        To take a static view of proteins and regard them as simple strings
+        of amino acids that do grunt work in cells would be a mistake.
+        Decades of biomedical research have proven that proteins are
+        often large, complex in structure, and, as is becoming increasingly
+        apparent, undergo sophisticated changes in space and time in order to keep
+        cells functioning properly. Some proteins, when in solution, exhibit dramatic
+        fluctuations in their three-dimensional structures, movement that looks like
+        breathing. Because this movement has usually been studied in relatively
+        dilute solutions, and not in the crowded interior of a cell, it has been difficult
+        to know how much of the motion would actually occur in living systems.
+        Recognizing the need for a new approach to the problem, researchers used
+        the APS to study the breathing motions of a diverse group of five animal proteins.
+        Their results provide badly needed modeling of protein movement in
+        solution and data that can be used widely in biomedical applications, such as
+        therapeutic drug design.
+
         The researchers from Argonne National Laboratory and the Illinois
         Institute of Technology used computational modeling and wide-angle x-ray
         scattering (WAXS) experiments performed on the BioCAT beamline 18-ID
@@ -84,8 +100,6 @@ A Closer Look at Protein Breathing
         and data that can be used widely in biomedical applications, such as
         therapeutic drug design.
 
-        *— Mona Mort*
-
         See: Lee Makowski, Diane J. Rodi, Suneeta Mandava, David D.L. Minh,
         David B. Gore, and Robert F. Fischetti, “Molecular Crowding Inhibits
         Intramolecular Breathing Motions in Proteins,” J. Mol. Biol. 375, 529 (2008).
@@ -94,3 +108,5 @@ A Closer Look at Protein Breathing
         This work and use of the Advanced Photon Source was supported by the U.S. Department
         of Energy, Office of Science, Office of Basic Energy Sciences, under contract DEAC02-06CH11357.
         BioCAT is a National Institutes of Health-supported Research Center RR-08630.
+
+        Based on an APS press release by Mona Mort.

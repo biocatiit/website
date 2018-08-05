@@ -112,8 +112,6 @@ The Power of Proteins: Prion Diseases Demystified
         present work provides bright beacons on the path to understanding the
         infectious power of the prion protein.
 
-        *— Mona Mort*
-
         See: Holger Wille,, Wen Bian, Michele McDonald, Amy Kendall, David W.
         Colby, Lillian Bloch, Julian Ollesch, Alexander L. Borovinskiy, Fred E.
         Cohen, Stanley B. Prusiner, and Gerald Stubbs, "Natural and synthetic
@@ -138,3 +136,5 @@ The Power of Proteins: Prion Diseases Demystified
         Contract No. DE-AC02-06CH11357. The Stanford Synchrotron Radiation
         Lightsource is a national user facility operated by Stanford University
         on behalf of the U.S. Department of Energy, Office of Basic Energy Sciences.
+
+        Based on an APS press release by Mona Mort.

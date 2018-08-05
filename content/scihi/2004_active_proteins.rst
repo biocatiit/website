@@ -85,8 +85,6 @@ do not have to be chemically modified. As such, WAXS can greatly improve the
 speed and accuracy with which drug candidates can be assessed for their therapeutic
 potential, enhancing the drug development process.
 
-*— Mona Mort*
-
 See: R.F. Fischetti, D.J. Rodi, D.B. Gore, and L. Makowski, "Wide-Angle X-ray
 Solution Scattering as a Probe of Ligand Induced Conformational Changes in
 Proteins," Chem. Biol. 11, 1431 (October 2004).
@@ -96,3 +94,5 @@ Sciences, DOE, to D.J.R.; NCRR, NIH, for Bio-CAT as a Health-supported
 Research Center. Use of the Advanced Photon Source was supported
 by the U.S. Department of Energy, Office of Science, Office of
 Basic Energy Sciences, under Contract No. W-31-109-ENG-38.
+
+Based on an APS press release by Mona Mort.

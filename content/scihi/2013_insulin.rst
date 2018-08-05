@@ -37,7 +37,7 @@ Conformational states and recognition of amyloidogenic peptides of human Insulin
         peptides, such as amyloid β (Aβ) and amylin, present a major challenge
         to proteostasis, because they can form toxic aggregates that impair
         diverse physiological functions and contribute to human diseases.
-        Insulin-degrading enzyme (IDE), a Zn2+-metalloprotease, prefers to
+        Insulin-degrading enzyme (IDE), a Zn\ :sup:`2+`-metalloprotease, prefers to
         degrade amyloidogenic peptides to prevent the formation of amyloid
         fibrils. Thus, IDE retards the progression of Alzheimer’s disease.
 

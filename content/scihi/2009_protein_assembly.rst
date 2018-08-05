@@ -103,8 +103,6 @@ Protein Assembly and Disease
         and lead to diseases such as Alzheimer’s, an understanding of
         which may lead to the development of new therapeutic options.
 
-        *— Mona Mort*
-
         See: Robert Tycko, Kimberly L. Sciarretta, Joseph P.R.O. Orgel, and
         Stephen C. Meredith, "Evidence for Novel β-Sheet Structures in
         Iowa Mutant β-Amyloid Fibrils," Biochemistry-US 48, 6072 (2009).
@@ -113,4 +111,6 @@ Protein Assembly and Disease
         This work benefited from the support of the NSF Research Collaborative
         Network, "Fibernet" (MCB-0234001). Use of the Advanced Photon Source was
         supported by the U.S. Department of Energy, Office of Science, Office of Basic
-        Energy Sciences, under Contract No. DE-AC02-06CH11357
+        Energy Sciences, under Contract No. DE-AC02-06CH11357.
+
+        Based on an APS press release by Mona Mort.

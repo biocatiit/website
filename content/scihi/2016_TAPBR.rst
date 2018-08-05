@@ -79,15 +79,12 @@ loading. The results of this research therefore have potential to guide future
 studies to modulate peptide loading for T-cell recognition, as well as in designing
 peptide-based vaccines.
 
-*-Nicola Parry*
-
 See: Giora I. Morozov, Huaying Zhao, Michael G. Mage, Lisa F. Boyd, Jiansheng
 Jiang, Michael A. Dolan, Ramesh Venna, Michael A. Norcross, Curtis P. McMurtrey,
 William Hildebrand, Peter Schuck, Kannan Natarajan, and David h. Margulies,
 "Interaction of TAPbPr, a tapasin homolog, with mhc-i molecules promotes
 peptide editing," Proc. Nat. Acad. Sci. USA 113(8), e1006 (February 23,
 2016). doi: 10.1073/pnas.1519894113.
-
 
 SAxS research was supported by grant 9 P41 gm103622 from the National Institute of
 General Medical Sciences of the National Institutes of Health. The research was supported
@@ -99,3 +96,4 @@ resources of the Advanced Photon Source, a U.S. Department of Energy (DOE) Offic
 Science user facility operated for the DOE Office of Science by Argonne National laboratory
 under contract no. de-Ac02-06ch11357.
 
+Adapted from an APS press release by Nicola Parry.

@@ -113,11 +113,8 @@ Filling the Gaps in Collagen Structure
         related tissue disease, where framing is all-important in enduring
         stability.
 
-        *— Mona Mort*
-
         See: J.P.R.O. Orgel, T.C. Irving, A. Miller, T.J. Wess, "Microfibrillar
         Structure of Type I Collagen in situ," PNAS 103 9001 (2006). DOI:10.1073pnas.0502718103
-
 
         Thanks to the staffs of the Biophysical Collaborative Access Team, a
         National Institutes of Health-supported Research Center RR08630; the
@@ -133,3 +130,5 @@ Filling the Gaps in Collagen Structure
         Photon Source was supported by the U.S. Department of Energy, Office
         of Science, Office of Basic Energy Sciences, under Contract No. W-31-
         109-ENG-38.
+
+        Based on an APS press release by Mona Mort.

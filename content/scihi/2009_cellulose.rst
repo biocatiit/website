@@ -27,6 +27,21 @@ Getting to Know Cellulose
     .. column::
         :width: 8
 
+        As humans continue to deplete the Earth’s
+        supply of fossil fuels, fi nding new sources of energy becomes
+        a priority. Biomass, such as cornhusks left after harvest, is one
+        such alternative energy source. Before effi cient use can be
+        made of such materials, understanding how to break down
+        cellulose—the fi ber in human nutrition and the main
+        component of much biomass waste—is crucial. With the help
+        of the NE-CAT and Bio-CAT beamlines at the APS and the
+        SPring-8 (Japan) beamline BL38B1, an international research
+        team from Los Alamos National Laboratory, the University of
+        Tokyo, and the University of Grenoble has identifi ed important
+        new features of cellulose structure. Their work provides
+        important new details that could be used in designing more
+        effi cient treatments for cellulosic biomass.
+
         Cellulose is a complicated macromolecule and only a few living things, including
         the microbes inhabiting the stomachs of cows and other ruminates, have
         figured out how to metabolize it. Yet biochemists and biophysicists
@@ -73,14 +88,11 @@ Getting to Know Cellulose
         will result in a more ordered cellulose III, or whether statistical
         disorder is an inherent property of cellulose III.
 
-        *— Mona Mort*
-
         See: Masahisa Wada, Laurent Heux, Yoshiharu Nishiyama, and Paul
         Langan, "X-ray Crystallographic, Scanning Microprobe X-ray Diffraction,
         and Cross-Polarized/Magic Angle Spinning 13C NMR Studies of
         the Structure of Cellulose III\ :sub:`II`" Biomacromolecules 10(2), 302
         (2009). DOI: 10.1021/bm8010227
-
 
         M.W. was supported by a Grant-in-Aid for Scientific Research (18780131). This
         study was partly funded by the French Agence Nationale de la Recherche. P.L.
@@ -91,3 +103,5 @@ Getting to Know Cellulose
         Laboratory (20080001DR). Use of the Advanced Photon Source is supported
         by the U.S. Department of Energy, Office of Science, Office of Basic
         Energy Sciences, under Contract No. DE-AC02-06CH11357.
+
+        Based on an APS press release by Mona Mort.

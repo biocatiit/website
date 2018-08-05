@@ -40,6 +40,18 @@ The Push and Pull of Plant Viruses
     .. column::
         :width: 8
 
+        New insights into the way a simple-seeming plant virus, the
+        turnip crinkle virus (TCV), goes about replicating in
+        infected cells have been obtained using solution nuclear
+        magnetic resonance spectroscopy (NMR) and small/wide
+        angle x-ray scattering (SAXS/WAXS) studies with a novel methodology
+        at two APS x-ray beamlines. The findings build on earlier work
+        but provide a clearer understanding of RNA genetics and can even
+        explain the paradox of how RNA translation and protein synthesis
+        operate in parallel even though they pull the machinery, the enzymes
+        and ribosome, of the host cell in different directions. The work may
+        have implications for coping with crop plant viral diseases.
+
         The turnip crinkle virus has just 4054 bases in its genetic code, making
         it among the smallest and simplest of the single-component RNA viruses that
         infect plants. Moreover, sub-viral strands of TCV's RNA can use the
@@ -98,8 +110,6 @@ The Push and Pull of Plant Viruses
         that the key to the success of the study were the SAXS/WAXS experiments
         performed at APS.
 
-        *— David Bradley*
-
         See: Xiaobing Zuo, Jinbu Wang, Ping Yu, Dan Eyler, Huan Xu, Mary R.
         Starich, David M. Tiede, Anne E. Simon, Wojciech Kasprzak, Charles
         \D. Schwieters, Bruce A. Shapiro, and Yun-Xing Wang, "Solution structure of
@@ -117,3 +127,5 @@ The Push and Pull of Plant Viruses
         Advanced Photon Source was supported by the U.S. Department of Energy, Office of
         Science, Office of Basic Energy Sciences, under Contract No. DE-AC02-06CH11357.
         BioCAT is an NIH-supported Research Center RR-08630.
+
+        Based on an APS press release by David Bradley.

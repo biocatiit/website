@@ -83,16 +83,15 @@ Sarcomere Synchrony
         proteins, this work reveals a more accurate image of what's going on
         in active, intact muscles.
 
-        *— Mary Beckman*
-
         See: Hugh Huxley, Massimo Reconditi, Alex Stewart, and Tom Irving, "X-ray
         interference studies of crossbridge action in muscle contraction:
         evidence from quick releases," J. Mol. Biol. 363, 743 (May 2006).
         DOI:10.1016/j.jmb.2006.08.075
-
 
         BioCAT is a National Institutes of Health-supported Research Center
         RR- 08630. H.E.H. received support during part of this work from NIH
         Grant no. AR43733. Use of the Advanced Photon Source was supported by
         the U.S. Department of Energy, Office of Science, Office of Basic Energy
         Sciences, under Contract No. W31-109-ENG-38.
+
+        Based on an APS press release by Mary Beckman.

@@ -95,8 +95,6 @@ Storing the Power to Fly
         eventually illuminate how human heart muscle, which is similar
         to a fly's muscle, can fail when diseased.
 
-        *— Mary Beckman*
-
         See: M. Dickinson, G. Farman, M. Frye, T. Bekyarova, D. Gore, D.
         Maughan, and T. Irving, "Molecular Dynamics of Cyclically Contracting
         Insect Flight Muscle In Vivo," Nature 433, 330 (20 January 2005)
@@ -106,3 +104,5 @@ Storing the Power to Fly
         Research Center. Use of the Advanced Photon Source was supported
         by the U.S. Department of Energy, Office of Science, Office of
         Basic Energy Sciences, under Contract No. W-31-109-ENG-38.
+
+        Based on an APS press release by Mary Beckman.

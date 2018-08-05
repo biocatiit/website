@@ -106,8 +106,6 @@ The Correct Signals to Regulate Assembly in Bacteria
         drug-design possibilities, and, in the broad view, how input affects
         output.
 
-        *— Mona Mort*
-
         See: S. De Carlo, B. Chen, T.R. Hoover, E. Kondrashkina, E. Nogales,
         and B.T. Nixon, "The Structural Basis for Regulated Assembly and
         Function of the Transcriptional Activator NtrC," Gene. Dev. 20,
@@ -119,4 +117,6 @@ The Correct Signals to Regulate Assembly in Bacteria
         RR-08630). Use of the Advanced Photon Source was supported by the U.S.
         Department of Energy, Office of Science, Office of Basic Energy Sciences, under
         Contract No. W-31-109-ENG-38.
+
+        Based on an APS press release by Mona Mort.
 

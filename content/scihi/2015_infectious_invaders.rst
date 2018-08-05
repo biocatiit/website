@@ -108,8 +108,6 @@ prion model systems.
         intramolecular structural features. This level of complexity has not been
         observed in short-peptide amyloids that have been used as prion model systems.
 
-        *— Chris Palmer*
-
         See: William Wan and Gerald Stubbs, “Fungal prion HET-s as a model for
         structural complexity and self-propagation in prions,” Proc. Natl. Acad. Sci.
         USA 111 (14), 5201 (2014). DOI: 10.1073/pnas.1322933111
@@ -122,6 +120,8 @@ prion model systems.
         Photon Source, a U.S. Department of Energy (DOE) Office of Science
         User Facility operated for the DOE Office of Science by Argonne National
         Laboratory under Contract No. DE-AC02-06CH11357.
+
+        Adapted from an APS press release by Chris Palmer.
 
     .. -------------------------------------------------------------------------
     .. column::
