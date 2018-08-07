@@ -46,7 +46,7 @@ this."
 Clark worked with Tobin Sosnick, a professor at the University of Chicago, to develop a new
 small-angle x-ray scattering (SAXS) analysis method that showed most IDPs are more
 disordered than previously thought. SAXS is one of the two ways researchers extract
-dimensions of IDPs. In SAXS, proteins are placed in the path of an x-ray beam, scattering the xrays
+dimensions of IDPs. In SAXS, proteins are placed in the path of an x-ray beam, scattering the x-rays
 in patterns that contain information on the protein’s size and shape.
 
 "What we need to determine is how "sticky" they are," said co-author Sosnick. "For survival, you
@@ -63,7 +63,7 @@ shape of the IDP by calculating the distance between the fluorophores. In recent
 researchers have concluded that IDP parts interact more strongly with each other than with
 their surroundings, leading to more collapsed structures.
 
-The results in this study, obtained by Clark, Sosnick, and their colleagues using APS highbrightness
+The results in this study, obtained by Clark, Sosnick, and their colleagues using APS high brightness
 x-rays at the Biophysics Collaborative Access Team 18-ID beamline, shed new light
 on the controversy between the two research methods, Clark noted. (The APS is an Office of
 Science user facility.) Their SAXS analysis method shows that the floppy structures of IDPs are

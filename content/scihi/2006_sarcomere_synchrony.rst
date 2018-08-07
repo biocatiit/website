@@ -41,7 +41,7 @@ Sarcomere Synchrony
         regularly as they would purified in crystals. So rather than spend 30 to
         40 hours collecting data with a typical x-ray tube, the researchers
         turned to the BioCAT beamline 18-ID at the APS. With a million times
-        more intensity than a “home source” xray tube—and the ability to focus
+        more intensity than a “home source” x-ray tube—and the ability to focus
         the x-ray beam into a narrow line—the team got a detailed view of the
         proteins at work (Fig. 1). Not only did they measure the degree of
         movement of the proteins, but they saw that the proteins synchronized

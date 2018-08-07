@@ -87,7 +87,7 @@ The Correct Signals to Regulate Assembly in Bacteria
         beautiful structure of the NtrC revealed by this study shows a central
         ATPase domain, with six receiver domains packed tightly around it
         \(Fig. 1). Three dimers of DNA-binding domains lie underneath the main
-        ring—these domains become flexible and are belived to detach from the
+        ring—these domains become flexible and are believed to detach from the
         central ring when inorganic phosphate is released. In addition, by
         using the NtrC structure and previous biochemical data, the researchers
         were able to postulate contact between the activated receiver domain

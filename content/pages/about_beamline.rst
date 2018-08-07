@@ -48,7 +48,7 @@ a problem for the systems we are studying). The beamline mirror is used for
 harmonic rejection and vertical focusing but it easily can be withdrawn from
 the beam path when desired.
 
-The current vertical focusing mirror is a dynamically bent flat mirro. Typical
+The current vertical focusing mirror is a dynamically bent flat mirror. Typical
 vertical beam profiles when focused for 1.5-3.5 m SAXS camera configurations are
 less than 30 µm FWHM. Downstream of the mirror are horizontal and vertical
 beam-defining slits for the monochromatic beam. These can be set to pass the
@@ -71,8 +71,8 @@ computer control to follow the beam as reflected off of the mirror. Downstream
 of this table is 6.4 x 1.5 m vibration-isolation table that is used for most
 small-angle diffraction and scattering experiments.
 
-The beamline control software is based on the Experimental Physics and
-Industrial Control System (EPICS) [http://www.aps.anl.gov/epics] which
+The beamline control software is based on the `Experimental Physics and
+Industrial Control System (EPICS) <http://www.aps.anl.gov/epics>`_ which
 is a distributed system using VME-based electronics with crate controllers
 running the proprietary real-time UNIX-like operating system VxWorks (Wind
 River Systems). User interface software communicates with the VME crates
@@ -95,10 +95,10 @@ stepper motors are used controlled by five 8-channel Oregon Microsystems OMS-58
 stepper motor controllers.
 
 For time resolved data acquisition there is a Struck 3820 multichannel
-histograming scaler with 32 inputs. For conventional scans there is also a
+histogramming scaler with 32 inputs. For conventional scans there is also a
 Joerger VCS16 scaler with 16 inputs and a voltage to frequency converter
 (Hytec VFC 2504, Hytec Electronics Ltd). External equipment (area detectors,
-shutters) can be interfaced to the control sytem using a digital I/O board
+shutters) can be interfaced to the control system using a digital I/O board
 (Acromag-9440) with 16 input and 16 output channels. To implement PID feedback
 control loops there is also an Acromag IP330 ADC with 16 inputs Systran DAC
 with 8 outputs. There are 8 current amplifiers (Keithley, model 42) which
@@ -107,9 +107,9 @@ designed simulated EPICS servers for these devices so that they can be accessed
 from other computers in exactly the same way as the VME modules.
 
 Two XIA model PF2S2 filter assemblies contain a series of aluminum filters
-that allow at least 3 decades of beam attenuation (at 12 kev) as well as
+that allow at least 3 decades of beam attenuation (at 12 keV) as well as
 two pneumatically activated shutters. By using these in series, exposure
 times of less than 500 ms can be achieved. We have recently implemented a
 shutter capable of <500 µs minimum exposure time consisting of
 two electrically-activated, inclined blade-type shutters in series (Model
-LS500, NM laser products Inc) with ca. 1ms latency.
+LS500, NM laser products Inc) with ca. 1 ms latency.

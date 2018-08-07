@@ -96,7 +96,7 @@ We thank the staff of LSCAT and SbcCAT beamlines at the APS and organizers of th
 7th Annual CCP4 USA Crystallography School for their help during x-ray data collection
 and processing, the staff at the Advanced Protein Characterization Facility
 (SbcCAT, APS) for access to mosquito crystallization robots, and the staff of BioCAT
-beamline for help during small-angle xray scattering data collection. The initial part
+beamline for help during small-angle x-ray scattering data collection. The initial part
 of the study was supported by the University of Illinois at Chicago startup fund and a grant
 from the American Cancer Society, Illinois division (225752 to m.S.). The subsequent
 studies were supported by grants from the National Institute of General Medical Sciences

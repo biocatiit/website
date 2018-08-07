@@ -46,7 +46,7 @@ Reaching for Answers to Questions about the Heart
         \(not to say beautiful) diffraction patterns (image lower right). Muscle
         contracts by the cyclical action of motor proteins called "myosin"
         that bind to particular sites on another protein called "actin." This
-        interaction is normally prevented by tropomyosin, a large, rodlike
+        interaction is normally prevented by tropomyosin, a large, rod-like
         protein that blocks the myosin binding site on actin turning the
         system "off." Reedy and Bekyarova are carrying out experiments aimed
         at determining the motion of tropomyosin and how it turns the muscle

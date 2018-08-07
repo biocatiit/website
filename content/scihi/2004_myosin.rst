@@ -93,7 +93,7 @@ Measuring the Efficiency of the Myosin Motor at High Load
         manner through a force feedback control. During the filament
         sliding that follows this step, the two interference peaks into which
         the M3 x-ray reflection is split change their relative
-        intensities. First R, the ratio of the high-angle peak over the lowangle
+        intensities. First R, the ratio of the high-angle peak over the low angle
         peak, decreases; then R increases as the myosin heads
         detach and return to their original axial position.
 

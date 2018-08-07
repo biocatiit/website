@@ -12,7 +12,7 @@ As an experimenter at BioCAT, please read about the
 to ensure that our capabilities are well matched to your requirements.
 
 Once you've determined that BioCAT has the resources to further your research,
-you will need to become familliar with the
+you will need to become familiar with the
 `process for obtaining time <{filename}/pages/users_apply.rst>`_ at our beamline.
 
 Prior to scheduling awarded time, it will be necessary to ensure that your
@@ -26,7 +26,7 @@ and analysis.
 After your successful experiments at BioCAT, it is important to `acknowledge
 the facility <{filename}/pages/users_publications.rst>`_ when you publish your
 results. Peer-reviewed publications are the primary measure of scientific
-output. Properly documented publications insure that funds are avaliable to
+output. Properly documented publications insure that funds are available to
 continue operating the BioCAT facility.
 
 

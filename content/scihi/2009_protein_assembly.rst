@@ -39,7 +39,7 @@ Protein Assembly and Disease
         plaques and large deposits of the mutant protein in cerebral
         blood vessels. Exactly how the protein does so much damage
         has been the subject of intense recent research, including
-        these fi ndings by researchers from The University of Chicago,
+        these findings by researchers from The University of Chicago,
         the National Institutes of Health, and the Illinois Institute of
         Technology. With the help of the BioCAT 18-ID beamline at
         the APS, the team used x-ray diffraction, electron microscopy,

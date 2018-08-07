@@ -86,7 +86,7 @@ A Closer Look at Protein Breathing
 
         The research team used techniques that allowed an estimate of the
         size of rigid bodies that move during protein breathing. Concluding that
-        secondary structures, such as alphahelices, move like rigid bodies during
+        secondary structures, such as alpha helices, move like rigid bodies during
         breathing, the authors hypothesized that breathing involves slow collective
         movements. Another striking result of the study is that a protein’s attributes
         such as size, structure class, subcellular location, or presence of multiple

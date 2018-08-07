@@ -44,7 +44,7 @@ NUCLEOTIDE-INDUCED ASYMMETRY WITHIN ATPASE ACTIVATOR RING DRIVES σ54-RNAP INTER
         crystallography and 3D reconstruction from EM single particles along
         with time-resolved and static small angle X-ray scattering (TR-SAXS
         and SAXS, respectively) at BioCAT to monitor the development and extent
-        of onformational changes in NtrC1, a bEBP, when it binds to ATP. The
+        of conformational changes in NtrC1, a bEBP, when it binds to ATP. The
         results revealed that partial binding of ATP drives a dramatic
         reorganization of individual molecular subunits (protomers) that
         differ in their properties, to build highly asymmetric ring-like

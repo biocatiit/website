@@ -21,7 +21,7 @@ Before arriving at BioCAT, please look at the following links:
 
 *   `How to Transport Hazardous Materials <https://www.aps.anl.gov/Safety-and-Training/Safety/Using-Material-Samples/Transporting-Hazardous-Materials>`_
 
-    What chemicals may and may not be brought on-site without special arrangments.
+    What chemicals may and may not be brought on-site without special arrangements.
 
 *   `Requirements for Using a Laser at BioCAT <{filename}/pages/users_lasers.rst>`_
 

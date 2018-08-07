@@ -48,7 +48,9 @@ The Chd1 Chromatin Remodeler Shifts Nucleosomal DNA Bidirectionally as a Monomer
         See: Yupeng Qiu, Rob Levendosky, Srinivas Chakravarthy, Ashok Patel,
         Gregory Bowman, Sua Myong. Molecular Cell 68(1):76-88.
 
-        *While most of the study was based on single molecule FRET, high quality SEC-SAX at BioCAT played a key role in testing hypothetical configurations of mutant proteins generated to test the proposed packing models.*
+        *While most of the study was based on single molecule FRET, high quality
+        SEC-SAX at BioCAT played a key role in testing hypothetical configurations
+        of mutant proteins generated to test the proposed packing models.*
 
 
 

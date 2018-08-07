@@ -10,7 +10,7 @@ use, and complete time at BioCAT. Please also check the
 
 #.  `Discuss Your Proposed Experiment with Us <{filename}/pages/contact.rst>`_
 
-    Our facility is very flexible and can accomodate most experiments that
+    Our facility is very flexible and can accommodate most experiments that
     fall within our `supported techniques <{filename/pages/about_biocat>`_.
     We strongly encourage you to discuss your experiment with the `user liaison <{filename}/pages/contact.rst>`_
     for your technique. This will save a lot of time assembling and
@@ -28,7 +28,7 @@ use, and complete time at BioCAT. Please also check the
 
     The primary mechanism for access to BioCAT is through the APS General User Program. Further
     information on classes of experiments, allocation of time by category, and the proposal
-    review process is avaliable `from the APS <http://www.aps.anl.gov/Users-Information/About-Proposals/Apply-for-Time>`_.
+    review process is available `from the APS <http://www.aps.anl.gov/Users-Information/About-Proposals/Apply-for-Time>`_.
 
     Users with active proposals wishing time in the next run should complete follow
     the directions for a Returning Proposer on the `APS website <http://www.aps.anl.gov/Users-Information/About-Proposals/Apply-for-Time>`_.
@@ -112,8 +112,8 @@ use, and complete time at BioCAT. Please also check the
     and `BioCAT <{filename}/pages/users_safety.rst>`_ will require certain
     training and orientation sessions to be taken before you may proceed with
     your experiment. These sessions will be determined by the ESAF process.
-    Some of these are avaliable on-line. Please visit our `Safety and
-    Compliance <{filename}/pages/users_safety.rst>`_ webpage for further details.
+    Some of these are available on-line. Please visit `Safety and
+    Compliance <{filename}/pages/users_safety.rst>`_ for further details.
 
 #.  Observe Beamline Etiquette
 
@@ -158,7 +158,7 @@ use, and complete time at BioCAT. Please also check the
     `properly acknowledge the APS and BioCAT <{filename}/pages/users_publications.rst>`_,
     and notify both the APS and BioCAT of such publications. Peer-reviewed publications
     are are the primary measure of scientific output. Properly documented publications insure
-    that funds are avaliable to continue operating the facility.
+    that funds are available to continue operating the facility.
 
 #.  Refine Your Experiment
 

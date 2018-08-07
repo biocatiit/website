@@ -23,7 +23,7 @@ Grasping the Structure of Insect Muscle Poised to Contract
                 Fig. 1. Top left: Low-angle x-ray diffraction pattern from relaxed insect
                 flight muscle. (Pink and blue numbers represent spacings between
                 repeating structural elements as calculated from the pattern.) Top
-                right: Structure (left) of the modelled myosin heads (pink/white/green)
+                right: Structure (left) of the modeled myosin heads (pink/white/green)
                 in their relaxed, pre-powerstroke state and (right) in their "rigor" or
                 post-powerstroke state. Bottom: Transition from the head shape in
                 relaxed insect muscle (blue) to rigor-like final shape (green), showing
@@ -40,7 +40,7 @@ Grasping the Structure of Insect Muscle Poised to Contract
         sought window into the biochemical cycle that
         causes muscle contraction. The group determined the overall
         structure of insect muscle fibers from x-ray diffraction patterns
-        and performed computer modelling to analyze the data. The
+        and performed computer modeling to analyze the data. The
         resulting structure, reported in August 2003, suggests a specific
         mechanism for insect muscle activation.
 
@@ -64,7 +64,7 @@ Grasping the Structure of Insect Muscle Poised to Contract
         Researchers from Imperial College London, Duke
         University, and the Illinois Institute of Technology decided that
         improved synchrotron technologies and data analysis tools
-        offered the prospect of modelling the relaxed structure. They
+        offered the prospect of modeling the relaxed structure. They
         recorded so-called low-angle x-ray diffraction patterns from
         flight muscle fibers of giant waterbugs on the BioCAT beamline
         18-ID at the APS, which gave them new and sharper details of
@@ -82,7 +82,7 @@ Grasping the Structure of Insect Muscle Poised to Contract
         molecule. One head of each myosin projects about 90° from the
         filament axis; the other tucks inward against the filament's circumference.
 
-        Comparing the results of modeling against actual postpowerstroke
+        Comparing the results of modeling against actual post-powerstroke
         myosin head conformations in waterbug and many
         other species suggests the changes that take place during a
         powerstroke cycle (Fig. 1). Each of the four projecting heads

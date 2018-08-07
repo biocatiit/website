@@ -23,6 +23,8 @@ Facility in the Engineering Research Building at IIT.
 Biochemistry Lab
 =================
 
+.. _wetlab:
+
 The Biochemistry Lab is a well-equipped facility for sample preparation work.
 We have all of the equipment needed for the on-site purification of proteins.
 We ask that any special requirements be discussed with the Scientific Contact
@@ -43,12 +45,12 @@ you generate while at BioCAT. Those items left in our facility will be purged
 as part of ongoing maintenance.
 
 If you are seeking use of our Wet-Lab and are not conducting a **current
-experiment as a BioCAT User with scheduled beamtime and a posted ESAF**, you
+experiment as a BioCAT User with scheduled beam time and a posted ESAF**, you
 must get explicit permission from the Biochemistry Lab Manager, `Mark Vukonich <{filename}/pages/contact.rst>`_,
 before using the BioCAT Wet-Lab. Also, a "Wet-Lab Only" ESAF must be approved
 and posted by beamline staff. **No equipment or materials in the BioCAT Wet-Lab
 may be removed, "borrowed," or moved from the BioCAT Wet-Lab.** Any unauthorized
-personel who are spotted in our Wet-lab, without an approved ESAF, will be in
+personnel who are spotted in our Wet-lab, without an approved ESAF, will be in
 violation of serious safety and security policies at the APS and we will
 present the matter to the Floor-Coordinators and the heads of Safety and
 Security at the APS.

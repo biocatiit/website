@@ -20,7 +20,7 @@ functions due to their phosphor screens.
 
 BioCAT has the following CCD detector routinely available:
 
-*   **MAR165** - A detector with a165 mm diameter active area, standard mode 2k x 2k 80 µm
+*   **MAR165** - A detector with a 165 mm diameter active area, standard mode 2k x 2k 80 µm
     pixels, ~1 ADU/ 12 keV X-ray photon. The MAR detector has been upgraded with
     baseline stabilization electronics and a thinner phosphor (~65 µm psf function)
     so it can be used in unbinned mode with 40 µm pixels.
@@ -45,7 +45,7 @@ BioCAT has the following PADs routinely available:
     used in combination with other detectors to provide high spatial resolution in selected
     parts of a pattern.
 
-BioCAT is in the process of aquiring the following detector, we expect it to be
+BioCAT is in the process of acquiring the following detector, we expect it to be
 available in early 2019:
 
 *   **EIGER X 500K** - A detector with 1030 x 514 75 µm pixels and a 77.2 x

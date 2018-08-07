@@ -82,5 +82,5 @@ MacCHESS, so the results aren't ready to be shared.
 
 As a beamline scientist at BioCAT, I am getting involved in our time resolved
 continuous flow project. You can learn more about that on the `main BioCAT
-webpage <{filename}/pages/about_saxs.rst>`_
+web-page <{filename}/pages/about_saxs.rst>`_
 

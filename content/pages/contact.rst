@@ -3,7 +3,7 @@
 :slug: contact
 
 .. lead::   If you have questions regarding our facility that are not adequately
-            answered on these webpages, please feel free to contact us.
+            answered on this website, please feel free to contact us.
 
 .. row::
 

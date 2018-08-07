@@ -2,9 +2,6 @@
 :category: users
 :slug: user-publications
 
-
-.. _user-pubs:
-
 When you publish using data from BioCAT you need to:
 
 *   Use the proper acknowledgment of the APS and BioCAT
@@ -12,7 +9,7 @@ When you publish using data from BioCAT you need to:
     and `BioCAT <{filename}/pages/contact.rst>`_ of such publications.
 
 Peer-reviewed publications are the primary measure of scientific output.
-Properly documented publications insure that funds are avaliable to continue
+Properly documented publications insure that funds are available to continue
 operating the BioCAT facility.
 
 The BioCAT facility is supported by the `National Institutes of Health <http://www.nih.gov/>`_
@@ -30,7 +27,7 @@ and, by law, all publications resulting from NIH support must adhere to the
     must attach your submission to the BioCAT grant: P41 GM103622 Thomas C. Irving PI.
 
 In addition to the above, publications resulting from work performed at BioCAT are
-required to display the following acknowledgements:
+required to display the following acknowledgments:
 
     This research used resources of the Advanced Photon Source, a U.S. Department
     of Energy (DOE) Office of Science User Facility operated for the DOE Office
@@ -42,7 +39,7 @@ If you used the Pilatus 3 1M to acquire your data, please add the following:
 
     Use of the Pilatus 3 1M detector was provided by grant 1S10OD018090-01 from NIGMS.
 
-This section should be added to the very end of acknowledgement:
+This section should be added to the very end of acknowledgment:
 
     The content is solely the responsibility of the authors and does not necessarily
     reflect the official views of the National Institute of General Medical Sciences

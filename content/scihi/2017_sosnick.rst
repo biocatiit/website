@@ -22,7 +22,7 @@ Perplexing cooperative folding and stability of a low-sequence complexity, polyp
     .. column::
         :width: 8
 
-        The physical basis of proteinfolding stability and cooperativity remains
+        The physical basis of protein folding stability and cooperativity remains
         a topic of great interest. Folding of globular proteins is generally
         assumed to be driven by energetically favorable burial of hydrophobic
         groups and that early development of secondary structure increases the

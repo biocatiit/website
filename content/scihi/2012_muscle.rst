@@ -1,4 +1,3 @@
-
 The cross-bridge spring: cool muscles store elastic energy
 ##########################################################
 

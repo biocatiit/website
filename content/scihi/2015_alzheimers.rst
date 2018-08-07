@@ -53,7 +53,7 @@ SAXS data were collected at the BioCAT 18-ID-D beamline at the APS.
 The data (Fig. 1) reveal how hPreP is able to accommodate distinct molecules
 within its catalytic site, and how this enzyme specifically recognizes
 amyloid proteins. The high-resolution diffraction patterns of hPreP alone and
-in complex with Aβ provide an atomiclevel snapshot of the large (~13,000 Å)
+in complex with Aβ provide an atomic level snapshot of the large (~13,000 Å)
 catalytic chamber and the molecular interactions required for substrate capture
 and cleavage. Within this chamber, amino acid residues form a hydrophobic
 pocket, a basic pocket adjacent to the catalytic site, and a hydrophobic exosite

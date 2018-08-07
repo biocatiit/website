@@ -1,4 +1,3 @@
-
 A New Phase in Cellular Communication
 #####################################
 
@@ -24,7 +23,7 @@ A New Phase in Cellular Communication
                 Multivalency drives phase separation and probably drives a
                 sol–gel transition in the droplet phase. a, Phase diagrams of
                 multivalent SH3 and PRM proteins. The concentrations are in
-                terms of the modules. The red circlesindicate phase separation,
+                terms of the modules. The red circles indicate phase separation,
                 and the blue circles indicate no phase separation. b, The Rg
                 values determined from SAXS data that were collected during
                 titrations of PRM proteins into SH35. Closed circles indicate
@@ -36,7 +35,7 @@ A New Phase in Cellular Communication
                 independent measurements of intensity versus scattering angle
                 (q). c, The intensity autocorrelation curve of light scattered
                 at 90u from the pooled droplet phase of SH35 plus PRM(NWASP) 8.
-                t, the relaxation time constant of the most rapidlydecaying
+                t, the relaxation time constant of the most rapidly decaying
                 phase. d, Cryo-electron microscopy image of a droplet formed by
                 SH35 plus PRM5 (identical image, left and right).
 

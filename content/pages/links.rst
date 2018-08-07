@@ -13,7 +13,7 @@
         *   `General user program login <http://beam.aps.anl.gov/pls/apsweb/gup0005.start_page>`_
         *   `Experiment Safety Assessment Form (ESAF) <http://beam.aps.anl.gov/pls/apsweb/esaf0001.start_page>`_
         *   `APS user information <http://www.aps.anl.gov/Users-Information>`_
-        *   `Argonne guest houst <http://www.anlgh.org/>`_
+        *   `Argonne guest house <http://www.anlgh.org/>`_
 
     .. column::
         :width: 6

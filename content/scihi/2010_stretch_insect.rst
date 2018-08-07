@@ -57,7 +57,7 @@ The Molecular Mechanism of Stretch Activation in Insect Muscle
         muscle presents, therefore, an ideal model system to study crossbridge
         action and its regulation.
 
-        The experiments carried out at the Bio-CAT are the result of collaboration
+        The experiments carried out at the BioCAT are the result of collaboration
         between the groups of Michael Reedy at Duke University, Thomas Irving
         at IIT, and researchers from Florida State University, The Scripps
         Research Institute, and the European Molecular Biology Laboratory.
@@ -116,6 +116,6 @@ The Molecular Mechanism of Stretch Activation in Insect Muscle
         AR-14317 (to MKR). Use of the Advanced Photon Source, an Office of
         Science User Facility operated for the U.S. Department of Energy (DOE)
         Office of Science by Argonne National Laboratory, was supported by
-        the U.S. DOE under Contract No. DE-AC02-06CH11357. Bio-CAT is an NIH
+        the U.S. DOE under Contract No. DE-AC02-06CH11357. BioCAT is an NIH
         supported Research Center t RR-08630.
 

@@ -270,7 +270,7 @@ The Tour of the Facilities
             *   The current ANL policy on electrical work (which can be found
                 at http://www.aps.anl.gov/Safety_and_Training/User_Safety_Updates/AUSU_16feb05_elec.pdf)
                 must be distributed to the On-site Spokesperson and be generally
-                avaliable to all members of the group.
+                available to all members of the group.
 
             *   Electrical work below 50 V may only be performed by those who
                 have read the Update or have completed ESH371 and ESH114.
@@ -307,7 +307,7 @@ Affirmation and Clarification of the "Safety First" Principle
 We at BioCAT affirm that we regard the safety of the experimenter and others at
 the APS to be of central importance. No experiment or operation will be permitted
 on the floor if it poses a significant safety risk. The APS/CAT safety review
-process has been instituted to minimize the likelyhood of anyone associated with
+process has been instituted to minimize the likelihood of anyone associated with
 our beam line being exposed to hazards.
 
 Orientation to the CAT's Environmental, Safety, and Health Plan
@@ -315,7 +315,7 @@ Orientation to the CAT's Environmental, Safety, and Health Plan
 
 BioCAT's environmental, safety, and health information is contained in our
 Environmental, Safety, and Health Plan. This document has been accepted as
-authoritiative by the appropriate committee at the APS and is the definitive
+authoritative by the appropriate committee at the APS and is the definitive
 safety document regulating BioCAT operations. Copies of our ES&H Plan are
 available in three locations:
 
@@ -433,7 +433,7 @@ Coordinator. These numbers are posted throughout BioCAT:
 *   On the yellow safety boards on the outside of the doors to the ''C'' and ''D'' hutches.
 *   On the upper-left panel of the control console.
 
-Please familiarlize yourself with these locations.
+Please familiarize yourself with these locations.
 
 Response to Alarms and Other Warnings
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -481,7 +481,7 @@ Location and Requirements for Use of Safety Eye-wear and other Personal Protecti
 
     *   Wear gloves and an apron when working with materials that are hazardous
         to your skin, such as corrosive liquids and organic solvents.
-    *   Location: In the chemistry lab in the drawer next to the eyewear
+    *   Location: In the chemistry lab in the drawer next to the eye wear
 
 *   Work Gloves
 
@@ -520,13 +520,13 @@ to pose substantial hazards:
 *   x-ray generators, if you are not an authorized user of the device in question.
 *   electrical systems capable of producing a paralyzing shock when proper safeguards are not in place.''
 
-In additon, when working in the LOM shop after hours, you must notify the APS floor coordinator.
+In addition, when working in the LOM shop after hours, you must notify the APS floor coordinator.
 
 The Importance of Keeping Work Areas Neat and Orderly, and the Aisles Free of Obstructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Please remember that you are utilizing shared space for your experiment. Many
-people who are not necessarily familliar with your equipment will be in the same
+people who are not necessarily familiar with your equipment will be in the same
 area and may need the same facilities. Keeping a minimal, organized workspace
 is essential to providing all our users with the facilities they need to perform
 their experiments in an accurate and timely manner.
@@ -591,8 +591,8 @@ Sharps: Small, sharp objects can pose a significant hazard to you, other users,
 and maintenance staff. Such objects include, but are not limited to: syringe
 needles, knife/razor blades, tiny diameter stiff wire, and broken glass. All
 sharp objects must be stored in a way that minimizes the risk of laceration and
-possible introduction of foriegn objects into the body. Methods may include
-insertion of the sharp surface into a sizable piece of cork or styrofoam.
+possible introduction of foreign objects into the body. Methods may include
+insertion of the sharp surface into a sizable piece of cork or Styrofoam.
 
 **Sharps are not to be disposed of in the regular trash bin!** Used syringe
 needles, razor blades, and scalpels must be disposed of in the sharps disposal
@@ -640,7 +640,7 @@ they have been certified by BioCAT staff. Proper Personal Protective equipment
 Disposal of Waste, Including Hazardous Waste
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-It is recommended that white paper, glass containers, and aluminium cans be
+It is recommended that white paper, glass containers, and aluminum cans be
 disposed of in the appropriately labeled blue canisters in the LOM, the beamline,
 and the communal kitchen in pentagon 'C.' Ordinary trash may be disposed of in
 any available trash can.
@@ -704,8 +704,8 @@ a survey.
 General and Beam-line-Specific Operation of the Personnel Safety System (PSS)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Users will recieve training in the use of the 18-ID PSS. This training will
-include specific inforomation on
+Users will receive training in the use of the 18-ID PSS. This training will
+include specific information on
 
 *   Searching a hutch
 *   Closing the door

@@ -91,7 +91,7 @@ The Push and Pull of Plant Viruses
         section that hijacks the large subunit of the host ribosome to make viral proteins.
         There is a large symmetric loop within the RBSE, which plays a key role
         in coordinating translation and replication. The structure determination
-        achived by the researchers in this study offers the global structure of this loop,
+        achieved by the researchers in this study offers the global structure of this loop,
         the 102-nucleotide RBSE RNA. The structure reveals that it shares almost
         every structural feature with transfer RNA (tRNA) in solution, as if the 102-nt
         RBSE were a large cousin of tRNA. There are two hairpins, H1 and H2,

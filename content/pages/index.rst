@@ -20,17 +20,17 @@
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
             <div class="item active">
-              <img src="/images/carousel/happy_users.jpg" alt="Beamtime at BioCAT" style="width:100%">
+              <img src="/images/carousel/happy_users.jpg" alt="Beam time at BioCAT" style="width:100%">
               <div class="carousel-caption">
-                <h3>Get Beamtime</h3>
+                <h3>Get Beam time</h3>
                 <p>BioCAT is a national user facility funded by the NIH,
-                and beamtime is free for experimenters. Beamtime is awarded
-                through the APS GUP process, which considers feasiblity
+                and beam time is free for experimenters. Beam time is awarded
+                through the APS GUP process, which considers feasibility
                 and scientific merit.</p>
                 <a href="/pages/applying-for-time.html" class="btn btn-primary" role="button">Learn More</a>
               </div>
               <div class="carousel-caption2">
-                <h3>Get Beamtime</h3>
+                <h3>Get Beam time</h3>
                 <a href="/pages/applying-for-time.html" class="btn btn-primary" role="button">Learn More</a>
               </div>
             </div>

@@ -4,8 +4,12 @@
 
 .. page-header::
 
-    .. alert:: Please note that at this time XFM is not available through the  GU system and is only available to collaborators.
+    .. alert::
         :type: info
+
+        Please note that at this time XFM is not available through the
+        GU system and is only available to collaborators.
+
 
 In this section, you will find instructions for operating the X-ray Fluorescence
 microprobe once it has been setup by BioCAT staff members. If you find the
@@ -68,7 +72,7 @@ is your reference point for sample alignment.
 **Please do not adjust the optical configuration.**
 
 Adjusting the optical configuration could result in losing the alignment and
-several hours of your beamtime. If you cannot find the beam or you suspect the
+several hours of your beam time. If you cannot find the beam or you suspect the
 system is not properly aligned and focused, please call your scientific contact.
 
 Sample holder system
@@ -153,7 +157,7 @@ Ketek Single-Element Silicon Drift Detector
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The Ketek single-element SDD is a 10 mm\ :sup:`2` actve area detector. It has a thin
-polymer window that allows measurment of low atomic weight elements such as
+polymer window that allows measurement of low atomic weight elements such as
 Aluminum or even Oxygen under vacuum conditions. Although we do not operate
 our microprobe under vacuum, it is possible to run an experiment in a He
 atmosphere (Aluminum is still practical). To avoid permanent damage, the
@@ -193,7 +197,7 @@ To start the Saturn follow these instructions:
     click on "All ROIs" to open a new screen with more options.
 
 #.  Use the top buttons to start and stop counting manually. You don't need
-    to start the dxp to run a mapping scan. The BioCAT-FMAP softwary
+    to start the dxp to run a mapping scan. The BioCAT-FMAP software
     controls the detector via EPICS.
 
 #.  You can also open a python program to visualize the mca traces and save
@@ -269,9 +273,9 @@ using Matlab quite easily and the images can be saved as JPEG files.
 BioCAT-FIT
 ^^^^^^^^^^^^
 
-This is Matlab software indended for full analysis of the retrieved data.
+This is Matlab software intended for full analysis of the retrieved data.
 This code reads the ``*.stp`` files and performs peak fitting of each measured
-spectra for each point of the scan. The peak fitting routine includes: gaussian
+spectra for each point of the scan. The peak fitting routine includes: Gaussian
 shape peak fitting, escape peaks, both theoretical and experimental Ka/Kb ratios
 and background removal. The code plots the images of the ROIs selected in the
 scanning software. This is the fastest way to get the image of the measured data.
@@ -290,7 +294,7 @@ There is no signal on the MCA screen
 
 #.  If the current is zero, there is no beam in the storage ring. You will
     need to wait for the APS to refill the storage ring before x-rays will be
-    avaliable. The Floor Coordinator may have information about why the beam
+    available. The Floor Coordinator may have information about why the beam
     is down and when the APS expects to return to operations.
 
     The Ring Current is displayed at the lower right corner of the picture below.
@@ -357,7 +361,7 @@ that reads the file.
 
 The detector is not counting
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-In the ulikely event that the EPICS software which communicates with the detector
+In the unlikely event that the EPICS software which communicates with the detector
 via the Saturn electronics hangs, you must restart the EPICS DXP software:
 
 #.  Close the MCA window
@@ -399,7 +403,7 @@ Which elements can be mapped with the microprobe?
 Elemental mapping of elements from K up to U can be mapped with the microprobe.
 The detection limit for each element depends on the noise level, the sample
 substrate and detector's efficiency. Most of the experiment are performed at
-room temperature and normal atmorpheric conditions. There is an SDD detector
+room temperature and normal atmospheric conditions. There is an SDD detector
 for light element detection that is able to detect P and S under proper dark
 environment and He atmosphere. These kind of experiments require a special setup.
 

@@ -53,7 +53,7 @@ Muscle-Fiber Research Expands
         understanding of athletic performance.
 
         The researchers gleaned these insights into muscle
-        function by using the Bio-CAT beamline to study a key muscle
+        function by using the BioCAT beamline to study a key muscle
         protein called myosin. The group characterized the
         interaction of myosin with actin, another protein found in
         muscle. Actin and myosin are arranged within muscle fibers

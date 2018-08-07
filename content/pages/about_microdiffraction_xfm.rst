@@ -39,7 +39,7 @@ configured as a micro-diffraction instrument, the useful d-space range  is
 the modified Mar 165 detector with 40 mm pixels (60 mm psf function for phosphor)
 for very high-resolution data when the microbeam is focused at the detector.
 
-X-ray fluoresence experiments are done with  a four-element Vortex silicon drift
+X-ray fluorescence experiments are done with  a four-element Vortex silicon drift
 detector (SDD), with each element having 50 mm\ :sup:`2` active area. The Vortex detector uses the
 XIA DXP-XMAP electronics for collection and analysis of fluorescent signals.
 These electronics support sophisticated mapping modes, allowing for full
@@ -59,7 +59,7 @@ Several metals (10 or more) can be probed simultaneously with a minimum of
 sample preparation. Low-resolution maps may be performed initially over
 larger areas to determine smaller areas of interest that will subsequently
 be scanned at higher resolutions. This approach maximizes the efficiency
-of the microprobe, spending beamtime selectively where it is most needed.
+of the microprobe, spending beam time selectively where it is most needed.
 BioCAT's scanning software allows fast continuous scans to be performed
 while acquiring and storing full multichannel analyzer spectra per pixel
 on-the-fly with minimal overhead time (<20 ms per pixel).

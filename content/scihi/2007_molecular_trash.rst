@@ -110,7 +110,7 @@ Mechanisms of a Molecular Trash Disposal
         This work was supported by grants to B.H.S., F.S., and M.T. from the
         Canadian Institutes of Health Research, the National Cancer
         Institute of Canada (NCIC), and the Natural Sciences and
-        Engineering Research Council. Bio-CAT is National Institutes of
+        Engineering Research Council. BioCAT is National Institutes of
         Health-supported Research Center RR-08630. Use of the Advanced
         Photon Source was supported by the U.S. Department of Energy,
         Office of Science, Office of Basic Energy Sciences, under Contract

@@ -1,4 +1,3 @@
-
 RNA Folding – How A Little Cooperation Goes A Long Way
 ######################################################
 

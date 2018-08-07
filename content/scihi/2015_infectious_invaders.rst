@@ -104,7 +104,7 @@ prion model systems.
 
         The investigation of the fungal prion HET-s(218-289) provides insights
         into the fundamental mechanisms of prion assembly and propagation of its
-        infectious fold, which is made robust by a complex and diverse array of interand
+        infectious fold, which is made robust by a complex and diverse array of inter and
         intramolecular structural features. This level of complexity has not been
         observed in short-peptide amyloids that have been used as prion model systems.
 

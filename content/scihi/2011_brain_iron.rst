@@ -105,7 +105,7 @@ Increased Brain Iron Coincides with Early Plaque Formation in a Mouse Model of A
         this work because there is really no other way besides XFM to simultaneously
         image all of the physiological metals (calcium, iron, copper, and zinc)
         in the brain. We were able to use the NSLS to study the plaques, but
-        needed the high brightness and small beams at the Bio-CAT 18-ID beamline
+        needed the high brightness and small beams at the BioCAT 18-ID beamline
         at the APS to efficiently image the large cortex and hippocampus regions."
 
         Miller says that the team’s work "now leads us to question whether

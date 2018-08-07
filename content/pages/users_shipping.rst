@@ -22,7 +22,7 @@ permits to ship certain plant, animal, and human specimens, as well as, any
 viruses, fungi, bacteria, etc... Additionally, the type of packaging needs to
 be coordinated with the hazards associated with your shipment. Not following
 Department of Transportation rules and regulations can result in very large
-fines (10's of thousands of dollars a day/per offence).
+fines (10's of thousands of dollars a day/per offense).
 
 Small quantities of chemicals found in buffers are usually okay to ship via
 FedEx due to the DOT small quantity exemption rule depending on hazard class
@@ -30,7 +30,7 @@ and quantity. Please refer to your MSDS and institutional shipping experts.
 Bulk chemicals, however, have to be sent through the Argonne Shipping Department.
 In order to send items through the Argonne Shipping Department, you would
 need to create an Argonne Account with sufficient funds to cover shipping
-and any ancilliary expenses so that the Argonne Shipping Department can bill
+and any ancillary expenses so that the Argonne Shipping Department can bill
 your account.
 
 If your experiment will require bulk chemicals/ reagents, we recommend that
@@ -63,6 +63,7 @@ If you would like to ship materials to BioCAT, our shipping address is:
     | 9700 S. Cass Avenue
     | Argonne, IL 60439-4860
 
+The preferred method of shipping at Argonne is FedEx.
 
 From BioCAT
 ============

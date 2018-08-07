@@ -71,12 +71,12 @@ SAXS Collection Method
     `BioXTAS RAW <http://bioxtas-raw.readthedocs.io>`_.
 
 
-Collection Workflow
+Collection Work-flow
 =====================
 
 *   Switching buffer/equilibration
 
-    *   SEC-MALS-SAXS setup needs long equilibration (6h to overnight), which
+    *   SEC-MALS-SAXS setup needs long equilibration (6 h to overnight), which
         precludes too many buffer exchanges during a single run.
 
     *   Split buffer in half so both inlet A and B can pump buffer. Be prepared
@@ -129,7 +129,7 @@ Collection Workflow
             *   Do not have the HPLC and wash pump connected to the capillary at
                 the same time
 
-            *   Connect capillary to hamilton syringe pump (on desktop) and press wash
+            *   Connect capillary to Hamilton syringe pump (on desktop) and press wash
 
             *   When done, capillary can be reconnected to the HPLC (red outlet 1 line)
 

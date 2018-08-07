@@ -32,7 +32,7 @@ The "Second Stalk" of ATP Synthase: Dimerization Domain Structure
                 domain of b\ :sub:`2`, derived from the crystal structure of the
                 b\ :sub:`62-122` monomer and SAXS of the solution dimer, is shown to the
                 right of the ATP synthase holoenzyme. The alanines that define
-                the undecad repeat, characteristic of a right-handed coiledcoil,
+                the undecad repeat, characteristic of a right-handed coiled coil,
                 are in green.
 
     .. -------------------------------------------------------------------------
@@ -72,7 +72,7 @@ The "Second Stalk" of ATP Synthase: Dimerization Domain Structure
         hydrophobic residues in the monomer are arranged in a strip
         along the helix surface and assumed that this strip constitutes
         the dimer interface. Because the strip moves around the helix
-        in a right-handed sense, the model for the dimer has a righthanded
+        in a right-handed sense, the model for the dimer has a right handed
         superhelical twist.
 
         A parallel, two-stranded, right-handed coiled-coil has never

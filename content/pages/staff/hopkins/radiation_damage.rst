@@ -31,7 +31,7 @@ of high-brightness fourth-generation sources, understanding, quantifying and ult
 minimizing radiation damage in biological SAXS will be essential to efficient use and
 full exploitation of these sources. The last few years has seen an uptick in interest and
 publications about radiation damage in SAXS, showing that the community in general is
-aware that this is an important topic to undestand.
+aware that this is an important topic to understand.
 
 My work has focused on ways to quantify and prevent radiation damage in samples, and
 trying to better understand the fundamental physical and chemical mechanisms of

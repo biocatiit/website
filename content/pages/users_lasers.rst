@@ -56,6 +56,6 @@ Explanation of terms:
 
 *   Paper work at BioCAT
 
-    After completing ESH-120 at APS user office, you need to sigh the laser
-    trainning form provided by BioCAT staff before using the laser on site.
+    After completing ESH-120 at APS user office, you need to sign the laser
+    training form provided by BioCAT staff before using the laser on site.
 

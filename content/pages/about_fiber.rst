@@ -40,7 +40,7 @@ divergence of the undulator source and the independent horizontal and vertical
 focusing of our optics simultaneously allows small beam spots at the sample
 and at the detector that can be varied over a wide range. The high X-ray flux
 of this instrument (~2.0 x 10\ :sup:`13` photons/s) permits dynamic experiments on
-these systems with a high time-resolution (sub-milli-second).
+these systems with a high time-resolution (sub-millisecond).
 
 The available sample-to-detector lengths range from 0.2 to 9 m to cover a
 very large range of reciprocal space and the CCD detector has very flexible
@@ -75,7 +75,7 @@ be associated with neurodegenerative disease.
 Capabilities for X-ray Fiber Crystallography
 ===============================================
 
-Fiber crystallography experiments use either the focussed main beam or the output
+Fiber crystallography experiments use either the focused main beam or the output
 of one of our two Compound Refractive Lenses (CRL's). The first of these has a
 focal length of 1.8 m and a spot size at the focus of 23 x 4 μm\ :sup:`2` with a flux
 of ~2 x 10\ :sup:`12` photons/s. The second CRL has a focal length of 50 cm with a focal
@@ -124,6 +124,6 @@ rig designed for whole rodent and frog leg muscles with electrical stimulation
 with a high power muscle stimulator (Aurora Scientific 701B). Also available are
 fast shutters, capable of 0.5 ms exposures, various storage oscilloscopes for
 measuring timing. For remote controlled solution exchange we have four Hamilton
-Microlab 500 series dual syringe pumps equipped with multiway valves. We also
+Microlab 500 series dual syringe pumps equipped with multi-way valves. We also
 have one Aurora 600A (Linux based) and one Aurora 605 A (windows based) AD/DA
 data acquisition and control systems.
