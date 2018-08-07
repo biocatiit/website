@@ -5,7 +5,7 @@
 You need to know the first order resolution needed and the highest resolution
 needed in order to have interpretable data for your system. Then the task is to
 select a camera length and a size that allows both of these to be achieved. To
-make this simple, please use our X-Ray Tools Q Calculator.
+make this simple, please use our `Q Calculator <{filename}/pages/tools_qcalc.rst>`_.
 
 Enter the X-ray energy in KeV (all experiments are usually done at 12 keV) and a
 trial camera length in mm. Knowing the dimensions of the backstop and the detector

@@ -37,6 +37,7 @@
         *   `MuscleX <http://musclex.readthedocs.io>`_
         *   `FIT2D <http://www.esrf.fr/computing/scientific/FIT2D/>`_
         *   `CCP13 software for small angle scattering <http://www.diamond.ac.uk/Instruments/Soft-Condensed-Matter/small-angle/SAXS-Software/CCP13.html>`_
+        *   `Q Calculator <{filename}/pages/tools_qcalc.rst>`_
 
     .. column::
         :width: 6
