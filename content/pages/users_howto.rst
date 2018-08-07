@@ -10,10 +10,10 @@ experiments.
 
 These descriptions should help you to decide if our facility can support your
 research. However, it is strongly recommended that---prior to visiting BioCAT---
-you discuss your experiment with the User Liaison for your technique after
-reading these descriptions. In this way, your experiment can be tailored to our
-facility so that you spend less time assembling and debugging your set-up and
-more time taking high-quality data.
+you discuss your experiment with the `User Liaison <{filename}/pages/contact.rst>`_
+for your technique after reading these descriptions. In this way, your experiment
+can be tailored to our facility so that you spend less time assembling and
+debugging your set-up and more time taking high-quality data.
 
 
 Small- and Wide-Angle Fiber-Diffraction (includes muscle diffraction)

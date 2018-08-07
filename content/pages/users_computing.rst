@@ -8,14 +8,14 @@ of your data for your personal use. At the present time, you must copy all data
 that you generate during your visit to a sufficiently large storage device before
 your departure.
 
-We recommend a USB 3, >=1 TB, external hard drive, as these are now widely
+We recommend a USB 3 1 TB external hard drive, as these are now widely
 available and reasonably priced. You may also use your personal laptop; however,
 the amount of data you collect may be large, and the size of most laptop hard-drives
 is relatively small.
 
 When you arrive at BioCAT, your work will require the use of our desktop computers
 for data collection and analysis. As a User, you may not install any software on
-BioCAT computers without the consent of the BioCAT System Administrator.
+BioCAT computers without the consent of the `BioCAT System Administrator <{filename}/pages/contac.rst>`_.
 
 You may use our local network for your personal computing with your computing
 devices (data analysis, emails, network browsing). Our network supports DHCP,

@@ -15,27 +15,155 @@ equipment, fabrication and testing areas and a large granite table for
 assembling optics. We have access to a well-equipped machine shop at IIT
 with one machinist. Argonne Central Shops (with a satellite shop on site
 at the APS) can handle larger jobs. The Advanced Photon Source has a
-well-equippedmetrology shop which we use to characterize mirror and
+well-equipped metrology shop which we use to characterize mirror and
 multilayer optics. For animal care we have access to the Animal Housing
 Facility in the Engineering Research Building at IIT.
 
+
+Biochemistry Lab
+=================
+
+The Biochemistry Lab is a well-equipped facility for sample preparation work.
+We have all of the equipment needed for the on-site purification of proteins.
+We ask that any special requirements be discussed with the Scientific Contact
+well in advance of the experiment to determine feasibility and time requirements.
+As a User, you have a safety obligation to label any tubes or containers that
+you use or generate with a descriptive, but brief, label of the contents of
+that vessel. Label should include:
+
+*   biological or chemical content
+*   concentration
+*   date
+*   initials
+
+
+Our freezers and refrigerators are for short-term use only. Please dispose
+of/ship back to your home institution any tubes, solutions, or samples that
+you generate while at BioCAT. Those items left in our facility will be purged
+as part of ongoing maintenance.
+
+If you are seeking use of our Wet-Lab and are not conducting a **current
+experiment as a BioCAT User with scheduled beamtime and a posted ESAF**, you
+must get explicit permission from the Biochemistry Lab Manager, `Mark Vukonich <{filename}/pages/contact.rst>`_,
+before using the BioCAT Wet-Lab. Also, a "Wet-Lab Only" ESAF must be approved
+and posted by beamline staff. **No equipment or materials in the BioCAT Wet-Lab
+may be removed, "borrowed," or moved from the BioCAT Wet-Lab.** Any unauthorized
+personel who are spotted in our Wet-lab, without an approved ESAF, will be in
+violation of serious safety and security policies at the APS and we will
+present the matter to the Floor-Coordinators and the heads of Safety and
+Security at the APS.
+
+BioCAT does provide a lot of the basic materials and chemicals that one would
+require to prepare a sample for a routine setup. However, specialized chemicals,
+instrumentation, tools, and filtering apparatus not found on this page should be
+supplied by the User. If you wish to ship chemicals or equipment to BioCAT
+consult our `shipping page <{filename}/pages/users_shipping.rst>`_.
+
+It is expected that the user group will furnish their own consumables and will
+make arrangements for any hazardous waste generated while at BioCAT.
+
+Available instrumentation:
+
+.. row::
+
+    .. column::
+        :width: 6
+
+        *   Malvern DLS Nano-S
+        *   Cary 50 UV-Vis Spec
+        *   BioTek Eon Plate Reader/microspectrophotometer
+        *   Eppindorf 5415R Microfuge
+        *   Eppindorf 5415C Microfuge
+        *   Sorvall Swing-bucket Centrifuge (15 & 50 mL adaptors)
+        *   Beckman J-25 Centrifuge with JA-20.1 rotor
+        *   Beckman TLX Ultra-Centrifuge with TLA-100.3 rotor
+        *   Beckman Airfuge
+        *   Isotemp 210 Water bath
+        *   Isotemp 3006 Circulating bath
+
+    .. column::
+        :width: 6
+
+        *   Stemi 2000 and SV6 stereo microscopes
+        *   Nikon Diaphot brightfield/phase/epifluorescence inverted microscope
+        *   AKTA FPLC, fractionator, and columns (separate from SEC-SAXS)
+        *   4°C, -20°C, -80°C Short-term Storage
+        *   Branson sonifier 450
+        *   Sonicator bath
+        *   Denver instruments electronic balances
+        *   Micro and standard pH electrodes
+        *   Pipet-aid cordless pipettor
+        *   Glassware
+        *   Chemical fume hood
+
+Available consumables:
+
+*   Glass and plastic pipettes
+*   1.5, 5, 15, and 50 mL tubes
+*   Deionized water
+*   Acetone
+*   Ethanol
 
 .. row::
 
     .. -------------------------------------------------------------------------
     .. column::
-        :width: 3
+        :width: 4
 
         .. thumbnail::
 
-            .. image:: {filename}/images/conf.jpg
+            .. image:: {filename}/images/wetlab/IMAG2289.jpg
                 :class: img-rounded
+                :target: {filename}/images/wetlab/IMAG2289.jpg
 
-            .. caption::
+    .. -------------------------------------------------------------------------
+    .. column::
+        :width: 4
 
-                :h4:`Biochemistry Lab`
+        .. thumbnail::
 
-            .. button:: Learn More
-                :class: primary block
-                :target: {filename}/pages/wetlab.rst
+            .. image:: {filename}/images/wetlab/IMAG2290.jpg
+                :class: img-rounded
+                :target: {filename}/images/wetlab/IMAG2290.jpg
 
+    .. -------------------------------------------------------------------------
+    .. column::
+        :width: 4
+
+        .. thumbnail::
+
+            .. image:: {filename}/images/wetlab/IMAG2291.jpg
+                :class: img-rounded
+                :target: {filename}/images/wetlab/IMAG2291.jpg
+
+.. row::
+
+    .. -------------------------------------------------------------------------
+    .. column::
+        :width: 4
+
+        .. thumbnail::
+
+            .. image:: {filename}/images/wetlab/IMAG2292.jpg
+                :class: img-rounded
+                :target: {filename}/images/wetlab/IMAG2292.jpg
+
+    .. -------------------------------------------------------------------------
+    .. column::
+        :width: 4
+
+        .. thumbnail::
+
+            .. image:: {filename}/images/wetlab/IMAG2294.jpg
+                :class: img-rounded
+                :target: {filename}/images/wetlab/IMAG2294.jpg
+
+    .. -------------------------------------------------------------------------
+    .. column::
+        :width: 4
+
+        .. thumbnail::
+
+            .. image:: {filename}/images/wetlab/IMAG2295.jpg
+                :class: img-rounded
+                :target: {filename}/images/wetlab/IMAG2295.jpg

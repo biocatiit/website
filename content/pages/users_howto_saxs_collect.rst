@@ -10,8 +10,8 @@ Protein Preparation Methods
 
 *   Protein purity ensured by a mandatory SEC step in the end of checked by DLS, SDS-PAGE etc.
 
-*   Protein concentration for SAXS "rule of thumb": Concentration ≥ 100/MW. i.e.
-    50 kDaprotein, optimal concentration ≥ 100/50=2 mg/ml.
+*   Protein concentration for SAXS "rule of thumb": Concentration (mg/ml) ≥ 100/MW. i.e.
+    50 kDa protein, optimal concentration ≥ 100/50=2 mg/ml.
 
     *   For SEC-SAXS, take dilution ratio (~3X) of SEC columns into consideration.
     *   Typically prepare at least 500ul of > 5mg/ml.
@@ -52,7 +52,7 @@ SAXS Collection Method
 
     #.  Superose 6 10/300 (MW < 5,000,000 Da)
 
-*   Quartz capillary flow-cell is 1.5 mm in diameter with a 10 um wall
+*   Quartz capillary flow-cell is 1.5 mm in diameter with a 10 µm wall
 
 *   0.5-1 s exposure every 2-3 seconds
 
@@ -60,7 +60,7 @@ SAXS Collection Method
 
 *   Data recorded on Pilatus3 1M (Dectris) detector at a sample-to-detector
     distance of ~3.5 m. This covers a momentum transfer range of ~ 0.005 Å\ :sup:`-1` <
-    q < 0.4 Å\ :sup:`-1` (see raw \*.dat file for determining this for your specific data)
+    q < 0.4 Å\ :sup:`-1` (see \*.dat file for determining this for your specific data)
 
 *   Data usually collected at room temperature (discuss more specific needs
     with beamline personnel).
@@ -118,8 +118,8 @@ Collection Workflow
 
     *   Preparing your sample
 
-        *   Samples are injected from vials. 250 - 350 ul will be injected, but
-            fill vials to ~50 ul more than the injection volume (900 ul is the upper
+        *   Samples are injected from vials. 250 - 350 µl will be injected, but
+            fill vials to ~50 µl more than the injection volume (900 µl is the upper
             limit).
 
     *   Washing the system
@@ -176,7 +176,7 @@ Computer Workflow: SAXS
 =========================
 
 *   On the data collection and analysis computer, in the remote desktop to the
-    computer called Rodin, setup the labview program that records the
+    computer called Rodin, set up the labview program that records the
     intensity of the incident and transmitted x-ray beams. Beamline personnel
     will give you detailed instructions for how to do this before the start
     of the experiment.

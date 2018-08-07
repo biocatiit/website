@@ -28,8 +28,9 @@
     arrangement of proteins in muscle and tendons. It may be used to understand
     human maladies such as heart disease and cancer.
 
-The design features of the BioCAT beam-line 18 ID and the unique source properties
-of the APS allow collection of fiber diffraction patterns of exceptional quality
+The `design features <{filename}/pages/about_beamline.rst>`_ of the BioCAT
+beamline 18ID and the `source properties of the APS <http://ops.aps.anl.gov/SRparameters/SRparameters.html>`_
+allow collection of fiber diffraction patterns of exceptional quality
 from complex, weakly diffracting biological systems within very short exposure
 times. The small focal spots achievable with this instrument (~30 x 150 μm\ :sup:`2`)
 have allowed excellent discrimination of fine detail in fiber patterns from

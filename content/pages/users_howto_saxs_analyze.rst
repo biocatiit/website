@@ -97,8 +97,8 @@ SAXS Processing Method
         EMAN2 <http://bioxtas-raw.readthedocs.io/en/latest/tutorial/s2_denss.html>`_
 
 *   For more on what RAW can do, see the full tutorial:
-    https://bioxtas-raw.readthedocs.io/en/latest/tutorial.html
-    and tutorial videos: https://bioxtas-raw.readthedocs.io/en/latest/videos.html
+    `tutorial <http://bioxtas-raw.readthedocs.io/en/latest/tutorial.html>`_
+    and `tutorial videos <http://bioxtas-raw.readthedocs.io/en/latest/videos.html>`_
 
 *   Alternatively, you can use Primus or Scatter for the processing described above,
     except for the electron density reconstruction.

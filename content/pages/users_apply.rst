@@ -8,30 +8,30 @@ listing of the eleven things you need to do---from start to finish---to acquire,
 use, and complete time at BioCAT. Please also check the
 `APS new user checklist <http://www.aps.anl.gov/Users-Information/Getting-Started/User-Checklist>`_.
 
-#.  Discuss Your Proposed Experiment with Us
+#.  `Discuss Your Proposed Experiment with Us <{filename}/pages/contact.rst>`_
 
-    Our facility is very flexible and can accomodate most experiments that fall within
-    our supported techniques. We strongly encourage you to discuss your experiment with
-    the user liaison for your technique. This will save a lot of time assembling and
-    debugging your set-up giving you more time to acquire high-quality data once you've
-    arrived.
+    Our facility is very flexible and can accomodate most experiments that
+    fall within our `supported techniques <{filename/pages/about_biocat>`_.
+    We strongly encourage you to discuss your experiment with the `user liaison <{filename}/pages/contact.rst>`_
+    for your technique. This will save a lot of time assembling and
+    debugging your set-up giving you more time to acquire high-quality data
+    once you've arrived.
 
 #.  `Register as an APS Experimenter ("User") <https://beam.aps.anl.gov/pls/apsweb/ufr_main_pkg.usr_start_page>`_
 
     The Advanced Photon Source resides within Argonne National Laboratory which is a
     controlled-access facility. This step initiates the process for granting access to
-    ANL, as well as, the process for ensuring that safety and compliance requirements are met.
+    ANL, as well as, the process for ensuring that `safety and compliance
+    <{filename}/pages/users_safety.rst>`_ requirements are met.
 
-#.  `Submit a Proposal <https://www.aps.anl.gov/Users-Information/About-Proposals/Apply-for-Time>`_
+#.  `Submit a Proposal <http://www.aps.anl.gov/Users-Information/About-Proposals/Apply-for-Time>`_
 
     The primary mechanism for access to BioCAT is through the APS General User Program. Further
     information on classes of experiments, allocation of time by category, and the proposal
-    review process is avaliable in the BioCAT Beamline Allocation Policy.
+    review process is avaliable `from the APS <http://www.aps.anl.gov/Users-Information/About-Proposals/Apply-for-Time>`_.
 
-    Users with active proposals wishing time in the next run should complete the APS Request for
-    Additional Beamtime Form. Specific instructions are found on the APS "GUP System Instructions"
-    page under "Part V: How Do I Request Additional Time?"
-
+    Users with active proposals wishing time in the next run should complete follow
+    the directions for a Returning Proposer on the `APS website <http://www.aps.anl.gov/Users-Information/About-Proposals/Apply-for-Time>`_.
 
 #.  `Complete the Experiment Safety Assessment Form (ESAF) <http://beam.aps.anl.gov/pls/apsweb/esaf0001.start_page>`_
 
@@ -43,7 +43,7 @@ use, and complete time at BioCAT. Please also check the
     abbreviations with the exception of "DNA" and "RNA")
 
     If your experiment does not involve any of the hazards listed below, submitting the ESAF
-    two weeks before your scheduled beam time should provide enough time for its review and
+    **two weeks** before your scheduled beam time should provide enough time for its review and
     possible revision. Please visit our Safety & Compliance page for further instructions.
 
     Please submit your ESAF far enough in advance to resolve any safety issues so that your experiment
@@ -54,7 +54,7 @@ use, and complete time at BioCAT. Please also check the
     There are a number of hazards which will require a more detailed (and, therefore, prolonged) review
     before access can be granted:
 
-    *   Bio-Hazardous Materials
+    *   `Bio-Hazardous Materials <http://www.anl.gov/safety/biosafety>`_
 
         Experiments utilizing any of the following items will have to be coordinated far
         in advance with your Scientific Contact, Mark Vukonich (BioCAT BSO), and Nena Moonier
@@ -75,7 +75,7 @@ use, and complete time at BioCAT. Please also check the
         three months; so consult with your Scientific Contact for IBC application instructions
         well in advance if you think your experiment might require the approval of the IBC.
 
-    *   Lasers
+    *   `Lasers <{filename}/pages/users_lasers.rst>`_
 
         Use of any other than a class I laser requires additional ANL-supplied training. You
         will need to schedule a few hours to complete this training. In addition, use of a
@@ -84,18 +84,19 @@ use, and complete time at BioCAT. Please also check the
         begin. A class IV laser will require all operators to have an ANL-approved off-site
         eye examination.
 
-    *   Electrical Equipment
+    *   `Electrical Equipment <http://www.aps.anl.gov/Safety-and-Training/Safety/Electrical-Safety>`_
 
         All electrical equipment which is not certified by a Nationally Recognized Testing
         Laboratory (NRTL) (such as Underwriters Laboratories) or is modified will need to be
-        inspected before it may be used at the APS. A listing of approved NRTLs is provided here.
+        inspected before it may be used at the APS. A listing of approved NRTLs is
+        `provided here <https://www.osha.gov/dts/otpca/nrtl/>`_.
 
-#.  `Arrange for Shipping <https://www.aps.anl.gov/Safety-and-Training/Safety/Shipping/Shipping-Samples-and-Equipment-An-Introduction>`_
+#.  `Arrange for Shipping <{filename}/pages/users_shipping.rst>`_
 
     Please be aware that the transportation of many materials is regulated by the US
     Department of Transportation as well as ANL. Failure to comply with DOT regulations
     can result in heavy fines. Failure to comply with ANL regulations can result in loss
-    of access to the facility. Please visit our Safety & Compliance webpage for further details.
+    of access to the facility.
 
 #.  Establish a "User Account"
 
@@ -111,10 +112,10 @@ use, and complete time at BioCAT. Please also check the
     and `BioCAT <{filename}/pages/users_safety.rst>`_ will require certain
     training and orientation sessions to be taken before you may proceed with
     your experiment. These sessions will be determined by the ESAF process.
-    Some of these are avaliable on-line. Please visit our `Safety and Compliance <{filename}/pages/users_safety.rst>`_
-    webpage for further details.
+    Some of these are avaliable on-line. Please visit our `Safety and
+    Compliance <{filename}/pages/users_safety.rst>`_ webpage for further details.
 
-#.  Observe Beam-Line Etiquette
+#.  Observe Beamline Etiquette
 
     Please, while you're here:
 
@@ -132,12 +133,11 @@ use, and complete time at BioCAT. Please also check the
         holders before your experiment is ready to begin the debugging phase.
 
     *   Keep your work areas as orderly and free of debris as possible.
-    *   Collect Your Data
+    *   `Collect Your Data <{filename}/pages/users_computing>`_
 
         It is now becoming more and more common for experiments to generate tens of gigabytes
         of data. Please be prepared to collect this data so that you can transmit it to your
-        home institution. You may bring DVDs which you may burn on a sequestered, networked
-        computer or bring a USB hard-drive which you may connect to this same computer. BioCAT
+        home institution. We recommend a USB 3 1 TB external hard-drive. BioCAT
         is not supported to supply experimenters with storage media.
 
     *   Relinquish the facilities at the appointed time.
@@ -155,13 +155,14 @@ use, and complete time at BioCAT. Please also check the
 #.  Publish Your Results
 
     When you publish your results, be sure to
-    `properly acknowledge the APS and BioCAT <{filename}/pages/users.rst#user-pubs>`_,
+    `properly acknowledge the APS and BioCAT <{filename}/pages/users_publications.rst>`_,
     and notify both the APS and BioCAT of such publications. Peer-reviewed publications
     are are the primary measure of scientific output. Properly documented publications insure
     that funds are avaliable to continue operating the facility.
 
 #.  Refine Your Experiment
 
-    Most of our experimenters return for subsequent experiments. Keep in touch with your user
-    liaison and follow through on proposed modifications to your experiment. It is very important
-    that ideas for improving your experiment are not lost between visits.
+    Most of our experimenters return for subsequent experiments. Keep in
+    touch with your  `user liaison <{filename}/pages/contact.rst>`_ and
+    follow through on proposed modifications to your experiment. It is very
+    important that ideas for improving your experiment are not lost between visits.

@@ -29,7 +29,8 @@ and, by law, all publications resulting from NIH support must adhere to the
     source of NIH funding. If you do not receive additional NIH support, you
     must attach your submission to the BioCAT grant: P41 GM103622 Thomas C. Irving PI.
 
-In addition to the above, publications resulting from work performed at BioCAT are required to display the following acknowledgements:
+In addition to the above, publications resulting from work performed at BioCAT are
+required to display the following acknowledgements:
 
     This research used resources of the Advanced Photon Source, a U.S. Department
     of Energy (DOE) Office of Science User Facility operated for the DOE Office

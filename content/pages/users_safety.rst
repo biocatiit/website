@@ -5,9 +5,10 @@
 
 BioCAT regards safety to be of central importance. No experiment or operation
 will be permitted at the facility if it poses a significant safety risk.
-BioCAT's general safety policies are detailed in our Environment, Safety, and
-Health Plan. For specific experiments, the APS safety review process has been
-instituted to minimize the exposure to hazards.
+BioCAT's general safety policies are detailed in our `Environment, Safety, and
+Health Plan <http://pinky.bio.aps.anl.gov/staffwiki/BioCATESHPlan>`_. For
+specific experiments, the APS safety review process has been instituted to
+minimize the exposure to hazards.
 
 Before arriving at BioCAT, please look at the following links:
 

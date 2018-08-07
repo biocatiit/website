@@ -6,9 +6,9 @@ MuscleX: Muscle X-ray Diffraction Workshop Wrap-Up
 :slug: musclex-workshop-wrapup
 :authors: BioCAT
 
-.. image:: {filename}/images/Audience2.jpg
+.. image:: {filename}/images/news/Audience2.jpg
     :class: img-reactive
-    :target: {filename}/images/Audience2.jpg
+    :target: {filename}/images/news/Audience2.jpg
 
 The MuscleX workshop was a great success with 63 registered attendees!
 
@@ -53,9 +53,9 @@ The MuscleX workshop was a great success with 63 registered attendees!
 
         .. thumbnail::
 
-            .. image:: {filename}/images/MuscleXspeakers.JPG
+            .. image:: {filename}/images/news/MuscleXspeakers.JPG
                 :class: img-rounded, img-reactive
-                :target: {filename}/images/MuscleXspeakers.JPG
+                :target: {filename}/images/news/MuscleXspeakers.JPG
 
     .. -------------------------------------------------------------------------
     .. column::
@@ -63,9 +63,9 @@ The MuscleX workshop was a great success with 63 registered attendees!
 
         .. thumbnail::
 
-            .. image:: {filename}/images/MassimoiReeconditi.JPG
+            .. image:: {filename}/images/news/MassimoiReeconditi.JPG
                 :class: img-rounded, img-reactive
-                :target: {filename}/images/MassimoiReeconditi.JPG
+                :target: {filename}/images/news/MassimoiReeconditi.JPG
 
 .. row::
 
@@ -75,9 +75,9 @@ The MuscleX workshop was a great success with 63 registered attendees!
 
         .. thumbnail::
 
-            .. image:: {filename}/images/JesseHopkins.JPG
+            .. image:: {filename}/images/news/JesseHopkins.JPG
                 :class: img-rounded, img-reactive
-                :target: {filename}/images/JesseHopkins.JPG
+                :target: {filename}/images/news/JesseHopkins.JPG
 
     .. -------------------------------------------------------------------------
     .. column::
@@ -85,9 +85,9 @@ The MuscleX workshop was a great success with 63 registered attendees!
 
         .. thumbnail::
 
-            .. image:: {filename}/images/VickyYuan.JPG
+            .. image:: {filename}/images/news/VickyYuan.JPG
                 :class: img-rounded, img-reactive
-                :target: {filename}/images/VickyYuan.JPG
+                :target: {filename}/images/news/VickyYuan.JPG
 
 .. row::
 
@@ -97,6 +97,6 @@ The MuscleX workshop was a great success with 63 registered attendees!
 
         .. thumbnail::
 
-            .. image:: {filename}/images/WeikangMa.JPG
+            .. image:: {filename}/images/news/WeikangMa.JPG
                 :class: img-rounded, img-reactive
-                :target: {filename}/images/WeikangMa.JPG
+                :target: {filename}/images/news/WeikangMa.JPG

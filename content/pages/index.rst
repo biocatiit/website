@@ -167,7 +167,7 @@
 
         .. thumbnail::
 
-            .. image:: {filename}/images/Audience2.jpg
+            .. image:: {filename}/images/news/Audience2.jpg
                 :class: img-rounded
 
             .. caption::
@@ -211,16 +211,19 @@
 
                 .. thumbnail::
 
-                    .. image:: {filename}/images/conf.jpg
+                    .. image:: {filename}/images/news/riback_award.jpg
                         :class: img-rounded
 
                     .. caption::
 
-                        :h4:`MuscleX Workshop at the Myofilament Conference`
+                        :h4:`BioCAT user Joshua Riback wins Rosland Franklin
+                        Investigator Award`
 
-                        The first BioCAT MuscleX workshop will take place at the
-                        6th Biennial Myofilament Conference in Madison Wi on 5/23/2018.
+                        Joshua Riback, a BioCAT user in his fifth year of graduate
+                        studies at the University of Chicago, was recognized for
+                        his work using SEC-SAXS at BioCAT to study biophysical
+                        interactions.
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/pages/about_facility.rst
+                        :target: {filename}/news/2018_riback_award.rst

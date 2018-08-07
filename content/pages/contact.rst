@@ -43,7 +43,6 @@
         SAXS:
 
         *   Srinivas Chakravarthy
-        *   Jesse Hopkins
 
     .. -------------------------------------------------------------------------
     .. column::
@@ -58,9 +57,9 @@
             Safety:
 
             *   Mark Vukonich - General, Biological and Chemical
-
             *   Tom Irving - General
             *   Rick Heurich - Electrical
+            *   Weikang Ma - Laser
 
             Computing:
 

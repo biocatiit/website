@@ -13,7 +13,7 @@ active area, one can find the optimal camera length for your application by adju
 it in the application by trial and error.
 
 BioCAT provides `several area detectors <{filename}/pages/about_detectors.rst>`_
-for these experiments. Most users use either Pilatus or Mar detector.
+for these experiments. Most users use either Pilatus or MAR detector.
 
 For small angle fiber diffraction experiments, the available range of camera
 lengths go from approximately 1 to 9 m with 2-3 m being the most commonly used

@@ -24,8 +24,8 @@ Checklist for SAXS sample preparation
     #.  Concentration: >5 mg/ml for proteins; 1-2 mg/ml for MALS only, Batch-
         mode SAXS - dilution series leading up to a maximum concentration of ~
         2mg/ml (could be higher for especially small proteins).
-    #.  Minimum volume: SEC-MALS-SAXS / SEC-SAXS - 350 uL, Batch-mode SAXS -
-        140ul per concentration (at least three concentrations in the dilution
+    #.  Minimum volume: SEC-MALS-SAXS / SEC-SAXS - 250 µL, Batch-mode SAXS -
+        100 µl per concentration (at least three concentrations in the dilution
         series)
 
 #.  Quality control: Pre-examination before X-ray scattering (Monodispersity)

@@ -2,6 +2,8 @@
 :category: about
 :slug: detectors
 
+.. image:: {filename}/images/about_detectors.jpg
+    :class: img-responsive
 
 The beamline has an array of detectors to enable different experiments. Below are listed
 the types and specific detectors routinely available at the beamline. BioCAT
