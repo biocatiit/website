@@ -15,7 +15,7 @@ is relatively small.
 
 When you arrive at BioCAT, your work will require the use of our desktop computers
 for data collection and analysis. As a User, you may not install any software on
-BioCAT computers without the consent of the `BioCAT System Administrator <{filename}/pages/contac.rst>`_.
+BioCAT computers without the consent of the `BioCAT System Administrator <{filename}/pages/contact.rst>`_.
 
 You may use our local network for your personal computing with your computing
 devices (data analysis, emails, network browsing). Our network supports DHCP,

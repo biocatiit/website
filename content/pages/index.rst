@@ -106,7 +106,28 @@
             .. button:: Learn More
                 :class: primary block
                 :target: {filename}/scihi/2017_sosnick_highlight.rst
+
         .. row::
+
+            .. -------------------------------------------------------------------------
+            .. column::
+                :width: 6
+
+                .. thumbnail::
+
+                    .. image:: {filename}/images/scihi/2018_heartImage.jpg
+                        :class: img-rounded
+
+                    .. caption::
+
+                        :h3:`Shining X-ray Light on Heart Disease`
+
+                        A new study reveals that the MYL2 protein may be used as a
+                        target for new drugs designed to treat dilated cardiomyopathy disease.
+
+                    .. button:: Learn More
+                        :class: primary block
+                        :target: {filename}/scihi/2018_heart_disease.rst
 
             .. -------------------------------------------------------------------------
             .. column::
@@ -130,31 +151,6 @@
                     .. button:: Learn More
                         :class: primary block
                         :target: {filename}/scihi/2017_chd1.rst
-
-
-            .. -------------------------------------------------------------------------
-            .. column::
-                :width: 6
-
-                .. thumbnail::
-
-                    .. image:: {filename}/images/scihi/2017_SosnickPNAS.jpg
-                        :class: img-rounded
-
-                    .. caption::
-
-                        :h4:`Perplexing cooperative folding and stability of a
-                        low-sequence complexity, polyproline 2 protein lacking a
-                        hydrophobic core`
-
-                        By examining a protein lacking a hydrophobic core, a new study
-                        explores the origins of cooperativity and stability in protein
-                        folding, including the balance between solvent and polypeptide
-                        chain entropies.
-
-                    .. button:: Learn More
-                        :class: primary block
-                        :target: {filename}/scihi/2017_sosnick.rst
 
 
     .. -------------------------------------------------------------------------

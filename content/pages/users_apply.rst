@@ -133,7 +133,7 @@ use, and complete time at BioCAT. Please also check the
         holders before your experiment is ready to begin the debugging phase.
 
     *   Keep your work areas as orderly and free of debris as possible.
-    *   `Collect Your Data <{filename}/pages/users_computing>`_
+    *   `Collect Your Data <{filename}/pages/users_computing.rst>`_
 
         It is now becoming more and more common for experiments to generate tens of gigabytes
         of data. Please be prepared to collect this data so that you can transmit it to your

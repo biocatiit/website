@@ -34,7 +34,7 @@
 
         .. thumbnail::
 
-            .. image:: {filename}/images/conf.jpg
+            .. image:: {filename}/images/detector_thumbnail.jpg
                 :class: img-rounded
 
             .. caption::

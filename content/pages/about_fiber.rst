@@ -17,7 +17,7 @@
     .. column::
         :width: 6
 
-        .. image:: {filename}/images/SAXS_camera.jpg
+        .. image:: {filename}/images/porcine_cardiac_pattern.jpg
                 :class: img-responsive
                 :align: center
                 :height: 300 px
@@ -52,25 +52,25 @@ resolution studies and mapping amyloid structures in brain tissues that may
 be associated with neurodegenerative disease.
 
 
-*   References
+References:
 
-    *   Books:
+*   Books:
 
-        *   J. M. Squire, The Structural Basis of Muscle Diffraction, Plenum,
-            New York, 1981. (out of print but in many libraries. Good introduction
-            to principles of fiber diffraction)
-        *   \B. K. Vainstein, X-ray Diffraction from Chain Molecules, Elsevier, 1966.
-        *   C. Cantor and P. Schimmel, Biophysical Chemistry part II: Techniques
-            for the study of Biological Structure and Function Chapter 14. Freeman, 1980.
+    *   J. M. Squire, The Structural Basis of Muscle Diffraction, Plenum,
+        New York, 1981. (out of print but in many libraries. Good introduction
+        to principles of fiber diffraction)
+    *   \B. K. Vainstein, X-ray Diffraction from Chain Molecules, Elsevier, 1966.
+    *   C. Cantor and P. Schimmel, Biophysical Chemistry part II: Techniques
+        for the study of Biological Structure and Function Chapter 14. Freeman, 1980.
 
-    *   Reviews:
+*   Reviews:
 
-        *   Chandrasekaran, R. and Stubbs, G., “Fibre diffraction,” International
-            Tables for Crystallography, Vol. F: Crystallography of Biological
-            Macromolecules (Rossman, M.G. and Arnold, E., eds.), Kluwer Academic
-            Publishers, The Netherlands, 444-450 (2001).
-        *   Stubbs G., “Developments in fiber diffraction,” Curr. Opin. Struct.
-            Biol., 9, 615-9. (1999)
+    *   Chandrasekaran, R. and Stubbs, G., “Fibre diffraction,” International
+        Tables for Crystallography, Vol. F: Crystallography of Biological
+        Macromolecules (Rossman, M.G. and Arnold, E., eds.), Kluwer Academic
+        Publishers, The Netherlands, 444-450 (2001).
+    *   Stubbs G., “Developments in fiber diffraction,” Curr. Opin. Struct.
+        Biol., 9, 615-9. (1999)
 
 Capabilities for X-ray Fiber Crystallography
 ===============================================
