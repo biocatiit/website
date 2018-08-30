@@ -163,18 +163,19 @@
 
         .. thumbnail::
 
-            .. image:: {filename}/images/news/Audience2.jpg
+            .. image:: {filename}/images/news/biosaxs_everything1_announce.jpg
                 :class: img-rounded
 
             .. caption::
 
-                :h3:`MuscleX Workshop Wrap-Up`
+                :h3:`Register now for 'Everything BioSAXS' workshop`
 
-                The MuscleX workshop was a great success with 63 registered attendees!
+                BioCAT is running our annual BioSAXS workshop from November 5th
+                to 8th. Registration is now open!
 
             .. button:: Learn More
                 :class: primary block
-                :target: {filename}/news/musclex_wrapup.rst
+                :target: {filename}/news/2018_everything_biosaxs1.rst
 
         .. row::
 
@@ -182,23 +183,20 @@
             .. column::
                 :width: 6
 
-
                 .. thumbnail::
 
-                    .. image:: {filename}/images/news/musclex.png
+                    .. image:: {filename}/images/news/Audience2.jpg
                         :class: img-rounded
 
                     .. caption::
 
-                        :h4:`MuscleX Workshop`
+                        :h3:`MuscleX Workshop Wrap-Up`
 
-                        The first BioCAT MuscleX workshop will take place at the
-                        6th Biennial Myofilament Conference in Madison Wi on 5/23/2018.
+                        The MuscleX workshop was a great success with 63 registered attendees!
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/news/musclex.rst
-
+                        :target: {filename}/news/2018_musclex_wrapup.rst
 
             .. -------------------------------------------------------------------------
             .. column::

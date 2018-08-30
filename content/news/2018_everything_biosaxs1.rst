@@ -17,7 +17,7 @@ Everything BioSAXS 1: Getting started in biological small-angle x-ray solution s
             Students will have a day and a half of lectures and hands-on
             software tutorials on the basics of BioSAXS data collection and
             processing from expert practitioners in the field. This will be
-            followed by real data collection on the BioCAT beamline (Sector 18
+            followed by data collection on the BioCAT beamline (Sector 18
             at the APS) and data analysis help. Students are encouraged to bring
             1-2 research samples for the data collection.
 
@@ -29,8 +29,12 @@ Everything BioSAXS 1: Getting started in biological small-angle x-ray solution s
 
         .. thumbnail::
 
-            .. image:: {filename}/images/news/riback_award.jpg
+            .. image:: {filename}/images/news/biosaxs_everything1_announce.jpg
                 :class: img-rounded
+
+            .. caption::
+
+                Students at the BioCAT BioSAXS course in 2016.
 
 
 How to register
@@ -104,6 +108,7 @@ Speakers:
 *   Srinivas Chakravarthy (BioCAT, APS)
 *   Xiaobing Zhu (Sector 12, APS)
 *   Tobin Sosnick (U. Chicago)
+*   Wei-Jen Tang (U. Chicago)
 *   Lokesh Gakhar (U. Iowa)
 
 Tentative schedule
@@ -113,7 +118,7 @@ Tentative schedule
 
 .. class:: table-hover
 
-    ======== =======================================================================================================
+    ======== =========================================================================================================
     08:00 am Registration, breakfast (provided)
     08:30 am SAXS overview: what it is and why you should do it
     09:00 am Planning and performing SAXS experiments I: In your lab
@@ -129,11 +134,11 @@ Tentative schedule
     02:15 pm Advanced topics 1: Time-resolved SAXS
     03:00 pm Advanced topics 2: Mixtures and complexes
     03:45 pm Break
-    04:00 pm Advanced topics 3: SAXS and cryoEM (and other complimentary methods)
+    04:00 pm Integrative Structural Approaches for Studying Human Insulin Degrading Enzyme - Wei-Jen Tang (U. Chicago)
     04:45 pm Advanced topics 4: Flexible systems and intrinsically disordered proteins
-    05:15 pm Preparation for student beamtime
+    05:30 pm Preparation for student beamtime
     06:00 pm End of Monday lectures
-    ======== =======================================================================================================
+    ======== =========================================================================================================
 
 :h4:`Tuesday 11/5/18`
 

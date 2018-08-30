@@ -2,6 +2,8 @@
 :category: about
 :slug: beamline
 
+.. image:: {filename}/images/about_beamline.jpg
+    :class: img-responsive
 
 The BioCAT undulator beamline 18ID at the Advanced Photon Source, although
 now over 20 years old, remains a state-of-the-art instrument for biological small

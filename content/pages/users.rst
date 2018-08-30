@@ -38,7 +38,7 @@ continue operating the BioCAT facility.
 
         .. thumbnail::
 
-            .. image:: {filename}/images/conf.jpg
+            .. image:: {filename}/images/apply_for_time_thumbnail.jpg
                 :class: img-rounded
 
             .. caption::
@@ -55,7 +55,7 @@ continue operating the BioCAT facility.
 
         .. thumbnail::
 
-            .. image:: {filename}/images/conf.jpg
+            .. image:: {filename}/images/publication_thumbnail.jpg
                 :class: img-rounded
 
             .. caption::
@@ -90,7 +90,7 @@ continue operating the BioCAT facility.
 
         .. thumbnail::
 
-            .. image:: {filename}/images/conf.jpg
+            .. image:: {filename}/images/how_to_thumbnail.jpg
                 :class: img-rounded
 
             .. caption::

@@ -17,7 +17,7 @@
 
         .. thumbnail::
 
-            .. image:: {filename}/images/conf.jpg
+            .. image:: {filename}/images/beamline_thumbnail.jpg
                 :class: img-rounded
 
             .. caption::
@@ -51,7 +51,7 @@
 
         .. thumbnail::
 
-            .. image:: {filename}/images/conf.jpg
+            .. image:: {filename}/images/other_facilities_thumbnail.jpg
                 :class: img-rounded
 
             .. caption::
