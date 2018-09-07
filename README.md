@@ -7,23 +7,18 @@ is designed with a mobile-first approach.
 
 ## Cloning
 
-The repository contains two submodules, themes which links to the pelican-themes
-github repostitory and plugins which links to the pelican-plugins github repository.
-In order to get the contents of these submodules when you clone the repository
-you should use the command:
+Clone the repository using:
 
 ```
-git clone --recurse-submodules
+git clone <gihub_url>
 ```
 
-If you've already cloned it with a standard clone command, you can use
-
+The github URL can be obtained by clicking on the 'Clone or download' button
+near the top of the main page for the repository. Currently the command would look
+like this:
 ```
-git submodule init
-git submodule update
+git clone https://github.com/biocatiit/website.git
 ```
-
-to get contents of the submodules.
 
 ## Building
 
@@ -37,14 +32,35 @@ python modules, for example you can:
 pip install pelican Markdown typogrify beautifulsoup4
 ```
 
-### Build and dispaly the html (pelican/python)
+### Build and display the html (make)
 
-Once those modules are installed, in the top level of the repository (the
-directory containing the contents directory) you can build the website simply
-by running
+The best approach for development purposes is to use make to build and
+display the html. In the top level of the repository, run
+```
+make devserver
+```
+
+This displays the website at [http://localhost:8000/](http://localhost:8000/).
+
+The make command will both build the source and serve it up, and it continuously rebuilds
+the website when you make changes. This way you can make changes to your
+document and then just refresh the local page in your browser to see the results
+of those changes. To stop the devserver run
+```
+./develop_server.sh stop
+```
+
+If the make command doesn't work for you (for example you don't have the make
+utility installed), see the next section.
+
+### Build and display the html (pelican/python)
+
+An alternative way you can build the website is to run the following command in
+the top level of the repository directory:
 ```
 pelican -d
 ```
+
 This writes the output html files to the output directory.
 
 To display the output locally (for testing and development), cd into the
@@ -52,24 +68,10 @@ output directory and run
 ```
 python -m SimpleHTTPServer
 ```
+
 This displays the website at [http://localhost:8000/](http://localhost:8000/).
 (note: this is the python 2 way, python 3 requires a different command)
 
-### Build and display the html (make)
-
-Probably the best approach for development purposes is to use make to build and
-display the html. If you run
-```
-make devserver
-```
-
-This will both build the source and serve it up, as well as continuously rebuilding
-the website when you make changes. This way you can make changes to your
-document and then just refresh the local page in your browser to see the results
-of those changes. To stop the devserver run
-```
-./develop_server.sh stop
-```
 
 ## Notes about image formats
 
