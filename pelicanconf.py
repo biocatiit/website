@@ -37,7 +37,7 @@ LOAD_CONTENT_CACHE = False
 USE_FOLDER_AS_CATEGORY = True
 
 
-THEME = "./themes/pelican-bootstrap3"
+THEME = "./themes/biocat-mod-pelican-bootstrap3"
 BOOTSTRAP_THEME = 'sandstone'
 
 # BANNER = './images/conf.jpg'
