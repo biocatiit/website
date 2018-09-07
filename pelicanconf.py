@@ -20,7 +20,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 PLUGIN_PATHS = ['./plugins']
-PLUGINS = ['bootstrap-rst', 'i18n_subsites', 'render_math',]
+PLUGINS = ['bootstrap-rst', 'i18n_subsites', 'render_math', 'tipue_search']
 
 JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n'],
@@ -62,6 +62,8 @@ DELETE_OUTPUT_DIRECTORY = True
 TYPOGRIFY = True
 
 HIDE_SIDEBAR = True
+
+DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives', 'search')
 
 
 # Tell Pelican to change the path to 'static/custom.css' in the output dir

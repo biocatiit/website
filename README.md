@@ -34,7 +34,7 @@ based, so you need to have python installed. In addition to python, in order to 
 the website from the source, first install the pelican, markdown, and typogrify
 python modules, for example you can:
 ```
-pip install pelican Markdown typogrify
+pip install pelican Markdown typogrify beautifulsoup4
 ```
 
 ### Build and dispaly the html (pelican/python)
