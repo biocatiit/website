@@ -175,7 +175,7 @@
 
             .. button:: Learn More
                 :class: primary block
-                :target: {filename}/news/2018_everything_biosaxs1.rst
+                :target: {filename}/news/2018_everything_biosaxs4.rst
 
         .. row::
 

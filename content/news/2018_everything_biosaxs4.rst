@@ -1,9 +1,9 @@
-Everything BioSAXS 1: Getting started in biological small-angle x-ray solution scattering
+Everything BioSAXS 4: Getting started in biological small-angle x-ray solution scattering
 ##########################################################################################
 
 :date: 2018-09-10
 :category: news
-:slug: everything-biosaxs-1
+:slug: everything-biosaxs-4
 :authors: BioCAT
 
 .. row::
