@@ -93,21 +93,45 @@
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/2017_sosnick_highlight.jpg
+            .. image:: {filename}/images/scihi/2018_super_relaxed_myosin.png
                 :class: img-rounded
 
             .. caption::
 
-                :h3:`Proteins May Prevent Dysfunction and Disease by Relaxing`
+                :h3:`A Super-relaxed Myosin State to Offset Hypertrophic Cardiomyopathy`
 
-                A new study suggests many proteins remain expanded in the cell,
-                rather than contracting into tight folded shapes.
+                Researchers investigated the stabilizing action of mavacamten,
+                a cardiac drug currently in phase 3 clinical trials, on the
+                ß-cardiac myosin super-relaxed state and its possible therapeutic
+                effects on HCM.
 
             .. button:: Learn More
                 :class: primary block
-                :target: {filename}/scihi/2017_sosnick_highlight.rst
+                :target: {filename}/scihi/2018_super_relaxed_myosin.rst
 
         .. row::
+
+            .. -------------------------------------------------------------------------
+            .. column::
+                :width: 6
+
+
+                .. thumbnail::
+
+                    .. image:: {filename}/images/scihi/2018_human_estrogen.png
+                        :class: img-rounded
+
+                    .. caption::
+
+                        :h4:`Structure of the Human Estrogen Receptor`
+
+                        Researchers obtain new structural insights into human
+                        estrogen receptor α, which plays a critical role in cell
+                        growth and cancer metastasis
+
+                    .. button:: Learn More
+                        :class: primary block
+                        :target: {filename}/scihi/2018_human_estrogen.rst
 
             .. -------------------------------------------------------------------------
             .. column::
@@ -120,7 +144,7 @@
 
                     .. caption::
 
-                        :h3:`Shining X-ray Light on Heart Disease`
+                        :h4:`Shining X-ray Light on Heart Disease`
 
                         A new study reveals that the MYL2 protein may be used as a
                         target for new drugs designed to treat dilated cardiomyopathy disease.
@@ -128,30 +152,6 @@
                     .. button:: Learn More
                         :class: primary block
                         :target: {filename}/scihi/2018_heart_disease.rst
-
-            .. -------------------------------------------------------------------------
-            .. column::
-                :width: 6
-
-
-                .. thumbnail::
-
-                    .. image:: {filename}/images/scihi/2017_Chd1.jpg
-                        :class: img-rounded
-
-                    .. caption::
-
-                        :h4:`The Chd1 Chromatin Remodeler Shifts Nucleosomal DNA
-                        Bidirectionally as a Monomer`
-
-                        A new study illuminates the method of of nucleosome sliding
-                        by chromatin remodlers. This is an essential part of processes
-                        like replication, transcription, and DNA repair.
-
-                    .. button:: Learn More
-                        :class: primary block
-                        :target: {filename}/scihi/2017_chd1.rst
-
 
     .. -------------------------------------------------------------------------
     .. column::
@@ -190,7 +190,7 @@
 
                     .. caption::
 
-                        :h3:`MuscleX Workshop Wrap-Up`
+                        :h4:`MuscleX Workshop Wrap-Up`
 
                         The MuscleX workshop was a great success with 63 registered attendees!
 

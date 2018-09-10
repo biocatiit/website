@@ -30,7 +30,7 @@
 
         .. thumbnail::
 
-            .. image:: {filename}/images/conf.jpg
+            .. image:: {filename}/images/facility_thumbnail.jpg
                 :class: img-rounded
 
             .. caption::

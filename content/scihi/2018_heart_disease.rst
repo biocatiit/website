@@ -1,7 +1,7 @@
 Shining X-ray Light on Heart Disease
 #####################################
 
-:date: 2018-08-13
+:date: 2018-03-06
 :tags: user highlight; science highlight
 :category: science
 :slug: heart-disease
@@ -50,6 +50,7 @@ Shining X-ray Light on Heart Disease
 
         See:
         Yuan CC, Kazmierczak K, Liang J, Zhou Z, Yadav S, Gomes AV, Irving TC,
-        Szczesna-Cordary D. Sarcomeric perturbations of myosin motors lead to dilated
-        cardiomyopathy in genetically modified MYL2 mice. Proc Natl Acad Sci USA.
-        2018 Mar 6;115(10):E2338-E2347. doi: 10.1073/pnas.1716925115. Epub 2018 Feb 20.
+        Szczesna-Cordary D. `Sarcomeric perturbations of myosin motors lead to dilated
+        cardiomyopathy in genetically modified MYL2 mice. <http://www.pnas.org/content/115/10/E2338.short>`_
+        Proc Natl Acad Sci USA. 2018 Mar 6;115(10):E2338-E2347. doi:
+        10.1073/pnas.1716925115. Epub 2018 Feb 20.

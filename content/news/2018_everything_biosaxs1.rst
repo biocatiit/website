@@ -1,7 +1,7 @@
 Everything BioSAXS 1: Getting started in biological small-angle x-ray solution scattering
 ##########################################################################################
 
-:date: 2018-08-28
+:date: 2018-09-10
 :category: news
 :slug: everything-biosaxs-1
 :authors: BioCAT
@@ -13,7 +13,7 @@ Everything BioSAXS 1: Getting started in biological small-angle x-ray solution s
 
         .. lead::
 
-            BioCAT is offering its third intensive HOW-TO course in BioSAXS.
+            BioCAT is offering its fourth intensive HOW-TO course in BioSAXS.
             Students will have a day and a half of lectures and hands-on
             software tutorials on the basics of BioSAXS data collection and
             processing from expert practitioners in the field. This will be
@@ -97,10 +97,12 @@ in parallel with the data collection, but it is not a formal tutorial.
 
 While BioCAT supports SEC-SAXS, SEC-MALS-SAXS, and batch mode SAXS, due to
 time constraints students will be limited to only SEC-SAXS data collection. Please
-send your buffer requirements (pH range, salt concentration and other additives)
+send your buffer requirements (pH, salt concentration and other additives)
 to Jesse Hopkins (jhopkins1@iit.edu) so we can try to minimize buffer changes
 during the course. We may ask you if you can accommodate slightly different pH and
-salt concentration in order to combine samples with similar buffers.
+salt concentration in order to combine similar buffers. Please contact Srinivas
+Chakravarthy (schakrav11@gmail.com) with any questions about samples or sample
+preparation.
 
 Speakers:
 
