@@ -7,15 +7,15 @@
     :align: center
 
 .. lead::
-    Most proteins can not be crystallized. For those proteins, it is possible to
-    study their structure by analyzing the manner in which they scatter X-rays.
-    This technique is used to study how the proteins and nucleic acids in our cells
-    function as “molecular machines.”
+    A significant number of proteins can not be crystallized. For those proteins,
+    it is possible to acquire valuable structural information (size and shape)
+    by analyzing the manner in which they scatter X-rays known as Small Angle
+    X-ray Scattering (SAXS). This technique is used to study how the macromolecules
+    in our cells  interact with each other and function as “molecular machines.”
 
-Small-angle x-ray scattering (SAXS) is a widely used technique for the
-measurement of the radius of gyration (Rg) and the electron pair distance
-distribution function (P(r)), as well as for ab initio modeling of
-low-resolution molecular envelopes of macromolecules in solution.
+Basic information obtained from the typical SAXS experiment is radius of gyration (Rg)
+and the electron pair distance distribution function (P(r)), which in turn can be
+used to generate ab initio low-resolution molecular envelopes of macromolecules in solution.
 
 
 Equilibrium SAXS
@@ -23,13 +23,12 @@ Equilibrium SAXS
 
 The BioCAT standard experimental set-up includes a Pilatus 1M detector from
 Dectris (Switzerland) and a camera of 3.5 m sample-to-detector distance to
-access a range of momentum transfer, q, from ~0.004 to 0.35 Å\ :sup:`-1`. This range
+access a range of momentum transfer, q, from ~0.004 to 0.38 Å\ :sup:`-1`. This range
 of q allows not only accurate determination of radius of gyration, but also
 detailed modeling using ab initio and rigid body approaches. A temperature controlled
 quartz capillary (1.5 mm ID, 1.52 mm OD) flow cell is used for sample measurement.
 
-The BioCAT
-beamline provides the following three modes of equilibrium SAXS.
+The BioCAT beamline provides the following three modes of equilibrium SAXS.
 
 SEC-SAXS
 ^^^^^^^^^
@@ -43,7 +42,8 @@ states immediately before flowing through the capillary for X-ray exposure.
 
 BioCAT provides an AKTA Pure FPLC with two pumps, column and loop valves, and a
 multi-wavelength UV detector. The beamline also has the following GE columns available
-for users, though users are encouraged to bring their own columns:
+for users, though users are encouraged to bring their own columns to address potential
+cross contamination and reproducibility issues:
 
 *   Superdex 200 Increase, both 10/300 and 5/150 (MW ~10-600 kDa)
 *   Superdex 75, both 10/300 and 5/150 (MW ~3-70 kDa)
@@ -54,13 +54,17 @@ SEC-MALS-SAXS
 
 .. _sec-mals-saxs:
 
-BioCAT also provides a data collection mode where SEC is coupled to both SAXS
-and to MALS, DLS, and RI. The additional light scattering detectors provide
+BioCAT also provides a data collection mode where SEC is coupled to MALS (multi-angle
+light scattering), DLS (dynamic light scattering), and RI (refractive index) detectors
+in addition to the SAXS flow-cell. The additional light scattering detectors provide
 accurate measurement of molecular weight, which is often hard to determine via
-SAXS methods, and measurement of the radius of hydration which, in combination with
+SAXS methods. The measurement of the hydrodynamic radius in combination with
 Rg from SAXS, informs on the particle shape. SAXS and MALS-DLS-RI are measured on
-the same SEC elution, providing all of the sample prep benefits of SEC-SAXS
-and eliminating possible ambiguity about differences between non-identical SAXS
+the same SEC elution, which is split into 2 separate streams, one of which goes
+directly to the SAXS flow-cell and the other through the UV, MALS / DLS, and RI detectors
+in that order thus minimizing dilution due to a long fluid trajectory from the column
+to the SAXS flow-cell. This approach provides all of the sample prep benefits of SEC-SAXS
+and eliminates possible ambiguity about differences between non-identical SAXS
 and MALS-DLS measurements. Sample quality pre-requisites for this system are
 considerably more stringent than the simpler SEC-SAXS setup and the suitability
 of your sample must be determined through discussion with beamline personnel.

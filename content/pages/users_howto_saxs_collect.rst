@@ -6,15 +6,16 @@
 Protein Preparation Methods
 =============================
 
-*   Proteins purified over Ni affinity, heparin, Ion exchange, SEC columns etc.
+*   Proteins purified over affinity, heparin, ion exchange, SEC columns etc.
 
-*   Protein purity ensured by a mandatory SEC step in the end of checked by DLS, SDS-PAGE etc.
+*   Protein purity ensured by a mandatory SEC step at the end of purification and
+    subjected to well-known quality control measures (DLS, SDS-PAGE etc).
 
 *   Protein concentration for SAXS "rule of thumb": Concentration (mg/ml) ≥ 100/MW. i.e.
     50 kDa protein, optimal concentration ≥ 100/50=2 mg/ml.
 
     *   For SEC-SAXS, take dilution ratio (~3X) of SEC columns into consideration.
-    *   Typically prepare at least 500ul of > 5mg/ml.
+    *   Typically prepare at least 500 ul of > 5 mg/ml.
 
 *   Post SDS-PAGE gels and chromatograms in your sample data-sheet for sample
     quality check and future reference.
@@ -32,9 +33,8 @@ SAXS Collection Method
     be done but column back pressures will increase), up to 5 mM DTT (or 1-2
     mM TCEP)
 
-*   Inline Wyatt Technology WTC-030S5 (SN 0787), 0.8 ml/min elution rate (18 ml column)
-
-*   Columns for SEC-MALS-SAXS: Wyatt SEC column for MALS (ask Srinivas if you need specific column)
+*   Columns for SEC-MALS-SAXS: Wyatt SEC column for MALS (ask Srinivas if you
+    need specific column)
 
     #.  010S5 100Å (MW range 100-100,000 Da)
 
@@ -43,7 +43,7 @@ SAXS Collection Method
     #.  030S5 300Å (MW range 5,000-1,250,000 Da)
 
 *   Columns for SEC-SAXS: GE Healthcare SEC columns run at 0.75 ml/min elution rate
-    (24ml - column volume) and discuss with beamline personnel to determine the most
+    (24 ml - column volume) and discuss with beamline personnel to determine the most
     suitable column for your sample
 
     #.  Superdex 75 10/300 (MW < 75,000 Da)
@@ -76,7 +76,7 @@ Collection Work-flow
 
 *   Switching buffer/equilibration
 
-    *   SEC-MALS-SAXS setup needs long equilibration (6 h to overnight), which
+    *   SEC-MALS-SAXS setup needs long equilibration (~6 h to overnight), which
         precludes too many buffer exchanges during a single run.
 
     *   Split buffer in half so both inlet A and B can pump buffer. Be prepared
@@ -86,20 +86,22 @@ Collection Work-flow
     *   Change flow rate by 0.1 ml/min about every minute (after pressure levels
         out) as you stop the flow of one buffer and begin the flow of a new buffer.
 
-    *   Once back up to 0.8 ml/min, equilibrate for at least 6 more hours.
+    *   Once back up to 0.8-1 ml/min, equilibrate for at least 6 more hours.
 
-    *   If equilibrating overnight, ramp up to 0.8 ml/min and equilibrate at
-        that rate overnight
+    *   If equilibrating overnight, we can equilibrate at a lower speed overnight
+        (0.2 ml/min) and ramp up to operational flow-speed 2 hours before the experiment).
+        For 6 hr equilibration, ramp up to operational flow speed (0.8-1 ml/min)
+        right at the beginning.
 
-    *   Make sure you clean the flow cell for MALS/DLS in between buffers,
+    *   Make sure you clean the flow cell for the Optilab - T-rEX in between buffers,
         especially if there's more glycerol etc (anything that could change
-        refractive index).
+        refractive index) - this requires the "purge" button on the LED panel to be switched on.
 
-    *   ALSO: keep glycerol concentrations as low as possible (preferably 5%<).
+    *   ALSO: keep glycerol concentrations as low as possible (preferably <5%).
 
 *   Injecting sample and starting HPLC run
 
-    *   Each run will take about 22 minutes. Have samples ready (concentrate
+    *   Each run will take 18-23 minutes. Have samples ready (concentrate
         or dilute to appropriate concentration and spin down 10-15 minutes) so
         that near the end of one run you can
 
@@ -108,9 +110,15 @@ Collection Work-flow
         #.  Have the auto-sampler inject your sample just as the next run is
             about to start
 
-    *   Each run should be about done after 18 min - stop collecting SAXS data
+    *   Each run should be about done after ~15 min (may vary based on sample elution
+        profile and flow rate and usually signified by the integrated scattering
+        intensity coming back to baseline levels) - stop collecting SAXS data
         then and you will have 5 min to clean the capillary and put the new sample
         in the sample tray
+
+        *   If the integrated scattering intensity fails to come back to the baseline,
+            it is important to clean the SAXS cell more thoroughly, which involves
+            soaking the capillary for 5-10 min in 2% Hellmanex
 
         *   If you think you will be running late, time can be extended
 
@@ -131,10 +139,10 @@ Collection Work-flow
 
             *   Connect capillary to Hamilton syringe pump (on desktop) and press wash
 
-            *   When done, capillary can be reconnected to the HPLC (red outlet 1 line)
+            *   When done, capillary can be reconnected to the HPLC
 
-                *   Make sure tube is inserted all the way (will feel resistance)
-                    and screw lines together
+                *   Make sure tube connection is secure and check all unions for leaks before exiting the hutch.
+
 
                 *   **BE CAREFUL MANOUVERING THE PEEK TUBES CONNECTED TO THE
                     CAPILLARY AS THE CAPILLARY WALLS ARE 10 MICRON QUARTZ AND
@@ -149,13 +157,15 @@ Collection Work-flow
                 *   Create new sequence file, type number of samples and name them
 
                 *   Set the sample property 1) name, 2) choose method (MALS-dRI-SAXS),
-                    3) set time (22 mins) for each sample
+                    3) set time (18-23 mins depending on flow rate) for each sample
 
             *   In Chemstation (Agilent's HPLC software):
 
                 *   Use the sample entry window to select positions in sample tray and name them
 
                 *   Set the method SEC_constflow for each sample
+
+                *   Make sure the sample volume is appropriate and make necessary changes before starting the program.
 
         *   For each sample, put the vial in the proper position in the tray
             for that sample.
@@ -186,11 +196,11 @@ Computer Workflow: SAXS
     (next file) to 1. Make sure the name you type here matches the one entered
     in the labview program above.
 
-    *   **For the medm interface you have to click in box and leave mouse in box
+    *   **For the medm interface you have to click in box and leave cursor in box
         while typing. Must press enter before moving mouse. Make sure these
         fields are updated before you proceed with data acquisition!!!**
 
-    *   Once these things are updated, can start collecting data. This will
+    *   Once these things are updated, start data collection. This will
         open and close the shutter exposing the sample to x-rays for 0.5 to 1 s
         periods every 2-3 seconds. Do make sure the shutter allowing beam into
         hutch D is open before commencing data acquisition.
