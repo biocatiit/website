@@ -1,7 +1,7 @@
-Everything BioSAXS 4: Getting started in biological small-angle x-ray solution scattering
-##########################################################################################
+Register for Everything BioSAXS 4: Getting started in biological small-angle x-ray solution scattering
+######################################################################################################
 
-:date: 2018-09-10
+:date: 2018-09-17
 :category: news
 :slug: everything-biosaxs-4
 :authors: BioCAT
@@ -21,7 +21,7 @@ Everything BioSAXS 4: Getting started in biological small-angle x-ray solution s
             at the APS) and data analysis help. Students are encouraged to bring
             1-2 research samples for the data collection.
 
-            The course will take place from 11/5/18-11/8/18 at the APS (see
+            The course will take place from 11/5/18-11/7/18 at the APS (see
             schedule below for details).
 
     .. column::
@@ -46,14 +46,8 @@ How to register
 
 Registration is first come, first served, and limited to the first 15 participants
 due to time constraints on how many users can collect data during the course.
-To register e-mail Carrie Clark at mclark19@iit.edu, and include the
-following information:
+Participants can register here: https://secure.touchnet.com/C20090_ustores/web/store_main.jsp?STOREID=71&SINGLESTORE=true
 
-*   Full name
-*   Institution/organization
-*   Whether you intend to bring samples for data collection
-*   Whether you have been an APS user before
-*   Whether you have been a BioCAT user before
 
 Cost
 ^^^^^^
@@ -64,8 +58,8 @@ Lodging and Travel
 ^^^^^^^^^^^^^^^^^^^^
 
 Participants are responsible for their own lodging and travel. We recommend
-participants plan to arrive Sunday and leave Thursday morning. Rooms are
-available at the `Argonne Guest House <https://www.anlgh.org/>`_.
+participants plan to arrive Sunday (11/4) and leave Thursday morning (11/8).
+Rooms are available at the `Argonne Guest House <https://www.anlgh.org/>`_.
 
 More information
 ^^^^^^^^^^^^^^^^^
@@ -80,7 +74,7 @@ Course topics:
 *   Critical sample preparation and data collection procedures, including
     online size-exclusion chromatography (SEC-SAXS)
 *   Evaluating data quality
-*   Basic data processing including size (Rg, Dmax), molecular weight, the P(r)
+*   Basic data processing including size (R\ :sub:`g`, D\ :sub:`max`), molecular weight, the P(r)
     function, and real space reconstructions
 *   What you need to know for publication
 *   Overview of several advanced and emerging methods
@@ -142,7 +136,7 @@ Tentative schedule
     06:00 pm End of Monday lectures
     ======== =========================================================================================================
 
-:h4:`Tuesday 11/5/18`
+:h4:`Tuesday 11/6/18`
 
 .. class:: table-hover
 
@@ -161,7 +155,7 @@ Tentative schedule
 
 Additionally on Tuesday, data analysis help will be available from 1-6 pm.
 
-:h4:`Wednesday 11/5/18`
+:h4:`Wednesday 11/7/18`
 
 .. class:: table-hover
 
