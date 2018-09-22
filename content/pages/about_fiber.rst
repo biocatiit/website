@@ -29,7 +29,7 @@
     human maladies such as heart disease and cancer.
 
 The `design features <{filename}/pages/about_beamline.rst>`_ of the BioCAT
-beamline 18ID and the `source properties of the APS <http://ops.aps.anl.gov/SRparameters/SRparameters.html>`_
+beamline 18ID and the `source properties of the APS <https://ops.aps.anl.gov/SRparameters/SRparameters.html>`_
 allow collection of fiber diffraction patterns of exceptional quality
 from complex, weakly diffracting biological systems within very short exposure
 times. The small focal spots achievable with this instrument (~30 x 150 μm\ :sup:`2`)
