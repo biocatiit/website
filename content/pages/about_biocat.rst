@@ -12,7 +12,7 @@
 
     **Overview:**  The Biophysics Collaborate Access Team (BioCAT) is organized
     as a `National Institutes of Health(NIH) <http://www.nih.gov/>`_
-    `Biotechnology Research Resource <http://www.btrportal.org/>`_
+    `Biomedical Technology Resource <http://www.btrportal.org/>`_
     and is funded by the `National Institute of General Biomedical Sciences
     \(NIGMS) <http://www.nigms.nih.gov/>`_. Its primary research tool is a very high
     brightness X-ray beam-line at the `Advanced Photon Source (APS) <http://www.aps.anl.gov/>`_

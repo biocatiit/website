@@ -169,7 +169,7 @@ Staff
 
                     .. button:: Email
                         :class: primary block
-                        :target: mailto:mailto:heurich@bio.aps.anl.gov
+                        :target: mailto:heurich@bio.aps.anl.gov
 
                 .. column::
                     :width: 6

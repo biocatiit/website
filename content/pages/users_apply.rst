@@ -2,16 +2,18 @@
 :category: users
 :slug: applying-for-time
 
-
-Obtaining time at the BioCAT facility is a multiple-step process. Below is a
-listing of the eleven things you need to do---from start to finish---to acquire,
-use, and complete time at BioCAT. Please also check the
-`APS new user checklist <http://www.aps.anl.gov/Users-Information/Getting-Started/User-Checklist>`_.
+BioCAT is an NIH-supported Biotechnology Research Resource. Anyone can
+use the facility for free by putting in an application through the
+APS GUP program. These applications are reviewed on the basis of
+feasibility and scientific merit. Obtaining time at the BioCAT facility is a
+multiple-step process. Below is a listing of the eleven things you need to
+do---from start to finish---to acquire, use, and complete time at BioCAT.
+Please also check the `APS new user checklist <http://www.aps.anl.gov/Users-Information/Getting-Started/User-Checklist>`_.
 
 #.  `Discuss Your Proposed Experiment with Us <{filename}/pages/contact.rst>`_
 
     Our facility is very flexible and can accommodate most experiments that
-    fall within our `supported techniques <{filename/pages/about_biocat>`_.
+    fall within our `supported techniques <{filename}/pages/about_biocat.rst>`_.
     We strongly encourage you to discuss your experiment with the `user liaison <{filename}/pages/contact.rst>`_
     for your technique. This will save a lot of time assembling and
     debugging your set-up giving you more time to acquire high-quality data
@@ -128,14 +130,15 @@ use, and complete time at BioCAT. Please also check the
 
     *   Be patient.
 
-        Your experiment block includes time required for set-up. Unless otherwise arranged,
-        you should expect at least one shift to be used aligning optics and assembling sample
-        holders before your experiment is ready to begin the debugging phase.
+        Your experiment block includes time required for set-up. For non-standard
+        experiments,unless otherwise arranged, you should expect at least one shift
+        to be used aligning optics and assembling sample holders before your experiment
+        is ready to begin the debugging phase.
 
     *   Keep your work areas as orderly and free of debris as possible.
     *   `Collect Your Data <{filename}/pages/users_computing.rst>`_
 
-        It is now becoming more and more common for experiments to generate tens of gigabytes
+        It is now becoming more and more common for experiments to generate tens of GB
         of data. Please be prepared to collect this data so that you can transmit it to your
         home institution. We recommend a USB 3 1 TB external hard-drive. BioCAT
         is not supported to supply experimenters with storage media.
