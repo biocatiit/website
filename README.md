@@ -1,6 +1,6 @@
 # BioCAT Website
 
-This git contains the `BioCAT website <http://bio.aps.anl.gov>`_. The website is
+This git contains the [BioCAT website](http://bio.aps.anl.gov). The website is
 made using pelican, with the pelican-boostrap3 theme and the boostrap-rst plugins.
 
 ## Cloning
