@@ -1,9 +1,7 @@
 # BioCAT Website
 
-This git contains the (not-yet-released) BioCAT website. The website is
-made using pelican, with the pelican-boostrap3 theme and the boostrap-rst
-plugins. It represents a ground up redesign of the previous website, and
-is designed with a mobile-first approach.
+This git contains the BioCAT website. The website is made using pelican,
+with the pelican-boostrap3 theme and the boostrap-rst plugins.
 
 ## Cloning
 
@@ -26,7 +24,7 @@ git clone https://github.com/biocatiit/website.git
 
 The website is built using the pelican static site generator. This is python
 based, so you need to have python installed. In addition to python, in order to build
-the website from the source, first install the pelican, markdown, and typogrify
+the website from the source, first install the pelican, markdown, typogrify, and beautifulsoup
 python modules, for example you can:
 ```
 pip install pelican Markdown typogrify beautifulsoup4
