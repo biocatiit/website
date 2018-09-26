@@ -69,6 +69,7 @@ DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives', 'search')
 # Tell Pelican to change the path to 'static/custom.css' in the output dir
 EXTRA_PATH_METADATA = {
     'extra/custom.css': {'path': 'static/custom.css'},
+    'extra/favicon.ico': {'path': ''}
     # 'extra/business_cards/*'  :   {'path':'pages/business_cards/'}
     # 'extra/custom.js': {'path': 'static/js/custom.js'}
 }
@@ -81,7 +82,7 @@ CUSTOM_CSS = 'static/custom.css'
 INDEX_SAVE_AS = 'science_highlights.html'
 
 AUTHOR_SAVE_AS = ''
-TAG_SAVE_AS = ''
+TAG_SAVE_AS = 'tag/{slug}.html'
 TAGS_SAVE_AS = ''
 ARTICLE_URL = '{category}/{slug}.html'
 ARTICLE_SAVE_AS = '{category}/{slug}.html'

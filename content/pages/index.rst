@@ -93,21 +93,22 @@
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/2018_super_relaxed_myosin.png
+            .. image:: {filename}/images/scihi/2018_nebulin.jpg
                 :class: img-rounded
 
             .. caption::
 
-                :h3:`A Super-relaxed Myosin State to Offset Hypertrophic Cardiomyopathy`
+                :h3:`Unravelling the role of a "nebulous" protein`
 
-                Researchers investigated the stabilizing action of mavacamten,
-                a cardiac drug currently in phase 3 clinical trials, on the
-                ß-cardiac myosin super-relaxed state and its possible therapeutic
-                effects on HCM.
+                Nebulin is a protein important to muscle strength, as mutations can cause
+                the muscles in patients with nemaline myopathy disease to be weak,
+                little is known about how it works. Researchers investigated the function
+                of Nebulin in mice and found that it is necessary for generating
+                physiological levels of force.
 
             .. button:: Learn More
                 :class: primary block
-                :target: {filename}/scihi/2018_super_relaxed_myosin.rst
+                :target: {filename}/scihi/2018_nebulin.rst
 
         .. row::
 
@@ -139,19 +140,21 @@
 
                 .. thumbnail::
 
-                    .. image:: {filename}/images/scihi/2018_heartImage.jpg
+                    .. image:: {filename}/images/scihi/2018_super_relaxed_myosin.png
                         :class: img-rounded
 
                     .. caption::
 
-                        :h4:`Shining X-ray Light on Heart Disease`
+                        :h4:`A Super-relaxed Myosin State to Offset Hypertrophic Cardiomyopathy`
 
-                        A new study reveals that the MYL2 protein may be used as a
-                        target for new drugs designed to treat dilated cardiomyopathy disease.
+                        Researchers investigated the stabilizing action of mavacamten,
+                        a cardiac drug currently in phase 3 clinical trials, on the
+                        ß-cardiac myosin super-relaxed state and its possible therapeutic
+                        effects on HCM.
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/scihi/2018_heart_disease.rst
+                        :target: {filename}/scihi/2018_super_relaxed_myosin.rst
 
     .. -------------------------------------------------------------------------
     .. column::
