@@ -14,19 +14,49 @@ Before arriving at BioCAT, please look at the following links:
 
 *   `Shipping to BioCAT <{filename}/pages/users_shipping.rst>`_
 
+*   `Tips for filling out your ESAF <{filename}/pages/users_esaf.rst>`_
+
 *   `BioCAT Sector Orientation <{filename}/pages/users_orientation.rst>`_
 
     An overview of the safety issues found at our sector. This document is the
     basis for the walking tour of our facility that you will take once you arrive.
 
-*   `How to Transport Hazardous Materials <https://www.aps.anl.gov/Safety-and-Training/Safety/Using-Material-Samples/Transporting-Hazardous-Materials>`_
+Special Hazards
+=================
 
-    What chemicals may and may not be brought on-site without special arrangements.
-
-*   `Requirements for Using a Laser at BioCAT <{filename}/pages/users_lasers.rst>`_
+*   LASERS - `Requirements for Using a Laser at BioCAT <{filename}/pages/users_lasers.rst>`_
 
     If you bring a laser or plan on using one of ours, there are training and
     safety requirements you must satisfy.
+
+*   CHEMICALS -- `How to Transport Hazardous Materials <https://www.aps.anl.gov/Safety-and-Training/Safety/Using-Material-Samples/Transporting-Hazardous-Materials>`_
+
+    You may only ship/ bring those chemicals listed on your APPROVED safety paperwork (ESAF),
+    so please be complete. You must abide by all US DOT shipping regulations, so we advise
+    Users to utilize their institutional shipping department to ensure proper shipping.
+
+*   HIGH-PRESSURE VESSELS -- Requirements for Using High-Pressure at BioCAT
+
+    If you desire to use a device which produces pressure as part of your experiment,
+    Mark Vukonich needs to be made aware of this at least 2-weeks in advance and the
+    equipment description must be entered into the 'Equipment' Tab of your ESAF so
+    that we may check for the inclusion of pressure-relief valves and burst disks,
+    as well as, schedule an inspection.
+
+*   BIOHAZARDS -- Requirements for Doing a BSL Experiment at BioCAT
+
+    Any Users who wish to do an experiment involving whole viruses, whole bacteria,
+    or any human-derived samples (ie. protein, fluid, tissue, bone, etc) must first
+    consult with the BioCAT Safety Officer, Mark Vukonich. There is an Argonne Review
+    Process whereby experimental design, protocols, sample chambers must be submitted
+    and approved by a special committee, in addition to normal paperwork. Human
+    proteins experssed in bacterial systems are usually exempted, however, they
+    must be clearly labelled in the 'Materials' Tab of your ESAF as having been
+    made via a bacterial expression system.
+
+*   OTHER
+
+    If you are unsure, please ask!
 
 
 Safety links:
