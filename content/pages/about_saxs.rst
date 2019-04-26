@@ -16,6 +16,8 @@
 Basic information obtained from the typical SAXS experiment is radius of gyration (Rg)
 and the electron pair distance distribution function (P(r)), which in turn can be
 used to generate ab initio low-resolution molecular envelopes of macromolecules in solution.
+To learn more about designing and carrying out SAXS experiments at BioCAT see
+our `user guides <{filename}/pages/users_howto.rst>`_.
 
 
 Equilibrium SAXS
@@ -148,4 +150,5 @@ An in-line sample camera is located just after the guard slits, using a mirror
 with a 6 mm through hole for the x-ray beam. BioCAT also has two ISCO model
 500D and four Harvard Instrument model PHD 4400 programmable, high-pressure
 pumps for the continuous flow mixer project. Normalization of data is done using
-an ion chamber just downstream of the collimator slits.
+an `active beamstop which uses indirect detection on a photodiode
+<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4344362/>`_.

@@ -43,6 +43,11 @@
         SAXS:
 
         *   Srinivas Chakravarthy
+        *   Jesse Hopkins
+
+        Beamline:
+
+        *   Jesse Hopkins
 
     .. -------------------------------------------------------------------------
     .. column::

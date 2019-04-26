@@ -50,7 +50,7 @@
             </div>
 
             <div class="item">
-              <img src="/images/carousel/2016_Starling.jpg" alt="Science 3" style="width:100%">
+              <img src="/images/carousel/2016_Starling.jpg" alt="Frank-Starling Law" style="width:100%">
               <div class="carousel-caption">
                 <h3>Unearthing the Mechanism of the Frank-Starling Law</h3>
                 <p>Recent X-ray diffraction experiments show that the protein
@@ -93,22 +93,24 @@
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/2018_nebulin.jpg
+            .. image:: {filename}/images/scihi/2018_shp2_mutations.jpg
                 :class: img-rounded
 
             .. caption::
 
-                :h3:`Unravelling the role of a "nebulous" protein`
+                :h3:`A Target Mutation that Renders a Cancer Drug Ineffective`
 
-                Nebulin is a protein important to muscle strength, as mutations can cause
-                the muscles in patients with nemaline myopathy disease to be weak,
-                little is known about how it works. Researchers investigated the function
-                of Nebulin in mice and found that it is necessary for generating
-                physiological levels of force.
+                Mutations in the gene PTPN11, which encodes a common enzyme called SHP2,
+                can result in developmental disorders, such as Noonan Syndrome, and act
+                as oncogenic drivers in patients with certain blood cancers. Due to the
+                well understood role of the enzyme SHP2 in Noonan Syndrome and in tumorigenesis,
+                many companies are currently trying to develop drugs that inhibit the enzyme.
+                Researched investigated what impact mutations to SHP2 may have on the potential
+                efficacy of drugs targeting this enzyme.
 
             .. button:: Learn More
                 :class: primary block
-                :target: {filename}/scihi/2018_nebulin.rst
+                :target: {filename}/scihi/2018_SHP2_mutations.rst
 
         .. row::
 
@@ -116,6 +118,29 @@
             .. column::
                 :width: 6
 
+
+                .. thumbnail::
+
+                    .. image:: {filename}/images/scihi/2018_nebulin.jpg
+                        :class: img-rounded
+
+                    .. caption::
+
+                        :h4:`Unravelling the role of a "nebulous" protein`
+
+                        Nebulin is a protein important to muscle strength, as mutations can cause
+                        the muscles in patients with nemaline myopathy disease to be weak,
+                        little is known about how it works. Researchers investigated the function
+                        of Nebulin in mice and found that it is necessary for generating
+                        physiological levels of force.
+
+                    .. button:: Learn More
+                        :class: primary block
+                        :target: {filename}/scihi/2018_nebulin.rst
+
+            .. -------------------------------------------------------------------------
+            .. column::
+                :width: 6
 
                 .. thumbnail::
 
@@ -133,28 +158,6 @@
                     .. button:: Learn More
                         :class: primary block
                         :target: {filename}/scihi/2018_human_estrogen.rst
-
-            .. -------------------------------------------------------------------------
-            .. column::
-                :width: 6
-
-                .. thumbnail::
-
-                    .. image:: {filename}/images/scihi/2018_super_relaxed_myosin.png
-                        :class: img-rounded
-
-                    .. caption::
-
-                        :h4:`A Super-relaxed Myosin State to Offset Hypertrophic Cardiomyopathy`
-
-                        Researchers investigated the stabilizing action of mavacamten,
-                        a cardiac drug currently in phase 3 clinical trials, on the
-                        ß-cardiac myosin super-relaxed state and its possible therapeutic
-                        effects on HCM.
-
-                    .. button:: Learn More
-                        :class: primary block
-                        :target: {filename}/scihi/2018_super_relaxed_myosin.rst
 
     .. -------------------------------------------------------------------------
     .. column::

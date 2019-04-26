@@ -65,7 +65,7 @@ to enter the experimental enclosure.
 The experimental enclosure is 14 m long x 5 m wide x 3.3 m tall. The first
 2 m are taken up by the vertical collimation slits and the downstream
 support, which incorporates filter/shutter assemblies, and an ion chamber
-for the primary beam (I0) monitor. Following the vertical collimation slits
+for the primary beam (I0) monitor. Before the vertical collimation slits
 is a beryllium window. All components upstream of this window are under high
 vacuum (10\ :sup:`-7` – 10\ :sup:`-8` torr); thereafter, all components are in rough vacuum
 (10\ :sup:`-3` – 10\ :sup:`-4` torr). The downstream support moves all these components under
@@ -77,14 +77,13 @@ The beamline control software is based on the `Experimental Physics and
 Industrial Control System (EPICS) <http://www.aps.anl.gov/epics>`_ which
 is a distributed system using VME-based electronics with crate controllers
 running the proprietary real-time UNIX-like operating system VxWorks (Wind
-River Systems). User interface software communicates with the VME crates
-over Ethernet via the EPICS Channel Access (CA) protocol. The hardware is
-interfaced by reading and writing the fields in the EPICS databases using
-CA calls from a wide variety of programming languages. The beamline Graphical
-User Interface (GUI) is implemented using Tcl/Tk and Java menus as well as
-using the EPICS graphical control displays (MEDM). These controls are all
-portable between different operating systems. The portable beamline control
-software package MX (Lavender, 2000) is also supported.
+River Systems). Some equipment is run using The portable beamline control
+software package MX (Lavender, 2000). User interface software communicates
+over Ethernet via the EPICS Channel Access (CA) protocol or via MX servers.
+Beamline controls for EPICS are implemented using Tcl/Tk and Java menus as
+using the EPICS graphical control displays (MEDM). Other controls for MX
+and EPICS are written in python. These controls are all portable between
+different operating systems. Almost all user-facing controls are python GUIs.
 
 The beamline motors and data acquisition systems are controlled by four VME
 crates with Motorola MVME162FX controllers. The beamline motors were chosen
@@ -98,15 +97,19 @@ stepper motor controllers.
 
 For time resolved data acquisition there is a Struck 3820 multichannel
 histogramming scaler with 32 inputs. For conventional scans there is also a
-Joerger VCS16 scaler with 16 inputs and a voltage to frequency converter
-(Hytec VFC 2504, Hytec Electronics Ltd). External equipment (area detectors,
-shutters) can be interfaced to the control system using a digital I/O board
-(Acromag-9440) with 16 input and 16 output channels. To implement PID feedback
-control loops there is also an Acromag IP330 ADC with 16 inputs Systran DAC
-with 8 outputs. There are 8 current amplifiers (Keithley, model 42) which
-are interfaced through the RS232 ports on the beamline workstations. We have
-designed simulated EPICS servers for these devices so that they can be accessed
-from other computers in exactly the same way as the VME modules.
+Joerger VCS16 scaler with 16 inputs. There are two fast 100 MHz voltage to
+frequency (V to F) converters (V2F100, Quantum Detectors) and one slower 1 MHz V to F
+(Hytec VFC 2504, Hytec Electronics Ltd). Most fast experiments are controlled
+by two SRS DG645 pulse/delay generators (Stanford Research Systems), which together
+provide up to 8 controllable pulse outputs for controlling shutters, detectors,
+and other equipment.
+
+External equipment (area detectors, shutters) can be interfaced to the control
+system using a digital I/O board (Acromag-9440) with 16 input and 16 output channels.
+There are 8 current amplifiers (Keithley, model 42) which are interfaced through
+the RS232 ports on the beamline workstations. We have designed simulated EPICS
+servers for these devices so that they can be accessed from other computers
+in exactly the same way as the VME modules.
 
 Two XIA model PF2S2 filter assemblies contain a series of aluminum filters
 that allow at least 3 decades of beam attenuation (at 12 keV) as well as

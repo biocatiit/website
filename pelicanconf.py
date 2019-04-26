@@ -20,7 +20,11 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 PLUGIN_PATHS = ['./plugins']
-PLUGINS = ['bootstrap-rst', 'i18n_subsites', 'render_math', 'tipue_search']
+PLUGINS = ['bootstrap-rst',
+    'i18n_subsites',
+    'render_math',
+    'tipue_search',
+    ]
 
 JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n'],
@@ -91,3 +95,4 @@ ARCHIVES_SAVE_AS = ''
 GOOGLE_ANALYTICS = 'UA-104830878-3'
 
 GITHUB_URL = 'http://github.com/biocatiit/website'
+
