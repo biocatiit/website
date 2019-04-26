@@ -102,7 +102,7 @@ Speakers:
 
 *   Jesse Hopkins (BioCAT, APS)
 *   Srinivas Chakravarthy (BioCAT, APS)
-*   Xiaobing Zhu (Sector 12, APS)
+*   Xiaobing Zuo (Sector 12, APS)
 *   Tobin Sosnick (U. Chicago)
 *   Wei-Jen Tang (U. Chicago)
 *   Lokesh Gakhar (U. Iowa)

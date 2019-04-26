@@ -58,7 +58,7 @@
 
             *   Mark Vukonich - General, Biological and Chemical
             *   Tom Irving - General
-            *   Rick Heurich - Electrical
+            *   Rick Heurich - Electrical and Mechanical
             *   Weikang Ma - Laser
 
             Computing:

@@ -10,7 +10,7 @@
     systems under non-crystalline conditions similar to their functional
     states in living tissues.
 
-    **Overview:**  The Biophysics Collaborate Access Team (BioCAT) is organized
+    **Overview:**  The Biophysics Collaborative Access Team (BioCAT) is organized
     as a `National Institutes of Health(NIH) <http://www.nih.gov/>`_
     `Biomedical Technology Resource <http://www.btrportal.org/>`_
     and is funded by the `National Institute of General Biomedical Sciences

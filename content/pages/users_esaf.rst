@@ -31,15 +31,19 @@ Some important things to note/commonly confused items:
 
 *   Descriptions must be detailed and complete for the *'Description'* and *'Lab Use'*
     tabs of the ESAF.
-*   You must declare any electrical equipment that you will be bringing to the APS
-    as part of the proposed experiment. On the *'Equipment Tab'* of the ESAF click
-    'Bringing to APS' and Electrical if this applies to you.
+*   You must declare any electrical equipment that you will be bringing to the
+    APS as part of the proposed experiment. On the *‘Equipment Tab’* of the ESAF
+    click *‘Bringing to APS’* and Electrical if this applies to you and then
+    choose any Tab at the top of the page to force the *'Electrical Inspection'*
+    tab to appear. If you are bringing modified NRTL or non-NRTL equipment or
+    unsure NRTL check the appropriate boxes and fill in the *'List equipment
+    that will require an inspection'*.
 *   If you are a mail-in User for SAXS, you cannot select yourself as the
     *'OS'* (On-site Spokesperson). You must add Srinivas Chakravarthy to your
     ESAF as an experimenter and make him the OS.
 *   On the *'Materials Tab'* near the bottom-half of the web-page there is the question
     'Will you require to use beamline laboratory facilities to prepare samples or
-    perform other work ?' click 'Yes" if you intend on using our Wet-Lab to prepare
+    perform other work?' click 'Yes" if you intend on using our Wet-Lab to prepare
     your samples. A *'Lab Use'* tab will then be generated, which should be filled out.
 *   If you intend on bringing anyone from a foreign country to the APS you must begin
     the User application process 6 weeks in advance to make a time allowance for the
