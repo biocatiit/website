@@ -27,7 +27,7 @@ Everything BioSAXS 4 Workshop Wrap-Up
 
         .. thumbnail::
 
-            .. image:: {filename}/images/news/sas2018_group.JPG
+            .. image:: {filename}/images/news/2018_eb4_group.jpg
                 :class: img-rounded
 
             .. caption::

@@ -25,10 +25,19 @@ Equilibrium SAXS
 
 The BioCAT standard experimental set-up includes a Pilatus 1M detector from
 Dectris (Switzerland) and a camera of 3.5 m sample-to-detector distance to
-access a range of momentum transfer, q, from ~0.004 to 0.38 Å\ :sup:`-1`. This range
+access a range of momentum transfer, q, from ~0.004 to 0.36 Å\ :sup:`-1`. This range
 of q allows not only accurate determination of radius of gyration, but also
 detailed modeling using ab initio and rigid body approaches. A temperature controlled
-quartz capillary (1.5 mm ID, 1.52 mm OD) flow cell is used for sample measurement.
+quartz capillary (1.0 mm ID) flow cell with `coflow sample geometry <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5137223/>`_
+is used for SEC-SAXS and SEC-MALS-SAXS sample measurement. The coflow
+setup minimizes radiation damage on the sample, ensuring optimum signal to noise
+and baseline stability for consistently high quality data. For batch mode SAXS
+a temperature controlled quartz capillary (1.5 mm ID, 1.52 mm OD) flow cell
+is used for sample measurement.
+
+Note: Currently, switching between SEC-SAXS/SEC-MALS-SAXS and batch mode
+experiments takes ~1 shift and must be arranged with a beamline scientist
+prior to your beamtime.
 
 The BioCAT beamline provides the following three modes of equilibrium SAXS.
 
@@ -61,17 +70,16 @@ light scattering), DLS (dynamic light scattering), and RI (refractive index) det
 in addition to the SAXS flow-cell. The additional light scattering detectors provide
 accurate measurement of molecular weight, which is often hard to determine via
 SAXS methods. The measurement of the hydrodynamic radius in combination with
-Rg from SAXS, informs on the particle shape. SAXS and MALS-DLS-RI are measured on
-the same SEC elution, which is split into 2 separate streams, one of which goes
-directly to the SAXS flow-cell and the other through the UV, MALS / DLS, and RI detectors
-in that order thus minimizing dilution due to a long fluid trajectory from the column
-to the SAXS flow-cell. This approach provides all of the sample prep benefits of SEC-SAXS
-and eliminates possible ambiguity about differences between non-identical SAXS
-and MALS-DLS measurements. Sample quality pre-requisites for this system are
-considerably more stringent than the simpler SEC-SAXS setup and the suitability
-of your sample must be determined through discussion with beamline personnel.
+Rg from SAXS informs on the particle shape. SAXS and MALS-DLS-RI are measured on
+the same SEC elution, which goes through the UV, MALS/DLS, and RI detectors
+and then to the SAXS flow-cell. This approach provides all of the sample prep
+benefits of SEC-SAXS and eliminates possible ambiguity about differences between
+non-identical separate SAXS and MALS-DLS measurements. Sample quality pre-requisites for
+this system are considerably more stringent than the simpler SEC-SAXS setup and
+the suitability of your sample must be determined through discussion with beamline
+personnel.
 
-BioCAT provides an Agilent Infinity II HPLC, a Wyatt DAWN HELEOS II MALS+DLS
+BioCAT provides two Agilent Infinity II HPLCs each with a Wyatt DAWN HELEOS II MALS+DLS
 (17 channels LS, plus 1 DLS) detector, and a Wyatt Optilab T-rEX dRI detector.
 The beamline also has the following Wyatt columns available for users:
 
@@ -115,14 +123,14 @@ changes in the macromolecule.
 
 Laminar mixing utilizes hydrodynamic focusing to reduce the central flow channel
 to a narrow (typically ~0.1-10 µm) sheath. A version of this mixer is currently
-under development at BioCAT.  For chaotic/turbulent mixing, chaotic/turbulent
+under development at BioCAT. For chaotic/turbulent mixing, chaotic/turbulent
 flow breaks the solution into eddies small enough for reactants to diffuse
 rapidly. Chaotic/turbulent flow mixers have the advantage of being able to use
 all of the delivered photon flux in the X-ray beam for the best signal to noise
 ratio. The plug flow in this kind of mixer also makes the reaction time uniform
 orthogonally to the flow-direction thus making its incorporation into a SAXS camera
 quite straight forward. In its current iteration, the BioCAT mixer can access
-time regimes as low as 50µs and a complete experiment can be performed with
+time regimes as low as 50 µs and a complete experiment can be performed with
 as little as 10 mg of sample.
 
 Currently experiments are collaborations with beamline staff, and users are

@@ -93,7 +93,7 @@
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/2018_shp2_mutations.jpg
+            .. image:: {static}/images/scihi/2018_shp2_mutations.jpg
                 :class: img-rounded
 
             .. caption::
@@ -121,7 +121,7 @@
 
                 .. thumbnail::
 
-                    .. image:: {filename}/images/scihi/2018_nebulin.jpg
+                    .. image:: {static}/images/scihi/2018_nebulin.jpg
                         :class: img-rounded
 
                     .. caption::
@@ -144,7 +144,7 @@
 
                 .. thumbnail::
 
-                    .. image:: {filename}/images/scihi/2018_human_estrogen.png
+                    .. image:: {static}/images/scihi/2018_human_estrogen.png
                         :class: img-rounded
 
                     .. caption::
@@ -169,19 +169,19 @@
 
         .. thumbnail::
 
-            .. image:: {filename}/images/news/biosaxs_everything1_announce.jpg
+            .. image:: {static}/images/news/2018_eb4_group.jpg
                 :class: img-rounded
 
             .. caption::
 
-                :h3:`Register now for 'Everything BioSAXS' workshop`
+                :h3:`Everything BioSAXS 4 workshop wrap-up`
 
-                BioCAT is running our annual BioSAXS workshop from November 5th
-                to 8th. Registration is now open!
+                BioCAT ran its highly successful fourth annual BioSAXS workshop
+                in November 2018.
 
             .. button:: Learn More
                 :class: primary block
-                :target: {filename}/news/2018_everything_biosaxs4.rst
+                :target: {filename}/news/2018_everything_biosaxs4_wrapup.rst
 
         .. row::
 
@@ -191,18 +191,19 @@
 
                 .. thumbnail::
 
-                    .. image:: {filename}/images/news/Audience2.jpg
+                    .. image:: {static}/images/news/sas2018_group.JPG
                         :class: img-rounded
 
                     .. caption::
 
-                        :h4:`MuscleX Workshop Wrap-Up`
+                        :h4:`SAS2018 Advanced BioSAXS workshop a big success`
 
-                        The MuscleX workshop was a great success with 63 registered attendees!
+                        BioCAT co-organized and ran an international advanced
+                        BioSAXS workshop at the SAS2018 meeting in October 2018.
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/news/2018_musclex_wrapup.rst
+                        :target: {filename}/news/2018_sas2018_workshop.rst
 
             .. -------------------------------------------------------------------------
             .. column::
@@ -211,7 +212,7 @@
 
                 .. thumbnail::
 
-                    .. image:: {filename}/images/news/riback_award.jpg
+                    .. image:: {static}/images/news/riback_award.jpg
                         :class: img-rounded
 
                     .. caption::

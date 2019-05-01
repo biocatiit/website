@@ -28,6 +28,8 @@ Science Highlights
     BioCAT users and staff regularly produce excellent science that is `highlighted
     on this website </category/science.html>`_.
 
+Below is a gallery of a few of BioCAT's science highlights.
+
 .. class:: center
 
     .. raw:: html
@@ -36,7 +38,24 @@ Science Highlights
 
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
-            <div class="item active">
+          <div class="item active">
+              <img class="d-block w-100" src="/images/gallery/2018_shp2_mutations.jpg" alt="">
+              <div class="carousel-caption3">
+                <h3>A Target Mutation that Renders a Cancer Drug Ineffective</h3>
+                <p>Mutations in the gene PTPN11, which encodes a common enzyme
+                called SHP2, can result in developmental disorders, such as
+                Noonan Syndrome, and act as oncogenic drivers in patients with
+                certain blood cancers. Due to the well understood role of the
+                enzyme SHP2 in Noonan Syndrome and in tumorigenesis, many
+                companies are currently trying to develop drugs that inhibit
+                the enzyme. Researched investigated what impact mutations to
+                SHP2 may have on the potential efficacy of drugs targeting
+                this enzyme.</p>
+                <a href="/science/super-relaxed-myosin.html" class="btn btn-primary" role="button">Learn More</a>
+              </div>
+            </div>
+
+            <div class="item">
               <img class="d-block w-100" src="/images/gallery/2018_super_relaxed_myosin.png" alt="">
               <div class="carousel-caption3">
                 <h3>A Super-relaxed Myosin State to Offset Hypertrophic Cardiomyopathy</h3>

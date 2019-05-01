@@ -28,9 +28,8 @@ SAXS Processing At The Beamline
     *   RAW is developed and maintained by Jesse Hopkins, a beamline scientist at BioCAT.
         Bugs reports, feature requests, and other RAW questions should be sent to him.
 
-*   In addition to RAW we also provide the ATSAS package (latest version), EMAN2
-    (for averaging electron densities produced by DENSS), pyMOL and Chimera on
-    the primary data analysis computer.
+*   In addition to RAW we also provide the ATSAS package (latest version), pyMOL
+    and Chimera on the primary data analysis computer.
 
 *   There is an additional identically configured computer available for data
     analysis at the beamline.
@@ -45,7 +44,7 @@ SAXS Data Processing At Home
 *   In order to carry out basic processing (images into one dimensional scattering
     profiles) users will need to `install RAW <http://bioxtas-raw.readthedocs.io/en/latest/install.html>`_.
 
-    *   **IMPORTANT:** You need version 1.4.0 or greater to process (image) data collected
+    *   **IMPORTANT:** You need version 1.5.1 or greater to process (image) data collected
         at BioCAT.
 
 *   Once you've installed RAW, make sure to load in your config file ("SAXS.cfg")
