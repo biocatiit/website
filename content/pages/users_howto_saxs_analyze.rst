@@ -44,7 +44,7 @@ SAXS Data Processing At Home
 *   In order to carry out basic processing (images into one dimensional scattering
     profiles) users will need to `install RAW <http://bioxtas-raw.readthedocs.io/en/latest/install.html>`_.
 
-    *   **IMPORTANT:** You need version 1.5.1 or greater to process (image) data collected
+    *   **IMPORTANT:** You need version 1.5.2 or greater to process (image) data collected
         at BioCAT.
 
 *   Once you've installed RAW, make sure to load in your config file ("SAXS.cfg")
