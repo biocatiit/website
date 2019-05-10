@@ -42,12 +42,10 @@ How to register
 
 .. lead::
 
-    Registration is currently OPEN.
+    Registration is CLOSED.
 
 Registration is first come, first served, and limited to the first 15 participants
 due to time constraints on how many users can collect data during the course.
-Participants can register here: https://secure.touchnet.com/C20090_ustores/web/store_main.jsp?STOREID=71&SINGLESTORE=true
-
 
 Cost
 ^^^^^^
