@@ -60,7 +60,7 @@ light snack at the beamline workstation.
 
     .. button:: Back
         :class: primary block
-        :target: {filename}/pages/sector/orientation_6.rst
+        :target: {filename}/pages/sector/orientation_5.rst
 
 .. column::
     :width: 6
