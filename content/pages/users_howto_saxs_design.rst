@@ -158,7 +158,7 @@ The following are intended as guidelines for users when planning their experimen
 However, as most buffers do not contain precious components, we recommend bringing
 more buffer than you think you'll need, for example taking the below numbers and adding
 50%. You never know when you might want to change buffers and do one more run
-with a given sample, and have to reequilibrate the column again.
+with a given sample, and have to equilibrate the column again.
 
 If you have precious components in your buffer, there are ways to reduce
 your buffer usage. Please contact a beamline scientist to discuss those situations.
@@ -202,7 +202,7 @@ also requires buffer. Given that, you can calculate the buffer you need as follo
 Buffer volume = 4*(experiment time)*(flow rate) + (equilibration time)*(flow rate)
 
 For example, if you are using the Wyatt WTC-030S5 which has a flow rate of 0.8 mL/min,
-and you plan on 12 hours (720 mintues) of equilibration (overnight) and 8 hours
+and you plan on 12 hours (720 minutes) of equilibration (overnight) and 8 hours
 (480 minutes) of experiments in a given buffer, you should bring:
 
 Buffer volume = 4*(480)*(0.8 mL/min) + (720)*(0.8 mL/min) ~ 2.1 L
@@ -216,7 +216,7 @@ Batch Mode
 Batch mode experiments nominally need just 200 µl of buffer per sample (where each
 different concentration of the same system counts as a distinct sample).
 However, we never recommend bringing less than ~5 mL of buffer, just in case.
-If you are in a situation where this is too much, please contact a bealmine
+If you are in a situation where this is too much, please contact a beamline
 scientist to discuss how much buffer you need.
 
 

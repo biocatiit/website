@@ -3,7 +3,7 @@
 :slug: how-to-collect-saxs
 
 This provides instructions of how to collect SAXS data at the BioCAT beamline.
-Before comming, please ensure that you've read up on how to
+Before coming, please ensure that you've read up on how to
 `plan your experiment <{filename}/pages/users_howto_saxs_design.rst>`_
 and that you've properly `prepared your samples <{filename}/pages/users_howto_saxs_prepare.rst>`_.
 
@@ -131,8 +131,8 @@ To set exposure parameters in the BioCAT control software:
     the sample identification in the FPLC/HPLC method.
 
     *   The BioCAT default for a sample name is PI initials plus sample number
-        (starting at 1 and incrimenting with each sample, for example
-        JH1 for the first sample of a grup with PI with initials JH).
+        (starting at 1 and incrementing with each sample, for example
+        JH1 for the first sample of a group with PI with initials JH).
 
     .. image:: {static}/images/how_tos/control_new_folder.png
         :class: img-rounded
@@ -141,8 +141,8 @@ To set exposure parameters in the BioCAT control software:
     the folder name and with the sample identification in the FPLC/HPLC methods.
 
     *   The BioCAT default for a sample name is PI initials plus sample number
-        (starting at 1 and incrimenting with each sample, for example
-        JH1 for the first sample of a grup with PI with initials JH).
+        (starting at 1 and incrementing with each sample, for example
+        JH1 for the first sample of a group with PI with initials JH).
 
 #.  Set the exposure time and exposure period appropriately. The defaults that
     most users will want to use are 1 s and 2 s for time and period respectively.
@@ -192,7 +192,7 @@ your beamline scientist for more guidance with your particular experiment.
 .. image:: {static}/images/how_tos/control_start.png
     :class: img-rounded
 
-At this point you should also start online processing of the SAXS data.
+At this point you should also start on-line processing of the SAXS data.
 
 Monitor the progress of the elution and the SAXS data to ensure nothing unexpected
 occurs during your run.
@@ -244,7 +244,7 @@ There are several things to keep in mind to help you optimize your time:
 
     *   Switch back to the SEC-MALS-SAXS systems.
 
-*   Groups with a lot of buffer changes can pre-equilibrate columns offline
+*   Groups with a lot of buffer changes can pre-equilibrate columns off-line
     on our preparative FPLC while running experiments on the AKTA.
 
 *   You should start spinning down your next sample with ~10-15 minutes left

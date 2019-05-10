@@ -23,7 +23,7 @@ As a user of BioCAT, you only have authorized access to those areas of Argonne
 which pertain to your experiment. This includes:
 
 #.  The common areas and hallways of the APS.
-#.  The Argonne Guesthouse and Cafeteria.
+#.  The Argonne Guest House and Cafeteria.
 #.  The BioCAT LOM(Offices).
 #.  BioCAT wet and dry labs.
 #.  BioCAT experimental floor.

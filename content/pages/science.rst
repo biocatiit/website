@@ -70,7 +70,7 @@ Below is a gallery of a few of BioCAT's science highlights.
             <div class="item">
               <img class="d-block w-100" src="/images/gallery/2018_nebulin.jpg" alt="" >
               <div class="carousel-caption3">
-                <h3>Unravelling the role of a "nebulous" protein</h3>
+                <h3>Unraveling the role of a "nebulous" protein</h3>
                 <p>Nebulin is a protein important to muscle strength, as
                 mutations can cause the muscles in patients with nemaline
                 myopathy disease to be weak, little is known about how it

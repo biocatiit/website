@@ -24,7 +24,7 @@ Do not hesitate! If you feel that a potentially dangerous situation exists,
 place the call. It will be answered by the ANL Fire Department which is onsite,
 and will also be monitored by the Argonne Protective Force.
 
-Fires, Tornados, and Other
+Fires, Tornadoes, and Other
 =================================
 
 Fire Extinguishers

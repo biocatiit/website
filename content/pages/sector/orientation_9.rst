@@ -26,7 +26,7 @@ General rules for use of the D-hutch:
 #.  NO FOOD OR DRINK INSIDE OF THE HUTCH!
 
 #.  PROPER PPE - You must use the proper PPE (Personal Protective Equipment) when
-    conducting your experiment. Gloves, facemasks, laser googles, etc. can be
+    conducting your experiment. Gloves, face masks, laser goggles, etc. can be
     found at BioCAT - if you are using a laser, use the goggles!
 
 #.  Do not put any objects (chairs, bookbags, boxes, etc) inside of the yellow
@@ -104,7 +104,7 @@ Beam Dumps
 
 From time to time, the beam in the APS Main Storage Ring will trigger a fault
 in the main ring and will 'dump.' The current in the main ring will go from
-~100 milliamps to 0 and the A-Station Shutter will be disabled and an announcement
+~100 mA to 0 and the A-Station Shutter will be disabled and an announcement
 will be made over the intercom. It could take a few minutes or it could take a
 few hours until the beam comes back up, it just depends on what caused the
 original fault. Once the main storage ring has been refilled, an announcement

@@ -236,7 +236,7 @@ Staff
 
                     .. button:: Email
                         :class: primary block
-                        :target: mailto:irving@biocat1.iit.edu
+                        :target: mailto:irving@iit.edu
 
                 .. column::
                     :width: 6

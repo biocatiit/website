@@ -199,7 +199,7 @@ To load sample:
 #.  Flush the loop. Use a total of 5x loop volume when changing buffers, 2x
     loop volume between samples in the same buffer.
 
-    *   Fill a syring with buffer to more than the selected loop's volume.
+    *   Fill a syringe with buffer to more than the selected loop's volume.
         Remove the needle used for filling (if any).
     *   Put the syringe in the load port on the AKTA.
     *   Empty the entire syringe volume through the loop.
@@ -214,7 +214,7 @@ To load sample:
     *   Fill a syringe with the sample loading volume. Remove the needle used for
         filling (if any).
     *   Invert the syringe (tip up) and tap to drive any air bubbles to the top.
-    *   With the syring inverted, push the plunger until the sample is all the way
+    *   With the syringe inverted, push the plunger until the sample is all the way
         to the tip leaving no air in the syringe.
     *   Remove the empty buffer syringe from the load port and immediately place
         the sample syringe in the port.
@@ -242,7 +242,7 @@ To set up a method for a run:
     .. image:: {static}/images/how_tos/akta_run.PNG
         :class: img-rounded
 
-#.  If the run button is grayed out, click the 'Open Method Nagivator' button.
+#.  If the run button is grayed out, click the 'Open Method Navigator' button.
     Then double click the sup2005150 method.
 
     .. image:: {static}/images/how_tos/akta_method_navigator.PNG
@@ -284,15 +284,15 @@ To set up a method for a run:
     with PI Hopkins on 04/30/2019). The first time you run a method you will have to
     create this folder.
 
-#.  Give the run a indentifiable name. The BioCAT default is PI initials plus
-    sample number (starting at 1 and incrimenting with each sample, for example
+#.  Give the run a identifiable name. The BioCAT default is PI initials plus
+    sample number (starting at 1 and incrementing with each sample, for example
     JH1 for the first sample of a group with PI with initials JH).
 
     .. image:: {static}/images/how_tos/akta_method_4.PNG
         :class: img-rounded
 
 You are now ready to start the method. You shouldn't start it until you've closed
-the hutch and set the proper exposure parameters, so leve the "Start Protocol"
+the hutch and set the proper exposure parameters, so leave the "Start Protocol"
 window open for now.
 
 
@@ -311,8 +311,8 @@ To set exposure parameters in the BioCAT control software:
     the sample identification in the FPLC/HPLC method.
 
     *   The BioCAT default for a sample name is PI initials plus sample number
-        (starting at 1 and incrimenting with each sample, for example
-        JH1 for the first sample of a grup with PI with initials JH).
+        (starting at 1 and incrementing with each sample, for example
+        JH1 for the first sample of a group with PI with initials JH).
 
     .. image:: {static}/images/how_tos/control_new_folder.png
         :class: img-rounded
@@ -321,8 +321,8 @@ To set exposure parameters in the BioCAT control software:
     the folder name and with the sample identification in the FPLC/HPLC methods.
 
     *   The BioCAT default for a sample name is PI initials plus sample number
-        (starting at 1 and incrimenting with each sample, for example
-        JH1 for the first sample of a grup with PI with initials JH).
+        (starting at 1 and incrementing with each sample, for example
+        JH1 for the first sample of a group with PI with initials JH).
 
 #.  Set the exposure time and exposure period appropriately. The defaults that
     most users will want to use are 1 s and 2 s for time and period respectively.
@@ -376,7 +376,7 @@ your beamline scientist for more guidance with your particular experiment.
 .. image:: {static}/images/how_tos/control_start.png
     :class: img-rounded
 
-At this point you should also start online processing of the SAXS data.
+At this point you should also start on-line processing of the SAXS data.
 
 Monitor the progress of the elution and the SAXS data to ensure nothing unexpected
 occurs during your run.
@@ -431,7 +431,7 @@ There are several things to keep in mind to help you optimize your time:
 
     *   Switch back to the SEC-MALS-SAXS systems.
 
-*   Groups with a lot of buffer changes can pre-equilibrate columns offline
+*   Groups with a lot of buffer changes can pre-equilibrate columns off-line
     on our preparative FPLC while running experiments on the AKTA.
 
 *   You should start spinning down your next sample with ~10-15 minutes left

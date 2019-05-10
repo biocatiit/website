@@ -16,7 +16,7 @@ General Rules for Use of the wet-lab:
 #.  NO FOOD OR DRINK INSIDE THE WET-LAB!
 
 #.  PROPER PPE - You must use the proper PPE(Personal Protective Equipment)
-    when conducting your experiment. Gloves, facemasks, laser goggles, etc.
+    when conducting your experiment. Gloves, face masks, laser goggles, etc.
     can be found at BioCAT.
 
 #.  Keep the Wet-Lab neat and clean - do not leave powders, residues, or
@@ -47,7 +47,7 @@ General Rules for Use of the wet-lab:
 #.  If you plan on generating any Hazardous Waste while at BioCAT, you must
     tell the BioCAT Safety Officer, Mark Vukonich.
 
-#.  Do not put any objects(chairs, bookbags, boxes, etc) inside of the yellow
+#.  Do not put any objects (chairs, bookbags, boxes, etc) inside of the yellow
     and black taped areas by either the electrical panel or the eyewash station.
 
 Chemical Eye Wash and Shower

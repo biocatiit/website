@@ -41,8 +41,8 @@ followed by an excellent overview of the basic physics of SAXS and what kind
 of information you can obtain from the technique by Dr. Xiaobing Zuo (12ID, APS).
 This was followed by two talks from Dr. Lokesh Gakhar (Iowa State) going over the
 extremely important and sometimes overlooked steps of how to actually plan and
-performat SAXS experiments. He covered everything from planning what data you want
-to collect to sample prepration for the experiment, to recommended notes you should
+perform SAXS experiments. He covered everything from planning what data you want
+to collect to sample preparation for the experiment, to recommended notes you should
 take while at the beamline. Following that Dr. Srinivas Chakravarthy (BioCAT)
 gave a short talk about how to get beamtime at BioCAT.
 
@@ -58,7 +58,7 @@ Dr. Chakravarthy gave a pair of talks, the first discussing time resolved SAXS
 and how and what you can do with the technique at BioCAT. The second focused on
 using SAXS data to extract information on mixtures and complexes. There was an
 excellent talk by Dr. Wei-Jen Tang (University of Chicago) on his use of
-equilibrium and time resolved SAXS as completementary to cryoEM and
+equilibrium and time resolved SAXS as complementary to cryoEM and
 crystallography to study human insulin degrading enzyme. The day finished with
 a talk from Dr. Tobin Sosnick (University of Chicago) on how to use SAXS to study
 flexible systems, with a particular focus on his study of intrinsically disordered proteins.
@@ -113,4 +113,4 @@ their first SAXS experiments.
 
             .. caption::
 
-                Dr. Sosnick discussing intrinsicly disordered proteins.
+                Dr. Sosnick discussing intrinsically disordered proteins.

@@ -1,4 +1,4 @@
-Unravelling the role of a “nebulous” protein
+Unraveling the role of a “nebulous” protein
 #############################################
 
 :date: 2018-09-24
@@ -31,7 +31,7 @@ Unravelling the role of a “nebulous” protein
         generate force.  This condition can be recapitulated in genetically
         engineered mice who have mutated nebulin or entirely lack nebulin so
         that the muscles in these animals also show weakness. Investigators
-        from the University of Arizona and the Illinois Insitute of Technology
+        from the University of Arizona and the Illinois Institute of Technology
         used the BioCAT beamline 18ID to study mice entirely lacking nebulin to
         discover the effects of nebulin on the nanoscale structure of muscle.
 

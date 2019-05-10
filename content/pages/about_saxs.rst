@@ -74,7 +74,7 @@ Rg from SAXS informs on the particle shape. SAXS and MALS-DLS-RI are measured on
 the same SEC elution, which goes through the UV, MALS/DLS, and RI detectors
 and then to the SAXS flow-cell. This approach provides all of the sample prep
 benefits of SEC-SAXS and eliminates possible ambiguity about differences between
-non-identical separate SAXS and MALS-DLS measurements. Sample quality pre-requisites for
+non-identical separate SAXS and MALS-DLS measurements. Sample quality prerequisites for
 this system are considerably more stringent than the simpler SEC-SAXS setup and
 the suitability of your sample must be determined through discussion with beamline
 personnel.

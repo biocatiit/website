@@ -126,7 +126,7 @@
 
                     .. caption::
 
-                        :h4:`Unravelling the role of a "nebulous" protein`
+                        :h4:`Unraveling the role of a "nebulous" protein`
 
                         Nebulin is a protein important to muscle strength, as mutations can cause
                         the muscles in patients with nemaline myopathy disease to be weak,
