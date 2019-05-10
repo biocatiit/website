@@ -39,6 +39,7 @@ Below is a gallery of a few of BioCAT's science highlights.
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
           <div class="item active">
+              <div class="col text-center">
               <img class="d-block w-100" src="/images/gallery/2018_shp2_mutations.jpg" alt="">
               <div class="carousel-caption3">
                 <h3>A Target Mutation that Renders a Cancer Drug Ineffective</h3>
@@ -52,10 +53,12 @@ Below is a gallery of a few of BioCAT's science highlights.
                 SHP2 may have on the potential efficacy of drugs targeting
                 this enzyme.</p>
                 <a href="/science/super-relaxed-myosin.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
               </div>
             </div>
 
             <div class="item">
+              <div class="col text-center">
               <img class="d-block w-100" src="/images/gallery/2018_super_relaxed_myosin.png" alt="">
               <div class="carousel-caption3">
                 <h3>A Super-relaxed Myosin State to Offset Hypertrophic Cardiomyopathy</h3>
@@ -64,10 +67,12 @@ Below is a gallery of a few of BioCAT's science highlights.
                 ß-cardiac myosin super-relaxed state and its possible therapeutic
                 effects on hypertrophic cardiomyopathy.</p>
                 <a href="/science/super-relaxed-myosin.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
               </div>
             </div>
 
             <div class="item">
+              <div class="col text-center">
               <img class="d-block w-100" src="/images/gallery/2018_nebulin.jpg" alt="" >
               <div class="carousel-caption3">
                 <h3>Unraveling the role of a "nebulous" protein</h3>
@@ -78,20 +83,24 @@ Below is a gallery of a few of BioCAT's science highlights.
                 mice and found that it is necessary for generating physiological
                 levels of force.</p>
                 <a href="/science/nebulin.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
               </div>
             </div>
 
             <div class="item">
+              <div class="col text-center">
               <img class="d-block w-100" src="/images/gallery/2017_sosnick_highlight.jpg" alt="IDPs">
               <div class="carousel-caption3">
                 <h3>Proteins May Prevent Dysfunction and Disease by Relaxing</h3>
                 <p>A new study suggests many proteins remain expanded in the cell,
                 rather than contracting into tight folded shapes.</p>
                 <a href="/science/proteins-prevent-disease-by-relaxing.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
               </div>
             </div>
 
             <div class="item">
+              <div class="col text-center">
               <img class="d-block w-100" src="/images/gallery/2016_Starling.jpg" alt="Frank-Starling Law">
               <div class="carousel-caption3">
                 <h3>Unearthing the Mechanism of the Frank-Starling Law</h3>
@@ -102,10 +111,12 @@ Below is a gallery of a few of BioCAT's science highlights.
                 mystery of how the frank-Starling law determines cardiac function, but
                 provides an avenue for targeted development of drugs to treat heart failure.</p>
                 <a href="/science/frank-starling-law.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
               </div>
             </div>
 
             <div class="item">
+              <div class="col text-center">
               <img class="d-block w-100" src="/images/gallery/TAPBR_big.png" alt="">
               <div class="carousel-caption3">
                 <h3>TAPBR: A Novel Protein Chaperone With a Role in Peptide Editing in Immune Recognition</h3>
@@ -118,10 +129,12 @@ Below is a gallery of a few of BioCAT's science highlights.
                 The results of this study could lead to ways to modulate
                 peptide loading in vaccine design, improving T-cell recognition.</p>
                 <a href="/science/protein-chaperone.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
               </div>
             </div>
 
             <div class="item">
+              <div class="col text-center">
               <img class="d-block w-100" src="/images/gallery/Fungal_Prion_2015.jpg" alt="">
               <div class="carousel-caption3">
                 <h3>Combating an Infectious Invader</h3>
@@ -132,10 +145,12 @@ Below is a gallery of a few of BioCAT's science highlights.
                 features. This level of complexity has not been observed in
                 short-peptide amyloids that have been used as prion model systems.</p>
                 <a href="/science/infectious-invader.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
               </div>
             </div>
 
             <div class="item">
+              <div class="col text-center">
               <img class="d-block w-100" src="/images/gallery/2012_Crossbridge.jpg" alt="">
               <div class="carousel-caption3">
                 <h3>The cross-bridge spring: cool muscles store elastic energy</h3>
@@ -146,10 +161,12 @@ Below is a gallery of a few of BioCAT's science highlights.
                 are a synchronous muscle where each stimulus generates one muscle
                 twitch.</p>
                 <a href="/science/muscles-elastic-energy.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
               </div>
             </div>
 
             <div class="item">
+              <div class="col text-center">
               <img class="d-block w-100" src="/images/gallery/2011_Insect.jpg" alt="">
               <div class="carousel-caption3">
                 <h3>The Molecular Mechanism of Stretch Activation in Insect Muscle</h3>
@@ -164,10 +181,12 @@ Below is a gallery of a few of BioCAT's science highlights.
                 which also plays an important role in mammalian cardiac
                 expansion and contraction.</p>
                 <a href="/science/stretch-activation.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
               </div>
             </div>
 
             <div class="item">
+              <div class="col text-center">
               <img class="d-block w-100" src="/images/gallery/2010-2.png" alt="">
               <div class="carousel-caption3">
                 <h3>Packing It In: A New Look at Collagen Fibers</h3>
@@ -188,10 +207,12 @@ Below is a gallery of a few of BioCAT's science highlights.
                 remedied that situation by determining the molecular structure
                 of collagen type II in living tissues.</p>
                 <a href="/collagen-fibers-packing.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
               </div>
             </div>
 
           <div class="item">
+              <div class="col text-center">
               <img class="d-block w-100" src="/images/gallery/protein_power.jpg" alt="">
               <div class="carousel-caption3">
                 <h3>The Power of Proteins: Prion Diseases Demystified</h3>
@@ -204,10 +225,12 @@ Below is a gallery of a few of BioCAT's science highlights.
                 collaborative research team has achieved a significant advance
                 in our understanding of the infectious power of the prion protein.</p>
                 <a href="/protein-prion-disease.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
               </div>
             </div>
 
             <div class="item">
+              <div class="col text-center">
               <img class="d-block w-100" src="/images/gallery/2009-1.png" alt="">
               <div class="carousel-caption3">
                 <h3>Getting to Know Cellulose</h3>
@@ -225,10 +248,12 @@ Below is a gallery of a few of BioCAT's science highlights.
                 new details that could be used in designing more efficient treatments
                 for cellulosic biomass.</p>
                 <a href="/science/cellulose-info.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
               </div>
             </div>
 
             <div class="item">
+              <div class="col text-center">
               <img class="d-block w-100" src="/images/gallery/collagen-graph.png" alt="">
               <div class="carousel-caption3">
                 <h3>Filling the Gaps in Collagen Structure</h3>
@@ -243,11 +268,14 @@ Below is a gallery of a few of BioCAT's science highlights.
                 and using the BioCAT 18-ID beamline at the APS, a complete structure
                 for a collagen molecule—as it actually appears in the extracellular
                 matrix (ECM)—is now available.</p>
+
                 <a href="/science/collageen-structure-filling.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
               </div>
             </div>
 
             <div class="item">
+              <div class="col text-center">
               <img class="d-block w-100" src="/images/gallery/signaling1.png" alt="">
               <div class="carousel-caption3">
                 <h3>The Correct Signals to Regulate Assembly in Bacteria</h3>
@@ -258,10 +286,12 @@ Below is a gallery of a few of BioCAT's science highlights.
                 Their work greatly advances our understanding of what happens
                 in normal and, by inference, diseased cells.</p>
                 <a href="/science/signals-regulate-assembly.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
               </div>
             </div>
 
             <div class="item">
+              <div class="col text-center">
               <img class="d-block w-100" src="/images/gallery/flypicture.jpg" alt="">
               <div class="carousel-caption3">
                 <h3>Storing the Power to Fly</h3>
@@ -275,6 +305,7 @@ Below is a gallery of a few of BioCAT's science highlights.
                 who study muscle, but the results might also help scientists
                 better understand the human heart.</p>
                 <a href="/power-to-fly.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
               </div>
             </div>
 
