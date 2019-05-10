@@ -57,8 +57,7 @@ class Tipue_Search_JSON_Generator(object):
         node = {'title': page_title,
                 'text': page_text,
                 'tags': page_category,
-                'url': page_url,
-                'loc': page_url} # changed from 'url' following http://blog.siphos.be/2015/08/updates-on-my-pelican-adventure/ (an update to Pelican made it not work, because the update (e.g., in the theme folder, static/tipuesearch/tipuesearch.js is looking for the 'loc' attribute.
+                'url': page_url}
 
         self.json_nodes.append(node)
 
@@ -83,7 +82,7 @@ class Tipue_Search_JSON_Generator(object):
 
 
     def generate_output(self, writer):
-        path = os.path.join(self.output_path, 'tipuesearch_content.js')
+        path = os.path.join(self.output_path, 'tipuesearch_content.json')
 
         pages = self.context['pages'] + self.context['articles']
 
@@ -96,11 +95,9 @@ class Tipue_Search_JSON_Generator(object):
         for page in pages:
             self.create_json_node(page)
         root_node = {'pages': self.json_nodes}
-        
-        root_node_js = 'var tipuesearch = ' + json.dumps(root_node, separators=(',', ':'), ensure_ascii=False) + ';'
 
         with open(path, 'w', encoding='utf-8') as fd:
-            fd.write(root_node_js)
+            json.dump(root_node, fd, separators=(',', ':'), ensure_ascii=False)
 
 
 def get_generators(generators):
