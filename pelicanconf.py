@@ -78,6 +78,8 @@ EXTRA_PATH_METADATA = {
     # 'extra/custom.js': {'path': 'static/js/custom.js'}
 }
 
+FAVICON = 'favicon.ico'
+
 ARTICLE_EXCLUDES = ['extra']
 
 CUSTOM_CSS = 'static/custom.css'
