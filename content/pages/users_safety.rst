@@ -16,10 +16,10 @@ Before arriving at BioCAT, please look at the following links:
 
 *   `Tips for filling out your ESAF <{filename}/pages/users_esaf.rst>`_
 
-*   `BioCAT Sector Orientation <{filename}/pages/users_orientation.rst>`_
+*   `BioCAT Sector Orientation <{filename}/pages/sector/orientation_1.rst>`_
 
-    An overview of the safety issues found at our sector. This document is the
-    basis for the walking tour of our facility that you will take once you arrive.
+    An overview of the safety issues found at our sector. You will be required
+    to read this when you arrive.
 
 Special Hazards
 =================
