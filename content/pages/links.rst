@@ -10,8 +10,8 @@
 
         :h3:`Users`
 
-        *   `BioCAT sector orientation <{filename}/pages/sector/orientation_1.rst>`_
-        *   `General user program login <http://beam.aps.anl.gov/pls/apsweb/gup0005.start_page>`_
+        *   `BioCAT Sector Orientation <{filename}/pages/sector/orientation_1.rst>`_
+        *   `General User Program login <http://beam.aps.anl.gov/pls/apsweb/gup0005.start_page>`_
         *   `Experiment Safety Assessment Form (ESAF) <http://beam.aps.anl.gov/pls/apsweb/esaf0001.start_page>`_
         *   `APS user information <http://www.aps.anl.gov/Users-Information>`_
         *   `Argonne guest house <http://www.anlgh.org/>`_
