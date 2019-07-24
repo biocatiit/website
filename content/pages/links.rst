@@ -13,8 +13,8 @@
         *   `BioCAT Sector Orientation <{filename}/pages/sector/orientation_1.rst>`_
         *   `General User Program login <http://beam.aps.anl.gov/pls/apsweb/gup0005.start_page>`_
         *   `Experiment Safety Assessment Form (ESAF) <http://beam.aps.anl.gov/pls/apsweb/esaf0001.start_page>`_
-        *   `APS user information <http://www.aps.anl.gov/Users-Information>`_
-        *   `Argonne guest house <http://www.anlgh.org/>`_
+        *   `APS User Information <http://www.aps.anl.gov/Users-Information>`_
+        *   `Argonne Guest House <http://www.anlgh.org/>`_
 
     .. column::
         :width: 6
@@ -22,9 +22,9 @@
         :h3:`Staff`
 
         *   `Wiki <http://www.bio.aps.anl.gov/staffwiki/>`_
-        *   `Useful links on the wiki <http://www.bio.aps.anl.gov/staffwiki/Links/>`_
-        *   `BioCAT github page <http://github.com/biocatiit>`_
-        *   `Storage ring status <http://www3.aps.anl.gov/aod/blops/status/srStatus.html>`_
+        *   `Useful Links on the Wiki <http://www.bio.aps.anl.gov/staffwiki/Links/>`_
+        *   `BioCAT github Page <http://github.com/biocatiit>`_
+        *   `Storage Ring Status <http://www3.aps.anl.gov/aod/blops/status/srStatus.html>`_
         *   `APS Stockroom Catalog <http://beam.aps.anl.gov/pls/apsweb/st0006.start_page>`_
 
 
