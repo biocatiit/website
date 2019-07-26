@@ -20,7 +20,7 @@ Small- and Wide-Angle Fiber-Diffraction (includes muscle diffraction)
 ======================================================================
 
 *   `How to design a fiber-diffraction experiment <{filename}/pages/users_howto_fiber_design.rst>`_
-*   `How to design a fiber-diffraction experiment on intact rodent skeletal muscle <{filename}/pages/users_howto_rodentfiber_design.rst>`_
+*   `How to perform a fiber-diffraction experiment on intact rodent skeletal muscle <{filename}/pages/users_howto_rodentfiber_design.rst>`_
 
 Macromolecular Small-Angle Solution Scattering (SAXS)
 =======================================================
