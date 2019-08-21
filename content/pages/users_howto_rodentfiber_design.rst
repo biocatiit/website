@@ -1,4 +1,4 @@
-:title: How to Perform a Fiber-Diffraction Experiment on Intact Rodent Skeletal Muscle 
+:title: How to Perform a Fiber-Diffraction Experiment on Intact Rodent Skeletal Muscle
 :category: users
 :slug: how-to-perform-rodentfiber-exp
 
