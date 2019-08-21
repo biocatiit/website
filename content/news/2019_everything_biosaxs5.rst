@@ -39,7 +39,7 @@ Register for Everything BioSAXS 5: Getting started in biological small-angle x-r
 
             .. caption::
 
-                Participants and instructors at the BioCAT Everything BioSAXS 4 course in 2019.
+                Participants and instructors at the BioCAT Everything BioSAXS 4 course in 2018.
 
 
 Registration types and cost
@@ -51,8 +51,8 @@ the second is remote.
 On-site
 --------
 
-The on-site registration is 'full' participation and includes the lectures,
-hands-on training, and data collection. Lunch and coffee breaks are provided.
+The on-site participant registration includes the lectures, hands-on training,
+and data collection. Lunch and coffee breaks are provided.
 Due to time constraints on data collection we can only accept 15 on-site
 participants.
 
@@ -61,7 +61,7 @@ On-site cost: $150/$300 for academic/industrial
 Remote
 ---------
 
-Remote registration provides live streams of all the lectures and downloads of all
+Remote participant registration provides live streams of all the lectures and downloads of all
 course materials. The tutorials are designed to be self-guided and so can be
 completed by the remote participants, but there is no live-stream of that portion.
 No data collection is associated with remote participation.
@@ -78,10 +78,11 @@ How to register
 Follow this link:
 `https://secure.touchnet.com/C20090_ustores/web/classic/product_detail.jsp?PRODUCTID=1983&SINGLESTORE=true <https://secure.touchnet.com/C20090_ustores/web/classic/product_detail.jsp?PRODUCTID=1983&SINGLESTORE=true>`_
 
-On-site registration is first come, first served, and limited to the first 15 participants
-due to time constraints on how many users can collect data during the course.
+On-site participant registration is first come, first served, and limited to the
+first 15 participants due to time constraints on how many users can collect data
+during the course.
 
-Remote registration is available to everyone.
+Remote participant registration is available to everyone.
 
 
 
