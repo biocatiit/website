@@ -131,6 +131,7 @@ Confirmed speakers:
 *   Srinivas Chakravarthy (BioCAT, APS)
 *   Xiaobing Zuo (Sector 12, APS)
 *   Tobin Sosnick (U. Chicago)
+*   Todd Washington (U. Iowa)
 *   Kushol Gupta (U. Pennsylvania)
 
 Tentative schedule
@@ -140,56 +141,56 @@ Tentative schedule
 
 .. class:: table-hover
 
-    ======== =========================================================================================================
-    08:00 am Registration
-    08:30 am SAXS overview: what it is and why you should do it
-    09:00 am Planning and performing SAXS experiments I: In your lab
-    09:45 am Planning and performing SAXS experiments II: At the beamline
-    10:15 am Planning your (second) BioCAT experiment
-    10:30 am Break
-    10:45 am The scattering profile
-    11:00 am Basic data analysis: Generating a scattering profile, Rg, MW, Kratky, P(r), and when it all goes wrong
-    12:10 pm Group photo
-    12:15 pm Lunch (provided)
-    12:45 pm Advanced data analysis: SEC-SAXS, reconstructions (DAM, ED), fitting (Crysol/FoXs)
-    01:45 pm Publishing your data: best practices
-    02:15 pm Advanced topics 1: Time-resolved SAXS
-    03:00 pm Advanced topics 2: Mixtures and complexes
-    03:45 pm Break
-    04:00 pm Advanced topics 3
-    04:45 pm Advanced topics 4: Flexible systems and intrinsically disordered proteins
-    05:30 pm Preparation for student beamtime
-    06:00 pm End of Tuesday lectures
-    ======== =========================================================================================================
+    =========== ======================================================================================================================
+    08:00 am    Registration
+    08:30 am    SAXS overview: what it is and why you should do it
+    09:00 am    Planning and performing SAXS experiments I: In your lab
+    09:45 am    Planning and performing SAXS experiments II: At the beamline
+    10:15 am    Planning your (second) BioCAT experiment
+    10:30 am    Break
+    10:50 am    The scattering profile
+    11:05 am    Basic data analysis: Generating a scattering profile, Rg, MW, Kratky, P(r), and when it all goes wrong
+    12:15 pm    Group photo
+    12:20 pm    Lunch (provided)
+    01:00 pm    Advanced data analysis: SEC-SAXS, reconstructions (DAM, ED), fitting (Crysol/FoXs)
+    02:00 pm    Publishing your data: best practices
+    02:30 pm    Advanced topics 1: Time-resolved SAXS
+    03:15 pm    Break
+    03:35 pm    Advanced topics 2: Modeling the conformational flexibility of DNA repair proteins using full-ensemble hybrid methods
+    04:20 pm    Advanced topics 3: Mixtures and complexes
+    05:05 pm    Preparation for student beamtime
+    06:45 pm    End of Tuesday lectures
+    =========== ======================================================================================================================
 
 :h4:`Wednesday 11/6/19`
 
 .. class:: table-hover
 
-    ======== =======================================================================================================
-    08:30 am BioXTAS RAW introduction and software demo
-    08:45 am Hands on with RAW: Basic data processing tutorial
+    ======== ==========================================================================
+    09:00 am Advanced topics 4: Flexible systems and intrinsically disordered proteins
+    10:00 am BioXTAS RAW introduction and software demo
+    10:15 am Hands on with RAW: Basic data processing tutorial
     12:30 pm Lunch (provided)
-    01:15 pm BioXTAS RAW software demo
-    01:30 pm Hands on with RAW: Advanced data processing tutorial
+    01:30 pm BioXTAS RAW software demo
+    02:00 pm Hands on with RAW: Advanced data processing tutorial
     02:00 pm Group 1 data collection (Tutorial continues in parallel)
     06:00 pm End of Wednesday tutorials
     07:00 pm Group 2 data collection
     11:00 pm End of Wednesday data collection
-    ======== =======================================================================================================
+    ======== ==========================================================================
 
 :h4:`Thursday 11/7/19`
 
 .. class:: table-hover
 
-    ======== =======================================================================================================
+    ======== ==========================================================================
     09:00 am Group 3 data collection
     01:00 pm Lunch (not provided)
     02:00 pm Group 4 data collection
     06:00 pm Dinner (not provided)
     07:00 pm Group 5 data collection
     11:00 pm End of Thursday data collection
-    ======== =======================================================================================================
+    ======== ==========================================================================
 
 Additionally on Thursday, data analysis help will be available from 9 am to 6 pm, except during lunch. Work on the
 tutorials continues for anyone who didn't finish it on Wednesday, including those in the Group 1 data collection time.

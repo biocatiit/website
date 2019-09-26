@@ -5,7 +5,7 @@
 BioCAT is a mature user facility that `supports several types of experiments <{filename}/pages/about_biocat.rst>`_.
 One measure of the facility's scientific impact is the number and quality of the
 publications produced. As of August 2019, the Web of Science
-shows that the facility and its users had published 500 articles, which had
+shows that the facility and its users had published more than 500 articles, which had
 been cited more than 20000 times with an average number of citations per article
 around 40.
 
