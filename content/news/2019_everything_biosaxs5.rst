@@ -61,10 +61,11 @@ On-site cost: $150/$300 for academic/industrial
 Remote
 ---------
 
-Remote participant registration provides live streams of all the lectures and downloads of all
-course materials. The tutorials are designed to be self-guided and so can be
-completed by the remote participants, but there is no live-stream of that portion.
-No data collection is associated with remote participation.
+Remote participant registration provides live-streams of all the lectures and downloads of all
+course materials, including lecture slides and tutorials. The tutorials are designed
+to be self-guided and so can be completed by the remote participants, but there
+is no live-stream of that portion. No data collection is associated with remote
+participation.
 
 Remote cost: $50/$100 for academic/industrial
 
@@ -96,10 +97,6 @@ Rooms are available at the `Argonne Guest House <https://www.anlgh.org/>`_.
 More information
 ^^^^^^^^^^^^^^^^^
 
-While the primary purpose of the course is educational, on-site participants may bring a
-limited number (1-2) of their own research samples. Prepared standard protein
-samples will be available to all on-site participants for training purposes.
-
 Course topics:
 
 *   Basic principles of SAXS
@@ -111,19 +108,24 @@ Course topics:
 *   What you need to know for publication
 *   Overview of several advanced and emerging methods
 *   Hands-on tutorials with data processing software
+*   Hands-on data collection and analysis at the beamline
+
+While the primary purpose of the course is educational, on-site participants may bring a
+limited number (1-2) of their own research samples. Standard protein
+samples will be available to all on-site participants for training purposes.
 
 Participants will be assigned into small groups for 4 hour data collection slots
 starting Wednesday afternoon and running through Thursday evening (11 pm). If
 you are coming as a group or if you need a particular time slot, please notify
-Jesse Hopkins (jhopkins1@iit.edu) for scheduling. Data analysis help is available in parallel with
-the data collection on Thursday, but it is not a formal tutorial.
+Jesse Hopkins (jhopkins1@iit.edu) for scheduling. Data analysis help is available
+in parallel with the data collection on Thursday, but it is not a formal tutorial.
 
 While BioCAT supports SEC-SAXS, SEC-MALS-SAXS, and batch mode SAXS, due to
 time constraints students will be limited to only SEC-SAXS data collection.
 Please read our guide on `how to design a SAXS experiment <{filename}/pages/users_howto_saxs_design.rst>`_
 and `how to prepare your SAXS samples <{filename}/pages/users_howto_saxs_prepare.rst>`_.
-If you have questions, please contact Srinivas Chakravarthy (schakrav11@gmail.com)
-about samples or sample preparation.
+
+If you have questions, please contact Jesse Hopkins (jhopkins1@iit.edu).
 
 Confirmed speakers:
 
@@ -138,6 +140,8 @@ Tentative schedule
 ^^^^^^^^^^^^^^^^^^^^
 
 :h4:`Tuesday 11/5/19`
+
+Note: All of Tuesday is lectures and will be live-streamed for remote participants.
 
 .. class:: table-hover
 
@@ -162,14 +166,20 @@ Tentative schedule
     06:45 pm    End of Tuesday lectures
     =========== ======================================================================================================================
 
+
 :h4:`Wednesday 11/6/19`
+
+Note: Only the Advanced Topics 4 lecture will be live-streamed on Wednesday. The tutorials
+and software introductions will not be. This is the last live-stream of the workshop.
 
 .. class:: table-hover
 
     ======== ==========================================================================
-    09:00 am Advanced topics 4: Flexible systems and intrinsically disordered proteins
-    10:00 am BioXTAS RAW introduction and software demo
-    10:15 am Hands on with RAW: Basic data processing tutorial
+
+    08:30 am BioXTAS RAW introduction and software demo
+    09:00 am Hands on with RAW: Basic data processing tutorial
+    10:00 am Advanced topics 4: Flexible systems and intrinsically disordered proteins
+    11:00 am Hands on with RAW: Basic data processing tutorial
     12:30 pm Lunch (provided)
     01:30 pm BioXTAS RAW software demo
     02:00 pm Hands on with RAW: Advanced data processing tutorial
@@ -179,7 +189,10 @@ Tentative schedule
     11:00 pm End of Wednesday data collection
     ======== ==========================================================================
 
+
 :h4:`Thursday 11/7/19`
+
+Note: There is no live-stream on Thursday.
 
 .. class:: table-hover
 
@@ -192,5 +205,6 @@ Tentative schedule
     11:00 pm End of Thursday data collection
     ======== ==========================================================================
 
-Additionally on Thursday, data analysis help will be available from 9 am to 6 pm, except during lunch. Work on the
-tutorials continues for anyone who didn't finish it on Wednesday, including those in the Group 1 data collection time.
+Additionally on Thursday, data analysis help will be available from 9 am to 6 pm,
+except during lunch. Work on the tutorials continues for anyone who didn't finish
+it on Wednesday, including those in the Group 1 data collection time.
