@@ -34,6 +34,25 @@ Below is a gallery of a few of BioCAT's science highlights.
           <div class="carousel-inner">
           <div class="item active">
               <div class="col text-center">
+              <img class="d-block w-100" src="/images/gallery/2019_heart_failure.jpg" alt="">
+              <div class="carousel-caption3">
+                <h3>Probing the Powering of Contractions in Heart Failure</h3>
+                <p>Current treatments can slow progression of heart failure,
+                but do not address the underlying issues, including specific
+                problems that cause systolic heart failure.  In this condition,
+                the heart doesn’t contract vigorously enough in pushing blood
+                into the body’s circulation. But findings at nanometer and
+                millisecond scales, based upon experimental data collected at
+                BioCAT may help improve design of therapies directed at motor
+                proteins to rescue failing hearts.</p>
+                <a href="/science/heart-failure.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
+              </div>
+            </div>
+
+
+            <div class="item">
+              <div class="col text-center">
               <img class="d-block w-100" src="/images/gallery/2018_shp2_mutations.jpg" alt="">
               <div class="carousel-caption3">
                 <h3>A Target Mutation that Renders a Cancer Drug Ineffective</h3>

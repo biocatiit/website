@@ -93,24 +93,25 @@
 
         .. thumbnail::
 
-            .. image:: {static}/images/scihi/2018_shp2_mutations.jpg
+            .. image:: {static}/images/scihi/2019_heart_failure.jpg
                 :class: img-rounded
 
             .. caption::
 
-                :h3:`A Target Mutation that Renders a Cancer Drug Ineffective`
+                :h3:`Probing the Powering of Contractions in Heart Failure`
 
-                Mutations in the gene PTPN11, which encodes a common enzyme called SHP2,
-                can result in developmental disorders, such as Noonan Syndrome, and act
-                as oncogenic drivers in patients with certain blood cancers. Due to the
-                well understood role of the enzyme SHP2 in Noonan Syndrome and in tumorigenesis,
-                many companies are currently trying to develop drugs that inhibit the enzyme.
-                Researched investigated what impact mutations to SHP2 may have on the potential
-                efficacy of drugs targeting this enzyme.
+                Current treatments can slow progression of heart failure,
+                but do not address the underlying issues, including specific
+                problems that cause systolic heart failure.  In this condition,
+                the heart doesn’t contract vigorously enough in pushing blood
+                into the body’s circulation. But findings at nanometer and
+                millisecond scales, based upon experimental data collected
+                at BioCAT may help improve design of therapies directed at motor
+                proteins to rescue failing hearts.
 
             .. button:: Learn More
                 :class: primary block
-                :target: {filename}/scihi/2018_SHP2_mutations.rst
+                :target: {filename}/scihi/2019_heart_failure.rst
 
         .. row::
 
@@ -118,6 +119,32 @@
             .. column::
                 :width: 6
 
+                .. thumbnail::
+
+                    .. image:: {static}/images/scihi/2018_shp2_mutations.jpg
+                        :class: img-rounded
+
+                    .. caption::
+
+                        :h4:`A Target Mutation that Renders a Cancer Drug Ineffective`
+
+                        Mutations in the gene PTPN11, which encodes a common enzyme called SHP2,
+                        can result in developmental disorders, such as Noonan Syndrome, and act
+                        as oncogenic drivers in patients with certain blood cancers. Due to the
+                        well understood role of the enzyme SHP2 in Noonan Syndrome and in tumorigenesis,
+                        many companies are currently trying to develop drugs that inhibit the enzyme.
+                        Researched investigated what impact mutations to SHP2 may have on the potential
+                        efficacy of drugs targeting this enzyme.
+
+                    .. button:: Learn More
+                        :class: primary block
+                        :target: {filename}/scihi/2018_SHP2_mutations.rst
+
+
+
+            .. -------------------------------------------------------------------------
+            .. column::
+                :width: 6
 
                 .. thumbnail::
 
@@ -137,27 +164,6 @@
                     .. button:: Learn More
                         :class: primary block
                         :target: {filename}/scihi/2018_nebulin.rst
-
-            .. -------------------------------------------------------------------------
-            .. column::
-                :width: 6
-
-                .. thumbnail::
-
-                    .. image:: {static}/images/scihi/2018_human_estrogen.png
-                        :class: img-rounded
-
-                    .. caption::
-
-                        :h4:`Structure of the Human Estrogen Receptor`
-
-                        Researchers obtain new structural insights into human
-                        estrogen receptor α, which plays a critical role in cell
-                        growth and cancer metastasis
-
-                    .. button:: Learn More
-                        :class: primary block
-                        :target: {filename}/scihi/2018_human_estrogen.rst
 
     .. -------------------------------------------------------------------------
     .. column::
