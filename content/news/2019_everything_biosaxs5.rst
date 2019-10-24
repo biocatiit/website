@@ -74,16 +74,17 @@ How to register
 
 .. lead::
 
-    Registration is OPEN.
+    Registration is OPEN for remote participants.
 
-Follow this link:
+    Registration is CLOSED for on-site participants (contact us if you are
+    already an APS user and want to register).
+
+Due to how long it takes to get site access at the APS, on-site registration is closed.
+However, we do have a couple of slots still open. If you are already an APS user
+and want to register for the workshop, contact us and we will see if it's possible.
+
+Remote participant registration is available to everyone. Follow this link:
 `https://secure.touchnet.com/C20090_ustores/web/classic/product_detail.jsp?PRODUCTID=1983&SINGLESTORE=true <https://secure.touchnet.com/C20090_ustores/web/classic/product_detail.jsp?PRODUCTID=1983&SINGLESTORE=true>`_
-
-On-site participant registration is first come, first served, and limited to the
-first 15 participants due to time constraints on how many users can collect data
-during the course.
-
-Remote participant registration is available to everyone.
 
 
 
