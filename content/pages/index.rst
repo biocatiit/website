@@ -180,10 +180,10 @@
 
             .. caption::
 
-                :h3:`Everything BioSAXS 5 registration open`
+                :h3:`Everything BioSAXS 5 workshop`
 
                 BioCAT will run its 5th annual Everything BioSAXS workshop
-                from November 5-7th. Registration is now open for both
+                from November 5-7th. Registration is now closed for both
                 on-site and, for the first time ever, remote participants.
 
             .. button:: Learn More
