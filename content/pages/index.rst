@@ -186,20 +186,21 @@
 
         .. thumbnail::
 
-            .. image:: {static}/images/news/2018_eb4_group.jpg
+            .. image:: {static}/images/news/2019_eb5_group.jpg
                 :class: img-rounded
 
             .. caption::
 
-                :h3:`Everything BioSAXS 5 workshop`
+                :h3:`Everything BioSAXS 5 workshop a big success`
 
-                BioCAT will run its 5th annual Everything BioSAXS workshop
-                from November 5-7th. Registration is now closed for both
-                on-site and, for the first time ever, remote participants.
+                BioCAT ran its 5th annual Everything BioSAXS workshop
+                from November 5-7th, 2019. With 13 on-site participants
+                and 24 remote participants the workshop was a resounding
+                success.
 
             .. button:: Learn More
                 :class: primary block
-                :target: {filename}/news/2019_everything_biosaxs5.rst
+                :target: {filename}/news/2019_everything_biosaxs5_wrapup.rst
 
         .. row::
 
