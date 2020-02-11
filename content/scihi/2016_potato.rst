@@ -163,4 +163,4 @@ Unique Bacterial Chemist in the War on Potatoes
         contract no. DE-AC02-06CH11357.
 
         The original Georgia Institute of Technology press release by Ben Brumfield can be
-        `read here <http://www.rh.gatech.edu/news/582003/unique-bacterial-chemist-war-potatoes>`_.
+        `read here <https://rh.gatech.edu/news/582003/unique-bacterial-chemist-war-potatoes>`_.

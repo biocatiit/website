@@ -62,5 +62,3 @@ Special Hazards
 Safety links:
 
 *   `SDS Search <https://chemicalsafety.com/sds-search/>`_
-*   `MSDS Datbase Locator <http://www.lbl.gov/ehs/html/msds.htm>`_
-*   `LBNL Safety Information Resources <http://www.lbl.gov/ehs/html/msds.htm>`_

@@ -68,19 +68,23 @@ What sample concentration and volume do I need?
 Concentration
 ^^^^^^^^^^^^^^
 
-As a rule of thumb, you will get good SAXS data if your protein concentration
-in mg/ml in the SAXS cell is ~60/MW in kDa. For example, for a 20 kDa protein
-you would want a concentration of ~60/20 = 3 mg/ml whereas for a 150 kDa
-protein you would want a concentration of ~60/150 = 0.4 mg/ml. RNA and DNA
-samples scatter ~2.5 times more strongly than protein, so you can use a
-concentration of ~24/MW.
+As a rule of thumb, you will get good SAXS data if you prepare a protein concentration
+in mg/ml that is:
 
-The above rule of thumb applies to the concentration in the SAXS cell. In
-the SEC-SAXS and SEC-MALS-SAXS experiments the sample is diluted by the column,
-and may elute in several peaks. This should be accounted for. We recommend
-adding a column dilution factor of ~4x for your SEC-SAXS sample preps. This
-would give ~240/MW as the target concentration. If a significant amount of your
-sample elutes in other peaks, further increase your concentration to compensate.
+* 240/MW in kDa for SEC-SAXS or SEC-MALS-SAXS
+* 60/MW in kDa for batch mode SAXS
+
+For example, using SEC-SAXS for a 20 kDa protein you would want a
+concentration of ~240/20 = 12 mg/ml whereas for a 150 kDa
+protein you would want a concentration of ~60/150 = 1.6 mg/ml. RNA and DNA
+samples scatter ~2.5 times more strongly than protein, so you can use a
+concentration of ~96/MW and 24/MW for SEC-SAXS and batch mode SAXS respectively.
+
+Note that in SEC-SAXS and SEC-MALS-SAXS experiments the sample is diluted by the column,
+and may elute in several peaks. This should be accounted for. The recommendation above
+adds a column dilution factor of ~4x for your SEC-SAXS sample preps. If a
+significant amount of your sample elutes in other peaks, further increase your
+concentration to compensate.
 
 Note: In SEC-SAXS, if your sample has concentration dependent aggregation
 that prevents you from achieving the high concentrations needed, you may be
@@ -91,7 +95,7 @@ Volume
 
 Typical SEC-SAXS and SEC-MALS-SAXS injection volumes are ~250-350 µl.
 
-Batch mode experiments can be done routinely with 100 µl per measurement. Note
+Batch mode experiments can be done routinely with 50 µl per measurement. Note
 that typical batch mode experiments require measuring several concentrations, and
 so can actually end up requiring more volume than a SEC-SAXS experiment.
 
@@ -105,14 +109,12 @@ experiment time and the equilibration.
 Experiment time
 ^^^^^^^^^^^^^^^^^^
 
-At BioCAT, users typically use the GE Superdex 200 Increase 10/300 GL column
-\(SEC-SAXS) or the Wyatt WTC-030S5 (SEC-MALS-SAXS). These have column volumes
-of 24 and 18 ml respectively. Flow rates are ~0.7 ml and 0.8 ml respectively.
-That means that a 1.5 column volume (CV) experiment for SEC-SAXS takes ~50 minutes,
-and a 1.5 CV experiment for SEC-MALS-SAXS takes ~34 minutes. If you know that
-nothing elutes after 1 CV (including small molecules) you can further reduce
-this to ~34 and 23 minutes respectively. So you should expect to run ~1-3 samples an
-hour, depending on the technique.
+At BioCAT, users typically use the GE Superdex 200 Increase 10/300 GL column.
+This has a column volume of 24 and a flow rates of ~0.7 ml. That means that
+a 1.5 column volume (CV) experiment for SEC-SAXS or SEC-MALS-SAXS takes ~50
+minutes. If you know that nothing elutes after 1 CV (including small molecules)
+you can further reduce this to ~34 minutes. So you should expect to run ~1-2 samples an
+hour.
 
 With the coflow cell, BioCAT users now have the ability to run samples on the
 GE 5/150 columns without radiation damage. These columns provide significantly
@@ -142,13 +144,14 @@ equilibration requires at least 6 hours, and is ideally done overnight.
 What column should I use?
 ===========================
 
-A list of columns and the corresponding MW sizes is available for both
+A list of columns and the corresponding MW ranges is available for both
 `SEC-SAXS <{filename}/pages/about_saxs.rst#sec-saxs>`_ and
 `SEC-MALS-SAXS <{filename}/pages/about_saxs.rst#sec-mals-saxs>`_.
 Generally speaking, pick the column with the narrowest MW range that can
 accommodate your samples. But remember that the MW range is for globular
 proteins, extended proteins run as if they are higher MW! BioCAT recommends
 running a test separation in your lab, to ensure you can resolve your species.
+The default column at BioCAT for all experiments is the Superdex 200 Increase 10/300.
 
 
 How much buffer should I bring?
@@ -184,8 +187,6 @@ buffer you should bring:
 
 Buffer volume = 4*(24 mL)*(5+1) + 100 mL ~ 0.7 L
 
-
-
 For these experiments, you should always bring at least 0.5 L of any buffer you
 are using.
 
@@ -213,10 +214,11 @@ are using.
 Batch Mode
 ^^^^^^^^^^^
 
-Batch mode experiments nominally need just 200 µl of buffer per sample (where each
-different concentration of the same system counts as a distinct sample).
-However, we never recommend bringing less than ~5 mL of buffer, just in case.
-If you are in a situation where this is too much, please contact a beamline
-scientist to discuss how much buffer you need.
+Batch mode experiments require a running buffer with ~ 1 L of volume. If you have
+a number of different buffers for your samples, you nominally need just 200 µl of
+each other buffer per sample (where each different concentration of the same
+system counts as a distinct sample). However, we never recommend bringing less
+than ~5 mL of each buffer, just in case. If you are in a situation where this
+is too much, please contact a beamline scientist to discuss how much buffer you need.
 
 

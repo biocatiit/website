@@ -1,0 +1,61 @@
+New Insights into Traumatic Brain Injury
+###########################################################################
+
+:date: 2019-01-15
+:tags: user highlight; science highlight
+:category: science
+:slug: tbi
+:authors: BioCAT
+
+.. row::
+
+    .. thumbnail::
+
+        .. image:: {static}/images/scihi/2019_tbi.jpg
+            :class: img-responsive
+
+        .. caption::
+
+            X-ray diffraction patterns (a) and integrated data (intensity
+            versus d-spacings) (b) of control and impact-loaded rat optic
+            nerve samples.
+
+.. row::
+
+    Traumatic brain injury, or TBI, is often referred to as the “invisible
+    injury” — while on the surface everything seems normal with brain structure,
+    symptoms may present themselves in the behavior of the injured and cannot
+    be explained. According to the Centers for Disease Control and Prevention,
+    about 2.8 million TBI-related emergency department (ED) visits,
+    hospitalizations and deaths occurred in the United States in 2013 alone.
+    Every day, 153 people in the United States die from injuries that include TBI.
+
+    As reported in the Journal of Synchrotron Radiation, investigators from
+    Joseph Orgel at the Illinois Institute of Technology, Argonne National
+    Laboratory and the Army Research Lab studied the effect of controlled
+    amounts of compressive force on rat optic nerves to attempt to identify
+    the changes that occur in otherwise normal looking brain neurons due to
+    the specific impact forces experienced during head trauma. This
+    first-of-its-kind study used x-ray diffraction data obtained at the
+    Biophysics Collaborative Access Team (Bio-CAT) 18ID beamline at the APS
+    to examine the changes to myelin, the fatty material that wraps around
+    nerve cell projections in the brain and other parts of the body. Starting
+    with no force and working upwards, researchers detected the exact force
+    level at which a detectable change in the myelin structure occurred. The
+    changes were subtle, less than a nanometer but they consistently occurred
+    at the same small load of force. What is more, the researchers were able
+    to measure just how much the myelin sheath changed - reflecting the kind
+    of change that occurs in head trauma.
+
+    As a result of this ongoing work, researchers have a better understanding
+    of what kind of experience, or injury, leads to what kind of damage in the
+    myelin - helping to visualize injuries based on the smallest force
+    necessary to cause it. This information may be critical to knowing when
+    someone has an injury after an accident but before symptoms emerge, and
+    help supports the decision of when and how to treat them.
+
+    See: Orgel J, Madhurapantula RS, Eidsmore A, Wang M, Dutov P, Modrich CD,
+    Antipova O, McDonald J, Satapathy S. `"X-ray diffraction reveals blunt-force
+    loading threshold for nanoscopic structural change in ex vivo neuronal
+    tissues,"" <https://doi.org/10.1107/S1600577518015035>`_. J. Synchrotron
+    Radiation, 2019. 26(Pt 1): p. 89-95. PMCID: PMC6337887, DOI: 10.1107/S1600577518015035.

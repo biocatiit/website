@@ -31,7 +31,7 @@ Some important things to note:
 *   Please verify the completeness of your data copy immediately after your visit to
     BioCAT so that we may send you any files that are corrupt/ missing
 *   While at BioCAT, you are using Federal networks and computing systems (yes,
-    `you are being watched <http://www.anl.gov/privacy-security-notice>`_)
+    `you are being watched <https://www.anl.gov/privacy-security-notice>`_)
 *   If you are using a computer with a legacy operating system or software, you will
     not be able to access the World Wide Web from our local network -- however, all
     locally networked computers on the BioCAT subnet will be able to connect with all

@@ -12,16 +12,16 @@ Peer-reviewed publications are the primary measure of scientific output.
 Properly documented publications insure that funds are available to continue
 operating the BioCAT facility.
 
-The BioCAT facility is supported by the `National Institutes of Health <http://www.nih.gov/>`_
+The BioCAT facility is supported by the `National Institutes of Health <https://www.nih.gov/>`_
 and, by law, all publications resulting from NIH support must adhere to the
-`NIH public access policy <http://publicaccess.nih.gov/>`_:
+`NIH public access policy <https://publicaccess.nih.gov/>`_:
 
     All final, peer-reviewed manuscripts must be posted to the `NIH Manuscript
     Submission System <http://www.nihms.nih.gov/>`_ upon acceptance for publication and
-    be made publicly available on `PubMed Central <http://www.ncbi.nlm.nih.gov/pmc/>`_
+    be made publicly available on `PubMed Central <https://www.ncbi.nlm.nih.gov/pmc/>`_
     no later than twelve months after the official date of publication.
 
-    To comply, go to the `NIH Manuscript Submission System web page <http://publicaccess.nih.gov/>`_
+    To comply, go to the `NIH Manuscript Submission System web page <https://publicaccess.nih.gov/>`_
     and follow their instructions. You will need to link your submission to a
     source of NIH funding. If you do not receive additional NIH support, you
     must attach your submission to the BioCAT grant: P41 GM103622 Thomas C. Irving PI.

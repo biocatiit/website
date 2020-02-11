@@ -43,15 +43,15 @@ Papers
 --------
 *   `Meisburger, S. P., Warkentin, M., Chen, H., Hopkins, J. B., Gillilan, R. E.,
     Pollack, Thorne, R. E. (2013). Biophys. J. 104, 227-236.
-    <http://www.cell.com/biophysj/fulltext/S0006-3495(12)05064-3>`_
+    <https://www.cell.com/biophysj/fulltext/S0006-3495(12)05064-3>`_
 
 *   `Hopkins, J. B., Katz, A. M., Meisburger, S. P., Warkentin, M. A., Thorne,
     R. E. & Pollack, L. (2015). J. Appl. Crystallogr. 48, 227–237.
     <https://doi.org/10.1107/S1600576714027782>`_
 
-    *   `The paper data is available. <http://hdl.handle.net/1813/39215>`_
+    *   `The paper data is available. <https://hdl.handle.net/1813/39215>`_
 
-    *   `A paper reprint is available. <http://hdl.handle.net/1813/39215>`_
+    *   `A paper reprint is available. <https://hdl.handle.net/1813/39215>`_
 
 Project Collaborators
 ------------------------
@@ -59,9 +59,9 @@ Project Collaborators
 *   The `Pollack lab <https://pollack.research.engineering.cornell.edu/>`_ at Cornell,
     particularly:
 
-    *   `Steve Meisburger <https://scholar.princeton.edu/steve/home>`_ (now a postdoc at Princeton)
+    *   `Steve Meisburger <https://scholar.google.com/citations?user=oCGSza8AAAAJ&hl=en>`_ (now a postdoc at Cornell)
 
-    *   Andrea Katz (graduate student)
+    *   Andrea Katz (now a postdoc at Cornell)
 
 *   The `Thorne group <http://www.lassp.cornell.edu/Thorne/>`_ at Cornell, particularly
 

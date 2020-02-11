@@ -93,25 +93,30 @@
 
         .. thumbnail::
 
-            .. image:: {static}/images/scihi/2019_heart_failure.jpg
+            .. image:: {static}/images/scihi/2020_prion_like_domains.jpg
                 :class: img-rounded
+                :align: center
+                :height: 400 px
 
             .. caption::
 
-                :h3:`Probing the Powering of Contractions in Heart Failure`
+                :h3:`How Prion-like domains Drive Liquid-Liquid Phase Transitions in Cells`
 
-                Current treatments can slow progression of heart failure,
-                but do not address the underlying issues, including specific
-                problems that cause systolic heart failure.  In this condition,
-                the heart doesn’t contract vigorously enough in pushing blood
-                into the body’s circulation. But findings at nanometer and
-                millisecond scales, based upon experimental data collected
-                at BioCAT may help improve design of therapies directed at motor
-                proteins to rescue failing hearts.
+                Liquid-liquid phase separation (LLPS) provides a way for cells to create
+                membraneless micro-environments (“condensates”) that have been
+                proposed to be involved in diverse cellular processes including stress
+                responses, RNA splicing, mitosis, chromatin organization, and the
+                clustering of receptors at membranes. Proteins driving LLPS often contain
+                intrinsically disordered prion like domains (PLD’s) that appear to be
+                necessary and sufficient to produce LLPS. In a recent paper in
+                the journal Science, researchers used a combination of NMR,
+                multiscale simulations and Size Exclusion Chromatography SAXS
+                experiments at BioCAT to discover sequence features that determine
+                the phase behavior of PLD’s.
 
             .. button:: Learn More
                 :class: primary block
-                :target: {filename}/scihi/2019_heart_failure.rst
+                :target: {filename}/scihi/2020_prion_like_domains.rst
 
         .. row::
 
@@ -121,24 +126,27 @@
 
                 .. thumbnail::
 
-                    .. image:: {static}/images/scihi/2018_shp2_mutations.jpg
+                    .. image:: {static}/images/scihi/2020_nemaline_myopathy.jpg
                         :class: img-rounded
 
                     .. caption::
 
-                        :h4:`A Target Mutation that Renders a Cancer Drug Ineffective`
+                        :h4:`Sarcomere Structure and Nemaline Myopathy`
 
-                        Mutations in the gene PTPN11, which encodes a common enzyme called SHP2,
-                        can result in developmental disorders, such as Noonan Syndrome, and act
-                        as oncogenic drivers in patients with certain blood cancers. Due to the
-                        well understood role of the enzyme SHP2 in Noonan Syndrome and in tumorigenesis,
-                        many companies are currently trying to develop drugs that inhibit the enzyme.
-                        Researched investigated what impact mutations to SHP2 may have on the potential
-                        efficacy of drugs targeting this enzyme.
+                        Nemaline myopathy (NM) is one of the most common congenital
+                        non-dystrophic myopathies and is characterized by severe
+                        hypotonia, muscle weakness, feeding difficulties,
+                        respiratory failure, and the presence of nemaline
+                        bodies (rods) in skeletal muscle biopsies.  One form
+                        of nemaline myopathy is caused by mutations in the
+                        KBTBD13 (NEM6) gene. In this paper the authors show
+                        that the impaired muscle relaxation kinetics in NEM6
+                        patients are caused by structural changes in the thin
+                        filament, a sarcomeric microstructure.
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/scihi/2018_SHP2_mutations.rst
+                        :target: {filename}/scihi/2020_nemaline_myopathy.rst
 
 
 
@@ -148,22 +156,25 @@
 
                 .. thumbnail::
 
-                    .. image:: {static}/images/scihi/2018_nebulin.jpg
+                    .. image:: {static}/images/scihi/2019_heart_failure.jpg
                         :class: img-rounded
 
                     .. caption::
 
-                        :h4:`Unraveling the role of a "nebulous" protein`
+                        :h4:`Probing the Powering of Contractions in Heart Failure`
 
-                        Nebulin is a protein important to muscle strength, as mutations can cause
-                        the muscles in patients with nemaline myopathy disease to be weak,
-                        little is known about how it works. Researchers investigated the function
-                        of Nebulin in mice and found that it is necessary for generating
-                        physiological levels of force.
+                        Current treatments can slow progression of heart failure,
+                        but do not address the underlying issues, including specific
+                        problems that cause systolic heart failure.  In this condition,
+                        the heart doesn’t contract vigorously enough in pushing blood
+                        into the body’s circulation. But findings at nanometer and
+                        millisecond scales, based upon experimental data collected
+                        at BioCAT may help improve design of therapies directed at motor
+                        proteins to rescue failing hearts.
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/scihi/2018_nebulin.rst
+                        :target: {filename}/scihi/2019_heart_failure.rst
 
     .. -------------------------------------------------------------------------
     .. column::

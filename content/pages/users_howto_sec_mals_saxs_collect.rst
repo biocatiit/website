@@ -14,11 +14,6 @@ Before data collection
 
 #.  Every buffer you use for SEC-MALS-SAXS should be filtered and degassed.
 
-#.  Every buffer for SEC-MALS-SAXS needs to be split into two bottles,
-    one for the HPLC and one for the coflow sheath. Usually a 50-50 split
-    is good, but if you have a small amount of buffer please talk to a
-    beamline scientist.
-
 #.  In SEC-MALS-SAXS experiments you should reserver ~50 mL of buffer
     in a falcon tube. This will be used for cleaning the sample loop, diluting samples,
     etc. It is convenient to not have to extract this from the larger buffer
@@ -73,6 +68,10 @@ coflow sheath buffer also need to be changed. To do so:
 
 #.  Remove the pierced cap from the current buffer and place it on the new buffer.
     If there are any drops of the old buffer on it, gently with the cap with a kimwipe.
+
+    *   **IMPORTANT:** You may be using the same buffer bottle for the HPLC as the
+        coflow sheath. If so, make sure to stop the HPLC before transferring the
+        HPLC leads with the coflow leads.
 
 #.  Over a waste beaker, rinse the tubing with water from a DI Water
     squirt bottle.
@@ -263,7 +262,7 @@ There are several things to keep in mind to help you optimize your time:
 
 Older:
 
-Collection Work-flow
+Collection Workflow
 =====================
 
 *   Switching buffer/equilibration
@@ -293,24 +292,17 @@ Collection Work-flow
 
 *   Injecting sample and starting HPLC run
 
-    *   Each run will take 18-23 minutes. Have samples ready (concentrate
-        or dilute to appropriate concentration and spin down 10-15 minutes) so
-        that near the end of one run you can
-
-        #.  Clean the capillary
+    *   Have samples ready (concentrate or dilute to appropriate concentration
+        and spin down 10-15 minutes) so that near the end of one run you can
 
         #.  Have the auto-sampler inject your sample just as the next run is
             about to start
 
-    *   Each run should be about done after ~15 min (may vary based on sample elution
+    *   Each run should be about done after ~30 min (may vary based on sample elution
         profile and flow rate and usually signified by the integrated scattering
         intensity coming back to baseline levels) - stop collecting SAXS data
-        then and you will have 5 min to clean the capillary and put the new sample
+        then and you will have 5 min to put the new sample
         in the sample tray
-
-        *   If the integrated scattering intensity fails to come back to the baseline,
-            it is important to clean the SAXS cell more thoroughly, which involves
-            soaking the capillary for 5-10 min in 2% Hellmanex
 
         *   If you think you will be running late, time can be extended
 
@@ -321,24 +313,6 @@ Collection Work-flow
         *   Samples are injected from vials. 250 - 350 µl will be injected, but
             fill vials to ~50 µl more than the injection volume (900 µl is the upper
             limit).
-
-    *   Washing the system
-
-        *   Wash the capillary
-
-            *   Do not have the HPLC and wash pump connected to the capillary at
-                the same time
-
-            *   Connect capillary to Hamilton syringe pump (on desktop) and press wash
-
-            *   When done, capillary can be reconnected to the HPLC
-
-                *   Make sure tube connection is secure and check all unions for leaks before exiting the hutch.
-
-
-                *   **BE CAREFUL MANOUVERING THE PEEK TUBES CONNECTED TO THE
-                    CAPILLARY AS THE CAPILLARY WALLS ARE 10 MICRON QUARTZ AND
-                    THEREFORE EXTREMELY FRAGILE.**
 
     *   Loading your sample
 

@@ -9,7 +9,8 @@ shows that the facility and its users had published more than 500 articles, whic
 been cited more than 20000 times with an average number of citations per article
 around 40.
 
-`The APS provides a list of all BioCAT publications <https://beam.aps.anl.gov/pls/apsweb/pub_v2_open_0006.beamline_id_query_results?i_beamline_id=134>`_
+`The APS provides a list of all BioCAT publications
+<https://beam.aps.anl.gov/pls/apsweb/pub_v2_open_0006.beamline_id_query_results?i_beamline_id=134>`_
 
 When you publish your science from BioCAT, please follow
 `the guidelines <{filename}/pages/users_publications.rst>`_.
@@ -32,7 +33,85 @@ Below is a gallery of a few of BioCAT's science highlights.
 
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
+
           <div class="item active">
+              <div class="col text-center">
+              <img class="d-block w-100" src="/images/gallery/2020_prion_like_domains.jpg" alt="">
+              <div class="carousel-caption3">
+                <h3>How Prion-like domains Drive Liquid-Liquid Phase Transitions in Cells</h3>
+                <p>Liquid-liquid phase separation (LLPS) provides a way for
+                cells to create membraneless micro-environments (“condensates”)
+                that have been proposed to be involved in diverse cellular
+                processes including stress responses, RNA splicing, mitosis,
+                chromatin organization, and the clustering of receptors at
+                membranes. Proteins driving LLPS often contain intrinsically
+                disordered prion like domains (PLD’s) that appear to be
+                necessary and sufficient to produce LLPS. In a recent paper
+                in the journal Science, researchers used a combination of NMR,
+                multiscale simulations and Size Exclusion Chromatography SAXS
+                experiments at BioCAT to discover sequence features that determine
+                the phase behavior of PLD's.</p>
+                <a href="/science/prion-like-domains.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
+              </div>
+            </div>
+
+          <div class="item">
+              <div class="col text-center">
+              <img class="d-block w-100" src="/images/gallery/2020_nemaline_myopathy.jpg" alt="">
+              <div class="carousel-caption3">
+                <h3>Sarcomere Structure and Nemaline Myopathy</h3>
+                <p>Nemaline myopathy (NM) is one of the most common congenital non-dystrophic
+                myopathies and is characterized by severe hypotonia, muscle weakness,
+                feeding difficulties, respiratory failure, and the presence of nemaline
+                bodies (rods) in skeletal muscle biopsies.  One form of nemaline myopathy
+                is caused by mutations in the KBTBD13 (NEM6) gene. A combination of
+                transcranial magnetic stimulation-induced muscle relaxation, muscle fiber-
+                and sarcomere-contractility assays, super-resolution microscopy, and low
+                angle X-ray diffraction at BioCAT revealed that the
+                impaired muscle relaxation kinetics in NEM6 patients are caused by
+                structural changes in the thin filament, a sarcomeric microstructure.</p>
+                <a href="/science/nemaline-myopathy.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
+              </div>
+            </div>
+
+          <div class="item">
+              <div class="col text-center">
+              <img class="d-block w-100" src="/images/gallery/2019_frustration_and_folding.jpg" alt="">
+              <div class="carousel-caption3">
+                <h3>Frustration and Folding of a TIM Barrel Protein</h3>
+                <p>In their continuing endeavor to understand misfolding proteins as part of
+                the etiology of a variety of diseases, the Matthews lab particularly focuses
+                on the different factors that impede a protein’s path from the unfolded state
+                to the global free energy minimum. The complexity of the folding trajectory
+                understandably depends on the size of the protein mostly because of the
+                formation of intermediates many of which often stall the formation of an
+                optimal native conformation.</p>
+                <a href="/science/frustration-and-folding.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
+              </div>
+            </div>
+
+          <div class="item">
+              <div class="col text-center">
+              <img class="d-block w-100" src="/images/gallery/2019_ric8a.png" alt="">
+              <div class="carousel-caption3">
+                <h3>Structure of BS Ric8A, a regulator of G-protein Biology</h3>
+                <p>Ric8A is a well-known
+                regulator of G-protein biology and belongs to a class of proteins different
+                from the G protein-coupled receptors (GPCRs), which act via interactions
+                with monomeric Gα subunits as opposed to heterotrimeric Gαβγ proteins.
+                SAXS was used in combination with crystallography and biochemical studies
+                to show that the flexible C-terminal tail is important for the overall
+                stability of Ric8A and the function as a guanine nucleotide exchange
+                factor (GEF).</p>
+                <a href="/science/ric8a.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
+              </div>
+            </div>
+
+          <div class="item">
               <div class="col text-center">
               <img class="d-block w-100" src="/images/gallery/2019_heart_failure.jpg" alt="">
               <div class="carousel-caption3">
@@ -46,6 +125,44 @@ Below is a gallery of a few of BioCAT's science highlights.
                 BioCAT may help improve design of therapies directed at motor
                 proteins to rescue failing hearts.</p>
                 <a href="/science/heart-failure.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="item">
+              <div class="col text-center">
+              <img class="d-block w-100" src="/images/gallery/2019_tbi.jpg" alt="">
+              <div class="carousel-caption3">
+                <h3>New Insights into Traumatic Brain Injury</h3>
+                <p>Traumatic brain injury, or TBI, is often referred to as the “invisible
+                injury” — while on the surface everything seems normal with brain structure,
+                symptoms may present themselves in the behavior of the injured and cannot
+                be explained. This work looked at the effect of controlled
+                amounts of compressive force on rat optic nerves to attempt to identify
+                the changes that occur in otherwise normal looking brain neurons due to
+                the specific impact forces experienced during head trauma. As a result
+                of this ongoing work, researchers have a better understanding
+                of what kind of experience, or injury, leads to what kind of damage in the
+                myelin - helping to visualize injuries based on the smallest force
+                necessary to cause it. This information may be critical to knowing when
+                someone has an injury after an accident but before symptoms emerge, and
+                help supports the decision of when and how to treat them.</p>
+                <a href="/science/tbi.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="item">
+              <div class="col text-center">
+              <img class="d-block w-100" src="/images/gallery/2018_insulin_degrading_enzyme.jpg" alt="">
+              <div class="carousel-caption3">
+                <h3>Mechanistic Insights into Insulin Degrading Enzyme from Laminar-Flow SAXS</h3>
+                <p>Insulin Degrading Enzyme (IDE) is known known to be a significant
+                factor in the pathophysiology of conditions such as Diabetes
+                mellitus and Alzheimer’s disease. This paper reveals structural
+                states present during substrate recognition and capture and
+                identifies a potential rate limiting step in the reaction.</p>
+                <a href="/science/insulin-degrading-enzyme2.html" class="btn btn-primary" role="button">Learn More</a>
                 </div>
               </div>
             </div>
@@ -65,7 +182,7 @@ Below is a gallery of a few of BioCAT's science highlights.
                 the enzyme. Researched investigated what impact mutations to
                 SHP2 may have on the potential efficacy of drugs targeting
                 this enzyme.</p>
-                <a href="/science/super-relaxed-myosin.html" class="btn btn-primary" role="button">Learn More</a>
+                <a href="/science/shp2-mutation.html" class="btn btn-primary" role="button">Learn More</a>
                 </div>
               </div>
             </div>
@@ -219,7 +336,7 @@ Below is a gallery of a few of BioCAT's science highlights.
                 beamline and the BioCARS 14-BM-C beamline at the APS has
                 remedied that situation by determining the molecular structure
                 of collagen type II in living tissues.</p>
-                <a href="/collagen-fibers-packing.html" class="btn btn-primary" role="button">Learn More</a>
+                <a href="/science/collagen-fibers-packing.html" class="btn btn-primary" role="button">Learn More</a>
                 </div>
               </div>
             </div>
@@ -237,7 +354,7 @@ Below is a gallery of a few of BioCAT's science highlights.
                 propagate a disease cycle just by changing its shape. A
                 collaborative research team has achieved a significant advance
                 in our understanding of the infectious power of the prion protein.</p>
-                <a href="/protein-prion-disease.html" class="btn btn-primary" role="button">Learn More</a>
+                <a href="/science/protein-prion-disease.html" class="btn btn-primary" role="button">Learn More</a>
                 </div>
               </div>
             </div>
@@ -317,7 +434,7 @@ Below is a gallery of a few of BioCAT's science highlights.
                 snapping back. Not only did this finding surprise researchers
                 who study muscle, but the results might also help scientists
                 better understand the human heart.</p>
-                <a href="/power-to-fly.html" class="btn btn-primary" role="button">Learn More</a>
+                <a href="/science/power-to-fly.html" class="btn btn-primary" role="button">Learn More</a>
                 </div>
               </div>
             </div>

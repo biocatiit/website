@@ -4,7 +4,7 @@
 
 BioCAT conducts a wide-range of very interesting experiments involving muscle
 fiber samples from many different sources. In the following instructional video,
-Dr. Weikang Ma and Dr. Tom Irving, give an overview of how one would conduct a
+Dr. Weikang Ma and Dr. Tom Irving give an overview of how one would conduct a
 rodent skeletal muscle fiber experiment at BioCAT.
 
 .. raw:: html

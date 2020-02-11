@@ -25,7 +25,7 @@ Packing It In: A New Look at Collagen Fibers
                 resolution, as seen in the meridional reflections series. (Adapted
                 from Antipova and Orgel, J. Biol. Chem. 285(10), 7087 [March 2010] Background
                 image of collagen fibers courtesy of Prof. Andrew Notebaert, Indiana University Bloomington.
-                Source: http://www.indiana.edu/~a215note/virtualscope2/docs/chap2_1.htm,
+                Source:
                 Course A215, "Undergraduate Anatomy." ©2008, The Trustees of Indiana University)
 
     .. -------------------------------------------------------------------------

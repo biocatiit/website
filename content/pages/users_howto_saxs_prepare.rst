@@ -7,7 +7,7 @@ Checklist for SAXS sample preparation
 
 #.  Buffer components
 
-    #.  20-100 mM Tris or HEPES or phosphate buffer etc.
+    #.  20-100 mM PBS, Tris,  HEPES, etc. PBS is preferred if possible.
     #.  Salt concentration <1M, typically 150-200 mM
     #.  Reducing agents (1-5 mM DTT or 1-2 mM TCEP) - good free radical scavengers.
     #.  Glycerol (1-5%, avoid greater than 10%)
@@ -16,7 +16,7 @@ Checklist for SAXS sample preparation
 #.  Buffer should be perfectly MATCHED
 
     #.  SEC-SAXS - make enough buffer for overnight equilibration for SEC-MALS-
-        SAXS (2L) and at least 2 column volumes for SEC-SAXS (> 500 mL).
+        SAXS (> 1.5 L) and at least 2 column volumes for SEC-SAXS (> 500 mL).
     #.  Batch-mode SAXS - use dialysis buffer
 
 #.  Sample (Protein or DNA/RNA) concentration and amount

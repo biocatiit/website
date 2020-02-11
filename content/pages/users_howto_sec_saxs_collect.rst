@@ -16,11 +16,6 @@ There are a few common processes:
 
 #.  Every buffer you use for SEC-SAXS should be filtered and degassed.
 
-#.  Every buffer for SEC-SAXS needs to be split into two bottles,
-    one for the FPLC and one for the coflow sheath. Usually a 50-50 split
-    is good, but if you have a small amount of buffer please talk to a
-    beamline scientist.
-
 #.  In SEC-SAXS experiments you should reserve ~50 mL of buffer in a falcon
     tube. This will be used for cleaning the sample loop, diluting samples,
     etc. It is convenient to not have to extract this from the larger buffer
@@ -59,7 +54,11 @@ To change buffer you need to equilibrate the column you will use. To do so:
     Over a waste beaker, rinse both frits and tubing with water from a DI Water
     squirt bottle.
 
-#.  Place A and B frits into the new buffer. Cut and stretch a piece of parafilm
+    *   **IMPORTANT:** You may be using the same buffer bottle for the FPLC as the
+        coflow sheath. If so, make sure to stop the FPLC before transferring the
+        FPLC leads with the coflow leads.
+
+#.  Place A and B frits into the new buffer. If necessary, cut and stretch a piece of parafilm
     over the bottle top to prevent contaminants such as dust entering the bottle.
     Cap the old buffer bottle.
 
@@ -135,6 +134,10 @@ coflow sheath buffer also need to be changed. To do so:
 
 #.  Remove the pierced cap from the current buffer and place it on the new buffer.
     If there are any drops of the old buffer on it, gently with the cap with a kimwipe.
+
+    *   **IMPORTANT:** You may be using the same buffer bottle for the FPLC as the
+        coflow sheath. If so, make sure to stop the FPLC before transferring the
+        FPLC leads with the coflow leads.
 
 #.  Over a waste beaker, rinse the tubing with water from a DI Water
     squirt bottle.
@@ -306,7 +309,7 @@ To set exposure parameters in the BioCAT control software:
 
 #.  Make a new folder for your sample by clicking on the folder button.
     It will be contained within your top level directory (should match all
-    other top level directory names, such as 20190430Hopkins for a user
+    other top level directory names, such as 2019043_Hopkins for a user
     group with PI Hopkins on 04/30/2019). Name the folder consistent with
     the sample identification in the FPLC/HPLC method.
 
@@ -325,13 +328,13 @@ To set exposure parameters in the BioCAT control software:
         JH1 for the first sample of a group with PI with initials JH).
 
 #.  Set the exposure time and exposure period appropriately. The defaults that
-    most users will want to use are 1 s and 2 s for time and period respectively.
+    most users will want to use are 0.5 s and 1 s for time and period respectively.
 
     *   Note: You will usually not need to change this. Check anyways just to
         to be sure.
 
 #.  Set the number of frames appropriately. The default most users will want to
-    use is 1800. verify that frames*exposure period is equal to or greater than
+    use is 3600. verify that frames*exposure period is equal to or greater than
     the run time of your FPLC/HPLC method.
 
     .. image:: {static}/images/how_tos/control_exp_params.png

@@ -49,9 +49,9 @@ My work
         Hopkins JB, Thorne RE. J Appl Crystallogr. 2016 May 4;49(Pt 3):880-890.
         <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4886981/>`_
 
-        *   `The paper data is available. <http://hdl.handle.net/1813/43137>`_
+        *   `The paper data is available. <https://hdl.handle.net/1813/43137>`_
 
-        *   `A paper reprint is also available. <http://hdl.handle.net/1813/44204>`_
+        *   `A paper reprint is also available. <https://hdl.handle.net/1813/44204>`_
 
 
 *   Some ongoing research I'm not quite ready to share . . .

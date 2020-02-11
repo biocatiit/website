@@ -19,7 +19,7 @@ SAXS Processing At The Beamline
 
     *   Full written tutorials, video tutorials, a manual, and instructions for how
         to install RAW on your own computer can be obtained from the
-        `RAW website <http://bioxtas-raw.readthedocs.io/>`_.
+        `RAW website <https://bioxtas-raw.readthedocs.io/>`_.
 
     *   BioCAT users may find the section on Basic SEC-SAXS processing particularly useful.
 
@@ -42,7 +42,7 @@ SAXS Data Processing At Home
     RAW .cfg file. In addition, they will take home any data processed at the beamline.
 
 *   In order to carry out basic processing (images into one dimensional scattering
-    profiles) users will need to `install RAW <http://bioxtas-raw.readthedocs.io/en/latest/install.html>`_.
+    profiles) users will need to `install RAW <https://bioxtas-raw.readthedocs.io/en/latest/install.html>`_.
 
     *   **IMPORTANT:** You need version 1.5.2 or greater to process (image) data collected
         at BioCAT.
@@ -56,8 +56,8 @@ SAXS Data Processing At Home
     *   This part of the RAW tutorial covers basic SEC-SAXS data processing:
         https://bioxtas-raw.readthedocs.io/en/latest/tutorial/s1_sec.html
 
-*   Please check the `RAW tutorial <http://bioxtas-raw.readthedocs.io/en/latest/tutorial.html>`_
-    and the `RAW tutorial videos <http://bioxtas-raw.readthedocs.io/en/latest/videos.html>`_
+*   Please check the `RAW tutorial <https://bioxtas-raw.readthedocs.io/en/latest/tutorial.html>`_
+    and the `RAW tutorial videos <https://bioxtas-raw.readthedocs.io/en/latest/videos.html>`_
     for more processing help, and reach out to use if you have any questions.
 
 *   If you'd rather use another data processing program (like Primus or ScAtter),
@@ -76,7 +76,7 @@ SAXS Processing Method
     *   `Buffer subtraction, scaling, and averaging
         data <http://bioxtas-raw.readthedocs.io/en/latest/tutorial/s1_basic.html>`_
 
-    *   `Guinier fit <http://bioxtas-raw.readthedocs.io/en/latest/tutorial/s1_guinier.html>`_
+    *   `Guinier fit <https://bioxtas-raw.readthedocs.io/en/latest/tutorial/s1_guinier.html>`_
 
     *   `MW calculation to verify data quality and oligomeric state
         <https://bioxtas-raw.readthedocs.io/en/latest/tutorial/s1_mw.html>`_
@@ -85,7 +85,7 @@ SAXS Processing Method
         <https://bioxtas-raw.readthedocs.io/en/latest/tutorial/s2_gnom.html>`_
 
     *   Evaluating the potential ambiguity of a 3D reconstruction using
-        `AMBIMETER <http://bioxtas-raw.readthedocs.io/en/latest/tutorial/s2_ambimeter.html>`_
+        `AMBIMETER <https://bioxtas-raw.readthedocs.io/en/latest/tutorial/s2_ambimeter.html>`_
         to verify that a reconstruction is worth doing
 
     *   3D reconstruction with ab initio bead models using `DAMMIF/N and average
@@ -96,8 +96,8 @@ SAXS Processing Method
         EMAN2 <http://bioxtas-raw.readthedocs.io/en/latest/tutorial/s2_denss.html>`_
 
 *   For more on what RAW can do, see the full tutorial:
-    `tutorial <http://bioxtas-raw.readthedocs.io/en/latest/tutorial.html>`_
-    and `tutorial videos <http://bioxtas-raw.readthedocs.io/en/latest/videos.html>`_
+    `tutorial <https://bioxtas-raw.readthedocs.io/en/latest/tutorial.html>`_
+    and `tutorial videos <https://bioxtas-raw.readthedocs.io/en/latest/videos.html>`_
 
 *   Alternatively, you can use Primus or Scatter for the processing described above,
     except for the electron density reconstruction.

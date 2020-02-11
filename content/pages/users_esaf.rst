@@ -8,7 +8,7 @@ at BioCAT, you are responsible for filling out and submitting all of the
 Safety Paperwork for your experiment at least **2-full weeks before your
 experiment is set to begin.**
 
-The `ESAF <http://beam.aps.anl.gov/pls/apsweb/esaf0001.start_page>`_ (Experiment
+The `ESAF <https://beam.aps.anl.gov/pls/apsweb/esaf0001.start_page>`_ (Experiment
 Safety Assessment Form) is the primary piece of paperwork that the APS uses to
 verify the safety envelope of your experiment, and so it needs to be completed
 and submitted well ahead of your experimental start date.

@@ -11,15 +11,15 @@
     states in living tissues.
 
     **Overview:**  The Biophysics Collaborative Access Team (BioCAT) is organized
-    as a `National Institutes of Health(NIH) <http://www.nih.gov/>`_
+    as a `National Institutes of Health(NIH) <https://www.nih.gov/>`_
     `Biomedical Technology Resource <http://www.btrportal.org/>`_
     and is funded by the `National Institute of General Biomedical Sciences
-    \(NIGMS) <http://www.nigms.nih.gov/>`_. Its primary research tool is a very high
-    brightness X-ray beam-line at the `Advanced Photon Source (APS) <http://www.aps.anl.gov/>`_
-    at `Argonne National Laborator (ANL) <http://www.anl.gov/>`_. BioCAT is a
-    member of `Illinois Institute of Technology's (IIT) <http://web.iit.edu/>`_
+    \(NIGMS) <https://www.nigms.nih.gov/>`_. Its primary research tool is a very high
+    brightness X-ray beam-line at the `Advanced Photon Source (APS) <https://www.aps.anl.gov/>`_
+    at `Argonne National Laborator (ANL) <https://www.anl.gov/>`_. BioCAT is a
+    member of `Illinois Institute of Technology's (IIT) <https://www.iit.edu/>`_
     `Center for Synchrotron Radiation Research and Instrumentation (CSSRI)
-    <http://web.iit.edu/csrri>`_.
+    <https://web.iit.edu/csrri>`_.
 
 
 .. row::

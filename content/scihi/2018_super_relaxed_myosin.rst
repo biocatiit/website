@@ -105,7 +105,7 @@ A Super-relaxed Myosin State to Offset Hypertrophic Cardiomyopathy
     Thomas C. Irving, Roger Cooke, Eric M. Green, and James A. Spudich,
     `“Deciphering the super relaxed state of human β-cardiac myosin and the
     mode of action of mavacamten from myosin molecules to muscle fibers,”
-    <http://www.pnas.org/content/115/35/E8143>`_ Proc. Natl. Acad. Sci.
+    <https://doi.org/10.1073/pnas.1809540115>`_ Proc. Natl. Acad. Sci.
     115(35), E8143 (2018). DOI: 10.1073/pnas.1809540115
 
 

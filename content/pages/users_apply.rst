@@ -7,8 +7,9 @@ use the facility for free by putting in an application through the
 APS GUP program. These applications are reviewed on the basis of
 feasibility and scientific merit. Obtaining time at the BioCAT facility is a
 multiple-step process. Below is a listing of the eleven things you need to
-do---from start to finish---to acquire, use, and complete time at BioCAT.
-Please also check the `APS new user checklist <http://www.aps.anl.gov/Users-Information/Getting-Started/User-Checklist>`_.
+do - from start to finish - to acquire, use, and complete time at BioCAT.
+Please also check the `APS new user checklist
+<https://www.aps.anl.gov/Users-Information/Getting-Started/User-Checklist>`_.
 
 #.  `Discuss Your Proposed Experiment with Us <{filename}/pages/contact.rst>`_
 
@@ -26,16 +27,16 @@ Please also check the `APS new user checklist <http://www.aps.anl.gov/Users-Info
     ANL, as well as, the process for ensuring that `safety and compliance
     <{filename}/pages/users_safety.rst>`_ requirements are met.
 
-#.  `Submit a Proposal <http://www.aps.anl.gov/Users-Information/About-Proposals/Apply-for-Time>`_
+#.  `Submit a Proposal <https://www.aps.anl.gov/Users-Information/About-Proposals/Apply-for-Time>`_
 
     The primary mechanism for access to BioCAT is through the APS General User Program. Further
     information on classes of experiments, allocation of time by category, and the proposal
-    review process is available `from the APS <http://www.aps.anl.gov/Users-Information/About-Proposals/Apply-for-Time>`_.
+    review process is available `from the APS <https://www.aps.anl.gov/Users-Information/About-Proposals/Apply-for-Time>`_.
 
     Users with active proposals wishing time in the next run should complete follow
-    the directions for a Returning Proposer on the `APS website <http://www.aps.anl.gov/Users-Information/About-Proposals/Apply-for-Time>`_.
+    the directions for a Returning Proposer on the `APS website <https://www.aps.anl.gov/Users-Information/About-Proposals/Apply-for-Time>`_.
 
-#.  `Complete the Experiment Safety Assessment Form (ESAF) <http://beam.aps.anl.gov/pls/apsweb/esaf0001.start_page>`_
+#.  `Complete the Experiment Safety Assessment Form (ESAF) <https://beam.aps.anl.gov/pls/apsweb/esaf0001.start_page>`_
 
     Every proposal awarded beam time must be accompanied by an approved Experiment Safety Assessment
     Form (ESAF) before it is allowed to proceed.
@@ -56,7 +57,7 @@ Please also check the `APS new user checklist <http://www.aps.anl.gov/Users-Info
     There are a number of hazards which will require a more detailed (and, therefore, prolonged) review
     before access can be granted:
 
-    *   `Bio-Hazardous Materials <http://www.anl.gov/safety/biosafety>`_
+    *   `Bio-Hazardous Materials <https://www.anl.gov/safety/biosafety>`_
 
         Experiments utilizing any of the following items will have to be coordinated far
         in advance with your Scientific Contact, Mark Vukonich (BioCAT BSO), and Nena Moonier
@@ -86,7 +87,7 @@ Please also check the `APS new user checklist <http://www.aps.anl.gov/Users-Info
         begin. A class IV laser will require all operators to have an ANL-approved off-site
         eye examination.
 
-    *   `Electrical Equipment <http://www.aps.anl.gov/Safety-and-Training/Safety/Electrical-Safety>`_
+    *   `Electrical Equipment <https://www.aps.anl.gov/Safety-and-Training/Safety/Electrical-Safety>`_
 
         All electrical equipment which is not certified by a Nationally Recognized Testing
         Laboratory (NRTL) (such as Underwriters Laboratories) or is modified will need to be
@@ -100,7 +101,7 @@ Please also check the `APS new user checklist <http://www.aps.anl.gov/Users-Info
     can result in heavy fines. Failure to comply with ANL regulations can result in loss
     of access to the facility.
 
-#.  Establish a "User Account"
+#.  Establish a "User Account" - BSL2 experiments only
 
     BioCAT requests that all experimenters submit a purchase order to ANL in care of the
     APS "User Account Specialist" to provide a mechanism for covering costs that may be
@@ -152,7 +153,7 @@ Please also check the `APS new user checklist <http://www.aps.anl.gov/Users-Info
 #.  Complete an End of Experiment Form
 
     Once your experiment is over, we request that you provide BioCAT and
-    `the APS <http://beam.aps.anl.gov/pls/apsweb/eef002.start_page>`_ with any comments
+    `the APS <https://beam.aps.anl.gov/pls/apsweb/eef002.start_page>`_ with any comments
     and constructive criticisms so that your next experiment can run more efficiently.
 
 #.  Publish Your Results

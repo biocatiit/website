@@ -1,0 +1,61 @@
+Structure of BS Ric8A, a regulator of G-protein Biology
+###################################################################
+
+:date: 2019-07-12
+:tags: user highlight; science highlight
+:category: science
+:slug: ric8a
+:authors: BioCAT
+
+.. row::
+
+    .. thumbnail::
+
+        .. image:: {filename}/images/scihi/2019_ric8a.png
+            :class: img-responsive
+
+        .. caption::
+
+            A model of the Ric8a protein structure showing the best scoring
+            flexible tail (right), and the validation of the model against the
+            SAXS data (left).
+
+.. row::
+
+    G-protein signaling has been the dominant theme in the Artemyev lab and
+    their recent work specifically addresses Ric8A (Resistance to inhibitors
+    of cholinesterase 8A) structure and function. Ric8A is a well-known
+    regulator of G-protein biology and belongs to a class of proteins different
+    from the G protein-coupled receptors (GPCRs), which act via interactions
+    with monomeric Gα subunits as opposed to heterotrimeric Gαβγ proteins.
+    SAXS was used in combination with crystallography and biochemical studies
+    to show that the flexible C-terminal tail is important for the overall
+    stability of Ric8A and the function as a guanine nucleotide exchange
+    factor (GEF). The crystal structure revealed that Ric8A belongs to a
+    functionally diverse class of proteins with what is known as an
+    armadillo-fold (ARM) characterized by two layers of alpha helices arranged
+    in a right handed superhelix. Ric8A diverged from the class in terms of the
+    number of ARM repeats (8 as opposed to 10) and is further followed by a
+    flexible region spanning ~ 70 residues.
+
+    Differential scanning fluorimetry (DSF) was used to determine that a construct
+    without the C-terminal 70 amino acids was significantly less stable which
+    suggests that this flexible tail region is involved in intramolecular
+    interactions and it may allosterically promote its binding to Gα. Molecular
+    dynamics simulations were used to model experimental SAXS data and it was clear
+    that an acidic stretch of amino acids from the proximal region of the
+    C-terminal tail was involved in an extensive network of stabilizing
+    interactions with the core of Ric8A. Using SAXS data obtained from a
+    construct containing both the proximal and distal tail regions the distal
+    part of the C-terminal tail was shown to have extended conformations and
+    to have no interactions with the Ric8A core, while the biochemical studies
+    showed that this part of the tail is essential for the complex formation
+    with Gα. Information from a variety of complementary biochemical and
+    biophysical techniques was instrumental in clarifying the true mechanism
+    of Ric8A and in delineating the similarities and differences between
+    Ric8A and canonical GPCRs.
+
+    See: Srivastava, D., L. Gakhar, and N.O. Artemyev, `"Structural underpinnings
+    of Ric8A function as a G-protein alpha-subunit chaperone and guanine-nucleotide
+    exchange factor" <https://doi.org/10.1038/s41467-019-11088-x>`_. Nat Commun,
+    2019. 10(1): p. 3084. PMCID: PMC6625990, DOI: 10.1038/s41467-019-11088-x

@@ -11,7 +11,7 @@
     it is possible to acquire valuable structural information (size and shape)
     by analyzing the manner in which they scatter X-rays known as Small Angle
     X-ray Scattering (SAXS). This technique is used to study how the macromolecules
-    in our cells  interact with each other and function as “molecular machines.”
+    in our cells interact with each other and function as “molecular machines.”
 
 Basic information obtained from the typical SAXS experiment is radius of gyration (Rg)
 and the electron pair distance distribution function (P(r)), which in turn can be
@@ -23,21 +23,15 @@ our `user guides <{filename}/pages/users_howto.rst>`_.
 Equilibrium SAXS
 ===================
 
-The BioCAT standard experimental set-up includes a Pilatus 1M detector from
-Dectris (Switzerland) and a camera of 3.5 m sample-to-detector distance to
+The BioCAT standard experimental set-up includes a Pilatus3 X 1M detector from
+Dectris and a camera of ~3.7 m sample-to-detector distance at 12 keV to
 access a range of momentum transfer, q, from ~0.004 to 0.36 Å\ :sup:`-1`. This range
 of q allows not only accurate determination of radius of gyration, but also
 detailed modeling using ab initio and rigid body approaches. A temperature controlled
 quartz capillary (1.0 mm ID) flow cell with `coflow sample geometry <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5137223/>`_
-is used for SEC-SAXS and SEC-MALS-SAXS sample measurement. The coflow
+is used for batch mode SAXS, SEC-SAXS and SEC-MALS-SAXS sample measurement. The coflow
 setup minimizes radiation damage on the sample, ensuring optimum signal to noise
-and baseline stability for consistently high quality data. For batch mode SAXS
-a temperature controlled quartz capillary (1.5 mm ID, 1.52 mm OD) flow cell
-is used for sample measurement.
-
-Note: Currently, switching between SEC-SAXS/SEC-MALS-SAXS and batch mode
-experiments takes ~1 shift and must be arranged with a beamline scientist
-prior to your beamtime.
+and baseline stability for consistently high quality data.
 
 The BioCAT beamline provides the following three modes of equilibrium SAXS.
 
@@ -57,8 +51,8 @@ for users, though users are encouraged to bring their own columns to address pot
 cross contamination and reproducibility issues:
 
 *   Superdex 200 Increase, both 10/300 and 5/150 (MW ~10-600 kDa)
-*   Superdex 75, both 10/300 and 5/150 (MW ~3-70 kDa)
-*   Superose 6, 10/300 (MW ~5-5,000 kDa)
+*   Superdex 75 Increase 10/300, with a non-Increase 5/150 also available (MW ~3-70 kDa)
+*   Superose 6 Increase, 10/300 (MW ~5-5,000 kDa)
 
 SEC-MALS-SAXS
 ^^^^^^^^^^^^^^
@@ -81,11 +75,12 @@ personnel.
 
 BioCAT provides two Agilent Infinity II HPLCs each with a Wyatt DAWN HELEOS II MALS+DLS
 (17 channels LS, plus 1 DLS) detector, and a Wyatt Optilab T-rEX dRI detector.
-The beamline also has the following Wyatt columns available for users:
+The beamline also has the following columns available for users:
 
-*   010S5 100Å (MW range 0.1-100 kDa)
-*   015S5 150Å (MW range 0.5-150 kDa)
-*   030S5 300Å (MW range 5-1,250 kDa)
+*   Superdex 200 Increase 10/300 (MW ~10-600 kDa)
+*   Wyatt 010S5 100Å (MW range 0.1-100 kDa)
+*   Wyatt 015S5 150Å (MW range 0.5-150 kDa)
+*   Wyatt 030S5 300Å (MW range 5-1,250 kDa)
 
 Batch Mode
 ^^^^^^^^^^^^^^^
@@ -96,10 +91,9 @@ Batch mode samples are directly loaded into the sample cell, rather than
 first passing through a sizing column. This reduces the volume and concentration
 required, but aggregates and other large species are not separated from the
 sample, increasing requirements on sample prep. At BioCAT, these measurements
-take ~100 µl of sample. However, in some cases smaller volumes
-can also yield usable SAXS data. In order to reduce radiation damage, the
-sample flows through or oscillates in the X-ray beam using a Hamilton
-programmable dual-syringe pump.
+take ~50 µl of sample. However, in some cases smaller volumes
+can also yield usable SAXS data. These experiments are also done in the coflow
+sample cell, to minimize radiation damage.
 
 
 Time-Resolved SAXS
@@ -123,15 +117,15 @@ changes in the macromolecule.
 
 Laminar mixing utilizes hydrodynamic focusing to reduce the central flow channel
 to a narrow (typically ~0.1-10 µm) sheath. A version of this mixer is currently
-under development at BioCAT. For chaotic/turbulent mixing, chaotic/turbulent
-flow breaks the solution into eddies small enough for reactants to diffuse
-rapidly. Chaotic/turbulent flow mixers have the advantage of being able to use
-all of the delivered photon flux in the X-ray beam for the best signal to noise
-ratio. The plug flow in this kind of mixer also makes the reaction time uniform
-orthogonally to the flow-direction thus making its incorporation into a SAXS camera
-quite straight forward. In its current iteration, the BioCAT mixer can access
-time regimes as low as 50 µs and a complete experiment can be performed with
-as little as 10 mg of sample.
+available at BioCAT and can provide access to time ranges from ~1 ms to 1.5 s.
+These experiments use modest amounts of sample, ~1-10 mg per time series
+(~30 time points).
+
+In chaotic/turbulent mixing, chaotic/turbulent flow breaks the solution into
+eddies small enough for reactants to diffuse rapidly. Mixing can be much more
+rapid than in laminar flow mixers, but requires much higher flow rates.
+In its current iteration, the BioCAT mixer can access time regimes as low
+as ~80 µs and a complete experiment can be performed with 10-100 mg of sample.
 
 Currently experiments are collaborations with beamline staff, and users are
 encouraged to discuss possible experiments with the `SAXS scientific contact <{filename}/pages/contact.rst>`_.
@@ -152,8 +146,8 @@ Instrumentation for SAXS
 In addition to the instrumentation described above, BioCAT has a fully equipped
 `wet lab <{filename}/pages/about_support.rst#wetlab>`_ for sample preparation. In addition
 to the `beamline instrumentation described elsewhere <{filename}/pages/about_beamline.rst>`_,
-a set of in-vacuum JJ x-ray slits are used as the collimating beam slits, and a
-set of in-vacuum Xenocs scatterless x-ray slits are used as the guard slits.
+a set of scatterless in-vacuum JJ x-ray slits are used as the collimating beam slits, and a
+two sets of in-vacuum Xenocs scatterless x-ray slits are used as the guard slits.
 An in-line sample camera is located just after the guard slits, using a mirror
 with a 6 mm through hole for the x-ray beam. BioCAT also has two ISCO model
 500D and four Harvard Instrument model PHD 4400 programmable, high-pressure

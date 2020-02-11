@@ -22,7 +22,7 @@ Phone: 630-252-3062
 
 Projects
 -----------
-*   `BioXTAS RAW <http://bioxtas-raw.readthedocs.io>`_, a python
+*   `BioXTAS RAW <https://bioxtas-raw.readthedocs.io>`_, a python
     program for reducing and analyzing biological SAXS data.
 
 *   `Novel Methods for SAXS <{filename}/pages/staff/hopkins/novel_methods.rst>`_

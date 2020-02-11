@@ -23,7 +23,7 @@
 
         *   `Wiki <http://www.bio.aps.anl.gov/staffwiki/>`_
         *   `Useful Links on the Wiki <http://www.bio.aps.anl.gov/staffwiki/Links/>`_
-        *   `BioCAT github Page <http://github.com/biocatiit>`_
+        *   `BioCAT github Page <https://github.com/biocatiit>`_
         *   `Storage Ring Status <https://www3.aps.anl.gov/aod/blops/status/srStatus.html>`_
         *   `APS Stockroom Catalog <https://beam.aps.anl.gov/pls/apsweb/st0006.start_page>`_
 
@@ -62,6 +62,7 @@
         *   `Mucal X-ray absorption cross section calculator <http://www.csrri.iit.edu/mucal.html>`_
         *   `MX <http://mx.iit.edu/>`_
         *   `EPICS <https://www.aps.anl.gov/epics/>`_
+        *   `Illinois Institute of Technology <https://www.iit.edu/>`_
 
     .. column::
         :width: 6

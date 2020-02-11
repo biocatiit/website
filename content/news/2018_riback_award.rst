@@ -85,4 +85,5 @@ University. His thesis work is under the dual mentorship of Allan Drummond and
 Tobin Sosnick. A native of Livingston, N.J., he will soon become a postdoctoral
 researcher at the Brangwynne lab at Princeton University.
 
-This was adapted from an `Argonne National Lab press release <http://www.anl.gov/articles/u-c-student-receives-2018-rosalind-franklin-investigator-award>`_
+This was adapted from an `Argonne National Lab press release
+<https://www.anl.gov/article/u-of-c-student-receives-2018-rosalind-franklin-investigator-award>`_

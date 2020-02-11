@@ -47,6 +47,6 @@ Unraveling the role of a “nebulous” protein
         See: Balazs Kiss, Eun-Jeong Lee, Weikang Ma, Frank Li, Paola Tonino,
         Srboljub M. Mijailovich, Thomas Irving, and Henk Granzier.  `Nebulin
         stiffens the thin filament and augments cross-bridge interaction in
-        skeletal muscle <http://www.pnas.org/content/early/2018/09/20/1804726115>`_.
+        skeletal muscle <https://doi.org/10.1073/pnas.1804726115>`_.
         Proc Natl Acad Sci U S A. 2018
 
