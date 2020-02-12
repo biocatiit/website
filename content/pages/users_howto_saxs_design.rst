@@ -78,7 +78,7 @@ in mg/ml that is:
 
 For example, using SEC-SAXS for a 20 kDa protein you would want a
 concentration of ~240/20 = 12 mg/ml whereas for a 150 kDa
-protein you would want a concentration of ~60/150 = 1.6 mg/ml. RNA and DNA
+protein you would want a concentration of ~240/150 = 1.6 mg/ml. RNA and DNA
 samples scatter ~2.5 times more strongly than protein, so you can use a
 concentration of ~96/MW and 24/MW for SEC-SAXS and batch mode SAXS respectively.
 
