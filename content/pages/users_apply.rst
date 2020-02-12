@@ -128,7 +128,7 @@ Please also check the `APS new user checklist
     need to either get a user photo badge or a gate pass, depending on when you
     arrive. In order to get your user photo badge or gate pass, you will have to show
     a `valid form of photo identification <https://www.anl.gov/site-entry-requirements>`_.
-    **Starting in 2020, if you want to use a drivers license or other state identification
+    **Starting in 2020, if you want to use a driver's license or other state identification
     card as your photo ID it must be REAL-ID compatible!**
 
     Nominally your beamtime starts at 8 am on your first scheduled day. In practice,
