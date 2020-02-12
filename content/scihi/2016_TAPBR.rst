@@ -7,7 +7,7 @@ TAPBR: A Novel Protein Chaperone With a Role in Peptide Editing in Immune Recogn
 :slug: protein-chaperone
 :authors: BioCAT
 
-.. image:: {filename}/images/scihi/TAPBR_big.png
+.. image:: {static}/images/scihi/TAPBR_big.png
     :class: img-responsive
 
 .. caption::

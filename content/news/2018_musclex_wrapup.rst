@@ -6,9 +6,9 @@ MuscleX: Muscle X-ray Diffraction Workshop Wrap-Up
 :slug: musclex-workshop-wrapup
 :authors: BioCAT
 
-.. image:: {filename}/images/news/Audience2.jpg
+.. image:: {static}/images/news/Audience2.jpg
     :class: img-reactive
-    :target: {filename}/images/news/Audience2.jpg
+    :target: {static}/images/news/Audience2.jpg
 
 The MuscleX workshop was a great success with 63 registered attendees!
 
@@ -23,17 +23,17 @@ The MuscleX workshop was a great success with 63 registered attendees!
         Madison, Wisconsin 5/23/2018
 
 
-        **1:00 PM** `BioCAT Update and Overview - Tom Irving (BioCAT) <{filename}/files/MyofilamentWorkshopIntro_Irving.pdf>`_
+        **1:00 PM** `BioCAT Update and Overview - Tom Irving (BioCAT) <{static}/files/MyofilamentWorkshopIntro_Irving.pdf>`_
 
-        **1:30 PM** `New opportunities with intact and skinned skeletal muscle - Weikang Ma (BioCAT) <{filename}/files/MyofilamentWorkshop_Weikang.pdf>`_
+        **1:30 PM** `New opportunities with intact and skinned skeletal muscle - Weikang Ma (BioCAT) <{static}/files/MyofilamentWorkshop_Weikang.pdf>`_
 
-        **2:00 PM** `Best Practices for X-ray Diffraction Experiments with Cardiac Muscle - Vickie Yuan (U Washington) <{filename}/files/MyofilamentWorkshopSamplePrep_Vicky.pdf>`_
+        **2:00 PM** `Best Practices for X-ray Diffraction Experiments with Cardiac Muscle - Vickie Yuan (U Washington) <{static}/files/MyofilamentWorkshopSamplePrep_Vicky.pdf>`_
 
         **2:30 PM** Multiscale modeling, X-ray patterns, and estimation of forces on myofilaments in intact muscle - Srba Mijailovich (IIT)
 
         **3:00 PM** Break
 
-        **3:20 PM** `New opportunities for SAXS and muscle proteins - Jesse Hopkins (BioCAT) <{filename}/files/MyofilamentWorkshopSAXS_Jesse.pdf>`_
+        **3:20 PM** `New opportunities for SAXS and muscle proteins - Jesse Hopkins (BioCAT) <{static}/files/MyofilamentWorkshopSAXS_Jesse.pdf>`_
 
         **3:40 PM** MuscleX: New tools for analysis of X-ray diffraction patterns - Weikang Ma (BioCAT)
 
@@ -53,9 +53,9 @@ The MuscleX workshop was a great success with 63 registered attendees!
 
         .. thumbnail::
 
-            .. image:: {filename}/images/news/MuscleXspeakers.JPG
+            .. image:: {static}/images/news/MuscleXspeakers.JPG
                 :class: img-rounded, img-reactive
-                :target: {filename}/images/news/MuscleXspeakers.JPG
+                :target: {static}/images/news/MuscleXspeakers.JPG
 
     .. -------------------------------------------------------------------------
     .. column::
@@ -63,9 +63,9 @@ The MuscleX workshop was a great success with 63 registered attendees!
 
         .. thumbnail::
 
-            .. image:: {filename}/images/news/MassimoiReeconditi.JPG
+            .. image:: {static}/images/news/MassimoiReeconditi.JPG
                 :class: img-rounded, img-reactive
-                :target: {filename}/images/news/MassimoiReeconditi.JPG
+                :target: {static}/images/news/MassimoiReeconditi.JPG
 
 .. row::
 
@@ -75,9 +75,9 @@ The MuscleX workshop was a great success with 63 registered attendees!
 
         .. thumbnail::
 
-            .. image:: {filename}/images/news/JesseHopkins.JPG
+            .. image:: {static}/images/news/JesseHopkins.JPG
                 :class: img-rounded, img-reactive
-                :target: {filename}/images/news/JesseHopkins.JPG
+                :target: {static}/images/news/JesseHopkins.JPG
 
     .. -------------------------------------------------------------------------
     .. column::
@@ -85,9 +85,9 @@ The MuscleX workshop was a great success with 63 registered attendees!
 
         .. thumbnail::
 
-            .. image:: {filename}/images/news/VickyYuan.JPG
+            .. image:: {static}/images/news/VickyYuan.JPG
                 :class: img-rounded, img-reactive
-                :target: {filename}/images/news/VickyYuan.JPG
+                :target: {static}/images/news/VickyYuan.JPG
 
 .. row::
 
@@ -97,6 +97,6 @@ The MuscleX workshop was a great success with 63 registered attendees!
 
         .. thumbnail::
 
-            .. image:: {filename}/images/news/WeikangMa.JPG
+            .. image:: {static}/images/news/WeikangMa.JPG
                 :class: img-rounded, img-reactive
-                :target: {filename}/images/news/WeikangMa.JPG
+                :target: {static}/images/news/WeikangMa.JPG

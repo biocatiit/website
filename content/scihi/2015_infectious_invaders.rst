@@ -7,7 +7,7 @@ Combating an Infectious Invader
 :slug: infectious-invader
 :authors: BioCAT
 
-.. image:: {filename}/images/scihi/Fungal_Prion_2015.jpg
+.. image:: {static}/images/scihi/Fungal_Prion_2015.jpg
     :class: img-responsive
 
 .. caption::
@@ -129,7 +129,7 @@ prion model systems.
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/invader.png
+            .. image:: {static}/images/scihi/invader.png
                 :class: img-responsive
 
 

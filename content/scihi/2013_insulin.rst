@@ -15,7 +15,7 @@ Conformational states and recognition of amyloidogenic peptides of human Insulin
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/2013_Peptides.jpg
+            .. image:: {static}/images/scihi/2013_Peptides.jpg
                 :class: img-responsive
 
         SAXS analysis of IDE. Pair distribution functions and scattering curves

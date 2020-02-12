@@ -15,7 +15,7 @@ A Closer Look at Protein Breathing
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/2008-2.png
+            .. image:: {static}/images/scihi/2008-2.png
                 :class: img-responsive
 
             .. caption::

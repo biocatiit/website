@@ -15,7 +15,7 @@ Atomic Models of Plant Viruses
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/plant_virus.jpg
+            .. image:: {static}/images/scihi/plant_virus.jpg
                 :class: img-responsive
 
 

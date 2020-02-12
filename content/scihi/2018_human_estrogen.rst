@@ -14,7 +14,7 @@ Structure of the Human Estrogen Receptor
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/2018_human_estrogen.png
+            .. image:: {static}/images/scihi/2018_human_estrogen.png
                 :class: img-responsive
 
             .. caption::

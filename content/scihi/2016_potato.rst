@@ -15,7 +15,7 @@ Unique Bacterial Chemist in the War on Potatoes
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/Potato_2016.jpg
+            .. image:: {static}/images/scihi/Potato_2016.jpg
                 :class: img-responsive
 
     .. -------------------------------------------------------------------------

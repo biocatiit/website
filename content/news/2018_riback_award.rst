@@ -6,7 +6,7 @@ BioCAT user Joshua Riback wins 2018 Rosalind Franklin Investigator Award
 :slug: riback-rosalind-franklin-award
 :authors: BioCAT
 
-.. image:: {filename}/images/news/riback_award.jpg
+.. image:: {static}/images/news/riback_award.jpg
     :class: img-rounded
 
 A University of Chicago graduate student in Biophysical Sciences has received

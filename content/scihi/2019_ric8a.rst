@@ -11,7 +11,7 @@ Structure of BS Ric8A, a regulator of G-protein Biology
 
     .. thumbnail::
 
-        .. image:: {filename}/images/scihi/2019_ric8a.png
+        .. image:: {static}/images/scihi/2019_ric8a.png
             :class: img-responsive
 
         .. caption::

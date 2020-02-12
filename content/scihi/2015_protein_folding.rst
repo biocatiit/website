@@ -8,7 +8,7 @@ Unraveling Protein Folding
 :authors: BioCAT
 
 
-.. image:: {filename}/images/scihi/folding1.png
+.. image:: {static}/images/scihi/folding1.png
     :class: img-responsive
 
 For many proteins, the ability to change shape is essential for their proper
@@ -40,7 +40,7 @@ lysosomal storage diseases.
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/folding2.png
+            .. image:: {static}/images/scihi/folding2.png
                 :class: img-responsive
 
             .. caption::

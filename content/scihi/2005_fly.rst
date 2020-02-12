@@ -15,7 +15,7 @@ Storing the Power to Fly
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/flypicture.jpg
+            .. image:: {static}/images/scihi/flypicture.jpg
                 :class: img-responsive
 
 

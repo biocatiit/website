@@ -15,7 +15,7 @@ Perplexing cooperative folding and stability of a low-sequence complexity, polyp
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/2017_SosnickPNAS.jpg
+            .. image:: {static}/images/scihi/2017_SosnickPNAS.jpg
                 :class: img-responsive
 
     .. -----------------------------------------------------------------------

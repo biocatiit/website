@@ -15,7 +15,7 @@ Non-enzymatic decomposition of collagen fibers by a biglycan antibody and a plau
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/2012_Collagen.jpg
+            .. image:: {static}/images/scihi/2012_Collagen.jpg
                 :class: img-responsive
 
             .. caption::

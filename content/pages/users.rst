@@ -38,7 +38,7 @@ continue operating the BioCAT facility.
 
         .. thumbnail::
 
-            .. image:: {filename}/images/apply_for_time_thumbnail.jpg
+            .. image:: {static}/images/apply_for_time_thumbnail.jpg
                 :class: img-rounded
 
             .. caption::
@@ -55,7 +55,7 @@ continue operating the BioCAT facility.
 
         .. thumbnail::
 
-            .. image:: {filename}/images/publication_thumbnail.jpg
+            .. image:: {static}/images/publication_thumbnail.jpg
                 :class: img-rounded
 
             .. caption::
@@ -72,7 +72,7 @@ continue operating the BioCAT facility.
 
         .. thumbnail::
 
-            .. image:: {filename}/images/safety.jpg
+            .. image:: {static}/images/safety.jpg
                 :class: img-rounded
 
             .. caption::
@@ -90,7 +90,7 @@ continue operating the BioCAT facility.
 
         .. thumbnail::
 
-            .. image:: {filename}/images/how_to_thumbnail.jpg
+            .. image:: {static}/images/how_to_thumbnail.jpg
                 :class: img-rounded
 
             .. caption::
@@ -109,7 +109,7 @@ continue operating the BioCAT facility.
 
         .. thumbnail::
 
-            .. image:: {filename}/images/conf.jpg
+            .. image:: {static}/images/conf.jpg
                 :class: img-rounded
 
             .. caption::
@@ -126,7 +126,7 @@ continue operating the BioCAT facility.
 
         .. thumbnail::
 
-            .. image:: {filename}/images/conf.jpg
+            .. image:: {static}/images/conf.jpg
                 :class: img-rounded
 
             .. caption::
@@ -143,7 +143,7 @@ continue operating the BioCAT facility.
 
         .. thumbnail::
 
-            .. image:: {filename}/images/computing.jpg
+            .. image:: {static}/images/computing.jpg
                 :class: img-rounded
 
             .. caption::

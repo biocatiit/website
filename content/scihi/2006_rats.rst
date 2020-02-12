@@ -15,7 +15,7 @@ What Connects Rat Tails to Cancer and Heart Disease?
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/rats.jpg
+            .. image:: {static}/images/scihi/rats.jpg
                 :class: img-responsive
 
 

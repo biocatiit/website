@@ -9,7 +9,7 @@ Finding Active Proteins
 
 .. thumbnail::
 
-    .. image:: {filename}/images/scihi/active1.png
+    .. image:: {static}/images/scihi/active1.png
         :class: img-responsive
 
 When combinatorial chemistry produces new varieties of reagents, the
@@ -33,7 +33,7 @@ drug candidates, is now available.
 
 .. thumbnail::
 
-    .. image:: {filename}/images/scihi/active2.png
+    .. image:: {static}/images/scihi/active2.png
         :class: img-responsive
 
 The APS served as a unique resource to aid the investigators in their study of

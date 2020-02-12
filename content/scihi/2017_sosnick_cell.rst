@@ -16,7 +16,7 @@ Stress-Triggered Phase Separation Is an Adaptive, Evolutionarily Tuned Response
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/2017_SosnickCell.jpg
+            .. image:: {static}/images/scihi/2017_SosnickCell.jpg
                 :class: img-responsive
 
     .. ------------------------------------------------------------------------

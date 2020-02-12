@@ -15,7 +15,7 @@ The Push and Pull of Plant Viruses
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/2010-1.png
+            .. image:: {static}/images/scihi/2010-1.png
                 :class: img-responsive
 
             .. caption::

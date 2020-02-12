@@ -15,7 +15,7 @@ X-ray Florescence Imaging: A New Tool for Studying Manganese Neurotoxicity
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/2013_Xray.jpg
+            .. image:: {static}/images/scihi/2013_Xray.jpg
                 :class: img-responsive
 
             .. caption::

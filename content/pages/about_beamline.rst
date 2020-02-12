@@ -2,7 +2,7 @@
 :category: about
 :slug: beamline
 
-.. image:: {filename}/images/about_beamline.jpg
+.. image:: {static}/images/about_beamline.jpg
     :class: img-responsive
 
 The BioCAT undulator beamline 18ID at the Advanced Photon Source, although
@@ -59,7 +59,7 @@ entire beam or define a beam as small as 25 µm x 25 µm. A monochromatic photon
 shutter allows the monochromator optics to stay warm while allowing the user
 to enter the experimental enclosure.
 
-.. image:: {filename}/images/beamlineoptics.jpg
+.. image:: {static}/images/beamlineoptics.jpg
     :class: img-responsive
     :align: center
 

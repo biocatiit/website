@@ -15,7 +15,7 @@ MuscleX: Muscle X-ray Diffraction Workshop
 
         .. thumbnail::
 
-            .. image:: {filename}/images/news/musclex.png
+            .. image:: {static}/images/news/musclex.png
                 :class: img-rounded
 
     .. -------------------------------------------------------------------------

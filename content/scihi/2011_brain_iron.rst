@@ -15,7 +15,7 @@ Increased Brain Iron Coincides with Early Plaque Formation in a Mouse Model of A
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/2011Miller.jpg
+            .. image:: {static}/images/scihi/2011Miller.jpg
                 :class: img-responsive
 
             .. caption::

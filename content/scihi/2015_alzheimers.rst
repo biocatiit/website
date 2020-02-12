@@ -7,7 +7,7 @@ A Molecular Basis for Protease's Role in Preventing Alzheimer's Disease
 :slug: alzheimers-protease
 :authors: BioCAT
 
-.. image:: {filename}/images/scihi/alzheimers.png
+.. image:: {static}/images/scihi/alzheimers.png
     :class: img-responsive
 
 .. caption::

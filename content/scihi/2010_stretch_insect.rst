@@ -15,7 +15,7 @@ The Molecular Mechanism of Stretch Activation in Insect Muscle
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/APS_SCIENCE_20101221-1.jpg
+            .. image:: {static}/images/scihi/APS_SCIENCE_20101221-1.jpg
                 :class: img-responsive
 
             .. caption::

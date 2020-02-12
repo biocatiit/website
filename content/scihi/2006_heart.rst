@@ -15,7 +15,7 @@ Reaching for Answers to Questions about the Heart
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/heart.jpg
+            .. image:: {static}/images/scihi/heart.jpg
                 :class: img-responsive
 
 

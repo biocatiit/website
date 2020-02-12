@@ -14,7 +14,7 @@ Unraveling the role of a “nebulous” protein
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/2018_nebulin.jpg
+            .. image:: {static}/images/scihi/2018_nebulin.jpg
                 :class: img-responsive
 
     .. column::

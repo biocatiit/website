@@ -15,7 +15,7 @@ Molecular packing and fibrillar structure of type II collagen
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/2013_Packing.jpg
+            .. image:: {static}/images/scihi/2013_Packing.jpg
                 :class: img-responsive
 
     .. -------------------------------------------------------------------------

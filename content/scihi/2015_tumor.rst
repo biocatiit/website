@@ -7,7 +7,7 @@ Identifying the Structure of a Tumor-Suppressing Protein
 :slug: tumor-suppressing-protein
 :authors: BioCAT
 
-.. image:: {filename}/images/scihi/Tumor_2015.jpg
+.. image:: {static}/images/scihi/Tumor_2015.jpg
     :class: img-responsive
 
 .. caption::

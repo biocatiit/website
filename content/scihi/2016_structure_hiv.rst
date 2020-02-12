@@ -16,7 +16,7 @@ Solution Structure of the HIV-1 Intron Splicing Silencer and Its Interactions wi
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/2016_HIV1.jpg
+            .. image:: {static}/images/scihi/2016_HIV1.jpg
                 :class: img-responsive
 
 

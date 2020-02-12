@@ -32,4 +32,4 @@ scattering. It  is equal to 4π*sin(θ)/λ where θ is the Bragg  angle. This is
 equal to 2π/d where d is from column A
 
 .. lead::
-    `Click here to download the q calculator spreadsheet. <{filename}/files/q_calculator.xls>`_
+    `Click here to download the q calculator spreadsheet. <{static}/files/q_calculator.xls>`_

@@ -11,7 +11,7 @@ Probing the Powering of Contractions in Heart Failure
 
     .. thumbnail::
 
-        .. image:: {filename}/images/scihi/2019_heart_failure.jpg
+        .. image:: {static}/images/scihi/2019_heart_failure.jpg
             :class: img-responsive
 
         .. caption::

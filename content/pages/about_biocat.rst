@@ -30,7 +30,7 @@
 
         .. thumbnail::
 
-            .. image:: {filename}/images/facility_thumbnail.jpg
+            .. image:: {static}/images/facility_thumbnail.jpg
                 :class: img-rounded
 
             .. caption::
@@ -48,7 +48,7 @@
 
         .. thumbnail::
 
-            .. image:: {filename}/images/fiber_diffraction.jpg
+            .. image:: {static}/images/fiber_diffraction.jpg
                 :class: img-rounded
 
             .. caption::
@@ -66,7 +66,7 @@
 
         .. thumbnail::
 
-            .. image:: {filename}/images/microbeam.jpg
+            .. image:: {static}/images/microbeam.jpg
                 :class: img-rounded
 
             .. caption::
@@ -84,7 +84,7 @@
 
         .. thumbnail::
 
-            .. image:: {filename}/images/saxs_thumbnail.jpg
+            .. image:: {static}/images/saxs_thumbnail.jpg
                 :class: img-rounded
 
             .. caption::

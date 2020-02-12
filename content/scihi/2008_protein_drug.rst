@@ -15,7 +15,7 @@ New study may shed light on protein-drug interactions
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/protein-drug.jpg
+            .. image:: {static}/images/scihi/protein-drug.jpg
                 :class: img-responsive
 
             .. caption::

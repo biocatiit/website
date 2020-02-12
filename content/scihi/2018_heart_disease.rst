@@ -14,7 +14,7 @@ Shining X-ray Light on Heart Disease
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/2018_heartImage.jpg
+            .. image:: {static}/images/scihi/2018_heartImage.jpg
                 :class: img-responsive
 
             .. caption::

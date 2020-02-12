@@ -15,7 +15,7 @@ The cross-bridge spring: cool muscles store elastic energy
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/2012_Crossbridge.jpg
+            .. image:: {static}/images/scihi/2012_Crossbridge.jpg
                 :class: img-responsive
 
             .. caption::

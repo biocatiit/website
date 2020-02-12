@@ -15,7 +15,7 @@ The Correct Signals to Regulate Assembly in Bacteria
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/signaling.jpg
+            .. image:: {static}/images/scihi/signaling.jpg
                 :class: img-responsive
 
     .. -------------------------------------------------------------------------
@@ -45,7 +45,7 @@ The Correct Signals to Regulate Assembly in Bacteria
 
         .. thumbnail::
 
-                .. image:: {filename}/images/scihi/signaling1.png
+                .. image:: {static}/images/scihi/signaling1.png
                     :class: img-responsive
 
         Transcription is the process by which the cell’s DNA is read to make
@@ -79,7 +79,7 @@ The Correct Signals to Regulate Assembly in Bacteria
 
         .. thumbnail::
 
-                .. image:: {filename}/images/scihi/signaling2.png
+                .. image:: {static}/images/scihi/signaling2.png
                     :class: img-responsive
 
         The new mechanism discovered by the research group involves

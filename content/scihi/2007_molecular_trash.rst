@@ -15,7 +15,7 @@ Mechanisms of a Molecular Trash Disposal
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/2007-4.png
+            .. image:: {static}/images/scihi/2007-4.png
                 :class: img-responsive
 
             .. caption::

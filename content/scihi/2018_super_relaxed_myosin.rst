@@ -11,7 +11,7 @@ A Super-relaxed Myosin State to Offset Hypertrophic Cardiomyopathy
 
     .. thumbnail::
 
-        .. image:: {filename}/images/scihi/2018_super_relaxed_myosin.png
+        .. image:: {static}/images/scihi/2018_super_relaxed_myosin.png
             :class: img-responsive
 
         .. caption::

@@ -17,7 +17,7 @@ give us the ability to investigate global structural changes in real time and
 also capture intermediates that are difficult to detect using other techniques.
 We have three different time-resolved SAXS instruments.
 
-.. image:: {filename}/images/folding.jpg
+.. image:: {static}/images/folding.jpg
     :class: img-responsive
     :align: center
 
@@ -72,7 +72,7 @@ other two time-resolved SAXS techniques, there is a particular need for
 preparatory rigor and is therefore important to discuss the experiments with
 beamline personnel well in advance.
 
-.. image:: {filename}/images/laminar.jpg
+.. image:: {static}/images/laminar.jpg
     :class: img-responsive
     :align: center
 

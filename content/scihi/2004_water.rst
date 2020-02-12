@@ -15,7 +15,7 @@ How Water Molecules are Connected
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/water.jpg
+            .. image:: {static}/images/scihi/water.jpg
                 :class: img-responsive
 
 

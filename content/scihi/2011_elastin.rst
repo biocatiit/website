@@ -15,7 +15,7 @@ An Understanding of Elastin’s Properties Springs Forth
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/2011_Elastin.jpg
+            .. image:: {static}/images/scihi/2011_Elastin.jpg
                 :class: img-responsive
 
             .. caption::

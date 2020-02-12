@@ -27,7 +27,7 @@ Everything BioSAXS 4 Workshop Wrap-Up
 
         .. thumbnail::
 
-            .. image:: {filename}/images/news/2018_eb4_group.jpg
+            .. image:: {static}/images/news/2018_eb4_group.jpg
                 :class: img-rounded
 
             .. caption::
@@ -82,7 +82,7 @@ their first SAXS experiments.
 
         .. thumbnail::
 
-            .. image:: {filename}/images/news/2018_eb4_gakhar.jpg
+            .. image:: {static}/images/news/2018_eb4_gakhar.jpg
                 :class: img-rounded
 
             .. caption::
@@ -95,7 +95,7 @@ their first SAXS experiments.
 
         .. thumbnail::
 
-            .. image:: {filename}/images/news/2018_eb4_srinivas.jpg
+            .. image:: {static}/images/news/2018_eb4_srinivas.jpg
                 :class: img-rounded
 
             .. caption::
@@ -108,7 +108,7 @@ their first SAXS experiments.
 
         .. thumbnail::
 
-            .. image:: {filename}/images/news/2018_eb4_sosnick.jpg
+            .. image:: {static}/images/news/2018_eb4_sosnick.jpg
                 :class: img-rounded
 
             .. caption::

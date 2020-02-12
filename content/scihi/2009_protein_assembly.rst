@@ -15,7 +15,7 @@ Protein Assembly and Disease
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/2009-2.png
+            .. image:: {static}/images/scihi/2009-2.png
                 :class: img-responsive
 
             .. caption::

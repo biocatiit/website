@@ -15,7 +15,7 @@ NUCLEOTIDE-INDUCED ASYMMETRY WITHIN ATPASE ACTIVATOR RING DRIVES σ54-RNAP INTER
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/2013_ATPase.jpg
+            .. image:: {static}/images/scihi/2013_ATPase.jpg
                 :class: img-responsive
 
     .. -------------------------------------------------------------------------

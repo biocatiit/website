@@ -15,7 +15,7 @@ Filling the Gaps in Collagen Structure
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/2006-2.png
+            .. image:: {static}/images/scihi/2006-2.png
                 :class: img-responsive
 
             .. caption::
@@ -28,7 +28,7 @@ Filling the Gaps in Collagen Structure
                 microfibril twist. (E) Same as D, except three microfibrillar structures
                 are shown, packed together to reveal the interdigitation.
 
-            .. image:: {filename}/images/scihi/collagen-graph.png
+            .. image:: {static}/images/scihi/collagen-graph.png
                 :class: img-responsive
 
             .. caption::

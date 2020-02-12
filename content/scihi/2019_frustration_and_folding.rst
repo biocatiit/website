@@ -11,7 +11,7 @@ Frustration and Folding of a TIM Barrel Protein
 
     .. thumbnail::
 
-        .. image:: {filename}/images/scihi/2019_frustration_and_folding.jpg
+        .. image:: {static}/images/scihi/2019_frustration_and_folding.jpg
             :class: img-responsive
 
         .. caption::

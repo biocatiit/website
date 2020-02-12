@@ -15,7 +15,7 @@ Grasping the Structure of Insect Muscle Poised to Contract
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/imuscle.png
+            .. image:: {static}/images/scihi/imuscle.png
                 :class: img-responsive
 
             .. caption::

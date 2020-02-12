@@ -15,7 +15,7 @@ At the Crossroads of Chromosomes
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/chromosomes.jpg
+            .. image:: {static}/images/scihi/chromosomes.jpg
                 :class: img-responsive
 
             .. caption::

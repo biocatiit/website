@@ -15,7 +15,7 @@ Role of Interfilament Spacing in Muscle Filament Calcium Sensitivity
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/heart0.jpg
+            .. image:: {static}/images/scihi/heart0.jpg
                 :class: img-responsive
 
     .. -------------------------------------------------------------------------
@@ -74,10 +74,10 @@ Role of Interfilament Spacing in Muscle Filament Calcium Sensitivity
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/heart1.png
+            .. image:: {static}/images/scihi/heart1.png
                 :class: img-responsive
 
-            .. image:: {filename}/images/scihi/heart2.png
+            .. image:: {static}/images/scihi/heart2.png
                 :class: img-responsive
 
             .. caption::

@@ -15,7 +15,7 @@ RNA Folding – How A Little Cooperation Goes A Long Way
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/2012_RNA.jpg
+            .. image:: {static}/images/scihi/2012_RNA.jpg
                 :class: img-responsive
 
             .. caption::

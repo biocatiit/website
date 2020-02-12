@@ -8,7 +8,7 @@
     .. column::
         :width: 6
 
-        .. image:: {filename}/images/muscle_pattern.jpg
+        .. image:: {static}/images/muscle_pattern.jpg
             :class: img-responsive
             :align: center
             :height: 300 px
@@ -17,7 +17,7 @@
     .. column::
         :width: 6
 
-        .. image:: {filename}/images/porcine_cardiac_pattern.jpg
+        .. image:: {static}/images/porcine_cardiac_pattern.jpg
                 :class: img-responsive
                 :align: center
                 :height: 300 px

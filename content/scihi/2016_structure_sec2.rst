@@ -7,7 +7,7 @@ An Unusual Shape Change to Deliver Selenocysteine to Proteins
 :slug: structure-of-eEFSec2
 :authors: BioCAT
 
-.. image:: {filename}/images/scihi/structure_sec2.png
+.. image:: {static}/images/scihi/structure_sec2.png
     :class: img-responsive
 
 .. caption::

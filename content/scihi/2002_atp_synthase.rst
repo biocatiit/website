@@ -15,7 +15,7 @@ The "Second Stalk" of ATP Synthase: Dimerization Domain Structure
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/atpSynthase.jpg
+            .. image:: {static}/images/scihi/atpSynthase.jpg
                 :class: img-responsive
 
             .. caption::

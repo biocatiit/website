@@ -15,7 +15,7 @@ The Chd1 Chromatin Remodeler Shifts Nucleosomal DNA Bidirectionally as a Monomer
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/2017_Chd1.jpg
+            .. image:: {static}/images/scihi/2017_Chd1.jpg
                 :class: img-responsive
 
     .. -------------------------------------------------------------------------

@@ -11,7 +11,7 @@ Mechanistic Insights into Insulin Degrading Enzyme from Laminar-Flow SAXS
 
     .. thumbnail::
 
-        .. image:: {filename}/images/scihi/2018_insulin_degrading_enzyme.jpg
+        .. image:: {static}/images/scihi/2018_insulin_degrading_enzyme.jpg
             :class: img-responsive
 
         .. caption::

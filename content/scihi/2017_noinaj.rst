@@ -16,7 +16,7 @@ The POTRA domains of Toc75 exhibit chaperone-like function to facilitate import 
 
 		.. thumbnail::
 
-			.. image:: {filename}/images/scihi/2017_Noinaj.jpg
+			.. image:: {static}/images/scihi/2017_Noinaj.jpg
 				:class: img-responsive
 
 	.. -----------------------------------------------------------------------------

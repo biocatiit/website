@@ -34,7 +34,7 @@ Register for Everything BioSAXS 5: Getting started in biological small-angle x-r
 
         .. thumbnail::
 
-            .. image:: {filename}/images/news/2018_eb4_group.jpg
+            .. image:: {static}/images/news/2018_eb4_group.jpg
                 :class: img-rounded
 
             .. caption::

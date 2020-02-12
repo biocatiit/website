@@ -7,7 +7,7 @@ Proteins May Prevent Dysfunction and Disease by Relaxing
 :slug: proteins-prevent-disease-by-relaxing
 :authors: BioCAT
 
-.. image:: {filename}/images/scihi/2017_sosnick_highlight.jpg
+.. image:: {static}/images/scihi/2017_sosnick_highlight.jpg
     :class: img-responsive
 
 Determining how proteins function on a molecular level is crucial to understanding the

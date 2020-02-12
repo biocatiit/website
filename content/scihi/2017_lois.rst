@@ -8,7 +8,7 @@ Asymmetric unwrapping of nucleosomal DNA propagates asymmetric opening and disso
 :authors: BioCAT
 
 
-.. image:: {filename}/images/scihi/2017_Lois.jpg
+.. image:: {static}/images/scihi/2017_Lois.jpg
     :class: img-responsive
 
 

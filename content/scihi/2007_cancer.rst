@@ -15,10 +15,10 @@ A "Copper Bullet" to Kill Cancer
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/2007-1.png
+            .. image:: {static}/images/scihi/2007-1.png
                 :class: img-responsive
 
-            .. image:: {filename}/images/scihi/2007-graph.png
+            .. image:: {static}/images/scihi/2007-graph.png
 
             .. caption::
 

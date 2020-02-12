@@ -2,7 +2,7 @@
 :category: about
 :slug: about-saxs
 
-.. image:: {filename}/images/about_saxs.jpg
+.. image:: {static}/images/about_saxs.jpg
     :class: img-responsive
     :align: center
 

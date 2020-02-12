@@ -16,7 +16,7 @@ The Power of Proteins: Prion Diseases Demystified
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/protein_power.jpg
+            .. image:: {static}/images/scihi/protein_power.jpg
                 :class: img-responsive
 
             .. caption::

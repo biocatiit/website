@@ -121,9 +121,9 @@ Available consumables:
 
         .. thumbnail::
 
-            .. image:: {filename}/images/wetlab/IMAG2289.jpg
+            .. image:: {static}/images/wetlab/IMAG2289.jpg
                 :class: img-rounded
-                :target: {filename}/images/wetlab/IMAG2289.jpg
+                :target: {static}/images/wetlab/IMAG2289.jpg
 
     .. -------------------------------------------------------------------------
     .. column::
@@ -131,9 +131,9 @@ Available consumables:
 
         .. thumbnail::
 
-            .. image:: {filename}/images/wetlab/IMAG2290.jpg
+            .. image:: {static}/images/wetlab/IMAG2290.jpg
                 :class: img-rounded
-                :target: {filename}/images/wetlab/IMAG2290.jpg
+                :target: {static}/images/wetlab/IMAG2290.jpg
 
     .. -------------------------------------------------------------------------
     .. column::
@@ -141,9 +141,9 @@ Available consumables:
 
         .. thumbnail::
 
-            .. image:: {filename}/images/wetlab/IMAG2291.jpg
+            .. image:: {static}/images/wetlab/IMAG2291.jpg
                 :class: img-rounded
-                :target: {filename}/images/wetlab/IMAG2291.jpg
+                :target: {static}/images/wetlab/IMAG2291.jpg
 
 .. row::
 
@@ -153,9 +153,9 @@ Available consumables:
 
         .. thumbnail::
 
-            .. image:: {filename}/images/wetlab/IMAG2292.jpg
+            .. image:: {static}/images/wetlab/IMAG2292.jpg
                 :class: img-rounded
-                :target: {filename}/images/wetlab/IMAG2292.jpg
+                :target: {static}/images/wetlab/IMAG2292.jpg
 
     .. -------------------------------------------------------------------------
     .. column::
@@ -163,9 +163,9 @@ Available consumables:
 
         .. thumbnail::
 
-            .. image:: {filename}/images/wetlab/IMAG2294.jpg
+            .. image:: {static}/images/wetlab/IMAG2294.jpg
                 :class: img-rounded
-                :target: {filename}/images/wetlab/IMAG2294.jpg
+                :target: {static}/images/wetlab/IMAG2294.jpg
 
     .. -------------------------------------------------------------------------
     .. column::
@@ -173,6 +173,6 @@ Available consumables:
 
         .. thumbnail::
 
-            .. image:: {filename}/images/wetlab/IMAG2295.jpg
+            .. image:: {static}/images/wetlab/IMAG2295.jpg
                 :class: img-rounded
-                :target: {filename}/images/wetlab/IMAG2295.jpg
+                :target: {static}/images/wetlab/IMAG2295.jpg

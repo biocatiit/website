@@ -9,7 +9,7 @@ A Target Mutation that Renders a Cancer Drug Ineffective
 
 .. thumbnail::
 
-    .. image:: {filename}/images/scihi/2018_shp2_mutations.jpg
+    .. image:: {static}/images/scihi/2018_shp2_mutations.jpg
         :class: img-responsive
 
     .. caption::

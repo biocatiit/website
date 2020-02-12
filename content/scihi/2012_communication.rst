@@ -15,7 +15,7 @@ A New Phase in Cellular Communication
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/2012_Cellular.jpg
+            .. image:: {static}/images/scihi/2012_Cellular.jpg
                 :class: img-responsive
 
             .. caption::

@@ -15,7 +15,7 @@ Muscle-Fiber Research Expands
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/2007-3.png
+            .. image:: {static}/images/scihi/2007-3.png
                 :class: img-responsive
 
             .. caption::

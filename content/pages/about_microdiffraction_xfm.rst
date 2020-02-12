@@ -11,7 +11,7 @@
         through the  GU system and is only available to collaborators.
 
 
-.. image:: {filename}/images/microdiffraction.jpg
+.. image:: {static}/images/microdiffraction.jpg
     :class: img-responsive
     :align: center
 

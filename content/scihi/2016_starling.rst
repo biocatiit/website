@@ -8,7 +8,7 @@ Unearthing the Mechanism of the Frank-Starling Law, A Central Regulator of Heart
 :authors: BioCAT
 
 
-.. image:: {filename}/images/scihi/2016_Starling.jpg
+.. image:: {static}/images/scihi/2016_Starling.jpg
     :class: img-responsive
 
 .. caption::

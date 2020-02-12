@@ -15,7 +15,7 @@ How Dinosaurs Put Proteins into Long-Term Storage
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/2011_Orgel.jpg
+            .. image:: {static}/images/scihi/2011_Orgel.jpg
                 :class: img-responsive
 
             .. caption::

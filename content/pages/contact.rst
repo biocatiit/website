@@ -97,7 +97,7 @@ Staff
 
         .. thumbnail::
 
-            .. image:: {filename}/images/staff/chakravarthy.jpg
+            .. image:: {static}/images/staff/chakravarthy.jpg
                 :class: img-rounded
 
             .. caption::
@@ -128,7 +128,7 @@ Staff
 
         .. thumbnail::
 
-            .. image:: {filename}/images/staff/clark.jpg
+            .. image:: {static}/images/staff/clark.jpg
                 :class: img-rounded
 
             .. caption::
@@ -158,7 +158,7 @@ Staff
 
         .. thumbnail::
 
-            .. image:: {filename}/images/staff/heurich.jpg
+            .. image:: {static}/images/staff/heurich.jpg
                 :class: img-rounded
 
             .. caption::
@@ -191,7 +191,7 @@ Staff
 
         .. thumbnail::
 
-            .. image:: {filename}/images/staff/hopkins.jpg
+            .. image:: {static}/images/staff/hopkins.jpg
                 :class: img-rounded
 
             .. caption::
@@ -221,7 +221,7 @@ Staff
 
         .. thumbnail::
 
-            .. image:: {filename}/images/staff/irving.jpg
+            .. image:: {static}/images/staff/irving.jpg
                 :class: img-rounded
 
             .. caption::
@@ -251,7 +251,7 @@ Staff
 
         .. thumbnail::
 
-            .. image:: {filename}/images/staff/ma.jpg
+            .. image:: {static}/images/staff/ma.jpg
                 :class: img-rounded
 
             .. caption::
@@ -283,7 +283,7 @@ Staff
 
         .. thumbnail::
 
-            .. image:: {filename}/images/staff/orgel.jpg
+            .. image:: {static}/images/staff/orgel.jpg
                 :class: img-rounded
 
             .. caption::
@@ -314,7 +314,7 @@ Staff
 
         .. thumbnail::
 
-            .. image:: {filename}/images/staff/vukonich.jpg
+            .. image:: {static}/images/staff/vukonich.jpg
                 :class: img-rounded
 
             .. caption::

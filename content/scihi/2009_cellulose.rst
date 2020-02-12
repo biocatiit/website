@@ -15,7 +15,7 @@ Getting to Know Cellulose
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/2009-1.png
+            .. image:: {static}/images/scihi/2009-1.png
                 :class: img-responsive
 
             .. caption::

@@ -2,7 +2,7 @@
 :category: about
 :slug: facilities
 
-.. image:: {filename}/images/about_facility.jpg
+.. image:: {static}/images/about_facility.jpg
     :class: img-responsive
 
 .. lead:: The BioCAT facility specializes in small angle x-ray scattering (SAXS),
@@ -17,7 +17,7 @@
 
         .. thumbnail::
 
-            .. image:: {filename}/images/beamline_thumbnail.jpg
+            .. image:: {static}/images/beamline_thumbnail.jpg
                 :class: img-rounded
 
             .. caption::
@@ -34,7 +34,7 @@
 
         .. thumbnail::
 
-            .. image:: {filename}/images/detector_thumbnail.jpg
+            .. image:: {static}/images/detector_thumbnail.jpg
                 :class: img-rounded
 
             .. caption::
@@ -51,7 +51,7 @@
 
         .. thumbnail::
 
-            .. image:: {filename}/images/other_facilities_thumbnail.jpg
+            .. image:: {static}/images/other_facilities_thumbnail.jpg
                 :class: img-rounded
 
             .. caption::

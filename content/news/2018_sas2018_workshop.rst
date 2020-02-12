@@ -27,7 +27,7 @@ SAS2018: BioSAS Advanced Analysis Workshop Wrap-Up
 
         .. thumbnail::
 
-            .. image:: {filename}/images/news/sas2018_group.JPG
+            .. image:: {static}/images/news/sas2018_group.JPG
                 :class: img-rounded
 
             .. caption::
@@ -53,7 +53,7 @@ concepts behind the software.
 
 .. thumbnail::
 
-    .. image:: {filename}/images/news/sas2018_gillilan.jpg
+    .. image:: {static}/images/news/sas2018_gillilan.jpg
         :class: img-rounded
 
     .. caption::
@@ -69,7 +69,7 @@ with help from both instructors.
 
 .. thumbnail::
 
-    .. image:: {filename}/images/news/sas2018_rocco.jpg
+    .. image:: {static}/images/news/sas2018_rocco.jpg
         :class: img-rounded
 
     .. caption::
@@ -84,7 +84,7 @@ these ensembles against SAXS data.
 
 .. thumbnail::
 
-    .. image:: {filename}/images/news/sas2018_krueger.jpg
+    .. image:: {static}/images/news/sas2018_krueger.jpg
         :class: img-rounded
 
     .. caption::

@@ -15,7 +15,7 @@ Measuring the Efficiency of the Myosin Motor at High Load
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/myosin.png
+            .. image:: {static}/images/scihi/myosin.png
                 :class: img-responsive
 
             .. caption::

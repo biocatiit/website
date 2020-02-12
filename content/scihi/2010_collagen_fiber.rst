@@ -15,7 +15,7 @@ Packing It In: A New Look at Collagen Fibers
 
         .. thumbnail::
 
-            .. image:: {filename}/images/scihi/2010-2.png
+            .. image:: {static}/images/scihi/2010-2.png
                 :class: img-responsive
 
             .. caption::

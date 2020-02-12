@@ -38,6 +38,6 @@ Checklist for SAXS sample preparation
 
 #.  Preparation of sample data-sheet
 
-.. image:: {filename}/images/gel.jpg
+.. image:: {static}/images/gel.jpg
     :class: img-responsive
     :align: center
