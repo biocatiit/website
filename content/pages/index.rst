@@ -193,7 +193,7 @@ Short version for index and feeds
 
             .. caption::
 
-                :h3:`Everything BioSAXS 5 workshop a big success`
+                :h3:`Everything BioSAXS 5 workshop summary`
 
                 BioCAT ran its 5th annual Everything BioSAXS workshop
                 from November 5-7th, 2019. With 13 on-site participants
