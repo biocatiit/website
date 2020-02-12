@@ -1,10 +1,14 @@
-Short version for index and feeds
+Welcome to BioCAT
 ############################################################
 
 :url:
 :save_as: index.html
-:title: Welcome to BioCAT
 
+.. alert:: **REAL-ID requirement:** Argonne now requires a REAL-ID compatible
+    driver's license to obtain a new user badge. `Click for more information and
+    other acceptable IDs. <https://www.anl.gov/site-entry-requirements>`_
+    :type: warning
+    :dismissable:
 
 
 .. class:: center

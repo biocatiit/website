@@ -120,6 +120,24 @@ Please also check the `APS new user checklist
     Some of these are available on-line. Please visit `Safety and
     Compliance <{filename}/pages/users_safety.rst>`_ for further details.
 
+#.  Arrive at the Beamline
+
+    Argonne National Lab is a closed campus. In order to `obtain site access
+    <https://www.aps.anl.gov/Users-Information/Getting-Started/Argonne-Site-Access>`_
+    you must first register (step 2, above). If you are a new user, you will
+    need to either get a user photo badge or a gate pass, depending on when you
+    arrive. In order to get your user photo badge or gate pass, you will have to show
+    a `valid form of photo identification <https://www.anl.gov/site-entry-requirements>`_.
+    **Starting in 2020, if you want to use a drivers license or other state identification
+    card as your photo ID it must be REAL-ID compatible!**
+
+    Nominally your beamtime starts at 8 am on your first scheduled day. In practice,
+    you should usually plan to arrive at the beamline between 9:30-10 am. If you have
+    particular questions or concerns about the start of your beamtime, contact
+    your Scientific Contact. **You cannot start any work until you ESAF is posted,
+    so if you arrive before your scientific contact wait at the beamline or in
+    the LOM until they arrive. Do not start working on your own!**
+
 #.  Observe Beamline Etiquette
 
     Please, while you're here:
