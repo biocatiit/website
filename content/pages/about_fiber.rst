@@ -1,4 +1,6 @@
-:title: Fiber and Muscle Diffraction
+Fiber and Muscle Diffraction
+##########################################
+
 :category: about
 :slug: fiber
 

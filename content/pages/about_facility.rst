@@ -1,4 +1,6 @@
-:title: Facility
+Facility
+##########################################
+
 :category: about
 :slug: facilities
 

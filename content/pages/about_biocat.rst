@@ -1,4 +1,6 @@
-:title: About BioCAT
+About BioCAT
+##########################################
+
 :category: about
 :slug: about-biocat
 

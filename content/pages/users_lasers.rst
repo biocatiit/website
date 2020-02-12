@@ -1,4 +1,6 @@
-:title: Laser Safety
+Laser Safety
+###############################################################################
+
 :category: users
 :slug: lasers
 

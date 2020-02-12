@@ -1,4 +1,6 @@
-:title: Shipping
+Shipping
+###############################################################################
+
 :category: users
 :slug: shipping
 

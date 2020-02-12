@@ -1,4 +1,6 @@
-:title: Applying for Time
+Applying for Time
+############################################################
+
 :category: users
 :slug: applying-for-time
 

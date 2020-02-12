@@ -1,4 +1,6 @@
-:title: Contact BioCAT
+Contact BioCAT
+############################################################
+
 :category: users
 :slug: contact
 

@@ -1,4 +1,6 @@
-:title: Detectors
+Detectors
+##########################################
+
 :category: about
 :slug: detectors
 

@@ -1,4 +1,6 @@
-:title: Publications resulting for your research
+Publications resulting for your research
+##########################################
+
 :category: users
 :slug: user-publications
 

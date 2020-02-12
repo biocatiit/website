@@ -1,4 +1,6 @@
-:summary: Short version for index and feeds
+Short version for index and feeds
+############################################################
+
 :url:
 :save_as: index.html
 :title: Welcome to BioCAT

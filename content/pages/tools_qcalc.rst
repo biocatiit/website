@@ -1,4 +1,6 @@
-:title: Q Calculator
+Q Calculator
+############################################################
+
 :category: tools
 :slug: tools/q-calc
 

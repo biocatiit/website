@@ -1,4 +1,6 @@
-:title: Safety and Compliance
+Safety and Compliance
+###############################################################################
+
 :category: users
 :slug: safety
 

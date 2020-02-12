@@ -1,4 +1,6 @@
-:title: Novel Methods
+Novel Methods
+###############################################################################
+
 :category: staff
 :slug: hopkins/novel-methods
 

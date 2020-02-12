@@ -1,4 +1,6 @@
-:title: Science
+Science
+############################################################
+
 :category: users
 :slug: biocat-science
 

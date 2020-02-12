@@ -1,4 +1,6 @@
-:title: How to design an equilibrium SAXS experiment
+How to design an equilibrium SAXS experiment
+###############################################################################
+
 :category: users
 :slug: how-to-design-saxs-exp
 

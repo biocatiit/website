@@ -1,4 +1,6 @@
-:title: How to analyze MALS data
+How to analyze MALS data
+############################################################
+
 :category: users
 :slug: how-to-analyze-mals
 

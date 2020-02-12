@@ -1,4 +1,6 @@
-:title: How design and perform a microprobe experiment
+How design and perform a microprobe experiment
+############################################################
+
 :category: users
 :slug: how-to-design-microprobe
 

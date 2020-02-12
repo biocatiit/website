@@ -1,4 +1,6 @@
-:title: How to design a time-resolved SAXS experiment
+How to design a time-resolved SAXS experiment
+###############################################################################
+
 :category: users
 :slug: how-to-prepare-trsaxs
 

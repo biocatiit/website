@@ -1,4 +1,6 @@
-:title: Radiation Damage
+Radiation Damage
+###############################################################################
+
 :category: staff
 :slug: hopkins/radiation-damage
 

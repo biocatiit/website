@@ -1,4 +1,6 @@
-:title: How to design a fiber-diffraction experiment
+How to design a fiber-diffraction experiment
+############################################################
+
 :category: users
 :slug: how-to-design-fiber-exp
 

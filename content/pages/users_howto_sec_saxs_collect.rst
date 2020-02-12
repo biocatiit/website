@@ -1,4 +1,6 @@
-:title: How to collect SEC-SAXS data
+How to collect SEC-SAXS data
+###############################################################################
+
 :category: users
 :slug: how-to-collect-sec-saxs
 

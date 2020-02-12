@@ -1,8 +1,10 @@
-:title: How to collect SAXS data
-:category: users
-:slug: how-to-collect-saxs
+How to collect SEC-MALS-SAXS data
+###############################################################################
 
-This provides instructions of how to collect SAXS data at the BioCAT beamline.
+:category: users
+:slug: how-to-collect-sec-mals-saxs
+
+This provides instructions of how to collect SEC-MALS-SAXS data at the BioCAT beamline.
 Before coming, please ensure that you've read up on how to
 `plan your experiment <{filename}/pages/users_howto_saxs_design.rst>`_
 and that you've properly `prepared your samples <{filename}/pages/users_howto_saxs_prepare.rst>`_.

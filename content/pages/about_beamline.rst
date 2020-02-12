@@ -1,4 +1,6 @@
-:title: The BioCAT Beamline 18ID
+The BioCAT Beamline 18ID
+##########################################
+
 :category: about
 :slug: beamline
 

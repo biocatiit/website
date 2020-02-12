@@ -1,4 +1,6 @@
-:title: Macromolecular Solution Small-Angle X-ray Scattering (SAXS)
+Macromolecular Solution Small-Angle X-ray Scattering (SAXS)
+############################################################
+
 :category: about
 :slug: about-saxs
 

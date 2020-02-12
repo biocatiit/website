@@ -1,4 +1,6 @@
-:title: Thomas Irving
+Thomas Irving
+############################################################
+
 :category: staff
 :slug: Irving
 

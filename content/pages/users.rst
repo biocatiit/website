@@ -1,4 +1,6 @@
-:title: Users
+Users
+############################################################
+
 :category: users
 :slug: users
 

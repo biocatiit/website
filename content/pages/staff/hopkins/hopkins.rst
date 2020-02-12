@@ -1,4 +1,6 @@
-:title: Jesse Hopkins
+Jesse Hopkins
+###############################################################################
+
 :category: staff
 :slug: hopkins
 

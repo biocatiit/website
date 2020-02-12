@@ -1,4 +1,6 @@
-:title: How to analyze SAXS data
+How to analyze SAXS data
+###############################################################################
+
 :category: users
 :slug: how-to-analyze-saxs
 

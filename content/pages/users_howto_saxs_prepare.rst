@@ -1,4 +1,6 @@
-:title: How to prepare samples for equilibrium SAXS
+How to prepare samples for equilibrium SAXS
+###############################################################################
+
 :category: users
 :slug: how-to-prepare-saxs
 

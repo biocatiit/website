@@ -1,4 +1,6 @@
-:title: Sector Orientation for BioCAT, Sector 18 - page 6
+Sector Orientation for BioCAT, Sector 18 - page 6
+###############################################################################
+
 :category: users
 :slug: orientation-6
 

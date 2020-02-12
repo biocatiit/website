@@ -1,4 +1,6 @@
-:title: Microbeam Imaging
+Microbeam Imaging
+##########################################
+
 :category: about
 :slug: about-microbeam-imaging
 

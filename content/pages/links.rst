@@ -1,4 +1,6 @@
-:title: Useful Links
+Useful Links
+############################################################
+
 :category: links
 :slug: links
 

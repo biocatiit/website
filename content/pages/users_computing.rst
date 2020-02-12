@@ -1,4 +1,6 @@
-:title: Computing at BioCAT
+Computing at BioCAT
+############################################################
+
 :category: users
 :slug: computing
 
