@@ -64,7 +64,6 @@ Useful Links
         *   `Mucal X-ray absorption cross section calculator <http://www.csrri.iit.edu/mucal.html>`_
         *   `MX <http://mx.iit.edu/>`_
         *   `EPICS <https://www.aps.anl.gov/epics/>`_
-        *   `Illinois Institute of Technology <https://www.iit.edu/>`_
 
     .. column::
         :width: 6
@@ -73,3 +72,8 @@ Useful Links
 
         *   `National Institute of General Biomedical Sciences (NIGMS) <https://www.nigms.nih.gov/>`_
         *   `Biomedical Technology Resources (BTRs) <http://www.btrportal.org>`_
+
+        :h3:`Illinois Insitute of Technology`
+
+        *   `Illinois Institute of Technology <https://www.iit.edu/>`_
+        *   `CSRRI <https://web.iit.edu/csrri>`_
