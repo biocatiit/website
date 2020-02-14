@@ -192,21 +192,19 @@ Welcome to BioCAT
 
         .. thumbnail::
 
-            .. image:: {static}/images/news/2019_eb5_group.jpg
+            .. image:: {static}/images/news/2019_biophys_booth.jpg
                 :class: img-rounded
 
             .. caption::
 
-                :h3:`Everything BioSAXS 5 workshop summary`
+                :h3:`BioCAT at Biophysics 2020 in San Diego`
 
-                BioCAT ran its 5th annual Everything BioSAXS workshop
-                from November 5-7th, 2019. With 13 on-site participants
-                and 24 remote participants the workshop was a resounding
-                success.
+                Please come and visit us at booth number 430 at the Annual Meeting of the
+                Biophysical Society  February 15-19 for swag and good conversation.
 
             .. button:: Learn More
                 :class: primary block
-                :target: {filename}/news/2019_everything_biosaxs5_wrapup.rst
+                :target: {filename}/news/2020_biophysical_meeting.rst
 
         .. row::
 
@@ -216,19 +214,21 @@ Welcome to BioCAT
 
                 .. thumbnail::
 
-                    .. image:: {static}/images/news/sas2018_group.JPG
+                    .. image:: {static}/images/news/2019_eb5_group.jpg
                         :class: img-rounded
 
                     .. caption::
 
-                        :h4:`SAS2018 Advanced BioSAXS workshop a big success`
+                        :h4:`Everything BioSAXS 5 workshop summary`
 
-                        BioCAT co-organized and ran an international advanced
-                        BioSAXS workshop at the SAS2018 meeting in October 2018.
+                        BioCAT ran its 5th annual Everything BioSAXS workshop
+                        from November 5-7th, 2019. With 13 on-site participants
+                        and 24 remote participants the workshop was a resounding
+                        success.
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/news/2018_sas2018_workshop.rst
+                        :target: {filename}/news/2019_everything_biosaxs5_wrapup.rst
 
             .. -------------------------------------------------------------------------
             .. column::
