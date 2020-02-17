@@ -192,7 +192,7 @@ Welcome to BioCAT
 
         .. thumbnail::
 
-            .. image:: {static}/images/news/2019_biophys_booth.jpg
+            .. image:: {static}/images/news/2020_biophys_booth.jpg
                 :class: img-rounded
 
             .. caption::
