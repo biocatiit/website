@@ -38,6 +38,23 @@ Below is a gallery of a few of BioCAT's science highlights.
 
           <div class="item active">
               <div class="col text-center">
+              <img class="d-block w-100" src="/images/gallery/2020_ric8a_gprotein.png" alt="">
+              <div class="carousel-caption3">
+                <h3>Structure-Function Studies Elucidate GPCR-Independent Regulation of G-proteins</h3>
+                <p>Guanine nucleotide binding proteins popularly known as G-proteins,
+                  involved in a variety of cellular signal transduction pathways are
+                  heterotrimeric proteins consisting of α, β, and γ subunits. Ric8A is
+                  known to be both a chaperone for the assembly of the α-subunit of G-proteins,
+                  and a Guanine nucleotide Exchange Factor (GEF). McClelland et al., have
+                  conducted a detailed structural analysis on the complex between Ric8A
+                  and Gαi1 using cryoEM, X-ray crystallography, and SAXS.</p>
+                <a href="/science/prion-like-domains.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
+              </div>
+            </div>
+
+          <div class="item">
+              <div class="col text-center">
               <img class="d-block w-100" src="/images/gallery/2020_prion_like_domains.jpg" alt="">
               <div class="carousel-caption3">
                 <h3>How Prion-like domains Drive Liquid-Liquid Phase Transitions in Cells</h3>
@@ -73,6 +90,26 @@ Below is a gallery of a few of BioCAT's science highlights.
                 angle X-ray diffraction at BioCAT revealed that the
                 impaired muscle relaxation kinetics in NEM6 patients are caused by
                 structural changes in the thin filament, a sarcomeric microstructure.</p>
+                <a href="/science/nemaline-myopathy.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="item">
+              <div class="col text-center">
+              <img class="d-block w-100" src="/images/gallery/2020_agpcr_ecr.png" alt="">
+              <div class="carousel-caption3">
+                <h3>Structure-Function Understanding of aGPCR ECRs Critical for Drug-Design</h3>
+                <p>Cellular communication mediated by a variety of cell-surface receptors
+                  involves ligand induced conformational changes in the extracellular
+                  region (ECR). A variety of drugs such as cetuximab (Epidermal Growth
+                  Factor Receptor), etrolizumab (Integrins), and erenumab (calcitonin
+                  receptor-like receptor) function by trapping ECRs in specific conformations
+                  and have proved to be effective therapeutic agents in several cancers,
+                  bowel diseases, and migraine. Leon et al., studied a class of
+                  relatively understudied G-protein couple receptors (GPCRs) called
+                  adhesion-GPCRs (aGPCRs) which have a structurally unique ECR with a
+                  diverse set of mechanistic possibilities.</p>
                 <a href="/science/nemaline-myopathy.html" class="btn btn-primary" role="button">Learn More</a>
                 </div>
               </div>
