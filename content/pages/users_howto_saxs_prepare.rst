@@ -4,6 +4,14 @@ How to prepare samples for equilibrium SAXS
 :category: users
 :slug: how-to-prepare-saxs
 
+In the following video from the Everything BioSAXS 5 workshop, Dr. Kushol Gupta
+discusses what you need to know about sample preparation for SAXS
+(`get slides <{static}/files/eb5_lectures/Gupta_Planning_and_performaing_SAXS_experiments.pdf>`_)
+
+.. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/uWonjUMrKI8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 Checklist for SAXS sample preparation
 
@@ -43,3 +51,6 @@ Checklist for SAXS sample preparation
 .. image:: {static}/images/gel.jpg
     :class: img-responsive
     :align: center
+
+
+

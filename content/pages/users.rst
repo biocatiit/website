@@ -97,7 +97,7 @@ continue operating the BioCAT facility.
 
             .. caption::
 
-                :h3:`How To Guides`
+                :h3:`Guides and Tutorials`
 
             .. button:: More
                 :class: primary block

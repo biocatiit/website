@@ -23,6 +23,14 @@ We have three different time-resolved SAXS instruments.
     :class: img-responsive
     :align: center
 
+In the following video from the Everything BioSAXS 5 workshop, Dr. Srinivas
+Chakravarthy discusses the current state of time resolved SAXS at BioCAT
+(`get slides <{static}/files/eb5_lectures/Chakravarthy_Time_Resolved_SAXS.pdf>`_)
+
+.. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_Hm5ujHQeEw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Stopped-Flow
 =============
 

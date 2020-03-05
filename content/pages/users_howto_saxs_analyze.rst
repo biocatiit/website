@@ -4,6 +4,19 @@ How to analyze SAXS data
 :category: users
 :slug: how-to-analyze-saxs
 
+In the following two videos, Dr.s Jesse Hopkins and Kushol Gupta discuss basic
+and advanced SAXS data analysis
+(`get basic slides <{static}/files/eb5_lectures/Hopkins_Basic_data_validation_and_analysis.pdf>`_,
+`get advaced slides <{static}/files/eb5_lectures/Gupta_Advanced_data_analysis.pdf>`_)
+
+.. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fbPPbaJrcoM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6k_-l8OHaPw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 SAXS Processing At The Beamline
 =================================
