@@ -18,7 +18,7 @@ About BioCAT
     and is funded by the `National Institute of General Biomedical Sciences
     \(NIGMS) <https://www.nigms.nih.gov/>`_. Its primary research tool is a very high
     brightness X-ray beam-line at the `Advanced Photon Source (APS) <https://www.aps.anl.gov/>`_
-    at `Argonne National Laborator (ANL) <https://www.anl.gov/>`_. BioCAT is a
+    at `Argonne National Laboratory (ANL) <https://www.anl.gov/>`_. BioCAT is a
     member of `Illinois Institute of Technology's (IIT) <https://www.iit.edu/>`_
     `Center for Synchrotron Radiation Research and Instrumentation (CSSRI)
     <https://web.iit.edu/csrri>`_ and the `Pritzker Institute of Biomedical Science + Engineering <https://web.iit.edu/pritzker-institute/>`_.
