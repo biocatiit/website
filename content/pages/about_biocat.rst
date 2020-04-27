@@ -21,7 +21,7 @@ About BioCAT
     at `Argonne National Laborator (ANL) <https://www.anl.gov/>`_. BioCAT is a
     member of `Illinois Institute of Technology's (IIT) <https://www.iit.edu/>`_
     `Center for Synchrotron Radiation Research and Instrumentation (CSSRI)
-    <https://web.iit.edu/csrri>`_.
+    <https://web.iit.edu/csrri>`_ and the `Pritzker Institute of Biomedical Science + Engineering <https://web.iit.edu/pritzker-institute/>`_.
 
 
 .. row::
