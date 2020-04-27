@@ -23,8 +23,8 @@ Useful Links
 
         :h3:`Staff`
 
-        *   `Wiki <http://www.bio.aps.anl.gov/staffwiki/>`_
-        *   `Useful Links on the Wiki <http://www.bio.aps.anl.gov/staffwiki/Links/>`_
+        *   `Wiki <https://www.bio.aps.anl.gov/staffwiki/>`_
+        *   `Useful Links on the Wiki <https://www.bio.aps.anl.gov/staffwiki/Links/>`_
         *   `BioCAT github Page <https://github.com/biocatiit>`_
         *   `Storage Ring Status <https://www3.aps.anl.gov/aod/blops/status/srStatus.html>`_
         *   `APS Stockroom Catalog <https://beam.aps.anl.gov/pls/apsweb/st0006.start_page>`_
