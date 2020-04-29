@@ -28,7 +28,12 @@ Fiber and Muscle Diffraction
     Many biological fibers such as muscle, hair, and viruses have internal structure
     which can be probed with X-rays. Using this technique, one can study the
     arrangement of proteins in muscle and tendons. It may be used to understand
-    human maladies such as heart disease and cancer.
+    human maladies such as `heart disease <https://youtu.be/gLYLWM1kyro>`_ and cancer.
+
+.. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/gLYLWM1kyro" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 The `design features <{filename}/pages/about_beamline.rst>`_ of the BioCAT
 beamline 18ID and the `source properties of the APS <https://ops.aps.anl.gov/SRparameters/SRparameters.html>`_
