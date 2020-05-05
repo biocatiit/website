@@ -4,6 +4,11 @@ Welcome to BioCAT
 :url:
 :save_as: index.html
 
+.. alert:: As part of an Argonne-wide policy, BioCAT is only doing COVID-19 related
+    research at the moment. Additionally, no users are allowed on site. If you have
+    a COVID-19 related project, please contact us for more information.
+    :type: warning
+
 .. alert:: **REAL-ID requirement:** Argonne now requires a REAL-ID compatible
     driver's license to obtain a new user badge. `Click for more information and
     other acceptable IDs. <https://www.anl.gov/site-entry-requirements>`_
@@ -192,25 +197,47 @@ Welcome to BioCAT
 
         .. thumbnail::
 
-            .. image:: {static}/images/news/2020_biophys_booth.jpg
+            .. image:: {static}/images/news/2020_covid19_rna1.jpg
                 :class: img-rounded
 
             .. caption::
 
-                :h3:`BioCAT at Biophysics 2020 in San Diego`
+                :h3:`SAXS studies of RNA elements from the SARS-CoV-2 virus at BioCAT`
 
-                Please come and visit us at booth number 430 at the Annual Meeting of the
-                Biophysical Society  February 15-19 for swag and good conversation.
+                As part of the global effort to study the SARS-CoV-2 virus causing
+                the COVID-19 pandemic, BioCAT is carrying out SEC-MALS-SAXS studies
+                of RNA elements from the virus.
 
             .. button:: Learn More
                 :class: primary block
-                :target: {filename}/news/2020_biophysical_meeting.rst
+                :target: {filename}/news/2020_covid19_rna1.rst
 
         .. row::
 
             .. -------------------------------------------------------------------------
             .. column::
                 :width: 6
+
+                .. thumbnail::
+
+                    .. image:: {static}/images/news/2020_biophys_booth.jpg
+                        :class: img-rounded
+
+                    .. caption::
+
+                        :h4:`BioCAT at Biophysics 2020 in San Diego`
+
+                        Please come and visit us at booth number 430 at the Annual Meeting of the
+                        Biophysical Society  February 15-19 for swag and good conversation.
+
+                    .. button:: Learn More
+                        :class: primary block
+                        :target: {filename}/news/2020_biophysical_meeting.rst
+
+            .. -------------------------------------------------------------------------
+            .. column::
+                :width: 6
+
 
                 .. thumbnail::
 
@@ -229,27 +256,3 @@ Welcome to BioCAT
                     .. button:: Learn More
                         :class: primary block
                         :target: {filename}/news/2019_everything_biosaxs5_wrapup.rst
-
-            .. -------------------------------------------------------------------------
-            .. column::
-                :width: 6
-
-
-                .. thumbnail::
-
-                    .. image:: {static}/images/news/riback_award.jpg
-                        :class: img-rounded
-
-                    .. caption::
-
-                        :h4:`BioCAT user Joshua Riback wins Rosland Franklin
-                        Investigator Award`
-
-                        Joshua Riback, a BioCAT user in his fifth year of graduate
-                        studies at the University of Chicago, was recognized for
-                        his work using SEC-SAXS at BioCAT to study biophysical
-                        interactions.
-
-                    .. button:: Learn More
-                        :class: primary block
-                        :target: {filename}/news/2018_riback_award.rst
