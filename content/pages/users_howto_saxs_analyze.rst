@@ -9,13 +9,27 @@ and advanced SAXS data analysis
 (`get basic slides <{static}/files/eb5_lectures/Hopkins_Basic_data_validation_and_analysis.pdf>`_,
 `get advaced slides <{static}/files/eb5_lectures/Gupta_Advanced_data_analysis.pdf>`_)
 
-.. raw:: html
+.. row::
 
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fbPPbaJrcoM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    .. column::
+        :width: 8
 
-.. raw:: html
+        Basic analysis:
 
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6k_-l8OHaPw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        .. raw:: html
+
+            <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/fbPPbaJrcoM' frameborder='0' allowfullscreen></iframe></div>
+
+.. row::
+
+    .. column::
+        :width: 8
+
+        Advanced analysis:
+
+        .. raw:: html
+
+            <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/6k_-l8OHaPw' frameborder='0' allowfullscreen></iframe></div>
 
 
 SAXS Processing At The Beamline

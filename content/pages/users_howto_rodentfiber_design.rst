@@ -9,9 +9,14 @@ fiber samples from many different sources. In the following instructional video,
 Dr. Weikang Ma and Dr. Tom Irving give an overview of how one would conduct a
 rodent skeletal muscle fiber experiment at BioCAT.
 
-.. raw:: html
+.. row::
 
-    <iframe width="560" height="315" src="/files/Irving_071519_P_Web.mp4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    .. column::
+        :width: 8
+
+        .. raw:: html
+
+            <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='/files/Irving_071519_P_Web.mp4' frameborder='0' allowfullscreen></iframe></div>
 
 The video is part of a `Journal of Visualized Experiments article
 <https://www.jove.com/video/59559/x-ray-diffraction-intact-murine-skeletal-muscle-as-tool-for-studying>`_.
