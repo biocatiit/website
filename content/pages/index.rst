@@ -185,6 +185,13 @@ Welcome to BioCAT
                         :class: primary block
                         :target: {filename}/scihi/2020_nemaline_myopathy.rst
 
+        .. row::
+
+            .. button:: See More Higlights
+                :class: primary block
+                :target: /category/science.html
+
+
     .. -------------------------------------------------------------------------
     .. column::
         :width: 6
@@ -254,3 +261,9 @@ Welcome to BioCAT
                     .. button:: Learn More
                         :class: primary block
                         :target: {filename}/news/2019_everything_biosaxs5_wrapup.rst
+
+        .. row::
+
+            .. button:: See More News
+                :class: primary block
+                :target: /category/news.html
