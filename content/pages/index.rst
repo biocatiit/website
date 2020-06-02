@@ -187,7 +187,7 @@ Welcome to BioCAT
 
         .. row::
 
-            .. button:: See More Higlights
+            .. button:: See More Highlights
                 :class: primary block
                 :target: /category/science.html
 
