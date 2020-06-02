@@ -38,6 +38,25 @@ Below is a gallery of a few of BioCAT's science highlights.
 
           <div class="item active">
               <div class="col text-center">
+              <img class="d-block w-100" src="/images/gallery/2020_nebulin_mutation.png" alt="">
+              <div class="carousel-caption3">
+                <h3>Nebulin mutations causing nemaline myopathy in humans change the structure of thin filaments in muscle</h3>
+                <p>Nebulin is a giant protein that winds around the actin filaments in the
+                sarcomeres of skeletal muscle.  Mutations in the nebulin gene (NEB) cause
+                typical nemaline myopathy (NM), a muscle disorder characterized by muscle
+                weakness that are difficult to treat.  The authors of this study
+                created a mouse model that mimics the typical nebulin-based NM patient
+                with compound-heterozygous mutations. X-ray diffraction studies on the
+                BioCAT beamline 18ID provided a structural explanation for the muscle
+                weakness. This new Compound-Het mouse model will be useful for testing
+                experimental therapies for typical NM.</p>
+                <a href="/science/nebulin-mutation.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="item">
+              <div class="col text-center">
               <img class="d-block w-100" src="/images/gallery/2020_ric8a_gprotein.png" alt="">
               <div class="carousel-caption3">
                 <h3>Structure-Function Studies Elucidate GPCR-Independent Regulation of G-proteins</h3>

@@ -47,7 +47,7 @@ Structure-Function Studies Elucidate GPCR-Independent Regulation of G-proteins
     Thomas CJ, Doukov TI, Triest S, Wohlkonig A, Tall GG, Steyaert J, Chiu
     W, Sprang SR. `"Structure of the G protein chaperone and guanine nucleotide
     exchange factor Ric-8A bound to Gαi1" <https://doi.org/10.1038/s41467-020-14943-4>`_.
-    Nat Commun. 2020 Feb 26;11(1):1077. doi: 10.1038/s41467-020-14943-4. PMID:32103024
+    Nat Commun. 2020 Feb 26;11(1):1077. DOI: 10.1038/s41467-020-14943-4. PMID:32103024
 
 
 

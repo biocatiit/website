@@ -4,16 +4,12 @@ Welcome to BioCAT
 :url:
 :save_as: index.html
 
-.. alert:: As part of an Argonne-wide policy, BioCAT is only doing COVID-19 related
-    research at the moment. Additionally, no users are allowed on site. If you have
-    a COVID-19 related project, please contact us for more information.
+.. alert:: BioCAT is now able to carry out research on any subject, not just
+    COVID-19 related projects. However, COVID-19 related projects will still
+    be given priority on the beamline. Additionally, due to an Argonne-wide
+    policy, no users are allowed on site and we can run fewer experiments than
+    usual. If you are interested in beam time please contact us.
     :type: warning
-
-.. alert:: **REAL-ID requirement:** Argonne now requires a REAL-ID compatible
-    driver's license to obtain a new user badge. `Click for more information and
-    other acceptable IDs. <https://www.anl.gov/site-entry-requirements>`_
-    :type: warning
-    :dismissable:
 
 
 .. class:: center
@@ -104,32 +100,62 @@ Welcome to BioCAT
 
         .. thumbnail::
 
-            .. image:: {static}/images/scihi/2020_prion_like_domains.jpg
+            .. image:: {static}/images/scihi/2020_nebulin_mutation.png
                 :class: img-rounded
                 :align: center
-                :height: 400 px
 
             .. caption::
 
-                :h3:`How Prion-like domains Drive Liquid-Liquid Phase Transitions in Cells`
+                :h3:`Nebulin mutations causing nemaline myopathy in humans change the structure of thin filaments in muscle`
 
-                Liquid-liquid phase separation (LLPS) provides a way for cells to create
-                membraneless micro-environments (“condensates”) that have been
-                proposed to be involved in diverse cellular processes including stress
-                responses, RNA splicing, mitosis, chromatin organization, and the
-                clustering of receptors at membranes. Proteins driving LLPS often contain
-                intrinsically disordered prion like domains (PLD’s) that appear to be
-                necessary and sufficient to produce LLPS. In a recent paper in
-                the journal Science, researchers used a combination of NMR,
-                multiscale simulations and Size Exclusion Chromatography SAXS
-                experiments at BioCAT to discover sequence features that determine
-                the phase behavior of PLD’s.
+                Nebulin is a giant protein that winds around the actin filaments in the
+                sarcomeres of skeletal muscle.  Mutations in the nebulin gene (NEB) cause
+                typical nemaline myopathy (NM), a muscle disorder characterized by muscle
+                weakness that are difficult to treat.  The authors of this study
+                created a mouse model that mimics the typical nebulin-based NM patient
+                with compound-heterozygous mutations. X-ray diffraction studies on the
+                BioCAT beamline 18ID provided a structural explanation for the muscle
+                weakness. This new Compound-Het mouse model will be useful for testing
+                experimental therapies for typical NM.
 
             .. button:: Learn More
                 :class: primary block
-                :target: {filename}/scihi/2020_prion_like_domains.rst
+                :target: {filename}/scihi/2020_nebulin_mutations.rst
 
         .. row::
+
+            .. -------------------------------------------------------------------------
+            .. column::
+                :width: 6
+
+                .. thumbnail::
+
+                    .. image:: {static}/images/scihi/2020_prion_like_domains.jpg
+                        :class: img-rounded
+                        :align: center
+                        :height: 400 px
+
+                    .. caption::
+
+                        :h4:`How Prion-like domains Drive Liquid-Liquid Phase Transitions in Cells`
+
+                        Liquid-liquid phase separation (LLPS) provides a way for cells to create
+                        membraneless micro-environments (“condensates”) that have been
+                        proposed to be involved in diverse cellular processes including stress
+                        responses, RNA splicing, mitosis, chromatin organization, and the
+                        clustering of receptors at membranes. Proteins driving LLPS often contain
+                        intrinsically disordered prion like domains (PLD’s) that appear to be
+                        necessary and sufficient to produce LLPS. In a recent paper in
+                        the journal Science, researchers used a combination of NMR,
+                        multiscale simulations and Size Exclusion Chromatography SAXS
+                        experiments at BioCAT to discover sequence features that determine
+                        the phase behavior of PLD’s.
+
+                    .. button:: Learn More
+                        :class: primary block
+                        :target: {filename}/scihi/2020_prion_like_domains.rst
+
+
 
             .. -------------------------------------------------------------------------
             .. column::
@@ -158,34 +184,6 @@ Welcome to BioCAT
                     .. button:: Learn More
                         :class: primary block
                         :target: {filename}/scihi/2020_nemaline_myopathy.rst
-
-
-
-            .. -------------------------------------------------------------------------
-            .. column::
-                :width: 6
-
-                .. thumbnail::
-
-                    .. image:: {static}/images/scihi/2019_heart_failure.jpg
-                        :class: img-rounded
-
-                    .. caption::
-
-                        :h4:`Probing the Powering of Contractions in Heart Failure`
-
-                        Current treatments can slow progression of heart failure,
-                        but do not address the underlying issues, including specific
-                        problems that cause systolic heart failure.  In this condition,
-                        the heart doesn’t contract vigorously enough in pushing blood
-                        into the body’s circulation. But findings at nanometer and
-                        millisecond scales, based upon experimental data collected
-                        at BioCAT may help improve design of therapies directed at motor
-                        proteins to rescue failing hearts.
-
-                    .. button:: Learn More
-                        :class: primary block
-                        :target: {filename}/scihi/2019_heart_failure.rst
 
     .. -------------------------------------------------------------------------
     .. column::
