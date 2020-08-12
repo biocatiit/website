@@ -202,22 +202,46 @@ Welcome to BioCAT
 
         .. thumbnail::
 
-            .. image:: {static}/images/news/2020_covid19_rna1.jpg
+            .. image:: {static}/images/news/2020_eb6_cover.png
                 :class: img-rounded
 
             .. caption::
 
-                :h3:`SAXS studies of RNA elements from the SARS-CoV-2 virus at BioCAT`
+                :h3:`Everything BioSAXS 6 workshop open for registration`
 
-                As part of the global effort to study the SARS-CoV-2 virus causing
-                the COVID-19 pandemic, BioCAT is carrying out SEC-MALS-SAXS studies
-                of RNA elements from the virus.
+                BioCAT is offering the all-virtual Everything BioSAXS 6
+                workshop October 26-29th. Participants will receive four
+                days of virtual lectures and hands-on software tutorials on
+                the basics of BioSAXS data collection and processing. They
+                will also be able to mail samples to BioCAT for data collection
+                prior to the workshop.
 
             .. button:: Learn More
                 :class: primary block
-                :target: {filename}/news/2020_covid19_rna1.rst
+                :target: {filename}/news/2020_everything_biosaxs6.rst
 
         .. row::
+
+            .. -------------------------------------------------------------------------
+            .. column::
+                :width: 6
+
+                .. thumbnail::
+
+                    .. image:: {static}/images/news/2020_covid19_rna1.jpg
+                        :class: img-rounded
+
+                    .. caption::
+
+                        :h4:`SAXS studies of RNA elements from the SARS-CoV-2 virus at BioCAT`
+
+                        As part of the global effort to study the SARS-CoV-2 virus causing
+                        the COVID-19 pandemic, BioCAT is carrying out SEC-MALS-SAXS studies
+                        of RNA elements from the virus.
+
+                    .. button:: Learn More
+                        :class: primary block
+                        :target: {filename}/news/2020_covid19_rna1.rst
 
             .. -------------------------------------------------------------------------
             .. column::
@@ -238,29 +262,6 @@ Welcome to BioCAT
                     .. button:: Learn More
                         :class: primary block
                         :target: {filename}/news/2020_biophysical_meeting.rst
-
-            .. -------------------------------------------------------------------------
-            .. column::
-                :width: 6
-
-
-                .. thumbnail::
-
-                    .. image:: {static}/images/news/2019_eb5_group.jpg
-                        :class: img-rounded
-
-                    .. caption::
-
-                        :h4:`Everything BioSAXS 5 workshop summary`
-
-                        BioCAT ran its 5th annual Everything BioSAXS workshop
-                        from November 5-7th, 2019. With 13 on-site participants
-                        and 24 remote participants the workshop was a resounding
-                        success.
-
-                    .. button:: Learn More
-                        :class: primary block
-                        :target: {filename}/news/2019_everything_biosaxs5_wrapup.rst
 
         .. row::
 
