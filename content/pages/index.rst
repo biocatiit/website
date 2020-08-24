@@ -103,24 +103,25 @@ Welcome to BioCAT
             .. image:: {static}/images/scihi/2020_tarantula_IHM.png
                 :class: img-rounded
                 :align: center
+                :height: 400 px
 
             .. caption::
 
-                :h3:`The myosin interacting-heads motif present in live tarantula muscle explains tetanic and post-tetanic 			phosphorylation mechanisms'
+                :h3:`The myosin interacting-heads motif present in live tarantula muscle explains tetanic and post-tetanic phosphorylation mechanisms`
 
                 Striated muscle contraction involves sliding of actin thin filaments along
-    		myosin thick filaments, controlled by calcium through thin filament
-    		activation. In relaxed muscle, the two heads of myosin interact with each
-    		other on the filament surface to form the interacting-heads motif (IHM).
-    		A key question is how both heads are released from the surface to approach
-    		actin and produce force. We used time-resolved synchrotron X-ray diffraction
-    		to study tarantula muscle before and after tetani. The patterns showed that
-    		the IHM is present in live relaxed muscle. Tetanic contraction produced
-    		only a very small backbone elongation, implying that mechanosensing -
-    		proposed in vertebrate muscle - is not of primary importance in tarantula.
-    		Rather, thick filament activation results from increases in myosin
-    		phosphorylation that release a fraction of heads to produce force, with
-    		the remainder staying in the ordered IHM configuration.
+                myosin thick filaments, controlled by calcium through thin filament
+                activation. In relaxed muscle, the two heads of myosin interact with each
+                other on the filament surface to form the interacting-heads motif (IHM).
+                A key question is how both heads are released from the surface to approach
+                actin and produce force. We used time-resolved synchrotron X-ray diffraction
+                to study tarantula muscle before and after tetani. The patterns showed that
+                the IHM is present in live relaxed muscle. Tetanic contraction produced
+                only a very small backbone elongation, implying that mechanosensing -
+                proposed in vertebrate muscle - is not of primary importance in tarantula.
+                Rather, thick filament activation results from increases in myosin
+                phosphorylation that release a fraction of heads to produce force, with
+                the remainder staying in the ordered IHM configuration.
 
             .. button:: Learn More
                 :class: primary block
@@ -136,21 +137,20 @@ Welcome to BioCAT
                     .. image:: {static}/images/scihi/2020_nebulin_mutation.png
                         :class: img-rounded
                         :align: center
-                        :height: 400 px
 
                     .. caption::
 
                         :h4:`Compound nebulin mutations cause changes in thin filament structure.`
 
                         Nebulin is a giant protein that winds around the actin filaments in the
-                	sarcomeres of skeletal muscle.  Mutations in the nebulin gene (NEB) cause
-                	typical nemaline myopathy (NM), a muscle disorder characterized by muscle
-                	weakness that are difficult to treat.  The authors of this study
-                	created a mouse model that mimics the typical nebulin-based NM patient
-                	with compound-heterozygous mutations. X-ray diffraction studies on the
-                	BioCAT beamline 18ID provided a structural explanation for the muscle
-                	weakness. This new Compound-Het mouse model will be useful for testing
-                	experimental therapies for typical NM.
+                        sarcomeres of skeletal muscle.  Mutations in the nebulin gene (NEB) cause
+                        typical nemaline myopathy (NM), a muscle disorder characterized by muscle
+                        weakness that are difficult to treat.  The authors of this study
+                        created a mouse model that mimics the typical nebulin-based NM patient
+                        with compound-heterozygous mutations. X-ray diffraction studies on the
+                        BioCAT beamline 18ID provided a structural explanation for the muscle
+                        weakness. This new Compound-Het mouse model will be useful for testing
+                        experimental therapies for typical NM.
 
                     .. button:: Learn More
                         :class: primary block
