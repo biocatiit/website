@@ -49,7 +49,7 @@ Below is a gallery of a few of BioCAT's science highlights.
                    actin and produce force. We used time-resolved synchrotron X-ray diffraction
                    to study tarantula muscle before and after tetani. The patterns showed that
                    the IHM is present in live relaxed muscle.</p>
-                <a href="/science/tarantula-myosin.html" class="btn btn-primary" role="button">Learn More</a>
+                <a href="/science/tarantula-myosin-IHM.html" class="btn btn-primary" role="button">Learn More</a>
                 </div>
               </div>
             </div>
