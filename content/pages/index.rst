@@ -107,7 +107,7 @@ Welcome to BioCAT
 
             .. caption::
 
-                :h3:`The myosin interacting-heads motif present in live tarantula muscle explains tetanic and post-tetanic phosphorylation mechanisms`
+                :h3:`Tarantula myosin interacting-heads motif explains tetanic and post-tetanic phosphorylation mechanisms`
 
                 Striated muscle contraction involves sliding of actin thin filaments along
                 myosin thick filaments, controlled by calcium through thin filament
@@ -209,14 +209,15 @@ Welcome to BioCAT
 
             .. caption::
 
-                :h3:`Everything BioSAXS 6 workshop open for registration`
+                :h3:`Everything BioSAXS 6 workshop announced`
 
                 BioCAT is offering the all-virtual Everything BioSAXS 6
                 workshop October 26-29th. Participants will receive four
                 days of virtual lectures and hands-on software tutorials on
                 the basics of BioSAXS data collection and processing. They
                 will also be able to mail samples to BioCAT for data collection
-                prior to the workshop.
+                prior to the workshop. Registration is now closed, but you can
+                still get on the waitlist.
 
             .. button:: Learn More
                 :class: primary block
