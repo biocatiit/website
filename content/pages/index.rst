@@ -209,14 +209,15 @@ Welcome to BioCAT
 
             .. caption::
 
-                :h3:`Everything BioSAXS 6 workshop open for registration`
+                :h3:`Everything BioSAXS 6 workshop announced`
 
                 BioCAT is offering the all-virtual Everything BioSAXS 6
                 workshop October 26-29th. Participants will receive four
                 days of virtual lectures and hands-on software tutorials on
                 the basics of BioSAXS data collection and processing. They
                 will also be able to mail samples to BioCAT for data collection
-                prior to the workshop.
+                prior to the workshop. Registration is now closed, but you can
+                still get on the waitlist.
 
             .. button:: Learn More
                 :class: primary block
