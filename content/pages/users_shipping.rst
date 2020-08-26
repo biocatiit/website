@@ -65,7 +65,16 @@ If you would like to ship materials to BioCAT, our shipping address is:
     | 9700 S. Cass Avenue
     | Argonne, IL 60439-4860
 
-The preferred method of shipping at Argonne is FedEx.
+The preferred method of shipping at Argonne is FedEx Priority Overnight.
+
+To prepare your package, please note that if you send a styrofoam container, it
+needs to have an outer cardboard box, that contains the following information:
+
+1) It should have a label that says 'PERISHABLE' if it contains perishable goods.
+2) You should write storage instructions on the outside of the package - ie. Room 
+Temperature, 4C(refrigerate), -20C, or -80C.
+3) Your package should contain your Scientific Contact's name, as well as, 
+Rich Heurich's name and extension(2-0543).
 
 From BioCAT
 ============
