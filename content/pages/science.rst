@@ -54,7 +54,7 @@ Below is a gallery of a few of BioCAT's science highlights.
               </div>
             </div>
 
-          <div class="item active">
+          <div class="item">
               <div class="col text-center">
               <img class="d-block w-100" src="/images/gallery/2020_nebulin_mutation.png" alt="">
               <div class="carousel-caption3">
