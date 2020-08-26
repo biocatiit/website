@@ -107,7 +107,7 @@ Welcome to BioCAT
 
             .. caption::
 
-                :h3:`The myosin interacting-heads motif present in live tarantula muscle explains tetanic and post-tetanic phosphorylation mechanisms`
+                :h3:`Tarantula myosin interacting-heads motif explains tetanic and post-tetanic phosphorylation mechanisms`
 
                 Striated muscle contraction involves sliding of actin thin filaments along
                 myosin thick filaments, controlled by calcium through thin filament
