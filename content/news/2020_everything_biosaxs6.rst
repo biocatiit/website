@@ -55,10 +55,10 @@ How to register
 
 .. lead::
 
-    Registration is OPEN.
+    Registration is CLOSED.
 
-You can register at the eventbrite page:
-`https://everything-biosaxs-6.eventbrite.com <https://everything-biosaxs-6.eventbrite.com>`_
+Registration for the workshop is closed, but you can get on the waitlist by
+contacting Carrie Clark (mclark19@iit.edu).
 
 More information
 ^^^^^^^^^^^^^^^^^
