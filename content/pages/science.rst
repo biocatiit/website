@@ -38,6 +38,24 @@ Below is a gallery of a few of BioCAT's science highlights.
 
           <div class="item active">
               <div class="col text-center">
+              <img class="d-block w-100" src="/images/gallery/2020_tarantula_IHM.png" alt="">
+              <div class="carousel-caption3">
+                <h3>Tarantula myosin interacting-heads motif explains tetanic and post-tetanic phosphorylation mechanisms</h3>
+                <p>Striated muscle contraction involves sliding of actin thin filaments along
+                   myosin thick filaments, controlled by calcium through thin filament
+                   activation. In relaxed muscle, the two heads of myosin interact with each
+                   other on the filament surface to form the interacting-heads motif (IHM).
+                   A key question is how both heads are released from the surface to approach
+                   actin and produce force. We used time-resolved synchrotron X-ray diffraction
+                   to study tarantula muscle before and after tetani. The patterns showed that
+                   the IHM is present in live relaxed muscle.</p>
+                <a href="/science/tarantula-myosin.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
+              </div>
+            </div>
+
+          <div class="item active">
+              <div class="col text-center">
               <img class="d-block w-100" src="/images/gallery/2020_nebulin_mutation.png" alt="">
               <div class="carousel-caption3">
                 <h3>Nebulin mutations causing nemaline myopathy in humans change the structure of thin filaments in muscle</h3>
