@@ -93,6 +93,7 @@ Confirmed speakers:
 *   Richard Gillilan (MacCHESS, CHESS)
 *   Kushol Gupta (U. Pennsylvania)
 *   Steve Meisburger (Cornell U.)
+*   Javier Perez (SWING, Synchrotron SOLEIL)
 *   Tobin Sosnick (U. Chicago)
 
 Tentative schedule
@@ -148,7 +149,7 @@ Note: All times are Central Daylight Time (UTC-5)
     =========== ======================================================================================================================
     10:00 am    Advanced analysis: Introduction to rigid body modeling
     10:30 am    Advanced analysis: Introduction to flexibility and ensemble modeling
-    11:00 am    Advanced topic: TBD
+    11:00 am    Advanced topic: SAXS and membrane proteins
     11:45 am    Break
     12:15 pm    Advanced topic: SAXS and intrinsically disordered proteins
     01:00 pm    Tutorial: Data analysis of participant's data
