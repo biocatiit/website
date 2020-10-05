@@ -108,8 +108,7 @@ Note: All times are Central Daylight Time (UTC-5)
     10:35 am    Planning and performing SAXS experiments (inc. complementary methods)
     11:50 am    Break
     12:20 pm    Basic SAXS data validation and analysis
-    01:35 pm    Planning experiments at BioCAT
-    01:45 pm    Q&A panel
+    01:35 pm    Q&A panel
     02:15 pm    End
     =========== ======================================================================================================================
 
@@ -149,7 +148,8 @@ Note: All times are Central Daylight Time (UTC-5)
     11:00 am    Advanced topic: SAXS and membrane proteins
     11:45 am    Break
     12:15 pm    Advanced topic: SAXS and intrinsically disordered proteins
-    01:00 pm    Tutorial: Data analysis of participant's data
-    02:00 pm    Wrap up and final Q&A
-    02:30 pm    End
+    01:15 pm    Tutorial: Data analysis of participant's data
+    02:15 pm    Planning experiments at BioCAT
+    02:30 pm    Wrap up and final Q&A
+    03:00 pm    End
     =========== ======================================================================================================================
