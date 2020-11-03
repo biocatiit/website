@@ -35,7 +35,7 @@ Everything BioSAXS 4 Workshop Wrap-Up
                 Participants and instructors at the Everything BioSAXS 4 Workshop.
 
 
-BioCAT held it's fourth annual BioSAXS training course from 11/5/18-11/7/18.
+BioCAT held its fourth annual BioSAXS training course from 11/5/18-11/7/18.
 There were 11 participants and 6 instructors. Day one started off with breakfast,
 followed by an excellent overview of the basic physics of SAXS and what kind
 of information you can obtain from the technique by Dr. Xiaobing Zuo (12ID, APS).
