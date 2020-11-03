@@ -42,12 +42,14 @@ Macromolecular Small-Angle Solution Scattering (SAXS)
 Tutorials
 ^^^^^^^^^^^^^^
 
-Everything BioSAXS 5 lecture videos (November 2019)
+Everything BioSAXS lecture videos (2019 and 2020)
 ==========================================================
 
 *   `SAXS Sample Preparation <https://youtu.be/uWonjUMrKI8>`_ (`get sample prep slides <{static}/files/eb5_lectures/Gupta_Planning_and_performaing_SAXS_experiments.pdf>`_)
 *   `Basic SAXS data analysis and validation <https://youtu.be/fbPPbaJrcoM>`_ (`get basic analysis slides <{static}/files/eb5_lectures/Hopkins_Basic_data_validation_and_analysis.pdf>`_)
 *   `SEC-SAXS and advanced SAXS analysis <https://youtu.be/6k_-l8OHaPw>`_ (`get advanced analysis slides <{static}/files/eb5_lectures/Gupta_Advanced_data_analysis.pdf>`_)
 *   `Publishing SAXS data <https://youtu.be/bXu1M2JUuuk>`_ (`get publishing slides <{static}/files/eb5_lectures/Hopkins_Publishing_your_data.pdf>`_)
+*   `Analyzing Flexible and Disordered Macromolecules with SAXS <https://youtu.be/ABnxBq18ozo>`_ (`get flexibility slides <{static}/files/eb6_lectures/Hopkins_Flexibility_and_disorder_in_SAXS.pdf>`_)
+*   `Rigid Body Modeling with SAXS data <https://youtu.be/mckbwfxc5-A>`_ (`get rigid body modeling slides <{static}/files/eb6_lectures/Chakravarthy_Rigid_body_modeling_and_SASREF.pdf>`_)
 *   `Time resolved SAXS <https://youtu.be/_Hm5ujHQeEw>`_ (`get TR-SAXS slides <{static}/files/eb5_lectures/Chakravarthy_Time_Resolved_SAXS.pdf>`_)
 *   `SAXS on IDPs <https://youtu.be/l1wruETgVmw>`_ (`get IDP slides <{static}/files/eb5_lectures/Sosnick_Flexible_systems_and_intrinsically_disordeded_proteins.pdf>`_)
