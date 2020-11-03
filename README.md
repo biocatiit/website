@@ -35,7 +35,7 @@ pip install pelican Markdown typogrify beautifulsoup4
 The best approach for development purposes is to use make to build and
 display the html. In the top level of the repository, run
 ```
-make devserver
+./develop_server.sh start
 ```
 
 This displays the website at [http://localhost:8000/](http://localhost:8000/).
