@@ -204,25 +204,24 @@ Welcome to BioCAT
 
         .. thumbnail::
 
-            .. image:: {static}/images/news/2020_eb6_group.png
+            .. image:: {static}/images/news/2020_eb6_cover.png
                 :class: img-rounded
 
             .. caption::
 
-                :h3:`Everything BioSAXS 6 workshop wrapup`
+                :h3:`Everything BioSAXS 7 workshop announced`
 
-                BioCAT held its sixth intensive HOW-TO course in BioSAXS from
-                10/26/20-10/29/20 with 24 remote participants. There wwere four
-                days of lectures and hands-on software tutorials on the basics of
-                BioSAXS data collection and processing from expert practitioners
-                in the field. Participants could elect to mail in samples for data
-                collection prior to the course, and roughly half of them sent
-                research samples and were able to analyze their own data as part
-                of the workshop.
+                BioCAT is offering the all-virtual Everything BioSAXS 7
+                workshop March 29th to April 1st. Participants will receive four
+                days of virtual lectures and hands-on software tutorials on
+                the basics of BioSAXS data collection and processing. They
+                will also be able to mail samples to BioCAT for data collection
+                prior to the workshop. Registration is now open.
 
             .. button:: Learn More
                 :class: primary block
-                :target: {filename}/news/2020_everything_biosaxs6_wrapup.rst
+                :target: {filename}/news/2021_everything_biosaxs7.rst
+
 
         .. row::
 
@@ -253,24 +252,25 @@ Welcome to BioCAT
 
                 .. thumbnail::
 
-                    .. image:: {static}/images/news/2020_eb6_cover.png
+                    .. image:: {static}/images/news/2020_eb6_group.png
                         :class: img-rounded
 
                     .. caption::
 
-                        :h4:`Everything BioSAXS 6 workshop announced`
+                        :h4:`Everything BioSAXS 6 workshop wrapup`
 
-                        BioCAT is offering the all-virtual Everything BioSAXS 6
-                        workshop October 26-29th. Participants will receive four
-                        days of virtual lectures and hands-on software tutorials on
-                        the basics of BioSAXS data collection and processing. They
-                        will also be able to mail samples to BioCAT for data collection
-                        prior to the workshop. Registration is now closed, but you can
-                        still get on the waitlist.
+                        BioCAT held its sixth intensive HOW-TO course in BioSAXS from
+                        10/26/20-10/29/20 with 24 remote participants. There wwere four
+                        days of lectures and hands-on software tutorials on the basics of
+                        BioSAXS data collection and processing from expert practitioners
+                        in the field. Participants could elect to mail in samples for data
+                        collection prior to the course, and roughly half of them sent
+                        research samples and were able to analyze their own data as part
+                        of the workshop.
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/news/2020_everything_biosaxs6.rst
+                        :target: {filename}/news/2020_everything_biosaxs6_wrapup.rst
 
         .. row::
 
