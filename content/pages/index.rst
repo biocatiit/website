@@ -216,7 +216,7 @@ Welcome to BioCAT
                 days of virtual lectures and hands-on software tutorials on
                 the basics of BioSAXS data collection and processing. They
                 will also be able to mail samples to BioCAT for data collection
-                prior to the workshop. Registration is now open.
+                prior to the workshop.
 
             .. button:: Learn More
                 :class: primary block
