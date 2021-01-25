@@ -45,6 +45,7 @@ Tutorials
 Everything BioSAXS lecture videos (2019 and 2020)
 ==========================================================
 
+*   `Introduction to SAXS <https://youtu.be/wdJTK4TF3hE>`_ (`get intro slides <{static}/files/eb6_lectures/Gillilan_SAXS_Overview.pdf>`_)
 *   `SAXS Sample Preparation <https://youtu.be/uWonjUMrKI8>`_ (`get sample prep slides <{static}/files/eb5_lectures/Gupta_Planning_and_performaing_SAXS_experiments.pdf>`_)
 *   `Basic SAXS data analysis and validation <https://youtu.be/fbPPbaJrcoM>`_ (`get basic analysis slides <{static}/files/eb5_lectures/Hopkins_Basic_data_validation_and_analysis.pdf>`_)
 *   `SEC-SAXS and advanced SAXS analysis <https://youtu.be/6k_-l8OHaPw>`_ (`get advanced analysis slides <{static}/files/eb5_lectures/Gupta_Advanced_data_analysis.pdf>`_)
