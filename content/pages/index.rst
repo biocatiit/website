@@ -209,18 +209,18 @@ Welcome to BioCAT
 
             .. caption::
 
-                :h3:`Everything BioSAXS 7 workshop announced`
+                :h3:`BioCAT awarded new 5 year $8.6 million P30 grant`
 
-                BioCAT is offering the all-virtual Everything BioSAXS 7
-                workshop March 29th to April 1st. Participants will receive four
-                days of virtual lectures and hands-on software tutorials on
-                the basics of BioSAXS data collection and processing. They
-                will also be able to mail samples to BioCAT for data collection
-                prior to the workshop.
+                A team of researchers led by Prof. Thomas Irving (Illinois
+                Institute of Technology) has received a $8.6 million grant
+                from the National Institutes of Health to continue to operate
+                the Biophysics Collaborative Access Team (BioCAT) facility
+                at the Advanced Photon Source, Argonne National Laboratory
+                for the next 5 years.
 
             .. button:: Learn More
                 :class: primary block
-                :target: {filename}/news/2021_everything_biosaxs7.rst
+                :target: {filename}/news/2021_p30_announcement.rst
 
 
         .. row::
