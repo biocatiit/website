@@ -4,11 +4,11 @@ Welcome to BioCAT
 :url:
 :save_as: index.html
 
-.. alert:: BioCAT is now able to carry out research on any subject, not just
-    COVID-19 related projects. However, COVID-19 related projects will still
-    be given priority on the beamline. Additionally, due to an Argonne-wide
-    policy, no users are allowed on site and we can run fewer experiments than
-    usual. If you are interested in beam time please contact us.
+.. alert:: BioCAT is able to run most experiments at this time. COVID-19 related
+    projects will still be given priority on the beamline. Additionally, due to
+    an Argonne-wide policy, no users are allowed on site so all experiments are
+    done in a mail-in fashion in collaboration with a beamline scientist. If
+    you are interested in beam time please contact us.
     :type: warning
 
 
@@ -252,25 +252,22 @@ Welcome to BioCAT
 
                 .. thumbnail::
 
-                    .. image:: {static}/images/news/2020_eb6_group.png
+                    .. image:: {static}/images/news/2021_muslex2_cover.jpg
                         :class: img-rounded
 
                     .. caption::
 
-                        :h4:`Everything BioSAXS 6 workshop wrapup`
+                        :h4:`MuscleX 2: Muscle diffraction and scattering workshop announced`
 
-                        BioCAT held its sixth intensive HOW-TO course in BioSAXS from
-                        10/26/20-10/29/20 with 24 remote participants. There wwere four
-                        days of lectures and hands-on software tutorials on the basics of
-                        BioSAXS data collection and processing from expert practitioners
-                        in the field. Participants could elect to mail in samples for data
-                        collection prior to the course, and roughly half of them sent
-                        research samples and were able to analyze their own data as part
-                        of the workshop.
+                        BioCAT is offering the all-virtual MuscleX 2 workshop
+                        May 20th and 21st. We will have a series introductory
+                        presentations of the scientific missions supported at
+                        BioCAT as well as a series of talks highlight recent
+                        muscle studies using x-ray diffraction and scattering.
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/news/2020_everything_biosaxs6_wrapup.rst
+                        :target: {filename}/news/2021_musclex2.rst
 
         .. row::
 
