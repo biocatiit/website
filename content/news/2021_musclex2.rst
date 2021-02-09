@@ -50,7 +50,7 @@ How to register
     Registration is OPEN
 
 You can register using this link:
-
+`https://www.eventbrite.com/e/musclex-2-at-biocat-tickets-141060591025 <https://www.eventbrite.com/e/musclex-2-at-biocat-tickets-141060591025>`_
 
 Registration deadline: April 30th 2021.
 
