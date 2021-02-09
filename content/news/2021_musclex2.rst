@@ -18,7 +18,7 @@ Register for MuscleX 2: Muscle diffraction and scattering
             of Health (NIH) with its mission to operate state-of-the-art x-ray
             facilities for the study of the structure and dynamics of biological
             systems under non-crystalline conditions similar to their functional
-            states in living tissues. We will have a series introductory
+            states in living tissues. We will have a series of introductory
             presentations of the scientific missions supported at BioCAT as
             well as a series of talks highlighting recent muscle studies using
             x-ray diffraction and scattering.
