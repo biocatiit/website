@@ -20,7 +20,7 @@ Register for MuscleX 2: Muscle diffraction and scattering
             systems under non-crystalline conditions similar to their functional
             states in living tissues. We will have a series introductory
             presentations of the scientific missions supported at BioCAT as
-            well as a series of talks highlight recent muscle studies using
+            well as a series of talks highlighting recent muscle studies using
             x-ray diffraction and scattering.
 
             The workshop will take place from 5/20/21 to 5/21/21 and is

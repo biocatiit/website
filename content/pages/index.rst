@@ -262,7 +262,7 @@ Welcome to BioCAT
                         BioCAT is offering the all-virtual MuscleX 2 workshop
                         May 20th and 21st. We will have a series introductory
                         presentations of the scientific missions supported at
-                        BioCAT as well as a series of talks highlight recent
+                        BioCAT as well as a series of talks highlighting recent
                         muscle studies using x-ray diffraction and scattering.
 
                     .. button:: Learn More
