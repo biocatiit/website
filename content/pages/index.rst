@@ -204,7 +204,7 @@ Welcome to BioCAT
 
         .. thumbnail::
 
-            .. image:: {static}/images/news/2021_eb7_cover.png
+            .. image:: {static}/images/facility_thumbnail.jpg
                 :class: img-rounded
 
             .. caption::
