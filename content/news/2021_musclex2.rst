@@ -15,7 +15,7 @@ Register for MuscleX 2: Muscle diffraction and scattering
 
             BioCAT is offering its second MuscleX workshop. The Biophysics
             Collaborative Access Team (BioCAT) is funded by National Institutes
-            of Health (NIH)  with its mission to operate state-of-the-art x-ray
+            of Health (NIH) with its mission to operate state-of-the-art x-ray
             facilities for the study of the structure and dynamics of biological
             systems under non-crystalline conditions similar to their functional
             states in living tissues. We will have a series introductory
