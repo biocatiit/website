@@ -58,16 +58,20 @@ Below is a gallery of a few of BioCAT's science highlights.
               <div class="col text-center">
               <img class="d-block w-100" src="/images/gallery/2020_nebulin_mutation.png" alt="">
               <div class="carousel-caption3">
-                <h3>Nebulin mutations causing nemaline myopathy in humans change the structure of thin filaments in muscle</h3>
-                <p>Nebulin is a giant protein that winds around the actin filaments in the
-                sarcomeres of skeletal muscle.  Mutations in the nebulin gene (NEB) cause
-                typical nemaline myopathy (NM), a muscle disorder characterized by muscle
-                weakness that are difficult to treat.  The authors of this study
-                created a mouse model that mimics the typical nebulin-based NM patient
-                with compound-heterozygous mutations. X-ray diffraction studies on the
-                BioCAT beamline 18ID provided a structural explanation for the muscle
-                weakness. This new Compound-Het mouse model will be useful for testing
-                experimental therapies for typical NM.</p>
+                <h3>Key Insights into an Inherited Muscle Disease</h3>
+                <p>The gene NEB encodes for the skeletal muscle protein nebulin. Mutations in NEB
+                    cause the disease nemaline myopathy, which is one of the more common inherited
+                    myopathies. Patients with this muscle disorder have muscle weakness in
+                    multiple different parts of their body and can also experience difficulties with feeding
+                    or breathing. Currently, there is no cure for nemaline myopathy and treatment options
+                    are limited. A team of researchers from the University of Arizona and BioCAT
+                    working to provide new insights into the pathogenesis of this
+                    skeletal muscle disorder, report a new mouse model of nemaline myopathy that exhibits
+                    similar symptoms to those identified in human patients. Importantly,
+                    the new mouse model of this disease can be used to test future therapeutics. Future
+                    studies are warranted to determine if interventions can relieve disease symptoms in
+                    these mice. If successful, such therapeutics could be used for improving the quality of
+                    life in human patients.</p>
                 <a href="/science/nebulin-mutation.html" class="btn btn-primary" role="button">Learn More</a>
                 </div>
               </div>
@@ -94,19 +98,15 @@ Below is a gallery of a few of BioCAT's science highlights.
               <div class="col text-center">
               <img class="d-block w-100" src="/images/gallery/2020_prion_like_domains.jpg" alt="">
               <div class="carousel-caption3">
-                <h3>How Prion-like domains Drive Liquid-Liquid Phase Transitions in Cells</h3>
-                <p>Liquid-liquid phase separation (LLPS) provides a way for
-                cells to create membraneless micro-environments (“condensates”)
-                that have been proposed to be involved in diverse cellular
-                processes including stress responses, RNA splicing, mitosis,
-                chromatin organization, and the clustering of receptors at
-                membranes. Proteins driving LLPS often contain intrinsically
-                disordered prion like domains (PLD’s) that appear to be
-                necessary and sufficient to produce LLPS. In a recent paper
-                in the journal Science, researchers used a combination of NMR,
-                multiscale simulations and Size Exclusion Chromatography SAXS
-                experiments at BioCAT to discover sequence features that determine
-                the phase behavior of PLD's.</p>
+                <h3>Uncovering Unique Structural Features in Protein Regions Associated with ALS</h3>
+                <p>Prion-like domains (PLDs) have become a topic of interest because
+                    of their connection with a variety of debilitating brain diseases, such as amyotrophic
+                    lateral sclerosis (ALS) and frontotemporal dementia. In fact, mutations in PLDs of
+                    some genes have been shown to cause neurodegenerative disease. A recent study using
+                    data obtained at BioCAT completed a comprehensive biophysical investigation of
+                    PLDs in the protein hnRNPA1 to uncover the major behavioral and structural
+                    features of these domains. This meaningful work may lead to discoveries
+                    that can help individuals living with such neurodegenerative diseases.</p>
                 <a href="/science/prion-like-domains.html" class="btn btn-primary" role="button">Learn More</a>
                 </div>
               </div>
