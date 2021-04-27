@@ -35,8 +35,20 @@ Please also check the `APS new user checklist
     information on classes of experiments, allocation of time by category, and the proposal
     review process is available `from the APS <https://www.aps.anl.gov/Users-Information/About-Proposals/Apply-for-Time>`_.
 
-    Users with active proposals wishing time in the next run should complete follow
-    the directions for a Returning Proposer on the `APS website <https://www.aps.anl.gov/Users-Information/About-Proposals/Apply-for-Time>`_.
+    If you are apply for beamtime within the current run, or for the next run after
+    the standard GUP proposal deadline has passed, you will need to put in a Rapid
+    Access proposal. To do so, when creating a new proposal select the "General
+    Users" proposal and then select the "Rapid Access General User Proposal
+    (DO NOT USE FOR MC PROPOSALS)" for your General User (GU) Proposal Type.
+    These proposals are good for only one run.
+
+    Users with active proposals wishing time in the next run should submit a
+    beamtime request by following the directions for a Returning Proposer on
+    the `APS website <https://www.aps.anl.gov/Users-Information/About-Proposals/Apply-for-Time>`_.
+
+    For all proposals to BioCAT you must list the BioCAT beamline, "18-ID-D", as one of
+    the three beamlines in the "Choice of Beamline" section in the Beamtime Request.
+    For a Rapid Access proposal, you should list only BioCAT in this section.
 
 #.  `Complete the Experiment Safety Assessment Form (ESAF) <https://beam.aps.anl.gov/pls/apsweb/esaf0001.start_page>`_
 
@@ -49,7 +61,9 @@ Please also check the `APS new user checklist
 
     If your experiment does not involve any of the hazards listed below, submitting the ESAF
     **two weeks** before your scheduled beam time should provide enough time for its review and
-    possible revision. Please visit our Safety & Compliance page for further instructions.
+    possible revision. Please visit our `ESAF tips <{filename}/pages/users_esaf.rst>`_
+    and `safety and compliance <{filename}/pages/users_safety.rst>`_ pages for more
+    information.
 
     Please submit your ESAF far enough in advance to resolve any safety issues so that your experiment
     can proceed.
@@ -105,10 +119,11 @@ Please also check the `APS new user checklist
 
 #.  Establish a "User Account" - BSL2 experiments only
 
-    BioCAT requests that all experimenters submit a purchase order to ANL in care of the
-    APS "User Account Specialist" to provide a mechanism for covering costs that may be
-    incurred at the APS on their behalf. Such costs include: shipping, purchases from the
-    APS stock room, supplies ordered through the Argonne Materials Ordering System (AMOS),
+    BioCAT requests that all experimenters doing BSL2 experiments submit a
+    purchase order to ANL in care of the APS "User Account Specialist" to
+    provide a mechanism for covering costs that may be incurred at the APS on
+    their behalf. Such costs include: shipping, purchases from the APS stock
+    room, supplies ordered through the Argonne Materials Ordering System (AMOS),
     and fabrication of items at an APS/ANL shop.
 
 #.  Complete Training and Orientation
@@ -176,6 +191,13 @@ Please also check the `APS new user checklist
     `the APS <https://beam.aps.anl.gov/pls/apsweb/eef002.start_page>`_ with any comments
     and constructive criticisms so that your next experiment can run more efficiently.
 
+#.  Refine Your Experiment
+
+    Most of our experimenters return for subsequent experiments. Keep in
+    touch with your  `user liaison <{filename}/pages/contact.rst>`_ and
+    follow through on proposed modifications to your experiment. It is very
+    important that ideas for improving your experiment are not lost between visits.
+
 #.  Publish Your Results
 
     When you publish your results, be sure to
@@ -184,9 +206,3 @@ Please also check the `APS new user checklist
     are are the primary measure of scientific output. Properly documented publications insure
     that funds are available to continue operating the facility.
 
-#.  Refine Your Experiment
-
-    Most of our experimenters return for subsequent experiments. Keep in
-    touch with your  `user liaison <{filename}/pages/contact.rst>`_ and
-    follow through on proposed modifications to your experiment. It is very
-    important that ideas for improving your experiment are not lost between visits.

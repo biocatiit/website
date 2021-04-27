@@ -15,9 +15,10 @@ challenging molecules, structural parameters such as the Radius of Gyration (Rg)
 Maximum Dimension (Dmax), Volume and Molecular weight estimates can be determined
 with a high degree of success for a large variety of samples.
 
-There are three equilibrium data acquisition strategies available at BioCAT:
+There are foure equilibrium data acquisition strategies available at BioCAT:
 `SEC-SAXS <{filename}/pages/about_saxs.rst#sec-saxs>`_,
-`SEC-MALS-SAXS <{filename}/pages/about_saxs.rst#sec-mals-saxs>`_, and
+`SEC-MALS-SAXS <{filename}/pages/about_saxs.rst#sec-mals-saxs>`_,
+`IEC-SAXS <{filename}/pages/about_saxs.rst#iec-saxs>`_ and
 `batch mode SAXS <{filename}/pages/about_saxs.rst#batch-saxs>`_.
 
 Below we give some general guidelines for designing your SAXS experiment. If you
@@ -30,14 +31,16 @@ What technique should I use?
 =============================
 
 BioCAT strongly encourages all users to use either SEC-SAXS or SEC-MALS-SAXS.
-There are some rare cases where sample concentration and volume are inadequate
-for SEC-SAXS, in which case you will use batch mode.
+IIf multiple components in solution cannot be separated by size, IEC-SAXS may
+be the appropriate choice. There are also some rare cases where
+sample concentration and volume are inadequate for SEC-SAXS, in which case you
+will use batch mode. Batch mode is also useful if you need to measure a
+large number of buffer conditions, such as in a titration experiment.
 
 SEC-MALS-SAXS allows highly accurate quantification of molecular weight,
 making it generally superior to SEC-SAXS. However, the equilibration times
 for the SEC-MALS system are quite long (at least 6 hours), which limits the
-number of buffer changes. Additionally, the SEC-MALS columns have a limited
-pH range (3-8). Finally, because of the sensitivity of the system,
+number of buffer changes. Because of the sensitivity of the system,
 the requirements on the sample quality are much higher than for SEC-SAXS.
 
 SEC-SAXS is the right choice if . . .
@@ -46,22 +49,31 @@ SEC-SAXS is the right choice if . . .
 *   Your system has a single well defined peak or several well resolved peaks
     (not including large aggregates that show up in the void)
 *   You will need to make several buffer changes during your experiment
-*   You need to use a wide range of pH in your buffers (3-12)
 
 SEC-MALS-SAXS is the right choice if . . .
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 *   You have a complicated elution with several overlapping or poorly resolved
     peaks
+*   You are measuring a complex or oligomer with unknown stoichiometry
 *   You need at most one buffer change
-*   You can use a narrower range of pH in your buffer (3-8)
 *   There is a small amount of elution in the void
+
+IEC-SAXS is the right choice if . . .
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+*   You have multiple components in solution that cannot be well separated by size
+*   You can design an IEC gradient that separates your components
 
 Batch mode SAXS is the right choice if . . .
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 *   You can't meet the concentration and volume requirements for SEC-SAXS
     (see below)
+*   You need a large number (>~5) buffer changes due to the nature of your
+    experiment (e.g. a titration experiment)
+*   Your system does not survive the a column, for example some weakly associating
+    complexes
 
 
 What sample concentration and volume do I need?
@@ -73,8 +85,8 @@ Concentration
 As a rule of thumb, you will get good SAXS data if you prepare a protein concentration
 in mg/ml that is:
 
-* 240/MW in kDa for SEC-SAXS or SEC-MALS-SAXS
-* 60/MW in kDa for batch mode SAXS
+*   240/MW in kDa for SEC-SAXS or SEC-MALS-SAXS
+*   60/MW in kDa for batch mode SAXS
 
 For example, using SEC-SAXS for a 20 kDa protein you would want a
 concentration of ~240/20 = 12 mg/ml whereas for a 150 kDa
@@ -88,7 +100,7 @@ adds a column dilution factor of ~4x for your SEC-SAXS sample preps. If a
 significant amount of your sample elutes in other peaks, further increase your
 concentration to compensate.
 
-Note: In SEC-SAXS, if your sample has concentration dependent aggregation
+Also, for SEC-SAXS, if your sample has concentration dependent aggregation
 that prevents you from achieving the high concentrations needed, you may be
 able to compensate by increasing your load volume.
 
@@ -130,8 +142,7 @@ Note: If you bring your own column, run times will depend on the flow rate and
 volume for that column.
 
 Batch mode samples are much faster, typically only 3-30 s of exposure. Throughput
-is limited by sample loading and cell cleaning. Realistically, expect to do a sample
-every 3-5 minutes.
+is limited by sample loading. Realistically, expect to do a sample every 3-5 minutes.
 
 Equilibration
 ^^^^^^^^^^^^^^
@@ -146,18 +157,32 @@ equilibration requires at least 6 hours, and is ideally done overnight.
 What column should I use?
 ===========================
 
-A list of columns and the corresponding MW ranges is available for both
-`SEC-SAXS <{filename}/pages/about_saxs.rst#sec-saxs>`_ and
-`SEC-MALS-SAXS <{filename}/pages/about_saxs.rst#sec-mals-saxs>`_.
+BioCAT provides a number of columns for users. Typically, users will use one
+of these:
+
+*   Superdex 200 Increase, both 10/300 and 5/150 (MW ~10-600 kDa)
+*   Superdex 75 Increase 10/300, with a non-Increase 5/150 also available (MW ~3-70 kDa)
+*   Superose 6 Increase, 10/300 (MW ~5-5,000 kDa)
+
 Generally speaking, pick the column with the narrowest MW range that can
 accommodate your samples. But remember that the MW range is for globular
 proteins, extended proteins run as if they are higher MW! BioCAT recommends
 running a test separation in your lab, to ensure you can resolve your species.
 The default column at BioCAT for all experiments is the Superdex 200 Increase 10/300.
 
+A full list of columns and the corresponding MW ranges is available for both
+`SEC-SAXS <{filename}/pages/about_saxs.rst#sec-saxs>`_ and
+`SEC-MALS-SAXS <{filename}/pages/about_saxs.rst#sec-mals-saxs>`_.
+
+Users may also provide their own columns if desired. However, due to the dilution
+factor, we recommend that you only use analytical grade columns, not the larger
+prep columns like the Cytive HiPrep or HiLoad columns.
+
 
 How much buffer should I bring?
 =================================
+
+.. _saxs_buffer_volume:
 
 The following are intended as guidelines for users when planning their experiments.
 However, as most buffers do not contain precious components, we recommend bringing
@@ -216,9 +241,14 @@ are using.
 Batch Mode
 ^^^^^^^^^^^
 
-Batch mode experiments require a running buffer with ~ 1 L of volume. If you have
-a number of different buffers for your samples, you nominally need just 200 µl of
-each other buffer per sample (where each different concentration of the same
+Batch mode experiments require a basic running buffer with ~ 1 L of volume.
+For buffers with precious or limited components, a basic running buffer need not
+contain that component. The same is true if you have lots of buffer changes (e.g.
+titration of a ligand or salt concentration).
+
+Besides the basic running buffer, you need additional aliquots of a perfectly
+matched buffer for each sample. You nominally need just 200 µl of
+each matched buffer per sample (where each different concentration of the same
 system counts as a distinct sample). However, we never recommend bringing less
 than ~5 mL of each buffer, just in case. If you are in a situation where this
 is too much, please contact a beamline scientist to discuss how much buffer you need.

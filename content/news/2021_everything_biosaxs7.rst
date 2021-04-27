@@ -57,9 +57,6 @@ How to register
 
     Registration is CLOSED.
 
-Registration for the workshop is full. You can be added to the workshop waitlist
-by contacting Carrie Clark (mclark19@iit.edu).
-
 More information
 ^^^^^^^^^^^^^^^^^
 

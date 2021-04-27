@@ -51,14 +51,13 @@ divergence due to the relatively high demagnification ratios is not generally
 a problem for the systems we are studying). The beamline mirror is used for
 harmonic rejection and vertical focusing but it easily can be withdrawn from
 the beam path when desired. In between the monochromators and the mirror is
-a diamond beam position monitor (Dectris Rigi).
+a diamond beam position monitor (Dectris Rigi) and a set of scatterless
+monochromatic slits that can be used as beam defining slits.
 
 The current vertical focusing mirror is a dynamically bent flat mirror. Typical
 vertical beam profiles when focused for 1.5-3.5 m SAXS camera configurations are
-less than 30 µm FWHM. Downstream of the mirror are horizontal and vertical
-beam-defining slits for the monochromatic beam. These can be set to pass the
-entire beam or define a beam as small as 25 µm x 25 µm. A monochromatic photon
-shutter allows the monochromator optics to stay warm while allowing the user
+less than 30 µm FWHM. A monochromatic photon shutter allows the monochromator
+optics to stay warm while allowing the user
 to enter the experimental enclosure.
 
 .. image:: {static}/images/beamlineoptics.jpg
@@ -66,7 +65,7 @@ to enter the experimental enclosure.
     :align: center
 
 The experimental enclosure is 14 m long x 5 m wide x 3.3 m tall. The first
-2 m are taken up by the vertical collimation slits and the downstream
+2 m are taken up by the scatterless vertical collimation slits and the downstream
 support, which incorporates filter/shutter assemblies, and a in-vacuum
 diamond intensity monitor and beam position monitor (Sydor DBPM)
 for the primary beam (I0) monitor. Before the vertical collimation slits
@@ -75,7 +74,9 @@ vacuum (10\ :sup:`-7` – 10\ :sup:`-8` torr); thereafter, all components are in
 (10\ :sup:`-3` – 10\ :sup:`-4` torr). The downstream support moves all these components under
 computer control to follow the beam as reflected off of the mirror. Downstream
 of this table is 6.4 x 1.5 m vibration-isolation table that is used for most
-small-angle diffraction and scattering experiments.
+small-angle diffraction and scattering experiments. Two more sets of scatterless
+slits are mounted on this table, the upstream one is used as anti-scatter
+slits and the downstream (just upstream of the sample) as guard slits.
 
 The beamline control software is based on the `Experimental Physics and
 Industrial Control System (EPICS) <https://www.aps.anl.gov/epics>`_ which
@@ -107,7 +108,7 @@ provide up to 8 controllable pulse outputs for controlling shutters, detectors,
 and other equipment.
 
 External equipment (area detectors, shutters) can be interfaced to the control
-system using a digital I/O board (Acromag-9440) with 16 input and 16 output channels.
+system using a digital I/O board (two LabJack T4s) with 16 input and 16 output channels.
 There are 8 current amplifiers (Keithley, model 42) which are interfaced through
 the RS232 ports on the beamline workstations. We have designed soft EPICS
 IOCs for these devices so that they can be accessed from other computers

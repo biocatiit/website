@@ -100,32 +100,33 @@ Welcome to BioCAT
 
         .. thumbnail::
 
-            .. image:: {static}/images/scihi/2020_tarantula_IHM.png
+            .. image:: {static}/images/scihi/2021_pertactin_conformations.png
                 :class: img-rounded
                 :align: center
-                :height: 400 px
 
             .. caption::
 
-                :h3:`Tarantula myosin interacting-heads motif explains tetanic and post-tetanic phosphorylation mechanisms`
+                :h3:`What Bacterial Pathogens Can Teach Us about Protein Folding`
 
-                Striated muscle contraction involves sliding of actin thin filaments along
-                myosin thick filaments, controlled by calcium through thin filament
-                activation. In relaxed muscle, the two heads of myosin interact with each
-                other on the filament surface to form the interacting-heads motif (IHM).
-                A key question is how both heads are released from the surface to approach
-                actin and produce force. We used time-resolved synchrotron X-ray diffraction
-                to study tarantula muscle before and after tetani. The patterns showed that
-                the IHM is present in live relaxed muscle. Tetanic contraction produced
-                only a very small backbone elongation, implying that mechanosensing -
-                proposed in vertebrate muscle - is not of primary importance in tarantula.
-                Rather, thick filament activation results from increases in myosin
-                phosphorylation that release a fraction of heads to produce force, with
-                the remainder staying in the ordered IHM configuration.
+                Protein folding is one of the fascinating unanswered questions in biology.
+                How does an amino acid sequence that is unfolded when it leaves the
+                ribosome manage to fold properly into a highly ordered, lightning-fast
+                enzyme or sturdy structural protein? Why don’t all the proteins in the cell
+                instead just stick to each other, aggregating into a big mess? A unique
+                model system in bacteria may hold some of the answers to these questions.
+                The system involves the study of what are termed autotransporter proteins.
+                These proteins have a highly specialized protein folding process
+                that  attracted the attention of a team of researchers who have
+                used this bacterial system as a model to determine what allows these
+                unique proteins to maintain their disordered state in the periplasm. The
+                work includes studies carried out at BioCAT. The authors believe their
+                work will provide important information toward understanding
+                basic questions of protein folding and tests long-held theories
+                about how this remarkable biological process works.
 
             .. button:: Learn More
                 :class: primary block
-                :target: {filename}/scihi/2020_tarantula_myosin_IHM.rst
+                :target: {filename}/scihi/2021_pertactin_mutant_folding.rst
         .. row::
 
             .. -------------------------------------------------------------------------
@@ -134,31 +135,30 @@ Welcome to BioCAT
 
                 .. thumbnail::
 
-                    .. image:: {static}/images/scihi/2020_nebulin_mutation.png
+                    .. image:: {static}/images/scihi/2021_myosin_relaxation.png
                         :class: img-rounded
                         :align: center
 
                     .. caption::
 
-                        :h4:`Key Insights into an Inherited Muscle Disease`
+                        :h4:`Relaxation at the Molecular Level`
 
-                        The gene NEB encodes for the skeletal muscle protein nebulin. Mutations in NEB
-                        cause the disease nemaline myopathy, which is one of the more common inherited
-                        myopathies. Patients with this muscle disorder have muscle weakness in
-                        multiple different parts of their body and can also experience difficulties with feeding
-                        or breathing. Currently, there is no cure for nemaline myopathy and treatment options
-                        are limited. A team of researchers from the University of Arizona and BioCAT
-                        working to provide new insights into the pathogenesis of this
-                        skeletal muscle disorder, report a new mouse model of nemaline myopathy that exhibits
-                        similar symptoms to those identified in human patients. Importantly,
-                        the new mouse model of this disease can be used to test future therapeutics. Future
-                        studies are warranted to determine if interventions can relieve disease symptoms in
-                        these mice. If successful, such therapeutics could be used for improving the quality of
-                        life in human patients.
+                        The molecular interactions between the proteins myosin and actin that
+                        generate force during muscle contraction are some of the most well-studied
+                        molecular interactions in biology. However, there are some congenital
+                        skeletal muscle disorders and types of heart failure where relaxation of
+                        the muscle, rather than the force generation part of the cycle, appears
+                        to be the problem, and there are currently no available treatments that
+                        affect relaxation specifically. Recent work conducted at BioCAT used a unique
+                        transgenic mouse model, time-resolved small-angle x-ray diffraction, and
+                        molecular dynamics simulations to discover more about how myosin and actin
+                        interact during skeletal muscle relaxation. This research may help
+                        identify new treatments for neuromuscular disorders associated with impaired
+                        muscle relaxation kinetics.
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/scihi/2020_nebulin_mutations.rst
+                        :target: {filename}/scihi/2021_myosin_relaxation.rst
 
 
 
@@ -168,25 +168,31 @@ Welcome to BioCAT
 
                 .. thumbnail::
 
-                    .. image:: {static}/images/scihi/2020_prion_like_domains.jpg
+                    .. image:: {static}/images/scihi/2020_tarantula_IHM.png
                         :class: img-rounded
+                        :align: center
 
                     .. caption::
 
-                        :h4:`Uncovering Unique Structural Features in Protein Regions Associated with ALS`
+                        :h4:`Tarantula myosin interacting-heads motif explains tetanic and post-tetanic phosphorylation mechanisms`
 
-                        Prion-like domains (PLDs) have become a topic of interest because
-                        of their connection with a variety of debilitating brain diseases, such as amyotrophic
-                        lateral sclerosis (ALS) and frontotemporal dementia. In fact, mutations in PLDs of
-                        some genes have been shown to cause neurodegenerative disease. A recent study using
-                        data obtained at BioCAT completed a comprehensive biophysical investigation of
-                        PLDs in the protein hnRNPA1 to uncover the major behavioral and structural
-                        features of these domains. This meaningful work may lead to discoveries
-                        that can help individuals living with such neurodegenerative diseases.
+                        Striated muscle contraction involves sliding of actin thin filaments along
+                        myosin thick filaments, controlled by calcium through thin filament
+                        activation. In relaxed muscle, the two heads of myosin interact with each
+                        other on the filament surface to form the interacting-heads motif (IHM).
+                        A key question is how both heads are released from the surface to approach
+                        actin and produce force. We used time-resolved synchrotron X-ray diffraction
+                        to study tarantula muscle before and after tetani. The patterns showed that
+                        the IHM is present in live relaxed muscle. Tetanic contraction produced
+                        only a very small backbone elongation, implying that mechanosensing -
+                        proposed in vertebrate muscle - is not of primary importance in tarantula.
+                        Rather, thick filament activation results from increases in myosin
+                        phosphorylation that release a fraction of heads to produce force, with
+                        the remainder staying in the ordered IHM configuration.
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/scihi/2020_prion_like_domains.rst
+                        :target: {filename}/scihi/2020_tarantula_myosin_IHM.rst
 
         .. row::
 

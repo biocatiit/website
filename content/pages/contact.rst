@@ -253,6 +253,38 @@ Staff
 
         .. thumbnail::
 
+            .. image:: {static}/images/staff/lavender.jpg
+                :class: img-rounded
+
+            .. caption::
+
+                :h3:`Dr. Bill Lavender`
+                Software Engineer
+
+            .. row::
+
+                .. column::
+                    :width: 6
+
+                    .. button:: Email
+                        :class: primary block
+                        :target: mailto:wlavende@iit.edu
+
+                .. column::
+                    :width: 6
+
+                    .. button:: More
+                        :class: info block
+                        :target: /extra/business_cards/lavender.html
+
+.. row::
+
+    .. -------------------------------------------------------------------------
+    .. column::
+        :width: 4
+
+        .. thumbnail::
+
             .. image:: {static}/images/staff/ma.jpg
                 :class: img-rounded
 
@@ -276,39 +308,6 @@ Staff
                     .. button:: More
                         :class: info block
                         :target: /extra/business_cards/ma.html
-
-.. row::
-
-    .. -------------------------------------------------------------------------
-    .. column::
-        :width: 4
-
-        .. thumbnail::
-
-            .. image:: {static}/images/staff/orgel.jpg
-                :class: img-rounded
-
-            .. caption::
-
-                :h3:`Prof. Joseph Orgel`
-                Associate Director, Fiber
-
-
-            .. row::
-
-                .. column::
-                    :width: 6
-
-                    .. button:: Email
-                        :class: primary block
-                        :target: mailto:orgel@iit.edu
-
-                .. column::
-                    :width: 6
-
-                    .. button:: More
-                        :class: info block
-                        :target: /extra/business_cards/orgel.html
 
     .. -------------------------------------------------------------------------
     .. column::

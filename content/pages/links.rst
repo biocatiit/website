@@ -51,7 +51,7 @@ Useful Links
         *   `ATSAS <https://www.embl-hamburg.de/biosaxs/software.html>`_
         *   `CCP-SAS <http://www.ccpsas.org/>`_
         *   `SAXS on IDPs <http://sosnick.uchicago.edu/SAXSonIDPs>`_
-        *   `ScÅtter <http://www.bioisis.net/tutorial/9>`_
+        *   `ScÅtter <https://www.bioisis.net/tutorials/9>`_
 
 .. row::
 
@@ -71,7 +71,7 @@ Useful Links
         :h3:`National Institutes of Health`
 
         *   `National Institute of General Biomedical Sciences (NIGMS) <https://www.nigms.nih.gov/>`_
-        *   `Biomedical Technology Resources (BTRs) <http://www.btrportal.org>`_
+        *   `Biomedical Technology Development and Dissemination Centers (BTDD) <https://www.nigms.nih.gov/about/overview/BBCB/biomedicaltechnology/Pages/btdd.aspx>`_
 
         :h3:`Illinois Insitute of Technology`
 

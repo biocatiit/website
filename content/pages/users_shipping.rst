@@ -54,27 +54,41 @@ To BioCAT
 Please plan the arrival of your samples/ materials needed for your experiment
 at BioCAT carefully. You should send your samples such that they arrive a day or
 two before the start day of your experiment - **on a business week day!**
-If your samples are due to arrive at BioCAT on a weekend day - it is difficult
-and sometimes not possible to receive the packages at BioCAT due to the
-reduction of staff and lack of deliveries at Argonne on the weekend.
+It is difficult and sometimes impossible to receive packages at BioCAT on a
+weekend or holiday, so samples may sit at room temperature for several days
+if they arrive on a weekend or holiday.
 
-If you would like to ship materials to BioCAT, our shipping address is:
+If you would like to ship materials to BioCAT, you should ship to:
 
+    | <Scientific Contact's Name>
     | BioCAT - Argonne National Laboratory
     | APS/ Sector 18/ 435B
     | 9700 S. Cass Avenue
     | Argonne, IL 60439-4860
 
 To prepare your package, please note that if you send a styrofoam container, it
-needs to have an outer cardboard box, that contains the following information:
+needs to have an outer cardboard box. All shipping boxes should be labeled with
+the following on the outside of the box:
 
-   1. It should have a label that says 'PERISHABLE` if it contains perishable goods.
-   2. You should write storage instructions on the outside of the package - ie. Room 
-      Temperature, 4C(refrigerate), -20C, or -80C.
-   3. Your package should contain your Scientific Contact's name, as well as, 
-      Rich Heurich's name and extension(2-0543).
-   
-The preferred method of shipping at Argonne is FedEx Priority Overnight.
+1.  It should have a label that says 'PERISHABLE` if it contains perishable goods.
+2.  You should write storage instructions on the outside of the package: Room
+    temperature, 4 C (refrigerate), -20 C, or -80 C.
+3.  To the attention of: your Scientific Contact's name and Richard Heurich
+4.  A local contact number: 2-0543
+
+Inside the box, include: a list of every sample, buffer, or other item
+that is in the box, so we can verify that we found it all; storage instructions
+for every sample and buffer; and your contact information (including a phone
+number we can reach you at if we have questions about the shipped items).
+
+The preferred method of shipping at Argonne is **FedEx Priority Overnight**. If you
+want your samples to arrive promptly (the morning after shipping), you must
+use this method. Otherwise they may arrive in the afternoon, or even later.
+
+Please send the tracking information to your scientific contact once you ship
+your package.
+
+
 
 From BioCAT
 ============

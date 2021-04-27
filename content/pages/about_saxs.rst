@@ -27,15 +27,17 @@ Equilibrium SAXS
 
 The BioCAT standard experimental set-up includes a Pilatus3 X 1M detector from
 Dectris and a camera of ~3.7 m sample-to-detector distance at 12 keV to
-access a range of momentum transfer, q, from ~0.004 to 0.36 Å\ :sup:`-1`. This range
+access a range of momentum transfer, q, from ~0.0045 to 0.36 Å\ :sup:`-1`. This range
 of q allows not only accurate determination of radius of gyration, but also
 detailed modeling using ab initio and rigid body approaches. A temperature controlled
 quartz capillary (1.0 mm ID) flow cell with `coflow sample geometry <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5137223/>`_
 is used for batch mode SAXS, SEC-SAXS and SEC-MALS-SAXS sample measurement. The coflow
 setup minimizes radiation damage on the sample, ensuring optimum signal to noise
-and baseline stability for consistently high quality data.
+and baseline stability for consistently high quality data. Temperature control
+for the entire system (both the SEC and SAXS instruments) is available from
+10 to 55 C upon request.
 
-The BioCAT beamline provides the following three modes of equilibrium SAXS.
+The BioCAT beamline provides the following four modes of equilibrium SAXS.
 
 SEC-SAXS
 ^^^^^^^^^
@@ -83,6 +85,29 @@ The beamline also has the following columns available for users:
 *   Wyatt 010S5 100Å (MW range 0.1-100 kDa)
 *   Wyatt 015S5 150Å (MW range 0.5-150 kDa)
 *   Wyatt 030S5 300Å (MW range 5-1,250 kDa)
+
+IEC-SAXS
+^^^^^^^^^
+
+.. _ iec-saxs:
+
+Ion exchange chromatography (IEC) allows separation of particles by charge
+rather than size, making it useful in cases where SEC cannot resolve between
+different components in solution. BioCAT offers IEC in-line with SAXS (IEC-SAXS)
+for samples that are not separable by SEC-SAXS. Because IEC requires a changing
+buffer during elution (typically a slope or step gradient in salt or pH), data
+analysis is more involved than for SEC-SAXS, but analysis algorithms are now
+widely available, making this a routine technique at the beamline. These
+experiments are more involved, and often require some work to optimize an
+appropriate gradient, so it is important to discuss your potential IEC-SAXS
+experiments with beamline personnel before requesting beamtime.
+
+The AKTA Pure used for SEC-SAXS is also capable of IEC-SAXS using the two
+pumps to create the necessary gradient for elution. BioCAT also has the
+following columns available for users:
+
+*   HiTrap Q HP anion exchange, 1 mL and 5 mL
+*   HiTrap SP HP cation exchange, 1 mL and 5 mL
 
 Batch Mode
 ^^^^^^^^^^^^^^^

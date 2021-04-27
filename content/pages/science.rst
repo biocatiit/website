@@ -38,6 +38,53 @@ Below is a gallery of a few of BioCAT's science highlights.
 
           <div class="item active">
               <div class="col text-center">
+              <img class="d-block w-100" src="/images/gallery/2021_pertactin_conformations.png" alt="">
+              <div class="carousel-caption3">
+                <h3>What Bacterial Pathogens Can Teach Us about Protein Folding</h3>
+                <p>Protein folding is one of the fascinating unanswered questions in biology.
+                    How does an amino acid sequence that is unfolded when it leaves the
+                    ribosome manage to fold properly into a highly ordered, lightning-fast
+                    enzyme or sturdy structural protein? Why don’t all the proteins in the cell
+                    instead just stick to each other, aggregating into a big mess? A unique
+                    model system in bacteria may hold some of the answers to these questions.
+                    The system involves the study of what are termed autotransporter proteins.
+                    These proteins have a highly specialized protein folding process
+                    that  attracted the attention of a team of researchers who have
+                    used this bacterial system as a model to determine what allows these
+                    unique proteins to maintain their disordered state in the periplasm. The
+                    work includes studies carried out at BioCAT. The authors believe their
+                    work will provide important information toward understanding
+                    basic questions of protein folding and tests long-held theories
+                    about how this remarkable biological process works.</p>
+                <a href="/science/pertactin-folding-mutant.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
+              </div>
+            </div>
+
+          <div class="item">
+              <div class="col text-center">
+              <img class="d-block w-100" src="/images/gallery/2021_myosin_relaxation.png" alt="">
+              <div class="carousel-caption3">
+                <h3>Relaxation at the Molecular Level</h3>
+                <p>The molecular interactions between the proteins myosin and actin that
+                    generate force during muscle contraction are some of the most well-studied
+                    molecular interactions in biology. However, there are some congenital
+                    skeletal muscle disorders and types of heart failure where relaxation of
+                    the muscle, rather than the force generation part of the cycle, appears
+                    to be the problem, and there are currently no available treatments that
+                    affect relaxation specifically. Recent work conducted at BioCAT used a unique
+                    transgenic mouse model, time-resolved small-angle x-ray diffraction, and
+                    molecular dynamics simulations to discover more about how myosin and actin
+                    interact during skeletal muscle relaxation. This research may help
+                    identify new treatments for neuromuscular disorders associated with impaired
+                    muscle relaxation kinetics.</p>
+                <a href="/science/myosin-relaxation.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
+              </div>
+            </div>
+
+          <div class="item">
+              <div class="col text-center">
               <img class="d-block w-100" src="/images/gallery/2020_tarantula_IHM.png" alt="">
               <div class="carousel-caption3">
                 <h3>Tarantula myosin interacting-heads motif explains tetanic and post-tetanic phosphorylation mechanisms</h3>

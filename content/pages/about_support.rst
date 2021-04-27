@@ -8,9 +8,9 @@ Other Support Facilities
 The BioCAT facility has a ~550 square foot wet laboratory with sinks, hoods,
 analytical and platform balances, water de-ionizer, chromatography refrigerator,
 -20 and -80°C freezers, micro-centrifuge, high-speed centrifuge, Nanodrop,
-platform rocker, an EON plate reader and an AKTA FPLC. It is possible to
-do a complete on-site purification of proteins from cell-pellets. We have s
-everal Zeiss stereomicroscopes and a Nikon inverted microscope with
+platform rocker, an EON plate reader and an Bio-Rad NGC FPLC. It is possible to
+do a complete on-site purification of proteins from cell-pellets. We have
+several Zeiss stereomicroscopes and a Nikon inverted microscope with
 epi-flourescence capability. The BioCAT instrumentation lab is also ~550
 square feet and contains electronic testing equipment, fabrication and
 testing areas and a large granite table for assembling optics. We have
@@ -73,7 +73,8 @@ Available instrumentation:
         :width: 6
 
         *   4°C, -20°C, -80°C short-term storage
-        *   Nanodrop
+        *   Nanodrop One C UV-Vis spectrophotometer (microvolume and cuvette measurements)
+        *   Nanodrop Lite UV-Vis spectrophotometer (microvolume only)
         *   Eppendorf P2, P20, P200, P1000 micropipettes
         *   Eppendorf 5415R Microfuge
         *   Eppendorf 5415C Microfuge
@@ -91,7 +92,8 @@ Available instrumentation:
         *   Millipore Synergy UV-R water purification system
         *   Stemi 2000 and SV6 stereo microscopes
         *   Nikon Diaphot brightfield/phase/epifluorescence inverted microscope
-        *   AKTA FPLC, fractionator, and columns (separate from SEC-SAXS)
+        *   Bio-Rad NGC Quest 10 Plus FPLC, fraction collector and columns at
+            4 C (separate from SEC-SAXS)
         *   Branson sonifier 450
         *   Sonicator bath
         *   BioTek Eon Plate Reader/microspectrophotometer
