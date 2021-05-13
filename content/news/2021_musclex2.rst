@@ -108,7 +108,8 @@ Note: All times are Central Daylight Time (UTC-5)
                 tarantula skeletal muscle                                                   Raúl Padrón
     01:40 pm    Changes in myosin structure with 2-deoxy ATP a potential small molecule
                 therapeutic for heart failure                                               Mike Regnier
-    02:20 pm    End of day 1
+    02:20 pm    Breakout Sessions for Discussion
+    03:00 pm    End of day 1
     =========== =========================================================================== ===========================================
 
 
@@ -124,5 +125,6 @@ Note: All times are Central Daylight Time (UTC-5)
     11:30 am    Temperature effects on thick filament structure                             Massimo Reconditi
     12:10 pm    Myosin-based regulation of twitch and tetanic contractions in mammalian
                 skeletal muscle                                                             Cameron Hill
-    12:30 pm    End
+    12:30 pm    Breakout Sessions for Discussion
+    01:10 pm    End
     =========== =========================================================================== ===========================================
