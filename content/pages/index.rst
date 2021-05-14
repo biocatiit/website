@@ -174,21 +174,22 @@ Welcome to BioCAT
 
                     .. caption::
 
-                        :h4:`Tarantula myosin interacting-heads motif explains tetanic and post-tetanic phosphorylation mechanisms`
+                        :h4:`Understanding the Physiology of the Human Heart through the Study of Tarantula Muscles`
 
-                        Striated muscle contraction involves sliding of actin thin filaments along
-                        myosin thick filaments, controlled by calcium through thin filament
-                        activation. In relaxed muscle, the two heads of myosin interact with each
-                        other on the filament surface to form the interacting-heads motif (IHM).
-                        A key question is how both heads are released from the surface to approach
-                        actin and produce force. We used time-resolved synchrotron X-ray diffraction
-                        to study tarantula muscle before and after tetani. The patterns showed that
-                        the IHM is present in live relaxed muscle. Tetanic contraction produced
-                        only a very small backbone elongation, implying that mechanosensing -
-                        proposed in vertebrate muscle - is not of primary importance in tarantula.
-                        Rather, thick filament activation results from increases in myosin
-                        phosphorylation that release a fraction of heads to produce force, with
-                        the remainder staying in the ordered IHM configuration.
+                        A research team has found an unlikely source of inspiration
+                        for understanding how the human heart works and how we might design better
+                        drugs for conditions like hypertrophic cardiomyopathy: tarantulas. The
+                        source of nightmares for arachnophobes and the household pets for
+                        arachnophiles are inspiring researchers to take new approaches to
+                        understanding diseases that alter how heart muscle cells contract and relax.
+                        But, before getting to the human heart, there is more to learn about the
+                        physiology of tarantula muscles. The researchers set out to understand how
+                        contractions in tarantula muscle cells are activated and why are muscle
+                        twitches that follow a sustained muscle contraction (post-tetanic) more
+                        forceful than those that don’t (pre-tetanic). Their results provide
+                        evidence that phosphorylation, the chemical addition of a phosphoryl
+                        group (PO3-) to an organic molecule, plays a key role in muscle activation
+                        and post-tetanic potentiation (PTP) in tarantula muscles.
 
                     .. button:: Learn More
                         :class: primary block
