@@ -34,16 +34,21 @@ Projects
 
 Education & Experience
 ------------------------
-*   B.A. Physics and Mathematics, Oberlin College, 2009
+
+*   Deputy Director, BioCAT, Illinois Institute of Technology/Advanced Photon
+    Source, 2021-present
+
+*   Beamline Scientist, BioCAT, Illinois Institute of Technology/Advanced
+    Photon Source, 2018-2021
+
+*   Postdoctoral Researcher, MacCHESS, Cornell High Energy Synchrotron Source,
+    2016-2018
+
 *   Ph.D. Physics, Cornell University, 2016
 
     *   Advisor: Robert Thorne
 
-*   Postdoctoral Researcher, MacCHESS, Cornell High Energy Synchrotron Source,
-    2016-2018.
-
-*   Beamline Scientist, BioCAT, Illinois Institute of Technology/Advanced
-    Photon Source, 2018-present
+*   B.A. Physics and Mathematics, Oberlin College, 2009
 
 
 Publications

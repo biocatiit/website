@@ -105,7 +105,7 @@ Staff
             .. caption::
 
                 :h3:`Dr. Srinivas Chakravarthy`
-                Deputy Director, SAXS
+                Beamline Scientist, SAXS
 
 
             .. row::
@@ -199,7 +199,7 @@ Staff
             .. caption::
 
                 :h3:`Dr. Jesse Hopkins`
-                Beamline Scientist, SAXS
+                Deputy Director
 
             .. row::
 
