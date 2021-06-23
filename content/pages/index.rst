@@ -260,22 +260,22 @@ Welcome to BioCAT
 
                 .. thumbnail::
 
-                    .. image:: {static}/images/news/2021_muslex2_cover.jpg
+                    .. image:: {static}/images/news/2021_musclex2_group.png
                         :class: img-rounded
 
                     .. caption::
 
-                        :h4:`MuscleX 2: Muscle diffraction and scattering workshop announced`
+                        :h4:`MuscleX 2 workshop wrapup`
 
-                        BioCAT is offering the all-virtual MuscleX 2 workshop
-                        May 20th and 21st. We will have a series of introductory
-                        presentations of the scientific missions supported at
-                        BioCAT as well as a series of talks highlighting recent
-                        muscle studies using x-ray diffraction and scattering.
+                        BioCAT held its second MuscleX workshop May 20-May 21. This took
+                        the form of a two-day virtual symposium with 200 registrants and
+                        149 attendees. The goal was to explore and celebrate the current
+                        state of muscle research using synchrotron radiation with 11
+                        speakers from all over the world.
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/news/2021_musclex2.rst
+                        :target: {filename}/news/2021_musclex_2_wrapup.rst
 
         .. row::
 
