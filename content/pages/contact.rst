@@ -44,7 +44,6 @@ Contact BioCAT
 
         SAXS:
 
-        *   Srinivas Chakravarthy
         *   Jesse Hopkins
 
         Beamline:

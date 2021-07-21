@@ -260,22 +260,23 @@ Welcome to BioCAT
 
                 .. thumbnail::
 
-                    .. image:: {static}/images/news/2021_musclex2_group.png
+                    .. image:: {static}/images/facility_thumbnail.jpg
                         :class: img-rounded
 
                     .. caption::
 
-                        :h4:`MuscleX 2 workshop wrapup`
+                        :h4:`Positions open at BioCAT`
 
-                        BioCAT held its second MuscleX workshop May 20-May 21. This took
-                        the form of a two-day virtual symposium with 200 registrants and
-                        149 attendees. The goal was to explore and celebrate the current
-                        state of muscle research using synchrotron radiation with 11
-                        speakers from all over the world.
+                        BioCAT is seeking a Ph.D. level scientist to lead the solution small angle X-ray
+                        scattering (SAXS) user program. This beamline scientist will have primary
+                        responsibility for supporting SAXS users at the beamline, and maintaining the
+                        state-of-the-art sample preparation and sample delivery and characterization
+                        equipment. They will also collaborate scientifically with users and other
+                        beamline staff.
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/news/2021_musclex_2_wrapup.rst
+                        :target: {filename}/news/2021_positions_open.rst
 
         .. row::
 
