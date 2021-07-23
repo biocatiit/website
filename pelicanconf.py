@@ -94,7 +94,8 @@ ARTICLE_URL = '{category}/{slug}.html'
 ARTICLE_SAVE_AS = '{category}/{slug}.html'
 ARCHIVES_SAVE_AS = ''
 
-GOOGLE_ANALYTICS = 'UA-104830878-3'
+
+GOOGLE_ANALYTICS_CODE = 'UA-104830878-3'
 
 GITHUB_URL = 'http://github.com/biocatiit/website'
 
