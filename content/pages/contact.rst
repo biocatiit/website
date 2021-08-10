@@ -98,37 +98,6 @@ Staff
 
         .. thumbnail::
 
-            .. image:: {static}/images/staff/chakravarthy.jpg
-                :class: img-rounded
-
-            .. caption::
-
-                :h3:`Dr. Srinivas Chakravarthy`
-                Beamline Scientist, SAXS
-
-
-            .. row::
-
-                .. column::
-                    :width: 6
-
-                    .. button:: Email
-                        :class: primary block
-                        :target: mailto:schakrav@bio.aps.anl.gov
-
-                .. column::
-                    :width: 6
-
-                    .. button:: More
-                        :class: info block
-                        :target: /extra/business_cards/chakravarthy.html
-
-    .. -------------------------------------------------------------------------
-    .. column::
-        :width: 4
-
-        .. thumbnail::
-
             .. image:: {static}/images/staff/clark.jpg
                 :class: img-rounded
 
@@ -184,8 +153,6 @@ Staff
                         :class: info block
                         :target: /extra/business_cards/heurich.html
 
-.. row::
-
     .. -------------------------------------------------------------------------
     .. column::
         :width: 4
@@ -215,6 +182,8 @@ Staff
                     .. button:: More
                         :class: info block
                         :target: {filename}/pages/staff/hopkins/hopkins.rst
+
+.. row::
 
     .. -------------------------------------------------------------------------
     .. column::
@@ -276,8 +245,6 @@ Staff
                         :class: info block
                         :target: /extra/business_cards/lavender.html
 
-.. row::
-
     .. -------------------------------------------------------------------------
     .. column::
         :width: 4
@@ -307,6 +274,8 @@ Staff
                     .. button:: More
                         :class: info block
                         :target: /extra/business_cards/ma.html
+
+.. row::
 
     .. -------------------------------------------------------------------------
     .. column::
