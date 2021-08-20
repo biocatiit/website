@@ -56,7 +56,7 @@ cross contamination and reproducibility issues:
 
 *   Superdex 200 Increase, both 10/300 and 5/150 (MW ~10-600 kDa)
 *   Superdex 75 Increase 10/300, with a non-Increase 5/150 also available (MW ~3-70 kDa)
-*   Superose 6 Increase, 10/300 (MW ~5-5,000 kDa)
+*   Superose 6 Increase, 10/300, with a non-Increase 5/150 also available (MW ~5-5,000 kDa)
 
 SEC-MALS-SAXS
 ^^^^^^^^^^^^^^
@@ -82,6 +82,8 @@ BioCAT provides two Agilent Infinity II HPLCs each with a Wyatt DAWN HELEOS II M
 The beamline also has the following columns available for users:
 
 *   Superdex 200 Increase 10/300 (MW ~10-600 kDa)
+*   Superdex 75 Increase 10/300 (MW ~3-70 kDa)
+*   Superose 6 Increase 10/300 (MW ~5-5,000 kDa)
 *   Wyatt 010S5 100Å (MW range 0.1-100 kDa)
 *   Wyatt 015S5 150Å (MW range 0.5-150 kDa)
 *   Wyatt 030S5 300Å (MW range 5-1,250 kDa)
