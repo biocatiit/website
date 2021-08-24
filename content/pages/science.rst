@@ -11,8 +11,8 @@ shows that the facility and its users had published more than 500 articles, whic
 been cited more than 20000 times with an average number of citations per article
 around 40.
 
-`The a list of all BioCAT publications can be found in the APS database
-<https://beam.aps.anl.gov/pls/apsweb/pub_v2_0006.review_start_page>`_
+`A list of all BioCAT publications can be found in the APS database
+<https://beam.aps.anl.gov/pls/apsweb/pub_V2_0006.query_results?i_beamline=134&I_DISCIPLINE_M=9999&i_order_by_radio=YEAR>`_
 
 When you publish your science from BioCAT, please follow
 `the guidelines <{filename}/pages/users_publications.rst>`_.
