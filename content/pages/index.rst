@@ -6,9 +6,10 @@ Welcome to BioCAT
 
 .. alert:: BioCAT is able to run most experiments at this time. COVID-19 related
     projects will still be given priority on the beamline. Additionally, due to
-    an Argonne-wide policy, no users are allowed on site so all experiments are
-    done in a mail-in fashion in collaboration with a beamline scientist. If
-    you are interested in beam time please contact us.
+    an Argonne-wide policy, users are allowed on site on with special permission
+    from the APS, so most experiments are done in a mail-in fashion in
+    collaboration with a beamline scientist. If you are interested in beam
+    time please contact us.
     :type: warning
 
 
@@ -260,23 +261,22 @@ Welcome to BioCAT
 
                 .. thumbnail::
 
-                    .. image:: {static}/images/facility_thumbnail.jpg
+                    .. image:: {static}/images/news/2021_musclex2_group.png
                         :class: img-rounded
 
                     .. caption::
 
-                        :h4:`Positions open at BioCAT`
+                        :h4:`MuscleX 2 workshop wrapup`
 
-                        BioCAT is seeking a Ph.D. level scientist to lead the solution small angle X-ray
-                        scattering (SAXS) user program. This beamline scientist will have primary
-                        responsibility for supporting SAXS users at the beamline, and maintaining the
-                        state-of-the-art sample preparation and sample delivery and characterization
-                        equipment. They will also collaborate scientifically with users and other
-                        beamline staff.
+                        BioCAT held its second MuscleX workshop May 20-May 21. This took
+                        the form of a two-day virtual symposium with 200 registrants and
+                        149 attendees. The goal was to explore and celebrate the current
+                        state of muscle research using synchrotron radiation with 11
+                        speakers from all over the world.
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/news/2021_positions_open.rst
+                        :target: {filename}/news/2021_musclex_2_wrapup.rst
 
         .. row::
 
