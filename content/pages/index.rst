@@ -213,26 +213,51 @@ Welcome to BioCAT
 
         .. thumbnail::
 
-            .. image:: {static}/images/facility_thumbnail.jpg
+            .. image:: {static}/images/news/2021_eiger2_muscle_small.jpg
                 :class: img-rounded
 
             .. caption::
 
-                :h3:`BioCAT awarded new 5 year $8.6 million P30 grant`
+                :h3:`BioCAT commissions new EIGER2 XE 9M detector`
 
-                A team of researchers led by Prof. Thomas Irving (Illinois
-                Institute of Technology) has received a $8.6 million grant
-                from the National Institutes of Health to continue to operate
-                the Biophysics Collaborative Access Team (BioCAT) facility
-                at the Advanced Photon Source, Argonne National Laboratory
-                for the next 5 years.
+                BioCAT has received and commissioned our new Dectris EIGER2
+                XE 9M x-ray detector. This state-of-the-art detector will provide
+                significant enhancements for both the muscle diffraction and SAXS
+                programs at BioCAT and has already been used in multiple
+                experiments since we commissioned it less than a month ago.
 
             .. button:: Learn More
                 :class: primary block
-                :target: {filename}/news/2021_p30_announcement.rst
+                :target: {filename}/news/2021_eiger2_commissioned.rst
 
 
         .. row::
+
+            .. -------------------------------------------------------------------------
+            .. column::
+                :width: 6
+
+                .. thumbnail::
+
+                    .. image:: {static}/images/facility_thumbnail.jpg
+                        :class: img-rounded
+
+                    .. caption::
+
+                        :h4:`BioCAT awarded new 5 year $8.6 million P30 grant`
+
+                        A team of researchers led by Prof. Thomas Irving (Illinois
+                        Institute of Technology) has received a $8.6 million grant
+                        from the National Institutes of Health to continue to operate
+                        the Biophysics Collaborative Access Team (BioCAT) facility
+                        at the Advanced Photon Source, Argonne National Laboratory
+                        for the next 5 years.
+
+                    .. button:: Learn More
+                        :class: primary block
+                        :target: {filename}/news/2021_p30_announcement.rst
+
+
 
             .. -------------------------------------------------------------------------
             .. column::
@@ -254,29 +279,6 @@ Welcome to BioCAT
                     .. button:: Learn More
                         :class: primary block
                         :target: {filename}/news/2020_covid19_rna1.rst
-
-            .. -------------------------------------------------------------------------
-            .. column::
-                :width: 6
-
-                .. thumbnail::
-
-                    .. image:: {static}/images/news/2021_musclex2_group.png
-                        :class: img-rounded
-
-                    .. caption::
-
-                        :h4:`MuscleX 2 workshop wrapup`
-
-                        BioCAT held its second MuscleX workshop May 20-May 21. This took
-                        the form of a two-day virtual symposium with 200 registrants and
-                        149 attendees. The goal was to explore and celebrate the current
-                        state of muscle research using synchrotron radiation with 11
-                        speakers from all over the world.
-
-                    .. button:: Learn More
-                        :class: primary block
-                        :target: {filename}/news/2021_musclex_2_wrapup.rst
 
         .. row::
 
