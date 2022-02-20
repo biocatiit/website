@@ -31,7 +31,7 @@ What technique should I use?
 =============================
 
 BioCAT strongly encourages all users to use either SEC-SAXS or SEC-MALS-SAXS.
-IIf multiple components in solution cannot be separated by size, IEC-SAXS may
+If multiple components in solution cannot be separated by size, IEC-SAXS may
 be the appropriate choice. There are also some rare cases where
 sample concentration and volume are inadequate for SEC-SAXS, in which case you
 will use batch mode. Batch mode is also useful if you need to measure a

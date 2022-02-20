@@ -21,6 +21,9 @@ out times, zero dark current, high dynamic range, and no (1 pixel) point spread 
 
 BioCAT has the following PADs routinely available:
 
+*   **Eiger2 XE 9M** - A detector with 3,108 x 3,262 72 µm pixels and a
+    233.1 x 244.7 mm active area, able to frame at up to 550 Hz.
+
 *   **Pilatus3 X 1M** - A detector with 981 x 1043 172 µm pixels and a
     168.7 x 179.4 mm\ :sup:`2` active area, able to frame at up to 500 Hz.
 

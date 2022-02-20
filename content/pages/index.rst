@@ -218,18 +218,22 @@ Welcome to BioCAT
 
             .. caption::
 
-                :h3:`BioCAT awarded new 5 year $8.6 million P30 grant`
+                :h3:`BioCAT APS-U Virtual Town Hall`
 
-                A team of researchers led by Prof. Thomas Irving (Illinois
-                Institute of Technology) has received a $8.6 million grant
-                from the National Institutes of Health to continue to operate
-                the Biophysics Collaborative Access Team (BioCAT) facility
-                at the Advanced Photon Source, Argonne National Laboratory
-                for the next 5 years.
+                Starting April 17, 2023 the APS will be down for a year to undergo a major
+                upgrade, including rebuilding the accelerator and storage ring (“APS-U”).
+                BioCAT invites you to join us for a virtual town hall on March 15th to discuss
+                the impact of APS-U on BioCAT and our user community. The purpose of this town
+                hall is to provide an overview of the planned upgrade and its impact on, and
+                benefits for, the BioCAT community. We also will present our plans to facilitate
+                experiments for our users at other synchrotrons during the dark period. The
+                town hall will consist of short presentations by BioCAT staff followed by an
+                open-ended question and answer period.
+
 
             .. button:: Learn More
                 :class: primary block
-                :target: {filename}/news/2021_p30_announcement.rst
+                :target: {filename}/news/2022_biocat_townhall.rst
 
 
         .. row::
@@ -240,20 +244,27 @@ Welcome to BioCAT
 
                 .. thumbnail::
 
-                    .. image:: {static}/images/news/2020_covid19_rna1.jpg
+                    .. image:: {static}/images/news/2022_irving_aaas.jpeg
                         :class: img-rounded
 
                     .. caption::
 
-                        :h4:`SAXS studies of RNA elements from the SARS-CoV-2 virus at BioCAT`
+                        :h4:`BioCAT Director Tom Irving Honored as AAAS Fellow`
 
-                        As part of the global effort to study the SARS-CoV-2 virus causing
-                        the COVID-19 pandemic, BioCAT is carrying out SEC-MALS-SAXS studies
-                        of RNA elements from the virus.
+                        BioCAT director and Illinois Institute of Technology biology and physics
+                        professor Thomas C. Irving has been named a fellow of the American Association
+                        for the Advancement of Science. Irving is being honored for “distinguished
+                        contributions to the field of muscle diffraction and enabling the fields of
+                        synchrotron fiber diffraction and biological small angle scattering.” He is
+                        among the 564 scientists, engineers, and innovators spanning 24 scientific
+                        disciplines being recognized for their scientifically and socially distinguished
+                        achievements in this year’s AAAS fellows class.
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/news/2020_covid19_rna1.rst
+                        :target: {filename}/news/2022_irving_aaas.rst
+
+
 
             .. -------------------------------------------------------------------------
             .. column::
@@ -261,22 +272,22 @@ Welcome to BioCAT
 
                 .. thumbnail::
 
-                    .. image:: {static}/images/news/2021_musclex2_group.png
+                    .. image:: {static}/images/news/2021_eiger2_muscle_small.jpg
                         :class: img-rounded
 
                     .. caption::
 
-                        :h4:`MuscleX 2 workshop wrapup`
+                        :h4:`BioCAT commissions new EIGER2 XE 9M detector`
 
-                        BioCAT held its second MuscleX workshop May 20-May 21. This took
-                        the form of a two-day virtual symposium with 200 registrants and
-                        149 attendees. The goal was to explore and celebrate the current
-                        state of muscle research using synchrotron radiation with 11
-                        speakers from all over the world.
+                        BioCAT has received and commissioned our new Dectris EIGER2
+                        XE 9M x-ray detector. This state-of-the-art detector will provide
+                        significant enhancements for both the muscle diffraction and SAXS
+                        programs at BioCAT and has already been used in multiple
+                        experiments since we commissioned it less than a month ago.
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/news/2021_musclex_2_wrapup.rst
+                        :target: {filename}/news/2021_eiger2_commissioned.rst
 
         .. row::
 
