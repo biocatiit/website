@@ -41,7 +41,7 @@ Some important things to note/commonly confused items:
     unsure NRTL check the appropriate boxes and fill in the *'List equipment
     that will require an inspection'*.
 *   If you are a mail-in User for SAXS, you cannot select yourself as the
-    *'OS'* (On-site Spokesperson). You must add Srinivas Chakravarthy to your
+    *'OS'* (On-site Spokesperson). You must add Jess Hopkins to your
     ESAF as an experimenter and make him the OS.
 *   On the *'Materials Tab'* near the bottom-half of the web-page there is the question
     'Will you require to use beamline laboratory facilities to prepare samples or

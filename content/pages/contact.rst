@@ -45,6 +45,7 @@ Contact BioCAT
         SAXS:
 
         *   Jesse Hopkins
+        *   Max Watkins
 
         Beamline:
 
@@ -306,3 +307,33 @@ Staff
                     .. button:: More
                         :class: info block
                         :target: /extra/business_cards/vukonich.html
+
+    .. -------------------------------------------------------------------------
+    .. column::
+        :width: 4
+
+        .. thumbnail::
+
+            .. image:: {static}/images/staff/watkins.jpg
+                :class: img-rounded
+
+            .. caption::
+
+                :h3:`Max Watkins`
+                Beamline Scientist
+
+            .. row::
+
+                .. column::
+                    :width: 6
+
+                    .. button:: Email
+                        :class: primary block
+                        :target: mailto:mwatkins2@iit.edu
+
+                .. column::
+                    :width: 6
+
+                    .. button:: More
+                        :class: info block
+                        :target: /extra/business_cards/watkins.html
