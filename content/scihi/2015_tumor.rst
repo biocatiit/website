@@ -72,8 +72,7 @@ Pier Paolo Pandolfi, Alonzo H. Ross, Rakesh K. Harishchandra, Arne Gericke,
 and Mathias Lösche, "The PTEN Tumor Suppressor Forms Homodimers in Solution,"
 Structure (2015), Oct 6;23(10):1952-1957. DOI: 10.1016/j.str.2015.07.012
 
-Adapted from the original Carnegie Mellon University press release which can be
-`read here <https://www.eurekalert.org/multimedia/pub/97769.php>`_.
+Adapted from the original Carnegie Mellon University press release.
 
 This research was supported by the Department of Commerce (MSE 70NANB11H8139 and
 70NANB13H009), NIGMS (R01 GM101647), NINDS (R01 NS021716) and the NSF (CHEM

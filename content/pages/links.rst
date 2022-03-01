@@ -27,7 +27,6 @@ Useful Links
         *   `Useful Links on the Wiki <https://www.bio.aps.anl.gov/staffwiki/Links/>`_
         *   `BioCAT github Page <https://github.com/biocatiit>`_
         *   `Storage Ring Status <https://www3.aps.anl.gov/aod/blops/status/srStatus.html>`_
-        *   `APS Stockroom Catalog <https://beam.aps.anl.gov/pls/apsweb/st0006.start_page>`_
 
 
 .. row::
@@ -60,7 +59,7 @@ Useful Links
 
         :h3:`Other`
 
-        *   `CXRO X-ray interactions with matter <http://henke.lbl.gov/optical_constants/>`_
+        *   `CXRO X-ray interactions with matter <https://henke.lbl.gov/optical_constants/>`_
         *   `Mucal X-ray absorption cross section calculator <http://www.csrri.iit.edu/mucal.html>`_
         *   `MX <http://mx.iit.edu/>`_
         *   `EPICS <https://www.aps.anl.gov/epics/>`_
