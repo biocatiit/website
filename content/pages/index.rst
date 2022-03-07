@@ -4,12 +4,11 @@ Welcome to BioCAT
 :url:
 :save_as: index.html
 
-.. alert:: BioCAT is able to run most experiments at this time. COVID-19 related
-    projects will still be given priority on the beamline. Additionally, due to
-    an Argonne-wide policy, users are allowed on site on with special permission
-    from the APS, so most experiments are done in a mail-in fashion in
-    collaboration with a beamline scientist. If you are interested in beam
-    time please contact us.
+.. alert:: BioCAT is now able to run all standard experiments. The only current
+    restriction is that if user groups want to have more than 3 users on site
+    for an experiment you must receive special permission. All on site users must
+    follow the current COVID-19 guidelines:
+    `https://aps.anl.gov/Users-Information/Updates/APS-General-User-Programs-during-the-COVID-19-Pandemic <https://aps.anl.gov/Users-Information/Updates/APS-General-User-Programs-during-the-COVID-19-Pandemic>`_
     :type: warning
 
 
@@ -244,6 +243,33 @@ Welcome to BioCAT
 
                 .. thumbnail::
 
+                    .. image:: {static}/images/staff/watkins.jpg
+                        :class: img-rounded
+
+                    .. caption::
+
+                        :h4:`Dr. Max Watkins joins the BioCAT team`
+
+                        We are pleased to announce that Dr. Maxwell (Max) Watkins has recently joined
+                        BioCAT as a beamline scientist. Max got his B.S. degree in Biochemistry from
+                        Lehigh University, and his Ph.D in Chemistry from Princeton University.
+                        He is extremely experienced in standard SAXS data collection and
+                        analysis techniques, including SEC-SAXS, and has used SAXS to study challenging
+                        light sensitive and anaerobic systems. Max is a great addition to the BioCAT
+                        team, and will eventually take over running most of the standard SAXS program
+                        at BioCAT.
+
+                    .. button:: Learn More
+                        :class: primary block
+                        :target: {filename}/news/2022_watkins_start.rst
+
+
+            .. -------------------------------------------------------------------------
+            .. column::
+                :width: 6
+
+                .. thumbnail::
+
                     .. image:: {static}/images/news/2022_irving_aaas.jpeg
                         :class: img-rounded
 
@@ -263,31 +289,6 @@ Welcome to BioCAT
                     .. button:: Learn More
                         :class: primary block
                         :target: {filename}/news/2022_irving_aaas.rst
-
-
-
-            .. -------------------------------------------------------------------------
-            .. column::
-                :width: 6
-
-                .. thumbnail::
-
-                    .. image:: {static}/images/news/2021_eiger2_muscle_small.jpg
-                        :class: img-rounded
-
-                    .. caption::
-
-                        :h4:`BioCAT commissions new EIGER2 XE 9M detector`
-
-                        BioCAT has received and commissioned our new Dectris EIGER2
-                        XE 9M x-ray detector. This state-of-the-art detector will provide
-                        significant enhancements for both the muscle diffraction and SAXS
-                        programs at BioCAT and has already been used in multiple
-                        experiments since we commissioned it less than a month ago.
-
-                    .. button:: Learn More
-                        :class: primary block
-                        :target: {filename}/news/2021_eiger2_commissioned.rst
 
         .. row::
 
