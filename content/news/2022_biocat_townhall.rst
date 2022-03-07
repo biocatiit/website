@@ -27,7 +27,8 @@ We encourage you to submit questions ahead of time using this form:
 
 `https://forms.gle/KX1wVxav6ZeeXnyNA <https://forms.gle/KX1wVxav6ZeeXnyNA>`_
 
-A Zoom link will be provided closer to the date of the town hall.
+A Zoom link is available to those on the BioCAT mailing list. If you're not
+on our mailing list please `sign up here <{filename}/pages/mailing_list.rst>`_.
 
 Agenda, March 15th
 ^^^^^^^^^^^^^^^^^^^
