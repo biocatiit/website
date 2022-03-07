@@ -55,8 +55,8 @@ for users, though users are encouraged to bring their own columns to address pot
 cross contamination and reproducibility issues:
 
 *   Superdex 200 Increase, both 10/300 and 5/150 (MW ~10-600 kDa)
-*   Superdex 75 Increase 10/300, with a non-Increase 5/150 also available (MW ~3-70 kDa)
-*   Superose 6 Increase, 10/300, with a non-Increase 5/150 also available (MW ~5-5,000 kDa)
+*   Superdex 75 Increase, both 10/300 and 5/150 (MW ~3-70 kDa)
+*   Superose 6 Increase, both 10/300 and 5/150 (MW ~5-5,000 kDa)
 
 SEC-MALS-SAXS
 ^^^^^^^^^^^^^^

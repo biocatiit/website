@@ -4,19 +4,6 @@ How to prepare samples for equilibrium SAXS
 :category: users
 :slug: how-to-prepare-saxs
 
-In the following video from the 2019 Everything BioSAXS 5 workshop, Dr. Kushol Gupta
-discusses what you need to know about sample preparation for SAXS
-(`get slides <{static}/files/eb5_lectures/Gupta_Planning_and_performaing_SAXS_experiments.pdf>`_)
-
-.. row::
-
-    .. column::
-        :width: 8
-
-        .. raw:: html
-
-            <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/uWonjUMrKI8' frameborder='0' allowfullscreen></iframe></div>
-
 
 Checklist for SAXS sample preparation
 =======================================
@@ -60,6 +47,10 @@ Sample (Protein or DNA/RNA) concentration and amount
     *   SEC-MALS-SAXS / SEC-SAXS - 250 µL
     *   Batch-mode SAXS - 50 µl per concentration
 
+Note: If mail-in samples are shipped frozen, they will be fast thawed
+(e.g. in hand/water bath) unless you specify that the samples should
+be thawed on ice.
+
 Quality control: Pre-examination before X-ray scattering (Monodispersity)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -73,5 +64,19 @@ Quality control: Pre-examination before X-ray scattering (Monodispersity)
     :class: img-responsive
     :align: center
 
+More details
+=============
 
+In the following video from the 2019 Everything BioSAXS 5 workshop, Dr. Kushol Gupta
+discusses what you need to know about sample preparation for SAXS
+(`get slides <{static}/files/eb5_lectures/Gupta_Planning_and_performaing_SAXS_experiments.pdf>`_)
+
+.. row::
+
+    .. column::
+        :width: 8
+
+        .. raw:: html
+
+            <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/uWonjUMrKI8' frameborder='0' allowfullscreen></iframe></div>
 

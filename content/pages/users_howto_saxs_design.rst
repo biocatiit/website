@@ -161,8 +161,8 @@ BioCAT provides a number of columns for users. Typically, users will use one
 of these:
 
 *   Superdex 200 Increase, both 10/300 and 5/150 (MW ~10-600 kDa)
-*   Superdex 75 Increase 10/300, with a non-Increase 5/150 also available (MW ~3-70 kDa)
-*   Superose 6 Increase, 10/300 (MW ~5-5,000 kDa)
+*   Superdex 75 Increase, both 10/300 and 5/150 (MW ~3-70 kDa)
+*   Superose 6 Increase, both 10/300 and 5/150 (MW ~5-5,000 kDa)
 
 Generally speaking, pick the column with the narrowest MW range that can
 accommodate your samples. But remember that the MW range is for globular
