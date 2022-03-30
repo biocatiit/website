@@ -100,34 +100,66 @@ Welcome to BioCAT
 
         .. thumbnail::
 
-            .. image:: {static}/images/scihi/2021_pertactin_conformations.png
+            .. image:: {static}/images/scihi/2022_muscle_review.jpg
                 :class: img-rounded
                 :align: center
 
             .. caption::
 
-                :h3:`What Bacterial Pathogens Can Teach Us about Protein Folding`
+                :h3:`New Resource for the Muscle Diffraction Community`
 
-                Protein folding is one of the fascinating unanswered questions in biology.
-                How does an amino acid sequence that is unfolded when it leaves the
-                ribosome manage to fold properly into a highly ordered, lightning-fast
-                enzyme or sturdy structural protein? Why don’t all the proteins in the cell
-                instead just stick to each other, aggregating into a big mess? A unique
-                model system in bacteria may hold some of the answers to these questions.
-                The system involves the study of what are termed autotransporter proteins.
-                These proteins have a highly specialized protein folding process
-                that  attracted the attention of a team of researchers who have
-                used this bacterial system as a model to determine what allows these
-                unique proteins to maintain their disordered state in the periplasm. The
-                work includes studies carried out at BioCAT. The authors believe their
-                work will provide important information toward understanding
-                basic questions of protein folding and tests long-held theories
-                about how this remarkable biological process works.
+                BioCAT staff have just published a review article, `Ma & Irving, 2022 Int.
+                J. Mol. Sci. 2022, 23(6), 3052 <https://doi.org/10.3390/ijms23063052>`_, on
+                the use of small angle X-ray fiber diffraction for studying skeletal and
+                cardiac muscle disease. The article consists of a guided tour of the
+                various diffraction features that can be used to extract specific pieces
+                of information that can be used to provide insights into the structural
+                basis of pathology. The article also contains a comprehensive review of
+                the literature reporting diffraction studies of muscle that illustrates
+                how small angle fiber diffraction has increased our understanding of
+                specific muscle diseases such as hypertrophic cardiomyopathy, dilated
+                cardiomyopathy, and nemaline myopathy.
 
             .. button:: Learn More
                 :class: primary block
-                :target: {filename}/scihi/2021_pertactin_mutant_folding.rst
+                :target: {filename}/scihi/2022_muscle_diffraction_review.rst
         .. row::
+
+            .. -------------------------------------------------------------------------
+            .. column::
+                :width: 6
+
+                .. thumbnail::
+
+                    .. image:: {static}/images/scihi/2021_pertactin_conformations.png
+                        :class: img-rounded
+                        :align: center
+
+                    .. caption::
+
+                        :h4:`What Bacterial Pathogens Can Teach Us about Protein Folding`
+
+                        Protein folding is one of the fascinating unanswered questions in biology.
+                        How does an amino acid sequence that is unfolded when it leaves the
+                        ribosome manage to fold properly into a highly ordered, lightning-fast
+                        enzyme or sturdy structural protein? Why don’t all the proteins in the cell
+                        instead just stick to each other, aggregating into a big mess? A unique
+                        model system in bacteria may hold some of the answers to these questions.
+                        The system involves the study of what are termed autotransporter proteins.
+                        These proteins have a highly specialized protein folding process
+                        that  attracted the attention of a team of researchers who have
+                        used this bacterial system as a model to determine what allows these
+                        unique proteins to maintain their disordered state in the periplasm. The
+                        work includes studies carried out at BioCAT. The authors believe their
+                        work will provide important information toward understanding
+                        basic questions of protein folding and tests long-held theories
+                        about how this remarkable biological process works.
+
+                    .. button:: Learn More
+                        :class: primary block
+                        :target: {filename}/scihi/2021_pertactin_mutant_folding.rst
+
+
 
             .. -------------------------------------------------------------------------
             .. column::
@@ -159,41 +191,6 @@ Welcome to BioCAT
                     .. button:: Learn More
                         :class: primary block
                         :target: {filename}/scihi/2021_myosin_relaxation.rst
-
-
-
-            .. -------------------------------------------------------------------------
-            .. column::
-                :width: 6
-
-                .. thumbnail::
-
-                    .. image:: {static}/images/scihi/2020_tarantula_IHM.png
-                        :class: img-rounded
-                        :align: center
-
-                    .. caption::
-
-                        :h4:`Understanding the Physiology of the Human Heart through the Study of Tarantula Muscles`
-
-                        A research team has found an unlikely source of inspiration
-                        for understanding how the human heart works and how we might design better
-                        drugs for conditions like hypertrophic cardiomyopathy: tarantulas. The
-                        source of nightmares for arachnophobes and the household pets for
-                        arachnophiles are inspiring researchers to take new approaches to
-                        understanding diseases that alter how heart muscle cells contract and relax.
-                        But, before getting to the human heart, there is more to learn about the
-                        physiology of tarantula muscles. The researchers set out to understand how
-                        contractions in tarantula muscle cells are activated and why are muscle
-                        twitches that follow a sustained muscle contraction (post-tetanic) more
-                        forceful than those that don’t (pre-tetanic). Their results provide
-                        evidence that phosphorylation, the chemical addition of a phosphoryl
-                        group (PO3-) to an organic molecule, plays a key role in muscle activation
-                        and post-tetanic potentiation (PTP) in tarantula muscles.
-
-                    .. button:: Learn More
-                        :class: primary block
-                        :target: {filename}/scihi/2020_tarantula_myosin_IHM.rst
 
         .. row::
 

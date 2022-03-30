@@ -38,6 +38,27 @@ Below is a gallery of a few of BioCAT's science highlights.
 
           <div class="item active">
               <div class="col text-center">
+              <img class="d-block w-100" src="/images/gallery/2022_muscle_review.jpg" alt="">
+              <div class="carousel-caption3">
+                <h3>New Resource for the Muscle Diffraction Community</h3>
+                <p>BioCAT staff have just published a review article, Ma & Irving, 2022 Int.
+                    J. Mol. Sci. 2022, 23(6), 3052, on
+                    the use of small angle X-ray fiber diffraction for studying skeletal and
+                    cardiac muscle disease. The article consists of a guided tour of the
+                    various diffraction features that can be used to extract specific pieces
+                    of information that can be used to provide insights into the structural
+                    basis of pathology. The article also contains a comprehensive review of
+                    the literature reporting diffraction studies of muscle that illustrates
+                    how small angle fiber diffraction has increased our understanding of
+                    specific muscle diseases such as hypertrophic cardiomyopathy, dilated
+                    cardiomyopathy, and nemaline myopathy.</p>
+                <a href="/science/muscle-diffraction-review.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
+              </div>
+            </div>
+
+          <div class="item">
+              <div class="col text-center">
               <img class="d-block w-100" src="/images/gallery/2021_pertactin_conformations.png" alt="">
               <div class="carousel-caption3">
                 <h3>What Bacterial Pathogens Can Teach Us about Protein Folding</h3>
