@@ -23,12 +23,13 @@ experiments for our users at other synchrotrons during the dark period. The
 town hall will consist of short presentations by BioCAT staff followed by an
 open-ended question and answer period. No registration is required.
 
-We encourage you to submit questions ahead of time using this form:
 
-`https://forms.gle/KX1wVxav6ZeeXnyNA <https://forms.gle/KX1wVxav6ZeeXnyNA>`_
+Update
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The presentations from the town hall and more information about APS-U and
+BioCAT can be found on the `APS-U and BioCAT page <{filename}/pages/users_aps_u.rst>`_
+of our website.
 
-A Zoom link is available to those on the BioCAT mailing list. If you're not
-on our mailing list please `sign up here <{filename}/pages/mailing_list.rst>`_.
 
 Agenda, March 15th
 ^^^^^^^^^^^^^^^^^^^

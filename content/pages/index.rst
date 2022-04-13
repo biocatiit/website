@@ -209,27 +209,24 @@ Welcome to BioCAT
 
         .. thumbnail::
 
-            .. image:: {static}/images/facility_thumbnail.jpg
+            .. image:: {static}/images/news/2022_eb8_cover.png
                 :class: img-rounded
 
             .. caption::
 
-                :h3:`BioCAT APS-U Virtual Town Hall`
+                :h3:`Everything BioSAXS 8 workshop`
 
-                Starting April 17, 2023 the APS will be down for a year to undergo a major
-                upgrade, including rebuilding the accelerator and storage ring (“APS-U”).
-                BioCAT invites you to join us for a virtual town hall on March 15th to discuss
-                the impact of APS-U on BioCAT and our user community. The purpose of this town
-                hall is to provide an overview of the planned upgrade and its impact on, and
-                benefits for, the BioCAT community. We also will present our plans to facilitate
-                experiments for our users at other synchrotrons during the dark period. The
-                town hall will consist of short presentations by BioCAT staff followed by an
-                open-ended question and answer period.
+                BioCAT is offering the all-virtual Everything BioSAXS 8
+                workshop June 21-24th. Participants will receive four
+                days of virtual lectures and hands-on software tutorials on
+                the basics of BioSAXS data collection and processing. They
+                will also be able to mail samples to BioCAT for data collection
+                prior to the workshop.
 
 
             .. button:: Learn More
                 :class: primary block
-                :target: {filename}/news/2022_biocat_townhall.rst
+                :target: {filename}/news/2022_everything_biosaxs8.rst
 
 
         .. row::
@@ -240,25 +237,27 @@ Welcome to BioCAT
 
                 .. thumbnail::
 
-                    .. image:: {static}/images/staff/watkins.jpg
+                    .. image:: {static}/images/facility_thumbnail.jpg
                         :class: img-rounded
 
                     .. caption::
 
-                        :h4:`Dr. Max Watkins joins the BioCAT team`
+                        :h4:`BioCAT APS-U Virtual Town Hall`
 
-                        We are pleased to announce that Dr. Maxwell (Max) Watkins has recently joined
-                        BioCAT as a beamline scientist. Max got his B.S. degree in Biochemistry from
-                        Lehigh University, and his Ph.D in Chemistry from Princeton University.
-                        He is extremely experienced in standard SAXS data collection and
-                        analysis techniques, including SEC-SAXS, and has used SAXS to study challenging
-                        light sensitive and anaerobic systems. Max is a great addition to the BioCAT
-                        team, and will eventually take over running most of the standard SAXS program
-                        at BioCAT.
+                        Starting April 17, 2023 the APS will be down for a year to undergo a major
+                        upgrade, including rebuilding the accelerator and storage ring (“APS-U”).
+                        BioCAT invites you to join us for a virtual town hall on March 15th to discuss
+                        the impact of APS-U on BioCAT and our user community. The purpose of this town
+                        hall is to provide an overview of the planned upgrade and its impact on, and
+                        benefits for, the BioCAT community. We also will present our plans to facilitate
+                        experiments for our users at other synchrotrons during the dark period. The
+                        town hall will consist of short presentations by BioCAT staff followed by an
+                        open-ended question and answer period.
+
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/news/2022_watkins_start.rst
+                        :target: {filename}/news/2022_biocat_townhall.rst
 
 
             .. -------------------------------------------------------------------------

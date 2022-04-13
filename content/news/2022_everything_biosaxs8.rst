@@ -1,7 +1,7 @@
 Register for Everything BioSAXS 7: Getting started in biological small-angle x-ray solution scattering
 ######################################################################################################
 
-:date: 2021-01-19
+:date: 2022-04-13
 :category: news
 :slug: everything-biosaxs-8
 :authors: BioCAT
@@ -58,6 +58,9 @@ How to register
 
     Registration is OPEN.
 
+You an register at the eventbrite page:
+`https://everything-biosaxs-8.eventbrite.com <https://everything-biosaxs-8.eventbrite.com>`_
+
 More information
 ^^^^^^^^^^^^^^^^^
 
@@ -87,18 +90,18 @@ If you have questions, please contact Jesse Hopkins (jhopkins1@iit.edu).
 Confirmed speakers:
 
 *   Jesse Hopkins (BioCAT, APS)
-*   Max Watkins(BioCAT, APS)
+*   Max Watkins (BioCAT, APS)
 *   Richard Gillilan (MacCHESS, CHESS)
 *   Steve Meisburger (Cornell U.)
-*   Javier Perez (SWING, Synchrotron SOLEIL)
 *   Tobin Sosnick (U. Chicago)
+*   Jeff Wereszczynski Illinois Institute of Technology)
 
 Tentative schedule
 ^^^^^^^^^^^^^^^^^^^^
 
 Note: All times are Central Daylight Time (UTC-5)
 
-:h4:`Monday 3/29/21`
+:h4:`Tuesday 6/21/22`
 
 .. class:: table-hover
 
@@ -114,7 +117,7 @@ Note: All times are Central Daylight Time (UTC-5)
     =========== ======================================================================================================================
 
 
-:h4:`Tuesday 3/30/21`
+:h4:`Wednesday 6/22/22`
 
 .. class:: table-hover
 
@@ -122,12 +125,12 @@ Note: All times are Central Daylight Time (UTC-5)
     10:00 am    Overview of SAXS data processing software
     10:15 am    Tutorial: Basic data analysis
     12:45 pm    SEC-SAXS data collection and analysis
-    01:15 pm    Tutorial: SEC-SAXS data analysis
-    02:45 pm    End
+    01:30 pm    Tutorial: SEC-SAXS data analysis
+    03:00 pm    End
     =========== ======================================================================================================================
 
 
-:h4:`Wednesday 3/31/21`
+:h4:`Thursday 6/23/22`
 
 .. class:: table-hover
 
@@ -135,21 +138,22 @@ Note: All times are Central Daylight Time (UTC-5)
     10:00 am    Advanced analysis: Reconstructions and model fitting
     10:45 am    Publishing your SAXS data
     11:00 am    Time resolved SAXS
+    11:30 am    Time resolved SAXS application
     11:45 am    Tutorial: Reconstructions and model fitting
     02:15 pm    End
     =========== ======================================================================================================================
 
-:h4:`Thursday 4/1/21`
+:h4:`Friday 6/24/22`
 
 .. class:: table-hover
 
     =========== ======================================================================================================================
     10:00 am    Advanced analysis: Introduction to rigid body modeling
     10:45 am    Advanced analysis: Introduction to flexibility and ensemble modeling
-    11:30 am    Advanced topic: SAXS and membrane proteins
+    11:30 am    Advanced topic: SAXS and intrinsically disordered proteins
     12:15 am    Break
-    12:45 pm    Advanced topic: SAXS and intrinsically disordered proteins
-    01:30 pm    Tutorial: Data analysis of participant's data
+    12:45 pm    Advanced topic: SAXS and molecular dynamics
+    01:30 pm    Hands-on: Data analysis of participant's data
     02:30 pm    Planning experiments at BioCAT
     02:45 pm    Wrap up and final Q&A
     03:15 pm    End
