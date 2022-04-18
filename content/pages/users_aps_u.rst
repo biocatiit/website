@@ -13,7 +13,7 @@ increased flux and reduced beam sizes for all APS beamlines, including BioCAT 18
 
 Below we provide a brief overview of our plans for this upgrade, and how it will
 affect our users. This page will be updated with more information and resources
-as our
+as our plans develop.
 
 Benefits of APS-U for BioCAT users:
 =====================================
