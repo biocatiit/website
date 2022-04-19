@@ -1,4 +1,4 @@
-Register for Everything BioSAXS 7: Getting started in biological small-angle x-ray solution scattering
+Register for Everything BioSAXS 8: Getting started in biological small-angle x-ray solution scattering
 ######################################################################################################
 
 :date: 2022-04-13
