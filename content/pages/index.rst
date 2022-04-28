@@ -209,24 +209,25 @@ Welcome to BioCAT
 
         .. thumbnail::
 
-            .. image:: {static}/images/news/2022_eb8_cover.png
+            .. image:: {static}/images/conf.jpg
                 :class: img-rounded
 
             .. caption::
 
-                :h3:`Everything BioSAXS 8 workshop`
+                :h3:`Striated Muscle workshop`
 
-                BioCAT is offering the all-virtual Everything BioSAXS 8
-                workshop June 21-24th. Participants will receive four
-                days of virtual lectures and hands-on software tutorials on
-                the basics of BioSAXS data collection and processing. They
-                will also be able to mail samples to BioCAT for data collection
-                prior to the workshop.
+                To promote the use of two NIH P30 Centers that are National Resources for the
+                study of striated muscle; the Biophysics Collaborative Access Team (BioCAT:
+                funded by NIGMS) at Argonne National Laboratory and the Center for Translational
+                Muscle Research (CTMR: funded by NIAMS) are offering Multiscale Structural and
+                Functional Studies for Striated Muscle workshop following the `Myofilament
+                Meeting <https://cvrc.wisc.edu/myofilament-conference/#meeting-home>`_ in Madison
+                Wisconsin.
 
 
             .. button:: Learn More
                 :class: primary block
-                :target: {filename}/news/2022_everything_biosaxs8.rst
+                :target: {filename}/news/2022_muscle_workshop.rst
 
 
         .. row::
@@ -237,27 +238,24 @@ Welcome to BioCAT
 
                 .. thumbnail::
 
-                    .. image:: {static}/images/facility_thumbnail.jpg
+                    .. image:: {static}/images/news/2022_eb8_cover.png
                         :class: img-rounded
 
                     .. caption::
 
-                        :h4:`BioCAT APS-U Virtual Town Hall`
+                        :h4:`Everything BioSAXS 8 workshop`
 
-                        Starting April 17, 2023 the APS will be down for a year to undergo a major
-                        upgrade, including rebuilding the accelerator and storage ring (“APS-U”).
-                        BioCAT invites you to join us for a virtual town hall on March 15th to discuss
-                        the impact of APS-U on BioCAT and our user community. The purpose of this town
-                        hall is to provide an overview of the planned upgrade and its impact on, and
-                        benefits for, the BioCAT community. We also will present our plans to facilitate
-                        experiments for our users at other synchrotrons during the dark period. The
-                        town hall will consist of short presentations by BioCAT staff followed by an
-                        open-ended question and answer period.
+                        BioCAT is offering the all-virtual Everything BioSAXS 8
+                        workshop June 21-24th. Participants will receive four
+                        days of virtual lectures and hands-on software tutorials on
+                        the basics of BioSAXS data collection and processing. They
+                        will also be able to mail samples to BioCAT for data collection
+                        prior to the workshop.
 
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/news/2022_biocat_townhall.rst
+                        :target: {filename}/news/2022_everything_biosaxs8.rst
 
 
             .. -------------------------------------------------------------------------
