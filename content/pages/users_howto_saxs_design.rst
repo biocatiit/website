@@ -15,7 +15,7 @@ challenging molecules, structural parameters such as the Radius of Gyration (Rg)
 Maximum Dimension (Dmax), Volume and Molecular weight estimates can be determined
 with a high degree of success for a large variety of samples.
 
-There are foure equilibrium data acquisition strategies available at BioCAT:
+There are four equilibrium data acquisition strategies available at BioCAT:
 `SEC-SAXS <{filename}/pages/about_saxs.rst#sec-saxs>`_,
 `SEC-MALS-SAXS <{filename}/pages/about_saxs.rst#sec-mals-saxs>`_,
 `IEC-SAXS <{filename}/pages/about_saxs.rst#iec-saxs>`_ and

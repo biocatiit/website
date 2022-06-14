@@ -72,7 +72,7 @@ Useful Links
         *   `National Institute of General Biomedical Sciences (NIGMS) <https://www.nigms.nih.gov/>`_
         *   `Biomedical Technology Development and Dissemination Centers (BTDD) <https://www.nigms.nih.gov/about/overview/BBCB/biomedicaltechnology/Pages/btdd.aspx>`_
 
-        :h3:`Illinois Insitute of Technology`
+        :h3:`Illinois Institute of Technology`
 
         *   `Illinois Institute of Technology <https://www.iit.edu/>`_
         *   `CSRRI <https://web.iit.edu/csrri>`_
