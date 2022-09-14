@@ -116,7 +116,7 @@ continue operating the BioCAT facility.
 
             .. caption::
 
-                :h3:`ESAF Tips`
+                :h3:`ESAF Instructions`
 
             .. button:: More
                 :class: primary block

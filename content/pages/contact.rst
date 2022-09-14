@@ -63,7 +63,7 @@ Contact BioCAT
 
             Safety:
 
-            *   Mark Vukonich - General, Biological and Chemical
+            *   Mark Vukonich - Chief Safety Lead: General, Biological and Chemical
             *   Tom Irving - General
             *   Rick Heurich - Electrical and Mechanical
             *   Weikang Ma - Laser
