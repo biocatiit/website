@@ -34,7 +34,7 @@ required to display the following acknowledgments:
     This research used resources of the Advanced Photon Source, a U.S. Department
     of Energy (DOE) Office of Science User Facility operated for the DOE Office
     of Science by Argonne National Laboratory under Contract No. DE-AC02-06CH11357.
-    This project was supported by grant P30 GM138395 from the National Institute
+    BioCAT was supported by grant P30 GM138395 from the National Institute
     of General Medical Sciences of the National Institutes of Health.
 
 If you used the Pilatus 3 1M to acquire your data, please add the following:
