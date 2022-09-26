@@ -4,11 +4,9 @@ Welcome to BioCAT
 :url:
 :save_as: index.html
 
-.. alert:: BioCAT is now able to run all standard experiments. The only current
-    restriction is that if user groups want to have more than 3 users on site
-    for an experiment you must receive special permission. All on site users must
-    follow the current COVID-19 guidelines:
-    `https://aps.anl.gov/Users-Information/Updates/APS-General-User-Programs-during-the-COVID-19-Pandemic <https://aps.anl.gov/Users-Information/Updates/APS-General-User-Programs-during-the-COVID-19-Pandemic>`_
+.. alert:: BioCAT is now able to run all standard experiments. All on site
+    users must follow the current COVID-19 guidelines:
+    `https://aps.anl.gov/Users-Information/Updates/Covid-Rule-Regulations <https://aps.anl.gov/Users-Information/Updates/Covid-Rule-Regulations>`_
     :type: warning
 
 
@@ -100,29 +98,38 @@ Welcome to BioCAT
 
         .. thumbnail::
 
-            .. image:: {static}/images/scihi/2022_muscle_review.jpg
+            .. image:: {static}/images/scihi/2022_phase_separation.jpg
                 :class: img-rounded
                 :align: center
 
             .. caption::
 
-                :h3:`New Resource for the Muscle Diffraction Community`
+                :h3:`Understanding Phase Separation Could Impact Treatment of Neurodegenerative Disease`
 
-                BioCAT staff have just published a review article, `Ma & Irving, 2022 Int.
-                J. Mol. Sci. 2022, 23(6), 3052 <https://doi.org/10.3390/ijms23063052>`_, on
-                the use of small angle X-ray fiber diffraction for studying skeletal and
-                cardiac muscle disease. The article consists of a guided tour of the
-                various diffraction features that can be used to extract specific pieces
-                of information that can be used to provide insights into the structural
-                basis of pathology. The article also contains a comprehensive review of
-                the literature reporting diffraction studies of muscle that illustrates
-                how small angle fiber diffraction has increased our understanding of
-                specific muscle diseases such as hypertrophic cardiomyopathy, dilated
-                cardiomyopathy, and nemaline myopathy.
+                Living cells are amazing little biochemical factories that conduct countless
+                chemical reactions in a cellular soup packed with lipids, proteins, nucleic
+                acids, and ions, keeping them all in their proper places at any given time.
+                Cells maintain this organization even while carrying out complex tasks such
+                as cell division, signaling, transcriptional regulation, and stress responses.
+                One example of this is the careful management of stress granule formation, a
+                process in which membraneless organelles transiently form to control the
+                utilization of mRNA during stress. These granules form and disperse through
+                reversible liquid-liquid phase transitions involving proteins and RNA in
+                the granules. Recent research has demonstrated that RNA-binding proteins
+                in these granules contain intrinsically disordered sequences, called
+                prion-like low-complexity domains (PLCDs), that are critical to regulation
+                of these reversible phase transitions. There is also mounting evidence that
+                these transitions may be disrupted in neurodegenerative diseases, like
+                amyotrophic lateral sclerosis (ALS), in which mutations in PLCD-containing
+                proteins, such as hnRNPA1, have been implicated as a cause of the disease.
+                Recent work that relied on data from BioCAT, and published in the
+                journal Nature Chemistry aimed to learn more about how these phase
+                transitions are regulated. These findings will provide important
+                information about the causes of diseases like ALS.
 
             .. button:: Learn More
                 :class: primary block
-                :target: {filename}/scihi/2022_muscle_diffraction_review.rst
+                :target: {filename}/scihi/2022_phase_separation.rst
         .. row::
 
             .. -------------------------------------------------------------------------
@@ -131,33 +138,36 @@ Welcome to BioCAT
 
                 .. thumbnail::
 
-                    .. image:: {static}/images/scihi/2021_pertactin_conformations.png
+                    .. image:: {static}/images/scihi/2022_cancer.jpeg
                         :class: img-rounded
                         :align: center
 
                     .. caption::
 
-                        :h4:`What Bacterial Pathogens Can Teach Us about Protein Folding`
+                        :h4:`Targeting Cancer at the Level of DNA Expression`
 
-                        Protein folding is one of the fascinating unanswered questions in biology.
-                        How does an amino acid sequence that is unfolded when it leaves the
-                        ribosome manage to fold properly into a highly ordered, lightning-fast
-                        enzyme or sturdy structural protein? Why don’t all the proteins in the cell
-                        instead just stick to each other, aggregating into a big mess? A unique
-                        model system in bacteria may hold some of the answers to these questions.
-                        The system involves the study of what are termed autotransporter proteins.
-                        These proteins have a highly specialized protein folding process
-                        that  attracted the attention of a team of researchers who have
-                        used this bacterial system as a model to determine what allows these
-                        unique proteins to maintain their disordered state in the periplasm. The
-                        work includes studies carried out at BioCAT. The authors believe their
-                        work will provide important information toward understanding
-                        basic questions of protein folding and tests long-held theories
-                        about how this remarkable biological process works.
+                        The last 20 years have brought a revolution in targeted therapies for cancer.
+                        Small-molecule inhibitors and monoclonal antibodies that target a specific
+                        aberrant protein in tumors have provided cancer patients with treatments
+                        that are associated with fewer side effects and longer survival than
+                        conventional chemotherapy. This has been, in large part, the result of
+                        intensive research into the role of oncogenes in cancer development.
+                        Oncogenes are normal cellular genes that have become mutated in such a
+                        way that they aberrantly promote the uncontrolled cell growth seen in
+                        cancer. They are often proteins involved in growth control or activation
+                        of cellular signaling; inhibiting these mutated proteins has proven to be
+                        effective in stopping the growth of many cancers. Research by a team from
+                        the Brown Cancer Center at the University of Louisville in Kentucky using
+                        BioCAT and published in the journal Nucleic Acids Research promises to extend
+                        these treatment  possibilities to control these oncogenes at the gene expression
+                        level. The work, based on the discovery that DNA in the promoter region of many
+                        genes forms higher order structures that could provide unique druggable targets
+                        for intervention, extends structural knowledge of the promoter regions of
+                        three important oncogenes.
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/scihi/2021_pertactin_mutant_folding.rst
+                        :target: {filename}/scihi/2022_cancer_dna_expression.rst
 
 
 
@@ -173,24 +183,29 @@ Welcome to BioCAT
 
                     .. caption::
 
-                        :h4:`Relaxation at the Molecular Level`
+                        :h4:`Understanding the Structural Implications of Genetic Mutations in Heart-Muscle Disease`
 
-                        The molecular interactions between the proteins myosin and actin that
-                        generate force during muscle contraction are some of the most well-studied
-                        molecular interactions in biology. However, there are some congenital
-                        skeletal muscle disorders and types of heart failure where relaxation of
-                        the muscle, rather than the force generation part of the cycle, appears
-                        to be the problem, and there are currently no available treatments that
-                        affect relaxation specifically. Recent work conducted at BioCAT used a unique
-                        transgenic mouse model, time-resolved small-angle x-ray diffraction, and
-                        molecular dynamics simulations to discover more about how myosin and actin
-                        interact during skeletal muscle relaxation. This research may help
-                        identify new treatments for neuromuscular disorders associated with impaired
-                        muscle relaxation kinetics.
+                        Cardiomyopathies are diseases of the heart muscle in which the muscle of
+                        the pumping chamber (ventricle) can become enlarged (dilated cardiomyopathy;
+                        DCM) or thickened (hypertrophic cardiomyopathy; HCM), potentially leading
+                        to heart failure. There are currently no effective treatments but the disease
+                        often has a genetic component related to mutations in the heart muscle
+                        proteins that are involved in muscle contraction, so some researchers have
+                        focused their therapeutic development efforts on correcting these muscle
+                        contraction problems based on the structural basis of the defect. A recent
+                        study from a team of researchers using BioCAT employed humanized mouse models expressing
+                        mutations observed in patients with HCM and DCM to evaluate the
+                        structure-function relationships and the changes observed in cardiac
+                        muscle contraction with these mutations. The work, published in the
+                        Proceedings of the National Academy of Sciences of the United States of
+                        America, provides a deeper understanding of the effects of
+                        cardiomyopathy-causing gene mutations on heart muscle contraction that
+                        could lead to the development of new therapies for this potentially
+                        life-threatening disease.
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/scihi/2021_myosin_relaxation.rst
+                        :target: {filename}/scihi/2022_heart_disease.rst
 
         .. row::
 
@@ -214,20 +229,23 @@ Welcome to BioCAT
 
             .. caption::
 
-                :h3:`Striated Muscle workshop`
+                :h3:`BioCAT Plans for the APS-U Dark Period`
 
-                To promote the use of two NIH P30 Centers that are National Resources for the
-                study of striated muscle; the Biophysics Collaborative Access Team (BioCAT:
-                funded by NIGMS) at Argonne National Laboratory and the Center for Translational
-                Muscle Research (CTMR: funded by NIAMS) are offering Multiscale Structural and
-                Functional Studies for Striated Muscle workshop following the `Myofilament
-                Meeting <https://cvrc.wisc.edu/myofilament-conference/#meeting-home>`_ in Madison
-                Wisconsin.
+                The APS will shut down on April 17, 2023 for a major year-long
+                upgrade, the "APS-U" project. There will be no user access to the
+                APS during this “dark period”. The APS plans to restart operations at the
+                beginning of April, 2024, followed by several months of safety
+                and technical commissioning at all beamlines. We anticipate that
+                BioCAT will be unavailable for experiments from the end of April 2023
+                until early summer 2024. During this ~14 month shutdown, we plan
+                to help support experiments by our users at other beamlines,
+                including sending BioCAT staff to other beamlines to help with
+                some of the more complicated experiments.
 
 
             .. button:: Learn More
                 :class: primary block
-                :target: {filename}/news/2022_muscle_workshop.rst
+                :target: {filename}/pages/users_aps_u.rst
 
 
         .. row::
@@ -243,19 +261,18 @@ Welcome to BioCAT
 
                     .. caption::
 
-                        :h4:`Everything BioSAXS 8 workshop`
+                        :h4:`Everything BioSAXS 8 Workshop Wrap-up`
 
-                        BioCAT is offering the all-virtual Everything BioSAXS 8
-                        workshop June 21-24th. Participants will receive four
-                        days of virtual lectures and hands-on software tutorials on
-                        the basics of BioSAXS data collection and processing. They
-                        will also be able to mail samples to BioCAT for data collection
-                        prior to the workshop.
-
+                        BioCAT held its seventh BioSAXS training course from 6/21/22-6/24/22.
+                        There were 36 remote participants and 8 instructors. The workshop was held
+                        entirely online, via Zoom, for ~5 hours each day. Before the workshop
+                        started, participants were able to mail samples to BioCAT for SAXS data collection.
+                        This data was then sent to them, and they were able to analyze it as part of the
+                        workshop.
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/news/2022_everything_biosaxs8.rst
+                        :target: {filename}/news/2022_everything_biosaxs8_wrapup.rst
 
 
             .. -------------------------------------------------------------------------
@@ -264,25 +281,25 @@ Welcome to BioCAT
 
                 .. thumbnail::
 
-                    .. image:: {static}/images/news/2022_irving_aaas.jpeg
+                    .. image:: {static}/images/conf.jpg
                         :class: img-rounded
 
                     .. caption::
 
-                        :h4:`BioCAT Director Tom Irving Honored as AAAS Fellow`
+                        :h4:`Striated Muscle Workshop`
 
-                        BioCAT director and Illinois Institute of Technology biology and physics
-                        professor Thomas C. Irving has been named a fellow of the American Association
-                        for the Advancement of Science. Irving is being honored for “distinguished
-                        contributions to the field of muscle diffraction and enabling the fields of
-                        synchrotron fiber diffraction and biological small angle scattering.” He is
-                        among the 564 scientists, engineers, and innovators spanning 24 scientific
-                        disciplines being recognized for their scientifically and socially distinguished
-                        achievements in this year’s AAAS fellows class.
+                        To promote the use of two NIH P30 Centers that are National Resources for the
+                        study of striated muscle; the Biophysics Collaborative Access Team (BioCAT:
+                        funded by NIGMS) at Argonne National Laboratory and the Center for Translational
+                        Muscle Research (CTMR: funded by NIAMS) are offering Multiscale Structural and
+                        Functional Studies for Striated Muscle workshop following the `Myofilament
+                        Meeting <https://cvrc.wisc.edu/myofilament-conference/#meeting-home>`_ in Madison
+                        Wisconsin.
+
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/news/2022_irving_aaas.rst
+                        :target: {filename}/news/2022_muscle_workshop.rst
 
         .. row::
 

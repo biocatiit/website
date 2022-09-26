@@ -90,6 +90,8 @@ Confirmed speakers:
 *   Jesse Hopkins (BioCAT, APS)
 *   Max Watkins (BioCAT, APS)
 *   Richard Gillilan (MacCHESS, CHESS)
+*   Thomas Grant (U. Buffalo)
+*   Erik Martin (DewpointX)
 *   Steve Meisburger (Cornell U.)
 *   Tobin Sosnick (U. Chicago)
 *   Jeff Wereszczynski Illinois Institute of Technology)

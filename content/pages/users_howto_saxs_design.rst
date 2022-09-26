@@ -94,6 +94,10 @@ protein you would want a concentration of ~240/150 = 1.6 mg/ml. RNA and DNA
 samples scatter ~2.5 times more strongly than protein, so you can use a
 concentration of ~96/MW and 24/MW for SEC-SAXS and batch mode SAXS respectively.
 
+Note that the MW calculation is done for the expected oligomeric MW. So if a
+protein is a 50 kDa monomer, but you expect it to be dimeric, you would prepare
+a concentration of ~240/100 = 2.4 mg/ml.
+
 Note that in SEC-SAXS and SEC-MALS-SAXS experiments the sample is diluted by the column,
 and may elute in several peaks. This should be accounted for. The recommendation above
 adds a column dilution factor of ~4x for your SEC-SAXS sample preps. If a
@@ -112,6 +116,10 @@ Typical SEC-SAXS and SEC-MALS-SAXS injection volumes are ~250-350 µl.
 Batch mode experiments can be done routinely with 50 µl per measurement. Note
 that typical batch mode experiments require measuring several concentrations, and
 so can actually end up requiring more volume than a SEC-SAXS experiment.
+
+We recommend that you bring enough sample volume for two measurements at each
+condition, that way if something happens during a measurement (such as the
+beam going down) we can repeat and obtain the desired data.
 
 
 How many samples should I bring?
@@ -176,7 +184,7 @@ A full list of columns and the corresponding MW ranges is available for both
 
 Users may also provide their own columns if desired. However, due to the dilution
 factor, we recommend that you only use analytical grade columns, not the larger
-prep columns like the Cytive HiPrep or HiLoad columns.
+prep columns like the Cytiva HiPrep or HiLoad columns.
 
 
 How much buffer should I bring?

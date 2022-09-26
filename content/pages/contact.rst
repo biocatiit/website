@@ -327,7 +327,7 @@ Staff
 
             .. caption::
 
-                :h3:`Max Watkins`
+                :h3:`Dr. Max Watkins`
                 Beamline Scientist
 
             .. row::
