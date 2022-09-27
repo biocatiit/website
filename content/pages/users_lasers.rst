@@ -53,11 +53,8 @@ Explanation of terms:
 
     https://www.aps.anl.gov/About/Visiting-the-APS/Directions-to-the-APS-User-Office
 
-    For more safety related information, please refer to the ESH-120 training
-    document from APS: https://www.aps.anl.gov/files/APS-Uploads/UO/ESH120.pdf
-
 *   Paper work at BioCAT
 
-    After completing ESH-120 at APS user office, you need to sign the laser
+    After completing ESH-121(low-power) at APS user office, you need to sign the laser
     training form provided by BioCAT staff before using the laser on site.
 
