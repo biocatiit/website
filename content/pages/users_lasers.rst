@@ -49,7 +49,7 @@ Explanation of terms:
 *   Laser Safety Training
 
     Anyone using a class IIIa laser must take the ANL-specific Laser Safety class.
-    If ESH-120 will satisfy the requirement, this course can be taken at APS user office:
+    If ESH-121(low-power laser) will satisfy the requirement, this course can be taken at APS user office:
 
     https://www.aps.anl.gov/About/Visiting-the-APS/Directions-to-the-APS-User-Office
 
