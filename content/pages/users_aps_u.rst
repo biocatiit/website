@@ -62,7 +62,7 @@ at NSLS II.
 More details on our specific plans for the dark period:
 ===========================================================
 
-*   `BioCAT and APS-U overview <{static}/files/aps_u/BioCAT_APS_U_Overview.pdf>`_
-*   `APS-U and Fiber diffraction at BioCAT <{static}/files/aps_u/BioCAT_APS_U_Fiber.pdf>`_
-*   `APS-U and SAXS at BioCAT <{static}/files/aps_u/BioCAT_APS_U_SAXS.pdf>`_
-*   `BioCAT user program during the APS-U dark period <{static}/files/aps_u/BioCAT_APS_U_User_Program_Plans.pdf>`_
+*   `BioCAT and APS-U overview <https://youtu.be/DkPhmfTi7uc>`_ `(get overview slides) <{static}/files/aps_u/BioCAT_APS_U_Overview.pdf>`_
+*   `APS-U and Fiber diffraction at BioCAT <https://youtu.be/fYzKJHz5Gkw>`_ `(get fiber slides) <{static}/files/aps_u/BioCAT_APS_U_Fiber.pdf>`_
+*   `APS-U and SAXS at BioCAT <https://youtu.be/yuqPGTKWBMc>`_ `(get SAXS slides) <{static}/files/aps_u/BioCAT_APS_U_SAXS.pdf>`_
+*   `BioCAT user program during the APS-U dark period <https://youtu.be/ESPfCZw55RY>`_ `(get user program slides) <{static}/files/aps_u/BioCAT_APS_U_User_Program_Plans.pdf>`_
