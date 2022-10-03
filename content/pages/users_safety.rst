@@ -7,10 +7,8 @@ Safety and Compliance
 
 BioCAT regards safety to be of central importance. No experiment or operation
 will be permitted at the facility if it poses a significant safety risk.
-BioCAT's general safety policies are detailed in our `Environment, Safety, and
-Health Plan <http://pinky.bio.aps.anl.gov/staffwiki/BioCATESHPlan>`_. For
-specific experiments, the APS safety review process has been instituted to
-minimize the exposure to hazards.
+BioCAT's general safety policies are detailed in our Environment, Safety, and
+Health Plan. For specific experiments, the APS safety review process has been instituted to minimize the exposure to hazards.
 
 Before arriving at BioCAT, please look at the following links:
 
@@ -28,10 +26,12 @@ Special Hazards
 
 *   LASERS - `Requirements for Using a Laser at BioCAT <{filename}/pages/users_lasers.rst>`_
 
-    If you bring a laser or plan on using one of ours, there are training and
+    Lasers may not be brought to the APS withouot prior approval from the BioCAT Laser Safety Coordinator.  Lasers must be verified by Argonne Laser Safety Inspectors before use.  Approved lasers will receive an Argonne serial number.  We do have an approved laser which may be used with permission.  There are also training and
     safety requirements you must satisfy.
 
 *   CHEMICALS -- `How to Transport Hazardous Materials <https://www.aps.anl.gov/Safety-and-Training/Safety/Using-Material-Samples/Transporting-Hazardous-Materials>`_
+
+ `Small Quantity Exception <https://www.aps.anl.gov/Safety-and-Training/Safety/Shipping/DOT-Small-Quantity-Exception>`_
 
     You may only ship/ bring those chemicals listed on your APPROVED safety paperwork (ESAF),
     so please be complete. You must abide by all US DOT shipping regulations, so we advise
@@ -45,7 +45,7 @@ Special Hazards
     that we may check for the inclusion of pressure-relief valves and burst disks,
     as well as, schedule an inspection.
 
-*   BIOHAZARDS -- Requirements for Doing a BSL Experiment at BioCAT
+*   BIOHAZARDS -- Requirements for Doing a BSL2 Experiment at BioCAT
 
     Any Users who wish to do an experiment involving whole viruses, whole bacteria,
     or any human-derived samples (ie. protein, fluid, tissue, bone, etc) must first
