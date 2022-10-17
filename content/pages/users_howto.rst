@@ -43,7 +43,7 @@ Macromolecular Small-Angle Solution Scattering (SAXS)
 Tutorials
 ^^^^^^^^^^^^^^
 
-Everything BioSAXS lecture videos (2019, 2020, 2021, 2022)
+Everything BioSAXS Workshop Videos and Slides
 ==========================================================
 
 *   `Introduction to SAXS <https://youtu.be/wdJTK4TF3hE>`_ (`get intro slides <{static}/files/eb6_lectures/Gillilan_SAXS_Overview.pdf>`_)
