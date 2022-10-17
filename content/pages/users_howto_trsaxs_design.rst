@@ -23,9 +23,9 @@ We have three different time-resolved SAXS instruments.
     :class: img-responsive
     :align: center
 
-In the following video from the 2019 Everything BioSAXS 5 workshop, Dr. Srinivas
-Chakravarthy discusses the current state of time resolved SAXS at BioCAT
-(`get slides <{static}/files/eb5_lectures/Chakravarthy_Time_Resolved_SAXS.pdf>`_)
+In the following video from the 2022 Everything BioSAXS 8 workshop, Dr. Jesse
+Hopkins discusses the current state of time resolved SAXS at BioCAT
+(`get slides <{static}/files/eb8_lectures/Hopkins_Time_Resolved_SAXS.pdf>`_)
 
 .. row::
 
@@ -34,7 +34,7 @@ Chakravarthy discusses the current state of time resolved SAXS at BioCAT
 
         .. raw:: html
 
-            <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/_Hm5ujHQeEw' frameborder='0' allowfullscreen></iframe></div>
+            <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/fwVcoZCsPKY' frameborder='0' allowfullscreen></iframe></div>
 
 Stopped-Flow
 =============

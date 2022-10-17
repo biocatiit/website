@@ -43,7 +43,7 @@ Macromolecular Small-Angle Solution Scattering (SAXS)
 Tutorials
 ^^^^^^^^^^^^^^
 
-Everything BioSAXS lecture videos (2019, 2020, 2021)
+Everything BioSAXS lecture videos (2019, 2020, 2021, 2022)
 ==========================================================
 
 *   `Introduction to SAXS <https://youtu.be/wdJTK4TF3hE>`_ (`get intro slides <{static}/files/eb6_lectures/Gillilan_SAXS_Overview.pdf>`_)
@@ -54,6 +54,8 @@ Everything BioSAXS lecture videos (2019, 2020, 2021)
 *   `Publishing SAXS data <https://youtu.be/bXu1M2JUuuk>`_ (`get publishing slides <{static}/files/eb5_lectures/Hopkins_Publishing_your_data.pdf>`_)
 *   `Analyzing Flexible and Disordered Macromolecules with SAXS <https://youtu.be/ABnxBq18ozo>`_ (`get flexibility slides <{static}/files/eb6_lectures/Hopkins_Flexibility_and_disorder_in_SAXS.pdf>`_)
 *   `Rigid Body Modeling with SAXS data <https://youtu.be/mckbwfxc5-A>`_ (`get rigid body modeling slides <{static}/files/eb6_lectures/Chakravarthy_Rigid_body_modeling_and_SASREF.pdf>`_)
-*   `Time resolved SAXS <https://youtu.be/_Hm5ujHQeEw>`_ (`get TR-SAXS slides <{static}/files/eb5_lectures/Chakravarthy_Time_Resolved_SAXS.pdf>`_)
-*   `SAXS on IDPs <https://youtu.be/l1wruETgVmw>`_ (`get IDP slides <{static}/files/eb5_lectures/Sosnick_Flexible_systems_and_intrinsically_disordeded_proteins.pdf>`_)
+*   `Using Molecular Dynamics (MD) to Interpret SAXS Data <https://youtu.be/J_zJw_99mKc>`_ (`get MD-SAXS slides <{static}/files/eb8_lectures/Wereszczynski_Molecular_Dynamics_Simulations_to_Interpret_SAXS_Experiments.pdf>`_)
+*   `Time Resolved SAXS <https://youtu.be/fwVcoZCsPKY>`_ (`get TR-SAXS slides <{static}/files/eb8_lectures/Hopkins_Time_Resolved_SAXS.pdf>`_)
+*   `SAXS on Intrinsically Disordered Proteins (IDPS) <https://youtu.be/l1wruETgVmw>`_ (`get IDP slides <{static}/files/eb5_lectures/Sosnick_Flexible_systems_and_intrinsically_disordeded_proteins.pdf>`_)
 *   `SAXS on Membrane Proteins <https://youtu.be/ln04wIuzkmo>`_ (`get membrane protein slides <{static}/files/eb6_lectures/Perez_Membrane_protein_SAXS.pdf>`_)
+*   `How to get SAXS Beam Time at BioCAT <https://youtu.be/lBc2hU3-WO4>`_ (`get SAXS beam time slides <{static}/files/eb8_lectures/Hopkins_Planning_BioCAT_Experiments.pdf>`_)
