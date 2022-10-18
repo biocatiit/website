@@ -37,7 +37,7 @@ Everything BioSAXS 8 Workshop Wrap-Up
                 BioSAXS 8 Workshop.
 
 
-BioCAT held its seventh BioSAXS training course from 6/21/22-6/24/22.
+BioCAT held its eighth BioSAXS training course from 6/21/22-6/24/22.
 There were 36 remote participants and 8 instructors. The workshop was held
 entirely online, via Zoom, for ~5 hours each day. Before the workshop
 started, participants were able to mail samples to BioCAT for SAXS data collection.
