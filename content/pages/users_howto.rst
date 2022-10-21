@@ -50,6 +50,7 @@ Everything BioSAXS Workshop Videos and Slides
 *   `SAXS Sample Preparation <https://youtu.be/uWonjUMrKI8>`_ (`get sample prep slides <{static}/files/eb5_lectures/Gupta_Planning_and_performaing_SAXS_experiments.pdf>`_)
 *   `Basic SAXS data analysis and validation <https://youtu.be/fbPPbaJrcoM>`_ (`get basic analysis slides <{static}/files/eb5_lectures/Hopkins_Basic_data_validation_and_analysis.pdf>`_)
 *   `SEC-SAXS <https://www.youtube.com/watch?v=aoth3Fq7DCE>`_ (`get SEC-SAXS slides <{static}/files/eb7_lectures/Meisburger_SEC_SAXS.pdf>`_)
+*   `3D reconstructions and model fitting of SAXS data <https://youtu.be/o5SvT4E4cvw>`_ (`get 3D reconstruction slides <{static}/files/eb8_lectures/Grant_3D_Reconstructions_and_Model_Fitting.pdf>`_)
 *   `SEC-SAXS and advanced SAXS analysis <https://youtu.be/6k_-l8OHaPw>`_ (`get advanced analysis slides <{static}/files/eb5_lectures/Gupta_Advanced_data_analysis.pdf>`_)
 *   `Publishing SAXS data <https://youtu.be/bXu1M2JUuuk>`_ (`get publishing slides <{static}/files/eb5_lectures/Hopkins_Publishing_your_data.pdf>`_)
 *   `Analyzing Flexible and Disordered Macromolecules with SAXS <https://youtu.be/ABnxBq18ozo>`_ (`get flexibility slides <{static}/files/eb6_lectures/Hopkins_Flexibility_and_disorder_in_SAXS.pdf>`_)
