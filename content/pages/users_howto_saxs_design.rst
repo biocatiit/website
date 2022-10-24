@@ -210,17 +210,18 @@ SEC-SAXS
 
 For SEC-SAXS experiments, you can calculate the amount of buffer you need as:
 
-Buffer volume = 4*(column volume)*(number of samples + 1) + 100 mL
+Buffer volume = 5*(column volume)*(number of samples + 1) + 250 mL
 
 This accounts for both the per-sample use and the equilibration. Please note
 that the system cannot use all the buffer in a bottle, as you cannot
-risk drawing air into the system. This is the 100 mL offset in the above formula.
+risk drawing air into the system. There is also a fixed volume used for pump
+washing. This is the 250 mL offset in the above formula.
 
 For example, if you are using the GE Superdex 200 Increase 10/300 GL column,
 it has a column volume of 24 mL. If you're planning to run 5 samples in a particular
 buffer you should bring:
 
-Buffer volume = 4*(24 mL)*(5+1) + 100 mL ~ 0.7 L
+Buffer volume = 5*(24 mL)*(5+1) + 250 mL ~ 1 L
 
 For these experiments, you should always bring at least 0.5 L of any buffer you
 are using.
@@ -237,11 +238,11 @@ also requires buffer. Given that, you can calculate the buffer you need as follo
 
 Buffer volume = 4*(experiment time)*(flow rate) + (equilibration time)*(flow rate)
 
-For example, if you are using the Wyatt WTC-030S5 which has a flow rate of 0.8 mL/min,
+For example, if you are using the Superdex 200 Increase 10/300 which has a flow rate of 0.6 mL/min,
 and you plan on 12 hours (720 minutes) of equilibration (overnight) and 8 hours
 (480 minutes) of experiments in a given buffer, you should bring:
 
-Buffer volume = 4*(480)*(0.8 mL/min) + (720)*(0.8 mL/min) ~ 2.1 L
+Buffer volume = 4*(480 min)*(0.6 mL/min) + (720 min)*(0.6 mL/min) ~ 1.6 L
 
 For these experiments, you should always bring at least 1.5 L of any buffer you
 are using.
