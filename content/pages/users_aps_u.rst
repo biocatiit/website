@@ -15,7 +15,7 @@ Below we provide a brief overview of our plans for this upgrade, and how it will
 affect our users. This page will be updated with more information and resources
 as our plans develop.
 
-Benefits of APS-U for BioCAT users:
+Benefits of APS-U for BioCAT users
 =====================================
 
 The new accelerator and storage ring (“APS-U”) will be built in the same
@@ -59,7 +59,7 @@ important for muscle diffraction experiments as well as complex SAXS experiments
 We also expect to run some time-resolved SAXS experiments at the LIXS beamline
 at NSLS II.
 
-More details on our specific plans for the dark period:
+More details on our specific plans for the dark period
 ===========================================================
 
 In March 2022 BioCAT had a virtual town hall to discuss the APS-U and it's
