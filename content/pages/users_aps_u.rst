@@ -62,7 +62,10 @@ at NSLS II.
 More details on our specific plans for the dark period:
 ===========================================================
 
-*   `BioCAT and APS-U overview <https://youtu.be/DkPhmfTi7uc>`_ `(get overview slides) <{static}/files/aps_u/BioCAT_APS_U_Overview.pdf>`_
-*   `APS-U and Fiber diffraction at BioCAT <https://youtu.be/fYzKJHz5Gkw>`_ `(get fiber slides) <{static}/files/aps_u/BioCAT_APS_U_Fiber.pdf>`_
-*   `APS-U and SAXS at BioCAT <https://youtu.be/yuqPGTKWBMc>`_ `(get SAXS slides) <{static}/files/aps_u/BioCAT_APS_U_SAXS.pdf>`_
-*   `BioCAT user program during the APS-U dark period <https://youtu.be/ESPfCZw55RY>`_ `(get user program slides) <{static}/files/aps_u/BioCAT_APS_U_User_Program_Plans.pdf>`_
+In March 2022 BioCAT had a virtual town hall to discuss the APS-U and it's
+impact on BioCAT. Videos and slides from that town hall are available here:
+
+*   `Video: BioCAT and APS-U overview <https://youtu.be/DkPhmfTi7uc>`_ `(get overview slides) <{static}/files/aps_u/BioCAT_APS_U_Overview.pdf>`_
+*   `Video: APS-U and Fiber diffraction at BioCAT <https://youtu.be/fYzKJHz5Gkw>`_ `(get fiber slides) <{static}/files/aps_u/BioCAT_APS_U_Fiber.pdf>`_
+*   `Video: APS-U and SAXS at BioCAT <https://youtu.be/yuqPGTKWBMc>`_ `(get SAXS slides) <{static}/files/aps_u/BioCAT_APS_U_SAXS.pdf>`_
+*   `Video: BioCAT user program during the APS-U dark period <https://youtu.be/ESPfCZw55RY>`_ `(get user program slides) <{static}/files/aps_u/BioCAT_APS_U_User_Program_Plans.pdf>`_

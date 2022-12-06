@@ -71,6 +71,7 @@ Useful Links
 
         *   `National Institute of General Biomedical Sciences (NIGMS) <https://www.nigms.nih.gov/>`_
         *   `Biomedical Technology Development and Dissemination Centers (BTDD) <https://www.nigms.nih.gov/about/overview/BBCB/biomedicaltechnology/Pages/btdd.aspx>`_
+        *   `NIH National and Regional Resources (R24) Program <https://nigms.nih.gov/Research/mechanisms/Pages/NIGMS-National-and-Regional-Resources-(R24)-Program---Funded-Resources.aspx>`_
 
         :h3:`Illinois Institute of Technology`
 
