@@ -35,7 +35,7 @@ pip install pelican Markdown typogrify beautifulsoup4 pelican-render-math
 The best approach for development purposes is to use make to build and
 display the html. In the top level of the repository, run
 ```
-./develop_server.sh start
+make devserver
 ```
 
 This displays the website at [http://localhost:8000/](http://localhost:8000/).
@@ -43,10 +43,7 @@ This displays the website at [http://localhost:8000/](http://localhost:8000/).
 The make command will both build the source and serve it up, and it continuously rebuilds
 the website when you make changes. This way you can make changes to your
 document and then just refresh the local page in your browser to see the results
-of those changes. To stop the devserver run
-```
-./develop_server.sh stop
-```
+of those changes. To stop the devserver simply use Ctrl+C
 
 If the make command doesn't work for you (for example you don't have the make
 utility installed), see the next section.
