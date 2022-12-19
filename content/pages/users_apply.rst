@@ -1,14 +1,20 @@
-Applying for Time
+Getting beamtime at BioCAT
 ############################################################
 
 :category: users
 :slug: applying-for-time
 
+.. contents::
+
+
+Overview
+============
+
 BioCAT is an NIH-supported Biotechnology Research Resource. Anyone can
 use the facility for free by putting in an application through the
 APS GUP program. These applications are reviewed on the basis of
 feasibility and scientific merit. Obtaining time at the BioCAT facility is a
-multiple-step process. Below is a listing of the eleven things you need to
+multiple-step process. Below is a listing of the things you need to
 do - from start to finish - to acquire, use, and complete time at BioCAT.
 Please also check the `APS new user checklist
 <https://www.aps.anl.gov/Users-Information/Getting-Started/User-Checklist>`_.
@@ -26,8 +32,15 @@ Please also check the `APS new user checklist
 
     The Advanced Photon Source resides within Argonne National Laboratory which is a
     controlled-access facility. This step initiates the process for granting access to
-    ANL, as well as, the process for ensuring that `safety and compliance
+    ANL, as well as the process for ensuring that `safety and compliance
     <{filename}/pages/users_safety.rst>`_ requirements are met.
+
+    Everyone participating in the experiment (mailing samples or coming on site)
+    must be a registered user. `New users should register and existing users
+    should check to make sure their site access is still valid. <https://beam.aps.anl.gov/pls/apsweb/ufr_main_pkg.usr_start_page>`_
+    **It can take the APS several weeks to process your user registration,
+    both for new users and for updates to current users' site access, so make
+    sure everyone in your group does this as soon as you know you want beamtime.**
 
 #.  `Submit a Proposal <https://www.aps.anl.gov/Users-Information/About-Proposals/Apply-for-Time>`_
 
@@ -45,6 +58,9 @@ Please also check the `APS new user checklist
     Users with active proposals wishing time in the next run should submit a
     beamtime request by following the directions for a Returning Proposer on
     the `APS website <https://www.aps.anl.gov/Users-Information/About-Proposals/Apply-for-Time>`_.
+    Users with an active proposal who want time in the current run, or for the next
+    run after the standard GUP proposal deadline has passed can put in a rapid
+    access beamtime request.
 
     For all proposals to BioCAT you must list the BioCAT beamline, "18-ID-D", as one of
     the three beamlines in the "Choice of Beamline" section in the Beamtime Request.
@@ -55,23 +71,28 @@ Please also check the `APS new user checklist
     Every proposal awarded beam time must be accompanied by an approved Experiment Safety Assessment
     Form (ESAF) before it is allowed to proceed.
 
-    For an ESAF to be valid, it must list all experimenters to be present at the facility. In
-    addition, when listing materials, protein names must be written out in full (i.e. no
-    abbreviations with the exception of "DNA" and "RNA")
-
-    If your experiment does not involve any of the hazards listed below, submitting the ESAF
-    **two weeks** before your scheduled beam time should provide enough time for its review and
-    possible revision. Please visit our `ESAF tips <{filename}/pages/users_esaf.rst>`_
+    **An ESAF for an on-site experiment must be submitted at least 14 days before
+    the experiment or it will not be approved. An ESAF for a remote/mail-in experiment
+    must be submitted at least 7 days before the experiment
+    or it will not be approved.** We recommend submission before these hard deadlines
+    so any issues can be resolved and your experiment can proceed as planned.
+    Please visit our `ESAF <{filename}/pages/users_esaf.rst>`_
     and `safety and compliance <{filename}/pages/users_safety.rst>`_ pages for more
     information.
 
-    Please submit your ESAF far enough in advance to resolve any safety issues so that your experiment
-    can proceed.
+    For an ESAF to be valid, it must list all experimenters to be present at the facility
+    or mailing in samples. ESAFS will not be approved if listed experimenters do not
+    have valid site access, so you must register as a user/renew your site access
+    as above. In addition, when listing materials, samples names must
+    be written out in full and (when appropriate) the expression system must be included.
+    You should not use abbreviations with the exception of "DNA" and "RNA",
+    and sample names should be written as, e.g., "Lysozyme from Chicken Egg White"
+    rather than "Sample 1".
 
-    N.B.: Hazards Requiring Additional Review
-
-    There are a number of hazards which will require a more detailed (and, therefore, prolonged) review
-    before access can be granted:
+    If your ESAF involves any of the additional hazards listed below
+    it will require a more detailed (and, therefore, prolonged) review
+    before access can be granted, so you should submit it at least 1 month before
+    your experiment:
 
     *   `Bio-Hazardous Materials <https://www.anl.gov/safety/biosafety>`_
 
@@ -112,6 +133,13 @@ Please also check the `APS new user checklist
 
 #.  `Arrange for Shipping <{filename}/pages/users_shipping.rst>`_
 
+    The preferred method of shipping at Argonne is FedEx Priority Overnight. If you
+    want your samples to arrive promptly (the morning after shipping), you must
+    use this method. Otherwise they may arrive in the afternoon, or even later.
+    Our `shipping page <{filename}/pages/users_shipping.rst>`_ has more details
+    and our shipping address. Note that BioCAT cannot receive packages
+    on weekends or holidays.
+
     Please be aware that the transportation of many materials is regulated by the US
     Department of Transportation as well as ANL. Failure to comply with DOT regulations
     can result in heavy fines. Failure to comply with ANL regulations can result in loss
@@ -139,17 +167,23 @@ Please also check the `APS new user checklist
 
     Argonne National Lab is a closed campus. In order to `obtain site access
     <https://www.aps.anl.gov/Users-Information/Getting-Started/Argonne-Site-Access>`_
-    you must first register (step 2, above). If you are a new user, you will
-    need to either get a user photo badge or a gate pass, depending on when you
-    arrive. In order to get your user photo badge or gate pass, you will have to show
-    a `valid form of photo identification <https://www.anl.gov/site-entry-requirements>`_.
-    **Starting in 2020, if you want to use a driver's license or other state identification
-    card as your photo ID it must be REAL-ID compatible!**
+    you must first register (step 2, above). **Any on-site user arriving outside of normal business hours on a weekday or on a
+    holiday or weekend must request a Gate Pass in advance of their arrival or they will not
+    be allowed on site.** Current information on business hours and how far in advance a
+    gate pass must be requested is available here:
+    `https://aps.anl.gov/Users-Information/Updates/Covid-Rule-Regulations <https://aps.anl.gov/Users-Information/Updates/Covid-Rule-Regulations>`_.
+
+    For on-site users, please note that in order to get your user photo badge or
+    gate pass, you will have to show a valid form of photo identification. If you want
+    to use a driver's license or other state identification card as your photo ID
+    it must be REAL-ID compatible. The APS website has
+    `more information on how to obtain site access. <https://aps.anl.gov/Users-Information/Getting-Started/Argonne-Site-Access>`_
 
     Nominally your beamtime starts at 8 am on your first scheduled day. In practice,
-    you should usually plan to arrive at the beamline between 9:30-10 am. If you have
+    you should usually plan to arrive at the beamline between 9:30-10 am unless
+    otherwise specified by your scientific contact. If you have
     particular questions or concerns about the start of your beamtime, contact
-    your Scientific Contact. **You cannot start any work until you ESAF is posted,
+    your scientific contact. **You cannot start any work until you ESAF is posted,
     so if you arrive before your scientific contact wait at the beamline or in
     the LOM until they arrive. Do not start working on your own!**
 
@@ -160,24 +194,17 @@ Please also check the `APS new user checklist
     *   Be courteous to your host staff.
 
         We work hard supporting back-to-back experiments that run 24 hours a day for multiple
-        days during the three-month-long "run". We will do all that is humanly possible to
+        days during the three-month-long "run". We will do everything we can to
         support your experiment while you're here, but we will also show you basic trouble-shooting
         algorithms that will help you diagnose some problems on your own---saving you time.
 
     *   Be patient.
 
-        Your experiment block includes time required for set-up. For non-standard
-        experiments,unless otherwise arranged, you should expect at least one shift
-        to be used aligning optics and assembling sample holders before your experiment
-        is ready to begin the debugging phase.
+        Your experiment block includes time required for set-up and training. For non-standard
+        experiments, unless otherwise arranged, you should expect at least one shift
+        to be used for basic setup before we're ready to begin the debugging phase.
 
     *   Keep your work areas as orderly and free of debris as possible.
-    *   `Collect Your Data <{filename}/pages/users_computing.rst>`_
-
-        It is now becoming more and more common for experiments to generate tens of GB
-        of data. Please be prepared to collect this data so that you can transmit it to your
-        home institution. We recommend a USB 3 1 TB external hard-drive. BioCAT
-        is not supported to supply experimenters with storage media.
 
     *   Relinquish the facilities at the appointed time.
 
@@ -185,16 +212,28 @@ Please also check the `APS new user checklist
         otherwise arranged, you should have your equipment already dismantled and the hutch
         and bio-chem lab cleared by this time.
 
+#.  `Collect your data <{filename}/pages/users_computing.rst>`_
+
+    It is now common for experiments to generate tens of GB (or more)
+    of data. Please be prepared to collect this data so that you can transmit it to your
+    home institution.
+
+    For on-site users we recommend a USB 3 external hard-drive with (a minimum of)
+    1 TB of space. BioCAT does not supply experimenters with storage media.
+
+    For mail-in users (and upon request for on-site users) BioCAT will upload
+    your data to Globus and provide instructions for downloading your data from there.
+
 #.  Complete an End of Experiment Form
 
-    Once your experiment is over, we request that you provide BioCAT and
-    `the APS <https://beam.aps.anl.gov/pls/apsweb/eef002.start_page>`_ with any comments
+    Once your experiment is over, we request that you provide `BioCAT and
+    the APS <https://beam.aps.anl.gov/pls/apsweb/eef002.start_page>`_ with any comments
     and constructive criticisms so that your next experiment can run more efficiently.
 
 #.  Refine Your Experiment
 
     Most of our experimenters return for subsequent experiments. Keep in
-    touch with your  `user liaison <{filename}/pages/contact.rst>`_ and
+    touch with your `scientific contact <{filename}/pages/contact.rst>`_ and
     follow through on proposed modifications to your experiment. It is very
     important that ideas for improving your experiment are not lost between visits.
 
@@ -205,4 +244,22 @@ Please also check the `APS new user checklist
     and notify both the APS and BioCAT of such publications. Peer-reviewed publications
     are are the primary measure of scientific output. Properly documented publications insure
     that funds are available to continue operating the facility.
+
+
+SAXS Specific Information
+============================
+
+In the following video from the Everything BioSAXS workshop, BioCAT Deputy Director
+Jesse Hopkins discusses what you need to know about planning and performing SAXS
+experiments at BioCAT, including getting beamtime
+(`get slides <{static}/files/eb8_lectures/Hopkins_Planning_BioCAT_Experiments.pdf>`_).
+
+.. row::
+
+    .. column::
+        :width: 8
+
+        .. raw:: html
+
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/lBc2hU3-WO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

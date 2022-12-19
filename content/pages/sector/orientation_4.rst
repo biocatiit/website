@@ -41,7 +41,7 @@ include:
 #.  Additions or subtractions in the equipment required for the experiment.
 #.  Adjustments to the protocols (SOP's) outlined in the ESAF.
 
-All users onsite must abide by the experimental plans outlined in their ESAF(s).
+All users on-site must abide by the experimental plans outlined in their ESAF(s).
 The ESAF will be printed by BioCAT staff once all Users are present and ready
 to begin work. Users will be asked to review their ESAF(s) and verify
 participants, samples and chemicals, equipment, and protocols. Your

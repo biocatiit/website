@@ -19,7 +19,7 @@ areas of 'other' (non-BioCAT) beamlines. You may not use any non-BioCAT
 computers except for your personal ones. Doing so constitutes a security
 violation and will be reported to the heads of Argonne Security and investigated.
 If you are found to be in violation of these policies, quite possibly you will
-never be allowed onsite again.
+never be allowed on site again.
 
 As a user of BioCAT, you only have authorized access to those areas of Argonne
 which pertain to your experiment. This includes:

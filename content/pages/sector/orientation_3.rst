@@ -23,7 +23,7 @@ For example:
 #.  A hazardous material chemical spill
 
 Do not hesitate! If you feel that a potentially dangerous situation exists,
-place the call. It will be answered by the ANL Fire Department which is onsite,
+place the call. It will be answered by the ANL Fire Department which is on-site,
 and will also be monitored by the Argonne Protective Force.
 
 Fires, Tornadoes, and Other

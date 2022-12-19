@@ -256,6 +256,33 @@ Welcome to BioCAT
 
                 .. thumbnail::
 
+                    .. image:: {static}/images/news/2022_muslex3_cover.jpg
+                        :class: img-rounded
+
+                    .. caption::
+
+                        :h4:`Register for MuscleX 3: Sarcomeric regulation mechanisms in health and disease`
+
+                        BioCAT is offering its third MuscleX workshop. We will have
+                        an introductory presentation of the scientific missions
+                        supported at BioCAT as well as a series of talks
+                        highlighting recent muscle studies either using X-ray
+                        diffraction or other structural techniques. The workshop
+                        will take place from 5/18/23 to 5/19/23 and will be
+                        entirely virtual (via Zoom).
+
+
+                    .. button:: Learn More
+                        :class: primary block
+                        :target: {filename}/news/2022_musclex3.rst
+
+
+            .. -------------------------------------------------------------------------
+            .. column::
+                :width: 6
+
+                .. thumbnail::
+
                     .. image:: {static}/images/news/2022_eb8_cover.png
                         :class: img-rounded
 
@@ -273,33 +300,6 @@ Welcome to BioCAT
                     .. button:: Learn More
                         :class: primary block
                         :target: {filename}/news/2022_everything_biosaxs8_wrapup.rst
-
-
-            .. -------------------------------------------------------------------------
-            .. column::
-                :width: 6
-
-                .. thumbnail::
-
-                    .. image:: {static}/images/conf.jpg
-                        :class: img-rounded
-
-                    .. caption::
-
-                        :h4:`Striated Muscle Workshop`
-
-                        To promote the use of two NIH P30 Centers that are National Resources for the
-                        study of striated muscle; the Biophysics Collaborative Access Team (BioCAT:
-                        funded by NIGMS) at Argonne National Laboratory and the Center for Translational
-                        Muscle Research (CTMR: funded by NIAMS) are offering Multiscale Structural and
-                        Functional Studies for Striated Muscle workshop following the `Myofilament
-                        Meeting <https://cvrc.wisc.edu/myofilament-conference/#meeting-home>`_ in Madison
-                        Wisconsin.
-
-
-                    .. button:: Learn More
-                        :class: primary block
-                        :target: {filename}/news/2022_muscle_workshop.rst
 
         .. row::
 

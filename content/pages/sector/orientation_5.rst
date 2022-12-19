@@ -16,7 +16,7 @@ Device Inspections
 If you are bringing or have brought any devices (other than laptop/desktop
 computers) to support your experiment, you must notify members of BioCAT staff,
 so that they may be inspected. All electrical/mechanical/high-pressure/other
-devices brought onsite are subject to the Argonne Electrical Safety and
+devices brought on site are subject to the Argonne Electrical Safety and
 Inspection Policy. This means that your devices cannot be connected to
 power until they are approved by an ANL DEEI (Designated Electrical
 Equipment Inspector). Please consult the BioCAT staff before powering up
