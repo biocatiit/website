@@ -29,7 +29,7 @@ this, you may take them when you arrive at the APS/BioCAT, but do understand
 that this will delay the participation of those people not fully trained and
 could delay the start of your experiment.
 
-Please email the `BioCAT Safety Officer <{filename}/pages/contact.rst>`_ , Mark Vukonich, if
+Please email the `BioCAT Safety Officer <{filename}/pages/contact.rst>`_, Mark Vukonich, if
 you have any questions regarding the ESAF or APS Safety Training.
 
 
@@ -84,6 +84,10 @@ your experiment:
     begin. A class IV laser will require all operators to have an ANL-approved off-site
     eye examination.
 
+    Note that BioCAT needs to know ahead of time if you intend to bring a laser
+    (including laster pointers) to the APS. All lasers need to be presented to
+    the BioCAT safety officer upon arrival at the beamline.
+
 *   `Electrical Equipment <https://www.aps.anl.gov/Safety-and-Training/Safety/Electrical-Safety>`_
 
     All electrical equipment which is not certified by a Nationally Recognized Testing
@@ -94,8 +98,17 @@ your experiment:
 ESAF Instructions
 ======================
 
-Below are instructions for filling out and submitting the ESAF. Please remember
-to fill out *ALL* Tabs of the ESAF!
+Below are instructions for filling out and submitting the ESAF.
+
+Start the ESAF by going to the `APS ESAF page <https://beam.aps.anl.gov/pls/apsweb/esaf0001.start_page>`_
+and clicking the "Create New ESAF for Scheduled or Allocated Beam Time" link.
+You will then see a list of scheduled beamtime requests. Select the appropriate one
+by clicking the radio button in the "BTR #" column and then click the button
+which says "Select your action and click here to create ESAF for a SCHEDULED
+beam time request".
+
+Once you have created the ESAF, fill out each tab of the ESAF, paying particular
+attention to the instructions below. Please remember to fill out *ALL* Tabs of the ESAF!
 
 Description Tab
 ----------------------
@@ -148,15 +161,6 @@ Materials Tab
 This tab should contain a complete list of the buffers, chemicals, and samples
 which you intend on bringing or shipping to BioCAT.
 
-Concerning the transport of chemicals – all chemicals must be transported or
-shipped according to the Department of Transportation (DOT) Regulations.
-This is best achieved by consulting with the shipping department of your
-home institution so that they may ship the chemicals according to the hazards
-that they present.  Alternatively, chemicals needed in larger quantities which
-have an associated hazard may be purchased and shipped directly to BioCAT for your
-use while conducting the experiment. See our `shipping page <{filename}/pages/users_shipping.rst>`_
-for more details.
-
 
 *   When listing materials, samples names must be written out in full and (when
     appropriate) the expression system must be included. You should not use
@@ -169,6 +173,15 @@ for more details.
     Select "Y" if you intend on using our facilities to prepare
     your samples. Click on any other tab in the ESAF. A "Lab Use" tab will then
     be generated, which should be filled out.
+
+Concerning the transport of chemicals – all chemicals must be transported or
+shipped according to the Department of Transportation (DOT) Regulations.
+This is best achieved by consulting with the shipping department of your
+home institution so that they may ship the chemicals according to the hazards
+that they present.  Alternatively, chemicals needed in larger quantities which
+have an associated hazard may be purchased and shipped directly to BioCAT for your
+use while conducting the experiment. See our `shipping page <{filename}/pages/users_shipping.rst>`_
+for more details.
 
 
 Equipment Tab
@@ -185,7 +198,7 @@ will appear, which should be filled out.
 Electrical Inspection Tab
 ----------------------------
 
-Contact the `BioCAT Electrical Safety Officer <{filename}/pages/contact.rst>`_ ,
+Contact the `BioCAT Electrical Safety Officer <{filename}/pages/contact.rst>`_,
 Rick Heurich, if you are bringing any electrical equipment. He will help you
 figure out if it needs inspection or not.
 

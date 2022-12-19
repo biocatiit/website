@@ -61,10 +61,10 @@ if they arrive on a weekend or holiday.
 If you would like to ship materials to BioCAT, you should ship to:
 
     | <Scientific Contact's Name>
-    | BioCAT - Argonne National Laboratory
-    | APS/ Sector 18/ 435B
-    | 9700 S. Cass Avenue
-    | Lemont, IL 60439-4860
+    | BioCAT
+    | APS Sector 18, Building 435B
+    | 9700 South Cass Avenue
+    | Argonne, IL 60439
 
 To prepare your package, please note that if you send a styrofoam container, it
 needs to have an outer cardboard box. All shipping boxes should be labeled with
