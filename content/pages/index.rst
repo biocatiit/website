@@ -256,6 +256,35 @@ Welcome to BioCAT
 
                 .. thumbnail::
 
+                    .. image:: {static}/images/news/2023_eb9_cover.png
+                        :class: img-rounded
+
+                    .. caption::
+
+                        :h4:`Register for Everything BioSAXS 9 Workshop`
+
+                        BioCAT is offering its ninth intensive HOW-TO course in BioSAXS.
+                        Students will have four days of virtual lectures and hands-on
+                        software tutorials on the basics of BioSAXS data collection and
+                        processing from expert practitioners in the field. Students will
+                        also be able to mail in samples for data collection on the BioCAT
+                        beamline (Sector 18 at the APS) before the course, and there will
+                        be time during the workshop to get help with analysis of their own
+                        data. The course will take place from 2/28/23 to 3/3/23 and is entirely
+                        virtual (via Zoom). See the schedule below for details.
+
+
+                    .. button:: Learn More
+                        :class: primary block
+                        :target: {filename}/news/2023_everything_biosaxs9.rst
+
+
+            .. -------------------------------------------------------------------------
+            .. column::
+                :width: 6
+
+                .. thumbnail::
+
                     .. image:: {static}/images/news/2022_muslex3_cover.jpg
                         :class: img-rounded
 
@@ -275,31 +304,6 @@ Welcome to BioCAT
                     .. button:: Learn More
                         :class: primary block
                         :target: {filename}/news/2022_musclex3.rst
-
-
-            .. -------------------------------------------------------------------------
-            .. column::
-                :width: 6
-
-                .. thumbnail::
-
-                    .. image:: {static}/images/news/2022_eb8_cover.png
-                        :class: img-rounded
-
-                    .. caption::
-
-                        :h4:`Everything BioSAXS 8 Workshop Wrap-up`
-
-                        BioCAT held its seventh BioSAXS training course from 6/21/22-6/24/22.
-                        There were 36 remote participants and 8 instructors. The workshop was held
-                        entirely online, via Zoom, for ~5 hours each day. Before the workshop
-                        started, participants were able to mail samples to BioCAT for SAXS data collection.
-                        This data was then sent to them, and they were able to analyze it as part of the
-                        workshop.
-
-                    .. button:: Learn More
-                        :class: primary block
-                        :target: {filename}/news/2022_everything_biosaxs8_wrapup.rst
 
         .. row::
 
