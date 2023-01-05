@@ -126,14 +126,13 @@ the experiment.
 *   The three user categories that you have to choose from are:
 
     #.  *Mail-in* - A user who will be shipping their samples and buffers to
-        BioCAT.  The experiment will be conducted by one of our Scientific Staff.
-        No one from your group will be attending the beamtime experiment in-person.
+        BioCAT.
 
     #.  *Off-site/Co-proposer* - A user who is a collaborator, but this person
         has not been directly involved in the sample preparation or other aspects of
         the experiment.
 
-    #.  *Onsite* ->  A user who plans on being at BioCAT for the duration of
+    #.  *Onsite* - A user who plans on being at BioCAT for the duration of
         their experiment to actively participate in the preparation and
         data-collection process.
 
@@ -144,15 +143,16 @@ the experiment.
 
 *   On this tab choose a Spokesperson (SP) for this experiment. This will be the user
     who has prepared the ESAF and can personally verify that all information
-    contained therein is accurate and true.
+    contained therein is accurate and true. The spokesperson must be an (if
+    possible) onsite user or a mail-in user, not an off-site/co-proposer.
 
-*   If you will be a Mail-in user (note: BioCAT does currently support Remote-User experiments)
-    you must electronically sign the ESAF on the 'Experimenters' Tab to
-    personally verify that the statements and Materials declared in your
-    ESAF are correct - there will be a link in the top third of the page that
-    says, in red: "An Electronic Signature is required for this ESAF.
-    A person designated as an "SP" must provide the signature.  Click to
-    provide the Signature."
+*   If all users on the proposal are mail-in users (note: BioCAT does currently
+    support Remote-User experiments) you must electronically sign the ESAF on
+    the 'Experimenters' Tab to personally verify that the statements and
+    Materials declared in your ESAF are correct - there will be a link in the
+    top third of the page that says, in red: "An Electronic Signature is
+    required for this ESAF. A person designated as an "SP" must provide the
+    signature.  Click to provide the Signature."
 
 
 Materials Tab
