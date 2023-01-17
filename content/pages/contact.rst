@@ -27,7 +27,7 @@ Contact BioCAT
         | BioCAT
         | APS Sector 18, Building 435B
         | 9700 South Cass Ave.
-        | Argonne, IL 60439
+        | Lemont, IL 60439
 
     .. column::
         :width: 4
