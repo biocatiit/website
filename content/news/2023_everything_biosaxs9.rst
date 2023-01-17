@@ -45,9 +45,9 @@ tutorials, and will have time to get help with analysis of the data collected
 from their mail-in samples. They will also receive downloads of all course
 materials, including lecture slides and tutorials.
 
-**Note: T﻿his course is intended for researchers interested in scattering from
-monodisperse biological macromolecules. It ​is ​NOT ​for ​soft ​matter ​materials ​
-or systems which ​are ​polydisperse.**
+**Note: This course is intended for researchers interested in scattering from
+monodisperse biological macromoleculesin solution. It is NOT for soft matter,
+materials, or systems which are polydisperse.**
 
 Registration will be limited to 30 participants in order to allow for data
 collection and one-on-one and/or small-group interactions between participants
@@ -97,7 +97,10 @@ Confirmed speakers:
 *   Max Watkins (BioCAT, APS)
 *   Richard Gillilan (MacCHESS, CHESS)
 *   Thomas Grant (U. Buffalo)
+*   Kushol Gupta (U. Pennsylvania)
 *   Steve Meisburger (Cornell U.)
+*   Tanja Mittag (St. Jude)
+*   Susana Teixeira (U. Delaware/NIST Center for Neutron Research)
 
 Tentative schedule
 ^^^^^^^^^^^^^^^^^^^^
@@ -140,7 +143,7 @@ Note: All times are Central Standard Time (UTC-6)
     =========== ======================================================================================================================
     10:00 am    Advanced analysis: Reconstructions and model fitting
     10:45 am    Publishing your SAXS data
-    11:00 am    Time resolved SAXS
+    11:00 am    Advanced topic: SAXS and SANS
     11:45 am    Tutorial: Reconstructions and model fitting
     02:15 pm    End
     =========== ======================================================================================================================
@@ -150,11 +153,11 @@ Note: All times are Central Standard Time (UTC-6)
 .. class:: table-hover
 
     =========== ======================================================================================================================
-    10:00 am    Advanced analysis: Introduction to rigid body modeling
-    10:45 am    Advanced analysis: Introduction to flexibility and ensemble modeling
-    11:30 am    Advanced topic: TBD
+    10:00 am    Advanced analysis: Introduction to flexibility and ensemble modeling
+    10:45 am    Advanced analysis: Introduction to rigid body modeling
+    11:30 am    Advanced topic: SAXS used to study liquid-liquid phase separation (LLPS)
     12:15 am    Break
-    12:45 pm    Advanced topic: TBD
+    12:45 pm    Advanced topic: Time resolved SAXS
     01:30 pm    Hands-on: Data analysis of participant's data
     02:30 pm    Planning experiments at BioCAT
     02:45 pm    Wrap up and final Q&A
