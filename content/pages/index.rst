@@ -271,7 +271,7 @@ Welcome to BioCAT
                         beamline (Sector 18 at the APS) before the course, and there will
                         be time during the workshop to get help with analysis of their own
                         data. The course will take place from 2/28/23 to 3/3/23 and is entirely
-                        virtual (via Zoom). See the schedule below for details.
+                        virtual (via Zoom).
 
 
                     .. button:: Learn More

@@ -80,11 +80,11 @@ Available instrumentation:
         *   Eppendorf 5415C Microfuge
         *   Sorvall Swing-bucket Centrifuge (15 & 50 mL adaptors)
         *   Beckman J-25 Centrifuge with JA-20.1 rotor
-        *   Beckman Airfuge
         *   Isotemp 210 Water bath
         *   Isotemp 3006 Circulating bath
         *   Heating block
         *   Vacuum filtration and degassing setup
+        *   Stir plates and hotplates
 
     .. column::
         :width: 6

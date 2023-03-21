@@ -46,7 +46,7 @@ from their mail-in samples. They will also receive downloads of all course
 materials, including lecture slides and tutorials.
 
 **Note: This course is intended for researchers interested in scattering from
-monodisperse biological macromoleculesin solution. It is NOT for soft matter,
+monodisperse biological macromolecules in solution. It is NOT for soft matter,
 materials, or systems which are polydisperse.**
 
 Registration will be limited to 30 participants in order to allow for data
