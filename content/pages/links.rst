@@ -50,7 +50,7 @@ Useful Links
         *   `ATSAS <https://www.embl-hamburg.de/biosaxs/software.html>`_
         *   `CCP-SAS <http://www.ccpsas.org/>`_
         *   `SAXS on IDPs <http://sosnick.uchicago.edu/SAXSonIDPs>`_
-        *   `ScÅtter <http://www.bioisis.net/tutorials/9>`_
+        *   `ScÅtter <https://bl1231.als.lbl.gov/scatter/>`_
 
 .. row::
 

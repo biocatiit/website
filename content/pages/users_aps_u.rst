@@ -12,9 +12,7 @@ the new APS-U ring will provide about 100 times greater brightness than is
 currently available. This will provide both increased flux and reduced beam
 sizes for all APS beamlines, including BioCAT 18ID.
 
-Below we provide a brief overview of our plans for this upgrade, and how it will
-affect our users. This page will be updated with more information and resources
-as our plans develop.
+`Find out more about the APS-U project <https://aps.anl.gov/APS-Upgrade>`_
 
 
 
