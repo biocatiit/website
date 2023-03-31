@@ -37,8 +37,8 @@ If you want to know more about this BioCAT supported time at other facilities
 
 Users are also encouraged to directly apply to different SAXS beamlines for 
 time if their experiments can't be accommodated in our focused slots these 
-other facilities. BioCAT staff are happy to assist with here as we can, such 
-as with experiment planning and data analysis.
+other facilities. BioCAT staff are happy to assist with these experiments as we can,
+such as with experiment planning and data analysis.
 
 General notes
 ^^^^^^^^^^^^^^^^^^^
