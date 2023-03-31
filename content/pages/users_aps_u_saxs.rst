@@ -62,6 +62,10 @@ General notes
     measurable at other beamlines, so check the q ranges for each beamline if
     you have large objects
 
+*   BioCAT currently does not plan to do time resolved experiments using our
+    setup at any other beamline during the dark period, due to limitations of
+    experimental capabilities at other beamlines and/or available beamtime.
+
 
 Other beamlines
 =====================================
