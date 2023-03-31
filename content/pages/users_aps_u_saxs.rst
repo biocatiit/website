@@ -126,7 +126,7 @@ Available modes:
     *   ATKA pure FPLC
     *   Columns: Superdex 200 Increase 10/300 GL and 5/150,
         Superdex 75 Increase 10/300, Superose 6 Increase 5/150
-    *   Temperature: 4 C
+    *   Temperature: 4 C standard, RT possible upon request
 
 Specialized capabilities:
 
