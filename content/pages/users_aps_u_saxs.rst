@@ -70,7 +70,7 @@ General notes
 Other beamlines
 =====================================
 
-BL4-3, Stanford Synchrotron Radiation Light Source (SSRL), SLAC National Accelerator Lab (Menlo Park, CA)
+BL4-2, Stanford Synchrotron Radiation Light Source (SSRL), SLAC National Accelerator Lab (Menlo Park, CA)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Webpage: `https://www-ssrl.slac.stanford.edu/smb-saxs/content/bl4-2 <https://www-ssrl.slac.stanford.edu/smb-saxs/content/bl4-2>`_
