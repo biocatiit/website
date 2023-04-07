@@ -258,34 +258,6 @@ Welcome to BioCAT
 
         .. row::
 
-            .. -------------------------------------------------------------------------
-            .. column::
-                :width: 6
-
-                .. thumbnail::
-
-                    .. image:: {static}/images/news/2023_eb9_cover.png
-                        :class: img-rounded
-
-                    .. caption::
-
-                        :h4:`Register for Everything BioSAXS 9 Workshop`
-
-                        BioCAT is offering its ninth intensive HOW-TO course in BioSAXS.
-                        Students will have four days of virtual lectures and hands-on
-                        software tutorials on the basics of BioSAXS data collection and
-                        processing from expert practitioners in the field. Students will
-                        also be able to mail in samples for data collection on the BioCAT
-                        beamline (Sector 18 at the APS) before the course, and there will
-                        be time during the workshop to get help with analysis of their own
-                        data. The course will take place from 2/28/23 to 3/3/23 and is entirely
-                        virtual (via Zoom).
-
-
-                    .. button:: Learn More
-                        :class: primary block
-                        :target: {filename}/news/2023_everything_biosaxs9.rst
-
 
             .. -------------------------------------------------------------------------
             .. column::
@@ -312,6 +284,33 @@ Welcome to BioCAT
                     .. button:: Learn More
                         :class: primary block
                         :target: {filename}/news/2022_musclex3.rst
+
+            .. -------------------------------------------------------------------------
+            .. column::
+                :width: 6
+
+                .. thumbnail::
+
+                    .. image:: {static}/images/news/2023_eb9_group.png
+                        :class: img-rounded
+
+                    .. caption::
+
+                        :h4:`Everything BioSAXS 9 Wrap-up`
+
+                        BioCAT held its ninth intensive HOW-TO course in BioSAXS from
+                        2/28/22-3/3/23 with 32 remote participants. There were four
+                        days of lectures and hands-on software tutorials on the basics of
+                        BioSAXS data collection and processing from expert practitioners
+                        in the field. Participants could elect to mail in samples for data
+                        collection prior to the course, and roughly half of them sent
+                        research samples and were able to analyze their own data as part
+                        of the workshop.
+
+
+                    .. button:: Learn More
+                        :class: primary block
+                        :target: {filename}/news/2023_everything_biosaxs9_wrapup.rst
 
         .. row::
 
