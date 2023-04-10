@@ -46,7 +46,7 @@ experiments, and help users analyze data as appropriate. BioCAT staff will make
 multiple trips to these facilities to help do specific kinds of experiments.
 This will be particularly important for muscle diffraction experiments.
 
-More information on muscle experiments at other facilities will be available soon.
+`Learn more about muscle experiments at other facilities <{filename}/pages/users_aps_u_fiber.rst>`_
 
 Benefits of APS-U for BioCAT users
 =====================================
