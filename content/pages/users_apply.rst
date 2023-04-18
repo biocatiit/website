@@ -11,9 +11,9 @@ Getting beamtime at BioCAT
     APS-U dark period the BioCAT beamline will be unavailable for x-ray experiments.
     We anticipate resuming user experiments in summer/fall of 2024.
 
-    `Find out more about the APS-U <{filename}/pages/users_aps_u.rst>`_
-
-    `SAXS experiments during the APS-U dark period <{filename}/pages/users_aps_u_saxs.rst>`_
+    Find out more about: `the APS-U <{filename}/pages/users_aps_u.rst>`_;
+    `SAXS experiments during the APS-U dark period; <{filename}/pages/users_aps_u_saxs.rst>`_
+    `Fiber experiments during the APS-U dark period. <{filename}/pages/users_aps_u_fiber.rst>`_
 
 .. contents::
 

@@ -34,8 +34,8 @@ and users can also directly apply for beamtime with these facilities at any time
 
 `Learn more about SAXS experiments at other facilities <{filename}/pages/users_aps_u_saxs.rst>`_
 
-Muscle experiments
-^^^^^^^^^^^^^^^^^^^^
+Fiber diffraction experiments
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 We have made arrangements with beamlines at the SSRL and MacCHESS to run user
 experiments on their beamlines during this dark period. Users will be able to
@@ -46,7 +46,7 @@ experiments, and help users analyze data as appropriate. BioCAT staff will make
 multiple trips to these facilities to help do specific kinds of experiments.
 This will be particularly important for muscle diffraction experiments.
 
-`Learn more about muscle experiments at other facilities <{filename}/pages/users_aps_u_fiber.rst>`_
+`Learn more about fiber diffraction experiments at other facilities <{filename}/pages/users_aps_u_fiber.rst>`_
 
 Benefits of APS-U for BioCAT users
 =====================================
