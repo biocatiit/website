@@ -75,7 +75,7 @@ Confirmed speakers (chronologically):
 *   Ilaria Morotti (U Florence, Italy)
 *   Saffie Mohran (University of Washington, USA)
 *   Neil Kad (University of Kent, UK)
-*   Debabrata Dutta (UMass Chan Medical School, USA)
+*   Davide Tamborrini (Max Planck Institute of Molecular Physiology, Germany)
 *   Anthony Hessel (University of Muenster, Germany)
 *   Caterina Squarci (U Florence, Italy)
 *   Maicon Landim-Vieira (Florida State University, USA)
@@ -102,7 +102,7 @@ Note: All times are Central Daylight Time (UTC-5)
     12:00 pm    Break
     12:30 pm    Biochemically-defined super-relaxed and disordered-relaxed state can be decoupled from  the structurally-defined OFF and ON state     Saffie Mohran
     01:10 pm    Single-molecule imaging reveals how mavacamten and PKA modulate ATP turnover in myofibrils                                            Neil Kad
-    01:50 pm    Cryo-EM structure of human cardiac myosin filament                                                                                    Debabrata Dutta
+    01:50 pm    In situ structures from relaxed cardiac myofibrils reveal the organization of the muscle thick filament                               Davide Tamborrini
     02:30 pm    Breakout sessions for discussion
     =========== ===================================================================================================================================== ================
 
