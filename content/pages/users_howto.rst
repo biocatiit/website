@@ -48,7 +48,7 @@ Everything BioSAXS Workshop Videos and Slides
 
 *   `Video: Introduction to SAXS <https://youtu.be/wdJTK4TF3hE>`_ (`get intro slides <{static}/files/eb6_lectures/Gillilan_SAXS_Overview.pdf>`_)
 *   `Video: SAXS Sample Preparation <https://youtu.be/uWonjUMrKI8>`_ (`get sample prep slides <{static}/files/eb5_lectures/Gupta_Planning_and_performaing_SAXS_experiments.pdf>`_)
-*   `Video: Basic SAXS data analysis and validation <https://youtu.be/fbPPbaJrcoM>`_ (`get basic analysis slides <{static}/files/eb5_lectures/Hopkins_Basic_data_validation_and_analysis.pdf>`_)
+*   `Video: Basic SAXS data analysis and validation <https://youtu.be/8pgdRiEDGBQ>`_ (`get basic analysis slides <{static}/files/eb9_lectures/Hopkins_Basic_Data_Validation_and_Analysis.pdf>`_)
 *   `Video: SEC-SAXS <https://www.youtube.com/watch?v=aoth3Fq7DCE>`_ (`get SEC-SAXS slides <{static}/files/eb7_lectures/Meisburger_SEC_SAXS.pdf>`_)
 *   `Video: 3D reconstructions and model fitting of SAXS data <https://youtu.be/o5SvT4E4cvw>`_ (`get 3D reconstruction slides <{static}/files/eb8_lectures/Grant_3D_Reconstructions_and_Model_Fitting.pdf>`_)
 *   `Video: SEC-SAXS and advanced SAXS analysis <https://youtu.be/6k_-l8OHaPw>`_ (`get advanced analysis slides <{static}/files/eb5_lectures/Gupta_Advanced_data_analysis.pdf>`_)
@@ -60,4 +60,5 @@ Everything BioSAXS Workshop Videos and Slides
 *   `Video: Time Resolved SAXS of Liquid-Liquid Phase Separation (LLPS) <https://youtu.be/MlSlIGTk2L8>`_ (`get TR-SAXS of LLPS slides <{static}/files/eb8_lectures/Martin_Conformations_Dynamics_and_Phase_Separation_of_Disordered_Proteins.pdf>`_)
 *   `Video: SAXS on Intrinsically Disordered Proteins (IDPS) <https://youtu.be/l1wruETgVmw>`_ (`get IDP slides <{static}/files/eb5_lectures/Sosnick_Flexible_systems_and_intrinsically_disordeded_proteins.pdf>`_)
 *   `Video: SAXS on Membrane Proteins <https://youtu.be/ln04wIuzkmo>`_ (`get membrane protein slides <{static}/files/eb6_lectures/Perez_Membrane_protein_SAXS.pdf>`_)
+*   `Video: Small Angle Neutron Scattering (SANS) <https://youtu.be/y09Vd2sKBFQ>`_ (`get SANS slides <{static}/files/eb9_lectures/Teixeira_SANS.pdf>`_)
 *   `Video: How to get SAXS Beam Time at BioCAT <https://youtu.be/lBc2hU3-WO4>`_ (`get SAXS beam time slides <{static}/files/eb8_lectures/Hopkins_Planning_BioCAT_Experiments.pdf>`_)
