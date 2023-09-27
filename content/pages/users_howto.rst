@@ -58,6 +58,7 @@ Everything BioSAXS Workshop Videos and Slides
 *   `Video: Using Molecular Dynamics (MD) to Interpret SAXS Data <https://youtu.be/J_zJw_99mKc>`_ (`get MD-SAXS slides <{static}/files/eb8_lectures/Wereszczynski_Molecular_Dynamics_Simulations_to_Interpret_SAXS_Experiments.pdf>`_)
 *   `Video: Time Resolved SAXS <https://youtu.be/fwVcoZCsPKY>`_ (`get TR-SAXS slides <{static}/files/eb8_lectures/Hopkins_Time_Resolved_SAXS.pdf>`_)
 *   `Video: Time Resolved SAXS of Liquid-Liquid Phase Separation (LLPS) <https://youtu.be/MlSlIGTk2L8>`_ (`get TR-SAXS of LLPS slides <{static}/files/eb8_lectures/Martin_Conformations_Dynamics_and_Phase_Separation_of_Disordered_Proteins.pdf>`_)
+*   `Video: Using SAXS to study biomolecular phase separation <https://youtu.be/4tgTxo_BdVI>`_ (`get phase separation slides <{static}/files/eb9_lectures/Mittag_SAXS_to_study_biomolecular_phase_separation.pdf>`_)
 *   `Video: SAXS on Intrinsically Disordered Proteins (IDPS) <https://youtu.be/l1wruETgVmw>`_ (`get IDP slides <{static}/files/eb5_lectures/Sosnick_Flexible_systems_and_intrinsically_disordeded_proteins.pdf>`_)
 *   `Video: SAXS on Membrane Proteins <https://youtu.be/ln04wIuzkmo>`_ (`get membrane protein slides <{static}/files/eb6_lectures/Perez_Membrane_protein_SAXS.pdf>`_)
 *   `Video: Small Angle Neutron Scattering (SANS) <https://youtu.be/y09Vd2sKBFQ>`_ (`get SANS slides <{static}/files/eb9_lectures/Teixeira_SANS.pdf>`_)
