@@ -270,20 +270,16 @@ Welcome to BioCAT
 
                     .. caption::
 
-                        :h4:`Register for MuscleX 3: Sarcomeric regulation mechanisms in health and disease`
+                        :h4:`MuscleX 3 wrapup`
 
-                        BioCAT is offering its third MuscleX workshop. We will have
-                        an introductory presentation of the scientific missions
-                        supported at BioCAT as well as a series of talks
-                        highlighting recent muscle studies either using X-ray
-                        diffraction or other structural techniques. The workshop
-                        will take place from 5/18/23 to 5/19/23 and will be
-                        entirely virtual (via Zoom).
+                        BioCAT offered its third MuscleX workshop entitled “Sarcomeric regulation
+                        mechanisms in health and disease” from May 18 -19 2023. This entirely virtual
+                        workshop had 200 registered attendees.
 
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/news/2022_musclex3.rst
+                        :target: {filename}/news/2023_musclex_3_wrapup.rst
 
             .. -------------------------------------------------------------------------
             .. column::

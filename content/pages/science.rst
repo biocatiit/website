@@ -6,16 +6,51 @@ Science
 
 BioCAT is a mature user facility that `supports several types of experiments <{filename}/pages/about_biocat.rst>`_.
 One measure of the facility's scientific impact is the number and quality of the
-publications produced. As of August 2019, the Web of Science
-shows that the facility and its users had published more than 500 articles, which had
-been cited more than 20000 times with an average number of citations per article
-around 40.
+publications produced. As of October 2023, the facility and its users had
+published more than 600 articles, which had been cited more than 28,000 times
+with an average number of citations per article around 46.
 
 `A list of all BioCAT publications can be found in the APS database
 <https://beam.aps.anl.gov/pls/apsweb/pub_V2_0006.query_results?i_beamline=134&I_DISCIPLINE_M=9999&i_order_by_radio=YEAR>`_
 
 When you publish your science from BioCAT, please follow
 `the guidelines <{filename}/pages/users_publications.rst>`_.
+
+
+Workshops
+========================
+
+BioCAT organizes occasional topic focused science workshops (in contrast to our
+more general training workshops). Videos from lectures at these workshop are listed below
+
+MuscleX 3: Sarcomeric regulation mechanisms in health and disease
+-------------------------------------------------------------------
+
+* `Welcome and introduction to scientific missions at BioCAT by
+  Thomas Irving <https://youtu.be/LRhcW2Dn1ys>`_
+* `Thick filament regulation in porcine  myocardium by Weikang Ma
+  <https://youtu.be/NuJxRmN6EGM>`_
+* `The structurally-defined OFF and ON state can be decoupled with
+  biochemically-defined super-relaxed and disordered-relaxed state by Saffie
+  Mohran <https://youtu.be/HzgQyfAf3Co>`_
+* `Single-molecule imaging of thick filament regulation in myofibrils by
+  Neil Kad <https://youtu.be/FTEk10PFe10>`_
+* `In situ structures from relaxed cardiac myofibrils reveal the organization
+  of the muscle thick filament by Davide Tamborrini <https://youtu.be/cs_WbMhXEHs>`_
+* `Titin activates myosin filaments in skeletal muscle by switching from an
+  extensible spring to a mechanical rectifier by Caterina Squarci
+  <https://youtu.be/cO3MNPbf_8E>`_
+* `Cardiac Troponin T N-domain variant destabilizes the actin interface
+  resulting in disturbed myofilament function by Maicon Landim-Vieira
+  <https://youtu.be/W4Uk47AhYH4>`_
+* `Minding the Gap:  Myosin Binding Protein C steps over the Interfilament
+  Space by Samantha Harris <https://youtu.be/F_7VY1QKMaE>`_
+* `Right Ventricular Cardiomyocyte Sarcomere Dysfunction and Deficient Thick
+  Filament Activation in Human Heart Failure with Right Ventricular Dysfunction
+  by Vivek Jani <https://youtu.be/0D7KY2kQAqY>`_
+* `Myosin activator Danicamtiv increases myosin recruitment and alters the
+  chemomechanical cross bridge cycle in cardiac muscle by Farid
+  Moussavi-Harami <https://youtu.be/7SkGb-I1SIE>`_
 
 
 Science Highlights
