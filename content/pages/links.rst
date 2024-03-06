@@ -64,16 +64,20 @@ Useful Links
         *   `MX <http://mx.iit.edu/>`_
         *   `EPICS <https://www.aps.anl.gov/epics/>`_
 
+        :h3:`Illinois Institute of Technology`
+
+        *   `Illinois Institute of Technology <https://www.iit.edu/>`_
+        *   `CSRRI <https://web.iit.edu/csrri>`_
+
     .. column::
         :width: 6
 
         :h3:`National Institutes of Health`
 
         *   `National Institute of General Biomedical Sciences (NIGMS) <https://www.nigms.nih.gov/>`_
-        *   `Biomedical Technology Development and Dissemination Centers (BTDD) <https://www.nigms.nih.gov/about/overview/BBCB/biomedicaltechnology/Pages/btdd.aspx>`_
-        *   `NIH National and Regional Resources (R24) Program <https://nigms.nih.gov/Research/mechanisms/Pages/NIGMS-National-and-Regional-Resources-(R24)-Program---Funded-Resources.aspx>`_
+        *   `NIGMS Mature Synchrotron Resources (P30) <https://www.nigms.nih.gov/grants/Pages/Mature-Synchrotron-Resources.aspx>`_
+        *   `NIGMS Biomedical Technology Optimization and and Dissemination (BTOD) Centers (RM1) <https://www.nigms.nih.gov/about/overview/BBCB/biomedicaltechnology/Pages/btdd.aspx>`_
+        *   `NIGMS National and Regional Resources Program (R24) <https://nigms.nih.gov/Research/mechanisms/Pages/NIGMS-National-and-Regional-Resources-(R24)-Program---Funded-Resources.aspx>`_
+        *   `NIGMS Biomedical Technology Research Resource (BTRR) Centers (P41) <https://www.nigms.nih.gov/about/overview/BBCB/biomedicaltechnology/Pages/biomedicaltechnologyresearchresources.aspx>`_
 
-        :h3:`Illinois Institute of Technology`
 
-        *   `Illinois Institute of Technology <https://www.iit.edu/>`_
-        *   `CSRRI <https://web.iit.edu/csrri>`_
