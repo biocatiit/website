@@ -256,27 +256,24 @@ Welcome to BioCAT
 
                 .. thumbnail::
 
-                    .. image:: {static}/images/news/2023_eb9_cover.png
+                    .. image:: {static}/images/news/2024_aca_sas_workshop.png
                         :class: img-rounded
 
                     .. caption::
 
-                        :h4:`Register for Everything BioSAXS 9 Workshop`
+                        :h4:`Register for ACA SAS Workshop`
 
-                        BioCAT is offering its ninth intensive HOW-TO course in BioSAXS.
-                        Students will have four days of virtual lectures and hands-on
-                        software tutorials on the basics of BioSAXS data collection and
-                        processing from expert practitioners in the field. Students will
-                        also be able to mail in samples for data collection on the BioCAT
-                        beamline (Sector 18 at the APS) before the course, and there will
-                        be time during the workshop to get help with analysis of their own
-                        data. The course will take place from 2/28/23 to 3/3/23 and is entirely
-                        virtual (via Zoom). See the schedule below for details.
+                        BioCAT is helping organize an introductory small angle scattering
+                        workshop at the 2024 ACA Annual Meeting in Denver CO.
+                        The workshop will introduce both the theory of the method and best
+                        practices common to the field and will include lectures and a
+                        selection of hands-on practical exercises from leading experts
+                        in the field. The course will take place on July 7th, 2024.
 
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/news/2023_everything_biosaxs9.rst
+                        :target: {filename}/news/2024_aca_sas_workshop.rst
 
 
             .. -------------------------------------------------------------------------
@@ -285,25 +282,20 @@ Welcome to BioCAT
 
                 .. thumbnail::
 
-                    .. image:: {static}/images/news/2022_muslex3_cover.jpg
+                    .. image:: {static}/images/news/2024_ma_grant.jpeg
                         :class: img-rounded
 
                     .. caption::
 
-                        :h4:`Register for MuscleX 3: Sarcomeric regulation mechanisms in health and disease`
+                        :h4:`BioCAT scientist gets grant to study inherited cardiac conditions`
 
-                        BioCAT is offering its third MuscleX workshop. We will have
-                        an introductory presentation of the scientific missions
-                        supported at BioCAT as well as a series of talks
-                        highlighting recent muscle studies either using X-ray
-                        diffraction or other structural techniques. The workshop
-                        will take place from 5/18/23 to 5/19/23 and will be
-                        entirely virtual (via Zoom).
+                        BioCAT scientist Weikang Ma was awarded a five year $2 million
+                        grant from the NIH to study inherited cardiac conditions.
 
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/news/2022_musclex3.rst
+                        :target: {filename}/news/2024_ma_grant.rst
 
         .. row::
 
