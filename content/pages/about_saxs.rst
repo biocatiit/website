@@ -54,8 +54,9 @@ multi-wavelength UV detector. The beamline also has the following GE columns ava
 for users, though users are encouraged to bring their own columns to address potential
 cross contamination and reproducibility issues:
 
-*   Superdex 200 Increase, both 10/300 and 5/150 (MW ~10-600 kDa)
+*   Superdex 30 Increase 10/300 (MW ~0.1-7 kDa)
 *   Superdex 75 Increase, both 10/300 and 5/150 (MW ~3-70 kDa)
+*   Superdex 200 Increase, both 10/300 and 5/150 (MW ~10-600 kDa)
 *   Superose 6 Increase, both 10/300 and 5/150 (MW ~5-5,000 kDa)
 
 SEC-MALS-SAXS
@@ -81,8 +82,9 @@ BioCAT provides two Agilent Infinity II HPLCs each with a Wyatt DAWN HELEOS II M
 (17 channels LS, plus 1 DLS) detector, and a Wyatt Optilab T-rEX dRI detector.
 The beamline also has the following columns available for users:
 
-*   Superdex 200 Increase 10/300 (MW ~10-600 kDa)
+*   Superdex 30 Increase 10/300 (MW ~0.1-7 kDa)
 *   Superdex 75 Increase 10/300 (MW ~3-70 kDa)
+*   Superdex 200 Increase 10/300 (MW ~10-600 kDa)
 *   Superose 6 Increase 10/300 (MW ~5-5,000 kDa)
 *   Wyatt 010S5 100Å (MW range 0.1-100 kDa)
 *   Wyatt 015S5 150Å (MW range 0.5-150 kDa)

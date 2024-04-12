@@ -168,8 +168,8 @@ What column should I use?
 BioCAT provides a number of columns for users. Typically, users will use one
 of these:
 
-*   Superdex 200 Increase, both 10/300 and 5/150 (MW ~10-600 kDa)
 *   Superdex 75 Increase, both 10/300 and 5/150 (MW ~3-70 kDa)
+*   Superdex 200 Increase, both 10/300 and 5/150 (MW ~10-600 kDa)
 *   Superose 6 Increase, both 10/300 and 5/150 (MW ~5-5,000 kDa)
 
 Generally speaking, pick the column with the narrowest MW range that can
