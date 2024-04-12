@@ -1,4 +1,4 @@
-BioCAT Scientist gets grant to study inherited cardiac conditions
+BioCAT scientist gets grant to study inherited cardiac conditions
 ######################################################################################################
 
 :date: 2024-02-21
