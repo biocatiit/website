@@ -18,25 +18,25 @@ directly apply for beamtime with these facilities at any time.
 BioCAT supported beamtime
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-BioCAT beamline scientists will work with other facilities to support a limited 
-number of user experiments during the dark period. The goal is to help alleviate 
-burden on facility staff due to a possible increased user demand on other 
-facilities. Every few months BioCAT will work with a different beamline to 
-schedule about a week of time at the beamline. BioCAT will solicit interest 
-from our users, help them plan the experiments, and then the users will apply 
-directly to the facility for beamtime. Assuming enough of BioCAT users get 
-awarded beamtime, the facility will schedule the BioCAT users as a contiguous 
-block of time. A BioCAT scientist will travel to the facility during that block 
-to help support our users' experiments. We will also assist them after the 
-experiment with data processing/analysis as needed. These BioCAT blocks at a 
-given facility will be announced through our user mailing list. 
+BioCAT beamline scientists will work with other facilities to support a limited
+number of user experiments during the dark period. The goal is to help alleviate
+burden on facility staff due to a possible increased user demand on other
+facilities. Every few months BioCAT will work with a different beamline to
+schedule about a week of time at the beamline. BioCAT will solicit interest
+from our users, help them plan the experiments, and then the users will apply
+directly to the facility for beamtime. Assuming enough of BioCAT users get
+awarded beamtime, the facility will schedule the BioCAT users as a contiguous
+block of time. A BioCAT scientist will travel to the facility during that block
+to help support our users' experiments. We will also assist them after the
+experiment with data processing/analysis as needed. These BioCAT blocks at a
+given facility will be announced through our user mailing list.
 
 
-If you want to know more about this BioCAT supported time at other facilities 
+If you want to know more about this BioCAT supported time at other facilities
 `contact Max Watkins <{filename}/pages/contact.rst>`_.
 
-Users are also encouraged to directly apply to different SAXS beamlines for 
-time if their experiments can't be accommodated in our focused slots these 
+Users are also encouraged to directly apply to different SAXS beamlines for
+time if their experiments can't be accommodated in our focused slots these
 other facilities. BioCAT staff are happy to assist with these experiments as we can,
 such as with experiment planning and data analysis.
 
@@ -79,7 +79,6 @@ Contacts:
 
 *   Thomas Weiss: `weiss@slac.stanford.edu <weiss@slac.stanford.edu>`_
 *   Tsutomu Matsui: `tmatsui@slac.stanford.edu <tmatsui@slac.stanford.edu>`_
-*   Ivan Rajkovic: `rajkovic@slac.stanford.edu <rajkovic@slac.stanford.edu>`_
 
 Available modes:
 
@@ -114,7 +113,6 @@ Website: `https://www.chess.cornell.edu/index.php/macchess/biosaxs <https://www.
 
 Contacts:
 
-*   Richard Gillilan: `reg8@cornell.edu <reg8@cornell.edu>`_
 *   Qingqui Huang: `qh24@cornell.edu <qh24@cornell.edu>`_
 
 Available modes:

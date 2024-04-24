@@ -4,10 +4,16 @@ Welcome to BioCAT
 :url:
 :save_as: index.html
 
-.. alert:: BioCAT is now able to run all standard experiments. All on site
-    users must follow the current COVID-19 guidelines:
-    `https://aps.anl.gov/Users-Information/Updates/Covid-Rule-Regulations <https://aps.anl.gov/Users-Information/Updates/Covid-Rule-Regulations>`_
+.. alert::
     :type: warning
+
+    The APS is shutting down on April 17, 2023 for an upgrade. During the
+    APS-U dark period the BioCAT beamline will be unavailable for x-ray experiments.
+    We anticipate resuming user experiments in summer/fall of 2024.
+
+    Find out more about: `the APS-U <{filename}/pages/users_aps_u.rst>`_;
+    `SAXS experiments during the APS-U dark period; <{filename}/pages/users_aps_u_saxs.rst>`_
+    `Fiber experiments during the APS-U dark period. <{filename}/pages/users_aps_u_fiber.rst>`_
 
 
 .. class:: center
