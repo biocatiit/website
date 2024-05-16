@@ -48,10 +48,9 @@ ESAFs submitted after these cutoff intervals will be not be approved by the APS
 and the experiment will not be allowed to proceed.  ESAFs must be submitted in
 their entirety by these interval cutoffs – without any missing information.
 
-If your ESAF involves any of the additional hazards listed below
-it will require a more detailed (and, therefore, prolonged) review
-before access can be granted, so you should submit it at least 1 month before
-your experiment:
+If your ESAF involves any of the additional hazards listed below it will require 
+a more detailed (and, therefore, prolonged) review before access can be granted, 
+so you should submit it at least 1 month before your experiment:
 
 *   `Bio-Hazardous Materials <https://www.anl.gov/safety/biosafety>`_
 
@@ -71,7 +70,7 @@ your experiment:
     The Argonne IBC oversees the safety of all experimental participants and ratify the proposed
     experimental protocol according to Centers for Disease Control, Department of Transportation,
     and Department of Agriculture regulations. This is a process which can take upwards of
-    three months (or more); so consult with your Scientific Contact for IBC application instructions
+    six months (or more); so consult with your Scientific Contact for IBC application instructions
     well in advance if you think your experiment might require the approval of the IBC.
 
 *   `Hazardous Materials <https://www.aps.anl.gov/Safety-and-Training/Safety/Using-Material-Samples/Hazardous-Materials>`_
@@ -119,17 +118,23 @@ beam time request".
 Once you have created the ESAF, fill out each tab of the ESAF, paying particular
 attention to the instructions below. Please remember to fill out *ALL* Tabs of the ESAF!
 
+General Tab
+-----------
+
+Mostly self-explanatory.
+
+
 Description Tab
 ----------------------
 
 This tab should contain a short abstract of the experiment that you wish to 
 perform at BioCAT, the associated hazards, and how you will mitigate those hazards.
 
+
 Experimenters Tab
 ------------------------
 
-This tab must include a full list of people collaborating on
-the experiment.
+This tab must include a full list of people collaborating on the experiment.
 
 *   The three user categories that BioCAT currently supports are:
 
@@ -167,7 +172,7 @@ the experiment.
 Materials Tab
 ---------------------
 
-This tab should contain a complete list of the buffers, chemicals, samples, and
+This tab should contain a complete list of the samples, buffers, chemicals, and
 commercial chemical items which you intend on bringing or shipping to BioCAT.
 
 *   When listing materials, **sample names must be written out in full** and (when
@@ -198,25 +203,53 @@ for more details.
 Equipment Tab
 -----------------
 
-List any equipment you will be brining to or using at the beamline on this tab.
+List any equipment you plan on bringing to or using at the beamline on this tab.
 
 If you plan on bringing any electronics to be used in your experiment
-(other than personal computers) check the "Electrical Equipment" Box and the 
-corresponding "Bringing to APS"'" box in to schedule an electrical
-inspection. Click on any other tab in the ESAF. A "Electrical Inspection" tab
-will appear, which should be filled out.
+(other than personal computers) check the 'Electrical Equipment' Box and the 
+corresponding "Bringing to APS" box to schedule an electrical inspection. Click 
+on any other tab in the ESAF. An 'Electrical Inspection' tab will appear, which should be 
+filled out.
+
+(See 'Electrical Inspection Tab' below for additional information)
+
+
+Lab Use Tab
+-----------
+
+The 'Lab Use' Tab will be auto-generated when you click 'Y' for the first drop-down asking the 
+the question: 
+'Will you require to use beamline laboratory facilities to prepare samples or perform
+other work?'
+
+Some things to note:
+*  Please tick the 'Planned use of the chemical fume hood' box if your experiment has been approved for any hazardous materials or if you plan on using strong acids or bases.
+
+*  BioCAT does not have a Glovebox.
+
+*  'Planned use of non-beamline supplied equipment' compliments the 'Equipment' Tab and applies to any equipment which you will supply to be used in the Wet-Lab.  
+
 
 Electrical Inspection Tab
 ----------------------------
 
-Contact the `BioCAT Electrical Safety Officer <{filename}/pages/contact.rst>`_,
-Rick Heurich, if you are bringing any electrical equipment. He will help you
-figure out if it needs inspection or not.
+The 'Electrical Inspection' Tab is auto-generated when you check any of the 
+'Equipment Information' Boxes in the 'Equipment' Tab.
+
+Please contact the `BioCAT Electrical Safety Officer <{filename}/pages/contact.rst>`_,
+Rick Heurich, if you are planning on bringing any electrical equipment(other than personal computers) 
+to function as part of the experiment. He will help you schedule an electrical inspection, if the 
+equipment needs one.
 
 If you are bringing modified NRTL or non-NRTL equipment or unsure NRTL check
-the appropriate boxes and fill in the "List equipment that will require an inspection".
+the appropriate boxes and fill in the "List equipment that will require an inspection."
+
 
 Submit the ESAF
 -----------------
 
 Please verify the completeness of your data before hitting the "Submit" button.
+
+
+Finally, please feel free to ask for help.
+
