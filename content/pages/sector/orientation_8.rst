@@ -38,14 +38,19 @@ you start working with chemicals and sample materials.
 Shipping
 ----------
 
-If you wish to ship your samples, chemicals, or equipment to the beamline
-ahead of your scheduled run, please follow the instructions in the `User Info
+If you wish to ship any samples, chemicals, or equipment to the beamline
+ahead of your scheduled run, there is a very specific process that you must
+follow. The instructions for shipping items to BioCAT can be found in the `User Info
 section of our website <{filename}/pages/users_shipping.rst>`_.
 
-Shipping materials out from ANL can be a complex process. If you would like to
-ship chemicals and/or hardware back to your home institution when your run
-concludes, you should fill out a blank FedEx form and package your materials
-(according to DOT Shipping Regulations) for pickup by the Building 435 Entrance.
+Shipping materials out from ANL is a complex process and you must involve BioCAT 
+Staff for guidance regarding the shipment of items back to your home institution. 
+If you would like to ship samples, chemicals and/or hardware back to your home 
+institution when your run concludes, you will need to package your materials safely, 
+and provide a complete list if items inside of the package along with links to the
+relevant MSDS Forms to Mark Vukonich. All packages will be inspected prior to 
+beginning the shipping process.
+
 If you need assistance, see Mark Vukonich.
 
 .. column::

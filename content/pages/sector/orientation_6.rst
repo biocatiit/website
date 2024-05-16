@@ -10,16 +10,17 @@ on this website, please feel free to ask questions.*
 Compressed Gas Cylinders
 =================================
 
-Compressed gas cylinders can present many hazards if handled improperly.
-Cylinders in use must be secured to a rigid surface to prevent tipping over,
-and fitted with a proper regulator. When not in use, cylinders must be capped.
-Use of hazardous gases is allowed only within the guidelines specified in your
-ESAF. Consult a member of the BioCAT staff for assistance.
+Users are not authorized to move compressed gas cylinders. Compressed gas 
+cylinders can present many hazards if handled improperly. Cylinders in use 
+must be secured to a rigid surface to prevent tipping over, and fitted with 
+a proper regulator. When not in use, cylinders must be capped. Use of hazardous 
+gases is allowed only within the guidelines specified in your ESAF. Consult a 
+member of the BioCAT staff for assistance.
 
 Liquid Nitrogen and Dry-Ice (Cryogenic) Safety
 ================================================
 
-If you need to use liquid nitrogen please ask a BioCAT staff member. When
+If you need to use liquid nitrogen, please ask a BioCAT Staff member. When
 working with liquid nitrogen, you must wear waterproof cryogenic gloves, a
 cryogenic apron, and a full face shield. You must also work to mitigate splash
 hazards. Do not dispose of liquid nitrogen in any sinks.

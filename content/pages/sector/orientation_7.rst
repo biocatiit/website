@@ -15,7 +15,7 @@ subject to the rules and guidelines in your ESAF, and any applicable SOPs.
 
 General Rules for Use of the wet-lab:
 
-#.  NO FOOD OR DRINK INSIDE THE WET-LAB!
+#.  NO FOOD OR DRINK IS ALLOWED INSIDE OF THE WET-LAB!
 
 #.  PROPER PPE - You must use the proper PPE(Personal Protective Equipment)
     when conducting your experiment. Gloves, face masks, laser goggles, etc.
@@ -34,6 +34,11 @@ General Rules for Use of the wet-lab:
     #.  The date.
     #.  Your initials.
 
+#.  Trash bins are for normal trash only. Biological tissues, sharps, carcasses,
+    hazardous waste are not to be disposed of in the normal trash bins. Use a
+    'SHARPS' container for any sharps, and bag any biological waste for starage
+    at -20C and disposal at IIT.
+
 #.  If you use a syringe, even if it does not have a needle, it must be disposed
     of in a 'SHARPS' Container. Other small pieces of sharp metal or broken
     glass may also go into the 'SHARPS' Container.
@@ -42,7 +47,7 @@ General Rules for Use of the wet-lab:
     OR BEAMLINE TO BE USED AT OTHER BEAMLINES.
 
 #.  If you do not know how to use a piece of equipment, please ask a member of
-    the BioCAT staff on operation instructions. If you break something, please
+    the BioCAT Staff on operation instructions. If you break something, please
     let a member of the BioCAT staff know. If you use our centrifuges, balance
     them out before spinning.
 
