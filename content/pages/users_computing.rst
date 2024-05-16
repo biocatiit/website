@@ -12,7 +12,7 @@ As an experimenter at BioCAT, you are welcome to bring your personal devices (la
 
 When you arrive at BioCAT, your work will require the use of our desktop computering systems for data collection and analysis. As a User, you may not reconfigure or install any software on BioCAT computers without the consent of the BioCAT System Administrator, Mark Vukonich.
 
-You may use our local network for your personal computing with your computing devices (data analysis, emails, network browsing).  Our network supports DHCP, so your device should be automatically assigned an IP Address once you connect to our local network via RJ-45 ethernet.  
+You may use our local network for your personal computing with your computing devices (data analysis, emails, network browsing, etc).  Our network supports DHCP, so your device should be automatically assigned an IP Address once you connect to our local network via RJ-45 ethernet.  
 
 Wireless
 ********

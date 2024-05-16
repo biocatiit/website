@@ -4,8 +4,8 @@ Shipping
 :category: users
 :slug: shipping
 
-General
-*******
+Overview
+********
 
 At Argonne, Shipping is a process that is highly focused on safety. Shipping things
 improperly can incur fines exceeding $80,000 per day/ per offense. 
@@ -29,16 +29,16 @@ Shipping is a highly regulated activity by the US Department of Transportation
 (DOT) and Argonne National Laboratory, which may also involve other government 
 agencies for approvals and permits to ship certain plant, animal, and human specimens, 
 as well as, any viruses, fungi, bacteria, etc... Additionally, the type of packaging needs to
-be coordinated with the hazards associated with your shipment. Not following
+be coordinated with the hazards associated with your shipment. **Not following
 Department of Transportation rules and regulations can result in very large
-fines (10's of thousands of dollars a day/per offense).
+fines.** 
 
 Some Users prefer to transport materials by personal vehicle. Be advised that the same DOT 
 and Argonne Regulations apply to personal vehicle transport. There are also additional 
 regulations which you need to be aware of... for example, **Users are not allowed to 
 transport dry-ice in a personal vehicle.**
 
-First Stage: ESAF submission and approval
+First Stage: ESAF Submission and Approval
 *****************************************
 
 The first stage in determining shipping requirements will be to `complete the
@@ -64,7 +64,7 @@ the ESAF associated with your experiment.
 Bulk chemicals, however, often have associated hazards and packaging requirements 
 which require a shipping specialist. If your experiment will require bulk chemicals/ 
 reagents, we recommend that you order those chemicals and have them shipped directly 
-to BioCAT from the vendor (ie, Sigma, Fisher). It is often less expensive and time 
+to BioCAT from the vendor (ie, Sigma, Fisher, etc). It is often less expensive and time 
 consuming to leave bulk/ stock chemicals with us at BioCAT, so that you can access 
 them again when you come back to BioCAT for future experiments.
 
