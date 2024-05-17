@@ -14,9 +14,11 @@ Stop Work Policy
 --------------------
 
 Everyone at Argonne has what is called, "Stop Work Authority." That means that
-if you see a potentially unsafe situation, you should tell those working to
-"Stop Work" so that the unsafe situation can be made safe or corrected. If
-a potentially unsafe situation occurs, you should alert BioCAT staff after
+if you see a potentially unsafe situation, you should feel authorized to 
+prevent an accident from happening by tell those working to "Stop Work" so that 
+the unsafe situation can be made safe or corrected. 
+
+If a potentially unsafe situation occurs, you should alert BioCAT staff after
 using your 'Stop Work' Authority. If you are not comfortable speaking to
 them directly, find a staff member for assistance, or dial 911. If at any time
 you encounter a potentially hazardous situation, or if you're not comfortable

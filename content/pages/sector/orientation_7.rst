@@ -8,7 +8,7 @@ Sector Orientation for BioCAT, Sector 18 - page 7
 on this website, please feel free to ask questions.*
 
 Wet-Lab
-=================================
+========
 
 As with all of your work at BioCAT, your use of the wet-lab facilities is
 subject to the rules and guidelines in your ESAF, and any applicable SOPs.
@@ -21,13 +21,13 @@ General Rules for Use of the wet-lab:
     when conducting your experiment. Gloves, face masks, laser goggles, etc.
     can be found at BioCAT.
 
-#.  Keep the Wet-Lab neat and clean - do not leave powders, residues, or
-    liquids on equipment or benchtop surfaces for other people to encounter.
+#.  **Keep the Wet-Lab neat and clean - do not leave powders, residues, or
+    liquids on equipment or benchtop surfaces for other people to encounter.**
     Don't make messes! Please clean up after yourself and clean dishware
     if you used it.
 
-#.  Any container (tubes, bottles, flasks) that you use while you are at
-    Argonne must be clearly labeled and properly stored. At the minimum, the
+#.  **Any container (tubes, bottles, flasks) that you use while you are at
+    Argonne must be clearly labeled and properly stored.** At the minimum, the
     label must include:
 
     #.  What is inside - chemical or sample identification.
@@ -35,9 +35,9 @@ General Rules for Use of the wet-lab:
     #.  Your initials.
 
 #.  Trash bins are for normal trash only. Biological tissues, sharps, carcasses,
-    hazardous waste are not to be disposed of in the normal trash bins. Use a
-    'SHARPS' container for any sharps, and bag any biological waste for starage
-    at -20C and disposal at IIT.
+    chemical waste, and hazardous waste are not to be disposed of in the normal 
+    trash bins. Use a 'SHARPS' container for any sharps, and bag any biological 
+    waste for storage at -20C and disposal at IIT.
 
 #.  If you use a syringe, even if it does not have a needle, it must be disposed
     of in a 'SHARPS' Container. Other small pieces of sharp metal or broken
@@ -55,14 +55,19 @@ General Rules for Use of the wet-lab:
     tell the BioCAT Safety Officer, Mark Vukonich.
 
 #.  Do not put any objects (chairs, bookbags, boxes, etc) inside of the yellow
-    and black taped areas by either the electrical panel or the eyewash station.
+    and black striped taped areas by either the electrical panel or the eyewash station.
+
 
 Chemical Eye Wash and Shower
 -------------------------------
 
-Should you accidentally get harmful chemicals on you or in your eyes, the
-BioCAT wet-lab is supplied with a chemical shower and eyewash station. You
-should use them, if needed.
+If you should you accidentally get harmful chemicals on you or in your eyes, the
+BioCAT Wet-Lab is supplied with a chemical shower and eyewash station. Please do not 
+hesitate to use them, if needed.
+
+
+* Please report any injuries to BioCAT Staff. And call 911 from an Argonne Landline Phone if you require immediate medical assistance.
+
 
 .. image:: {static}/images/sector/chemshower.jpg
     :class: img-responsive

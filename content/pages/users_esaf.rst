@@ -9,7 +9,7 @@ ESAFS
 Overview
 ********
 
-As a PI/Spokesperson who has been awarded time to conduct an experiment at BioCAT, 
+As a PI/ Spokesperson who has been awarded time to conduct an experiment at BioCAT, 
 you are responsible for filling out and submitting all of the Safety Paperwork for 
 your experiment sufficiently far in advance of the experiment (see the deadline section 
 below). We recommend submission before these hard deadlines so any issues can be resolved 
@@ -20,7 +20,7 @@ Safety Assessment Form) is the primary piece of paperwork that the APS uses to
 verify the safety envelope of your experiment, and so it needs to be **completed
 and submitted well ahead of your experimental start date.**
 
-The PI/Spokesperson is also responsible for notifying their staff who will be 
+The PI/ Spokesperson is also responsible for notifying their staff who will be 
 visiting BioCAT to take all of the APS Core Safety Courses required by the Argonne/ APS 
 Safety Oversight Committee. There are times when the Users have difficulty, for one
 reason or another, accessing the APS Safety Courses Web Portal. In cases like
@@ -67,7 +67,7 @@ so you should submit it at least 1 month before your experiment:
         the disease process
     *   Some sequences of DNA or RNA
 
-    The Argonne IBC oversees the safety of all experimental participants and ratify the proposed
+    The Argonne IBC oversees the safety of all experimental participants and ratifies the proposed
     experimental protocol according to Centers for Disease Control, Department of Transportation,
     and Department of Agriculture regulations. This is a process which can take upwards of
     six months (or more); so consult with your Scientific Contact for IBC application instructions
@@ -179,7 +179,7 @@ commercial chemical items which you intend on bringing or shipping to BioCAT.
     appropriate) **the expression system must be included.** You should not use
     abbreviations with the exception of "DNA" and "RNA", and sample names
     should be written as, e.g., "Lysozyme from Chicken Egg White" rather than
-    "Sample 1".
+    "Sample 1."
 
 *   Near the bottom-half of the page there is the question "Will you require to
     use beamline laboratory facilities to prepare samples or perform other work?"
@@ -217,12 +217,13 @@ filled out.
 Lab Use Tab
 -----------
 
-The 'Lab Use' Tab will be auto-generated when you click 'Y' for the first drop-down asking the 
+The 'Lab Use' Tab will be auto-generated when you click 'Y' for the first drop-down on the 'Materials' Tab asking the 
 the question: 
 'Will you require to use beamline laboratory facilities to prepare samples or perform
 other work?'
 
 Some things to note:
+
 *  Please tick the 'Planned use of the chemical fume hood' box if your experiment has been approved for any hazardous materials or if you plan on using strong acids or bases.
 
 *  BioCAT does not have a Glovebox.

@@ -60,9 +60,8 @@ This process can take up to 6 months - so if there is an interest, please plan a
     
 Any Users who wish to do an experiment involving whole viruses, whole bacteria,
 or any human-derived samples (ie. protein, fluid, tissue, bone, etc) must first
-consult with the BioCAT Safety Officer, Mark Vukonich. There is an Argonne Review
-Process whereby experimental design, protocols, sample chambers must be submitted
-and approved by a special committee, in addition to normal paperwork. 
+consult with their Scientific Contact, as well as, the BioCAT BioSafety Officer, 
+Mark Vukonich. 
     
 Human proteins expressed in bacterial systems are usually exempted, however, they
 must be clearly labelled in the 'Materials' Tab of your ESAF as having been

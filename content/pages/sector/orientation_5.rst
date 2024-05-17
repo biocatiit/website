@@ -1,5 +1,5 @@
 Sector Orientation for BioCAT, Sector 18 - page 5
-###############################################################################
+#################################################
 
 :category: users
 :slug: orientation-5
@@ -57,15 +57,18 @@ Areas Outlined in Yellow Tape
 
 Yellow tape may be used on the floor to indicate a controlled-access area,
 such as that surrounding an emergency electrical shutoff or an emergency exit
-aisle. Do not leave anything (a chair, equipment, etc.) inside of a
-yellow-taped-off area, and do not block the pathway into it.
+aisle. 
+
+**Do not place anything (chairs, equipment, bookbags, etc) inside of a
+yellow-taped-off area, and do not block the pathway into it.**
 
 Extension Cords
 --------------------------------
 
-If an extension cord is needed, you must make sure that it does not present
-a trip hazard to any personnel. Also, extension cords are not to be daisy-chained
-(one connected to another).
+** If an extension cord is needed, you must make sure that it does not present
+a trip hazard to any personnel.** Also, extension cords are not to be daisy-chained
+(one connected to another) to extend the length. Please ask Staff if you need 
+assistance.
 
 
 .. column::
