@@ -50,8 +50,8 @@ experimental console. If you have a question in the off-hours, use the
 beamline phone by pushing 71 then by entering in the area code and phone
 number.
 
-Part 2 of the BioCAT sector orientation is a tour of LOM, wet-lab, beamline
-console area, and D-hutch. There will also be a short in-person quiz.
+**Part 2 of the BioCAT Sector Orientation is a tour of LOM, wet-lab, beamline
+console area, and D-hutch. There will also be a short in-person quiz.**
 
 
 .. column::

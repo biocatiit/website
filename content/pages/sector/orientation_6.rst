@@ -10,12 +10,12 @@ on this website, please feel free to ask questions.*
 Compressed Gas Cylinders
 ========================
 
-Users are not authorized to move compressed gas cylinders. Compressed gas 
-cylinders can present many hazards if handled improperly. Cylinders in use 
+**Users are not authorized to physically move compressed gas cylinders.** 
+Compressed gas cylinders can present many hazards if handled improperly. Cylinders in use 
 must be secured to a rigid surface to prevent tipping over, and fitted with 
 a proper regulator. When not in use, cylinders must be capped. Use of hazardous 
-gases is allowed only within the guidelines specified in your ESAF. Consult a 
-member of the BioCAT staff for assistance.
+gasses is allowed only within the guidelines specified in your ESAF. Consult a 
+member of the BioCAT Staff for assistance.
 
 Liquid Nitrogen and Dry-Ice (Cryogenic) Safety
 ==============================================
@@ -23,10 +23,10 @@ Liquid Nitrogen and Dry-Ice (Cryogenic) Safety
 If you need to use liquid nitrogen, please ask a BioCAT Staff member. When
 working with liquid nitrogen, you must wear waterproof cryogenic gloves, a
 cryogenic apron, and a full face shield. You must also work to mitigate splash
-hazards. Do not dispose of liquid nitrogen in any sinks.
+hazards. **Do not dispose of liquid nitrogen in any sinks.**
 
-If you need to use dry-ice, you must wear waterproof cryogenic gloves and
-safety goggles. Do not dispose of dry-ice in any sinks.
+If you need to use dry-ice, please ask a BioCAT Staff member. You must wear 
+waterproof cryogenic gloves and safety goggles. **Do not dispose of dry-ice in any sinks.**
 
 Tricycle usage
 ==============
@@ -56,7 +56,7 @@ also dine in our conference room, in the corner of our office, or have a
 light snack at the beamline workstation.
 
 .. lead::
-    **No food or drink is permitted in either the experimental hutch or the wet-lab.**
+    **No food or drink is permitted in either the Experimental Hutch or the Wet-Lab.**
 
 .. column::
     :width: 6

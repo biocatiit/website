@@ -32,6 +32,7 @@ Printing
 The BioCAT Network is equipped with two Xerox printers that may be accessed through our local print server.
 
 **Some important things to note:**
+**********************************
 
 *    BioCAT will retain User Data for a minimum of two years. After two years data will be retained based on available storage space.
 

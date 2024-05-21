@@ -42,6 +42,11 @@ General rules for use of the D-hutch:
 Searching the D-Hutch
 ---------------------
 
+.. image:: {static}/images/sector/hutch_search.jpeg
+    :class: img-responsive
+    :align: center
+
+
 Before the shutter can be opened and X-rays can be introduced into the D-hutch,
 you must clear the hutch of all people and one person must complete the Hutch
 Search Procedure to make sure that all people have been vacated from the hutch.
