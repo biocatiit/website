@@ -11,7 +11,7 @@ Electrical and Equipment Safety
 ===============================
 
 Device Inspections
---------------------
+------------------
 
 If you are bringing or have brought any devices (other than laptop/desktop
 computers) to support your experiment, you must notify members of BioCAT staff,
@@ -24,7 +24,7 @@ your devices cannot be connected to power until they are approved by an ANL DEEI
 powering up any electrical device.
 
 Electrical Work
---------------------------------
+---------------
 
 Users may connect approved devices to power, and use them as intended by
 the manufacturer, and as outlined in the ESAF. However, users are not
@@ -38,7 +38,7 @@ get a member of BioCAT Staff who is qualified (ANL Qualified Electrical Worker)
 to repair it and notify them of the issues.**
 
 Areas Outlined in Yellow-and-Black Striped Tape
---------------------------------
+-----------------------------------------------
 
 .. row::
 
@@ -64,7 +64,7 @@ or an emergency exit aisle.
 taped-off area, and do not block the pathway into it.**
 
 Extension Cords
---------------------------------
+---------------
 
 **If an extension cord is needed, you must make sure that it does not present
 a trip hazard to any personnel.** Also, extension cords are not to be daisy-chained
