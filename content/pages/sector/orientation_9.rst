@@ -108,8 +108,8 @@ be used in the unlikely event that you should be locked in an experimental
 hutch. **This should never happen and it is forbidden for someone to be inside
 of the hutch with the door closed!** 
 
-However, in the event that an accident has occurred, you pressing the red mushroom 
-button while the shutter is open will dump the storage ring, and stop the X-ray beam. 
+However, in the event that an accident has occurred, **pressing the red mushroom 
+button while the shutter is open will dump the storage ring, and stop the X-ray beam.** 
 
 The door can then be opened by pressing the top button on the auxiliary door 
 control panel(to the left of the entry door), and holding for three seconds. 

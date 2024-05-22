@@ -56,7 +56,7 @@ include:
 User will assemble in the BioCAT Conference Room in the BioCAT LOM for a pre-experiment
 check-in where the ESAF will be printed by BioCAT Staff once all Users are present and ready
 to begin work. Users will be asked to review their ESAF(s) and verify participants, 
-samples and chemicals, equipment, and protocols. Youra ESAF(s) will be posted near 
+samples and chemicals, equipment, and protocols. Your ESAF(s) will be posted near 
 your experiment -- either on the D-hutch door, or on the Wet-Lab door(for Wet-Lab only/ 
 no X-ray ESAFs) by the APS Floor Coordinator before you are permitted to start any work at APS.
 

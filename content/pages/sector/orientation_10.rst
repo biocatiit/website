@@ -55,8 +55,8 @@ Console area, and D-hutch. There will also be a short online quiz.**
 
 *Please take the following quiz:*
 
-`QUIZ<https://forms.office.com/r/cAmywdr3J9>`_
-
+-> `QUIZ <https://forms.office.com/r/cAmywdr3J9>`_
+==================================================
 .. column::
     :width: 6
 
