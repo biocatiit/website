@@ -15,7 +15,7 @@ Stop Work Policy
 
 Everyone at Argonne has what is called, "Stop Work Authority." That means that
 if you see a potentially unsafe situation, you should feel authorized to 
-prevent an accident from happening by tell those working to "Stop Work" so that 
+prevent an accident from happening by telling those working to "Stop Work" so that 
 the unsafe situation can be made safe or corrected. 
 
 If a potentially unsafe situation occurs, you should alert BioCAT Staff after
@@ -28,26 +28,26 @@ assistance.
 Experiment Safety Guidelines
 ----------------------------
 
-The ESAF (Experimental Safety Assessment Form) is the safety paperwork
-detailing 'who' will be doing 'what' during your visit to BioCAT. It authorizes
-the users listed to do a particular set of experiments with a particular set
-of chemicals and equipment. 
+The ESAF (Experimental Safety Assessment Form) is the Chief Safety Document for 
+your experiment while at BioCAT. The ESAF details 'who' is authorized to be doing 
+'what' during your visit to BioCAT. It authorizes the users listed to do a particular 
+set of tasks with a particular set of samples, chemicals and equipment. 
 
 **No User may begin work or enter the Wet-Lab, Dry-Lab, or Experimental Floor Area
-and D-hutch before their ESAF has been posted!**
+and D-hutch before their training is complete and their ESAF has been posted!**
 
 If you have samples that need immediate attention to be transferred into a Wet-Lab 
-freezer or refridgerator, please ask a BioCAT Staff member to do this for you.
+freezer or refridgerator before your ESAF is posted, please ask a BioCAT Staff member to do this for you.
 
-Any deviations from what is listed in the ESAF scope, materials, or equipment
-must be reported to BioCAT Staff before they occur, so that the ESAF may be modified
-and re-approved.
+Any deviations from what is listed in the ESAF scope, samples, materials, or equipment
+must be reported to BioCAT Staff before they occur - so that the ESAF may be modified
+by BioCAT Staff and re-approved by Argonne Safety Personnel.
 
 Things that must be reported to BioCAT Staff so that the ESAF can be modified
 include:
 
-#.  Additions or subtractions of the users listed on the ESAF.
-#.  Additions or subtractions in the chemicals or samples required for the experiment.
+#.  Additions or subtractions of the Users listed on the ESAF.
+#.  Additions or subtractions in the samples or chemicals or required for the experiment.
 #.  Additions or subtractions in the equipment required for the experiment.
 #.  Adjustments to the protocols (SOP's) outlined in the ESAF.
 
@@ -58,7 +58,7 @@ check-in where the ESAF will be printed by BioCAT Staff once all Users are prese
 to begin work. Users will be asked to review their ESAF(s) and verify participants, 
 samples and chemicals, equipment, and protocols. Youra ESAF(s) will be posted near 
 your experiment -- either on the D-hutch door, or on the Wet-Lab door(for Wet-Lab only/ 
-no Xray ESAFs) by the APS Floor Coordinator before you are permitted to start any work at APS.
+no X-ray ESAFs) by the APS Floor Coordinator before you are permitted to start any work at APS.
 
 
 .. column::

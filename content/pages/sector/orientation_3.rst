@@ -15,16 +15,16 @@ In an emergency, you may dial 911 from any Argonne landline telephone, or
 Argonne Onsite Emergency operator.
 
 If you need assistance out on the experimental floor, tell the operator the 
-column number of Sector 18 - which is Column 118.
+column number of Sector 18 - which is **Column 118.**
 
-If you are in the LOM, tell the operator the Building number, which is 435B.
+If you are in the LOM, tell the operator the Building number, which is **Building 435B.**
 
 What constitutes an emergency?
 
 For example:
 
 #.  Any injury which requires medical assistance
-#.  A security issue where people may be endangered
+#.  A security issue where people may be endangered or you fear for your safety
 #.  A hazardous material chemical spill
 
 Do not hesitate! If you feel that a potentially dangerous situation exists,
@@ -65,11 +65,12 @@ Emergency Alarms
 The APS has a two-stage fire alarm system. If you hear a fire alarm out on the
 experimental floor where the beamlines are, move to the LOM (Lab-Office Module)
 areas. If the fire alarms are also ringing in these areas, you will be given
-instructions on what nature of the emergency. If it is a fire and you are
-being asked to leave the building - proceed to the nearest emergency exit,
-turn right once outside, and continue to the assembly area on the far side
-of building 440 (Center for Nanoscale Materials). If it is a tornado, please
-go to the nearest mens' or womens' bathroom as these are the tornado shelters.
+instructions on what nature of the emergency. 
+
+If the emergency is a fire and you are being asked to leave the building - proceed to the 
+nearest emergency exit, turn right once outside, and continue to the assembly area 
+on the far side of building 440 (Center for Nanoscale Materials). If the emergency is a tornado, 
+please go to the nearest mens' or womens' bathroom as these are the tornado shelters.
 
 
 .. column::
