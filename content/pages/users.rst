@@ -4,7 +4,7 @@ Users
 :category: users
 :slug: users
 
-.. lead::   BioCAT is an NIH-supported Biotechnology Research Resource. Anyone can
+.. lead::   BioCAT is an NIH-supported Mature Synchrotron Resource. Anyone can
             use the facility for free by putting in an application through the
             APS GUP program. These applications are reviewed on the basis of
             feasibility and scientific merit.

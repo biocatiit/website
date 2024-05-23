@@ -14,7 +14,7 @@ About BioCAT
 
     **Overview:**  The Biophysics Collaborative Access Team (BioCAT) is organized
     as a `National Institutes of Health(NIH) <https://www.nih.gov/>`_
-    `Biomedical Technology Development and Dissemination Center (BTDD) <https://www.nigms.nih.gov/about/overview/BBCB/biomedicaltechnology/Pages/btdd.aspx>`_
+    `Mature Synchrotron Resource (MSR) <https://www.nigms.nih.gov/grants/Pages/Mature-Synchrotron-Resources.aspx>`_
     and is funded by the `National Institute of General Biomedical Sciences
     \(NIGMS) <https://www.nigms.nih.gov/>`_. Its primary research tool is a very high
     brightness X-ray beam-line at the `Advanced Photon Source (APS) <https://www.aps.anl.gov/>`_

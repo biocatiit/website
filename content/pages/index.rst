@@ -7,9 +7,9 @@ Welcome to BioCAT
 .. alert::
     :type: warning
 
-    The APS is shutting down on April 17, 2023 for an upgrade. During the
-    APS-U dark period the BioCAT beamline will be unavailable for x-ray experiments.
-    We anticipate resuming user experiments in summer/fall of 2024.
+    The APS shut down on April 17, 2023 for an upgrade. During this
+    APS-U dark period the BioCAT beamline is unavailable for x-ray experiments.
+    We anticipate resuming user experiments in late 2024/early 2025.
 
     Find out more about: `the APS-U <{filename}/pages/users_aps_u.rst>`_;
     `SAXS experiments during the APS-U dark period; <{filename}/pages/users_aps_u_saxs.rst>`_
@@ -104,38 +104,37 @@ Welcome to BioCAT
 
         .. thumbnail::
 
-            .. image:: {static}/images/scihi/2022_phase_separation.jpg
+            .. image:: {static}/images/scihi/2024_titin_modulation.jpg
                 :class: img-rounded
                 :align: center
 
             .. caption::
 
-                :h3:`Understanding Phase Separation Could Impact Treatment of Neurodegenerative Disease`
+                :h3:`Titin-Based Force Modulates Cardiac Thick and Thin Filaments`
 
-                Living cells are amazing little biochemical factories that conduct countless
-                chemical reactions in a cellular soup packed with lipids, proteins, nucleic
-                acids, and ions, keeping them all in their proper places at any given time.
-                Cells maintain this organization even while carrying out complex tasks such
-                as cell division, signaling, transcriptional regulation, and stress responses.
-                One example of this is the careful management of stress granule formation, a
-                process in which membraneless organelles transiently form to control the
-                utilization of mRNA during stress. These granules form and disperse through
-                reversible liquid-liquid phase transitions involving proteins and RNA in
-                the granules. Recent research has demonstrated that RNA-binding proteins
-                in these granules contain intrinsically disordered sequences, called
-                prion-like low-complexity domains (PLCDs), that are critical to regulation
-                of these reversible phase transitions. There is also mounting evidence that
-                these transitions may be disrupted in neurodegenerative diseases, like
-                amyotrophic lateral sclerosis (ALS), in which mutations in PLCD-containing
-                proteins, such as hnRNPA1, have been implicated as a cause of the disease.
-                Recent work that relied on data from BioCAT, and published in the
-                journal Nature Chemistry aimed to learn more about how these phase
-                transitions are regulated. These findings will provide important
-                information about the causes of diseases like ALS.
+                The Frank-Starling Law of the Heart states that the heart’s
+                stroke volume increases with greater preload due to increased
+                venous return, allowing the heart to adapt to varying
+                circulatory demands. At the molecular level, increasing
+                preload increases sarcomere length (SL), which alters
+                structures w ithin the sarcomere that are correlated to
+                increased calcium sensitivity upon activation. The titin
+                protein, spanning the half-sarcomere acts as a spring in the
+                I-band, applies a SL-dependent passive force on the myosin
+                containing thick filaments changing its structure and
+                functional properties. Altered titin-based forces play a
+                crucial role in the etiology of many cardiomyopathies;
+                however, the disease state obscures titin’s role, impeding
+                therapeutic solutions. The authors studied titin’s specific
+                role and concluded that reducing titin-based forces blunts
+                structural changes in both thick and thin filaments while
+                leaving the length-dependent OFF-to-ON transition mechanism
+                intact, indicating a clear role for titin in the
+                Frank-Starling mechanism.
 
             .. button:: Learn More
                 :class: primary block
-                :target: {filename}/scihi/2022_phase_separation.rst
+                :target: {filename}/scihi/2024_titin_modulation.rst
         .. row::
 
             .. -------------------------------------------------------------------------
@@ -144,36 +143,33 @@ Welcome to BioCAT
 
                 .. thumbnail::
 
-                    .. image:: {static}/images/scihi/2022_cancer.jpeg
+                    .. image:: {static}/images/scihi/2024_idp_temperature.png
                         :class: img-rounded
                         :align: center
 
                     .. caption::
 
-                        :h4:`Targeting Cancer at the Level of DNA Expression`
+                        :h4:`How hydrophobicity, side chains, and salt affect the dimensions of disordered proteins`
 
-                        The last 20 years have brought a revolution in targeted therapies for cancer.
-                        Small-molecule inhibitors and monoclonal antibodies that target a specific
-                        aberrant protein in tumors have provided cancer patients with treatments
-                        that are associated with fewer side effects and longer survival than
-                        conventional chemotherapy. This has been, in large part, the result of
-                        intensive research into the role of oncogenes in cancer development.
-                        Oncogenes are normal cellular genes that have become mutated in such a
-                        way that they aberrantly promote the uncontrolled cell growth seen in
-                        cancer. They are often proteins involved in growth control or activation
-                        of cellular signaling; inhibiting these mutated proteins has proven to be
-                        effective in stopping the growth of many cancers. Research by a team from
-                        the Brown Cancer Center at the University of Louisville in Kentucky using
-                        BioCAT and published in the journal Nucleic Acids Research promises to extend
-                        these treatment  possibilities to control these oncogenes at the gene expression
-                        level. The work, based on the discovery that DNA in the promoter region of many
-                        genes forms higher order structures that could provide unique druggable targets
-                        for intervention, extends structural knowledge of the promoter regions of
-                        three important oncogenes.
+                        Understanding the driving forces behind stability of
+                        denatured state ensembles (DSE’s) and intrinsically disordered
+                        proteins (IDP’s) is central to a number of unresolved questions
+                        in bimolecular thermodynamics regarding protein folding pathways
+                        and foldability, thermodynamic stability, aggregation and
+                        misfolding. Researchers at the University of Chicago and Notre
+                        Dame used temperature-controlled size-exclusion
+                        chromatography-coupled SAXS (SEC-SAXS) and NMR to examine how
+                        temperature and solvent ionic strength influences the solution
+                        structure(s) of the N-terminal domain of pertactin (PNt). PNt
+                        is a valuable model system from a fundamental biophysical
+                        point of view, as the full-length 539-residue pertactin folds
+                        into a parallel β-helix but the 334 N-terminal residues do not
+                        and instead behave as a highly expanded, intrinsically
+                        disordered chain.
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/scihi/2022_cancer_dna_expression.rst
+                        :target: {filename}/scihi/2024_idp_temperature.rst
 
 
 
@@ -183,35 +179,29 @@ Welcome to BioCAT
 
                 .. thumbnail::
 
-                    .. image:: {static}/images/scihi/2021_myosin_relaxation.png
+                    .. image:: {static}/images/scihi/2024_sarcomere_regulation.png
                         :class: img-rounded
                         :align: center
 
                     .. caption::
 
-                        :h4:`Understanding the Structural Implications of Genetic Mutations in Heart-Muscle Disease`
+                        :h4:`Myosin-binding protein C regulates the sarcomere lattice and stabilizes the OFF states of myosin heads`
 
-                        Cardiomyopathies are diseases of the heart muscle in which the muscle of
-                        the pumping chamber (ventricle) can become enlarged (dilated cardiomyopathy;
-                        DCM) or thickened (hypertrophic cardiomyopathy; HCM), potentially leading
-                        to heart failure. There are currently no effective treatments but the disease
-                        often has a genetic component related to mutations in the heart muscle
-                        proteins that are involved in muscle contraction, so some researchers have
-                        focused their therapeutic development efforts on correcting these muscle
-                        contraction problems based on the structural basis of the defect. A recent
-                        study from a team of researchers using BioCAT employed humanized mouse models expressing
-                        mutations observed in patients with HCM and DCM to evaluate the
-                        structure-function relationships and the changes observed in cardiac
-                        muscle contraction with these mutations. The work, published in the
-                        Proceedings of the National Academy of Sciences of the United States of
-                        America, provides a deeper understanding of the effects of
-                        cardiomyopathy-causing gene mutations on heart muscle contraction that
-                        could lead to the development of new therapies for this potentially
-                        life-threatening disease.
+                        Muscle contraction is produced via the interaction of
+                        myofilaments and is regulated so that muscle performance
+                        matches demand. Myosin-binding protein C (MyBP-C) is a long
+                        and flexible protein that is thought to control muscle
+                        contraction via the regulation of myosin motors, as mutations
+                        lead to debilitating disease. Here the authors used combination
+                        of mechanics and small-angle X-ray diffraction to study the
+                        effects of immediate and selective removal of the particular
+                        domains of fast MyBP-C on sarcomere structure and function in
+                        permeabilized skeletal muscle. They concluded that the MyBP-C
+                        domains play an important role in contractile performance.
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/scihi/2022_heart_disease.rst
+                        :target: {filename}/scihi/2024_sarcomere_regulation.rst
 
         .. row::
 
@@ -237,16 +227,14 @@ Welcome to BioCAT
 
                 :h3:`BioCAT Plans for the APS-U Dark Period`
 
-                The APS will shut down on April 17, 2023 for a major year-long
-                upgrade, the "APS-U" project. There will be no user access to the
-                APS during this “dark period”. The APS plans to restart operations at the
-                beginning of April, 2024, followed by several months of safety
-                and technical commissioning at all beamlines. We anticipate that
-                BioCAT will be unavailable for experiments from the end of April 2023
-                until early summer 2024. During this ~14 month shutdown, we plan
+                The APS shut down on April 17, 2023 for a major year-long
+                upgrade, the "APS-U" project. There is no user access to the
+                APS during this “dark period”. We anticipate that BioCAT will
+                resume user experiments in late 2024/early 2025. We continue
                 to help support experiments by our users at other beamlines,
                 including sending BioCAT staff to other beamlines to help with
-                some of the more complicated experiments.
+                some of the more complicated experiments, until operations
+                resume at BioCAT.
 
 
             .. button:: Learn More

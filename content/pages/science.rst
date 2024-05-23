@@ -60,7 +60,7 @@ Science Highlights
     BioCAT users and staff regularly produce excellent science that is `highlighted
     on this website </category/science.html>`_.
 
-Below is a gallery of a few of BioCAT's science highlights.
+Below is a gallery of some of BioCAT's science highlights.
 
 .. class:: center
 
@@ -72,6 +72,468 @@ Below is a gallery of a few of BioCAT's science highlights.
           <div class="carousel-inner">
 
           <div class="item active">
+              <div class="col text-center">
+              <img class="d-block w-100" src="/images/gallery/2024_idp_temperature.png" alt="">
+              <div class="carousel-caption3">
+                <h3>How hydrophobicity, side chains, and salt affect the dimensions of disordered proteins</h3>
+                <p>Understanding the driving forces behind stability of
+                denatured state ensembles (DSE’s) and intrinsically disordered
+                proteins (IDP’s) is central to a number of unresolved questions
+                in bimolecular thermodynamics regarding protein folding pathways
+                and foldability, thermodynamic stability, aggregation and
+                misfolding. Researchers at the University of Chicago and Notre
+                Dame used temperature-controlled size-exclusion
+                chromatography-coupled SAXS (SEC-SAXS) and NMR to examine how
+                temperature and solvent ionic strength influences the solution
+                structure(s) of the N-terminal domain of pertactin (PNt). PNt
+                is a valuable model system from a fundamental biophysical
+                point of view, as the full-length 539-residue pertactin folds
+                into a parallel β-helix but the 334 N-terminal residues do not
+                and instead behave as a highly expanded, intrinsically
+                disordered chain.</p>
+                <a href="/science//idp-temperature.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
+              </div>
+            </div>
+
+          <div class="item">
+              <div class="col text-center">
+              <img class="d-block w-100" src="/images/gallery/2024_titin_modulation.jpg" alt="">
+              <div class="carousel-caption3">
+                <h3>Titin-Based Force Modulates Cardiac Thick and Thin Filaments</h3>
+                <p>The Frank-Starling Law of the Heart states that the heart’s
+                stroke volume increases with greater preload due to increased
+                venous return, allowing the heart to adapt to varying
+                circulatory demands. At the molecular level, increasing
+                preload increases sarcomere length (SL), which alters
+                structures w ithin the sarcomere that are correlated to
+                increased calcium sensitivity upon activation. The titin
+                protein, spanning the half-sarcomere acts as a spring in the
+                I-band, applies a SL-dependent passive force on the myosin
+                containing thick filaments changing its structure and
+                functional properties. Altered titin-based forces play a
+                crucial role in the etiology of many cardiomyopathies;
+                however, the disease state obscures titin’s role, impeding
+                therapeutic solutions. The authors studied titin’s specific
+                role and concluded that reducing titin-based forces blunts
+                structural changes in both thick and thin filaments while
+                leaving the length-dependent OFF-to-ON transition mechanism
+                intact, indicating a clear role for titin in the
+                Frank-Starling mechanism.</p>
+                <a href="/science/titin-modulation.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="item">
+              <div class="col text-center">
+              <img class="d-block w-100" src="/images/gallery/2024_sarcomere_regulation.png" alt="">
+              <div class="carousel-caption3">
+                <h3>Myosin-binding protein C regulates the sarcomere lattice and
+                stabilizes the OFF states of myosin heads</h3>
+                <p>Muscle contraction is produced via the interaction of
+                myofilaments and is regulated so that muscle performance
+                matches demand. Myosin-binding protein C (MyBP-C) is a long
+                and flexible protein that is thought to control muscle
+                contraction via the regulation of myosin motors, as mutations
+                lead to debilitating disease. Here the authors used combination
+                of mechanics and small-angle X-ray diffraction to study the
+                effects of immediate and selective removal of the particular
+                domains of fast MyBP-C on sarcomere structure and function in
+                permeabilized skeletal muscle. They concluded that the MyBP-C
+                domains play an important role in contractile performance.</p>
+                <a href="/science/sarcomere-regulation.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="item">
+              <div class="col text-center">
+              <img class="d-block w-100" src="/images/gallery/2024_netrin_guidance_complexes.png" alt="">
+              <div class="carousel-caption3">
+                <h3>Structural insights into the formation of repulsive netrin guidance complexes</h3>
+                <p>Netrins are a conserved class of proteins involved in synaptic connectivity
+                of the nervous system in bilaterian animals. They act as secreted guidance
+                cues, with the unique ability to exert repulsive and attractive responses
+                on growing axons. They are also known to be involved in cell proliferation,
+                migration and differentiation, and are therefore targets for treating
+                cancer and insulin resistance. During axon growth and cell migration, the
+                presence of the receptor Uncoordinated-5 (UNC-5) on target cells results
+                in repulsion. However, the exact mechanism involved in the induction of
+                repulsive forces has been relatively unknown due to the lack of biochemical
+                and structural information about these systems. Researchers at the
+                University of Chicago and Stanford University, in collaboration with BioCAT
+                staff, showed that UNC-5 is a heparin-binding protein, determined its
+                structure bound to a heparin fragment, and could modulate UNC-5–heparin
+                affinity using a directed evolution platform or structure-based rational
+                design.</p>
+                <a href="/science/netrin-guidance-complexes.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="item">
+              <div class="col text-center">
+              <img class="d-block w-100" src="/images/gallery/2024_mavacamten_stabilization.jpg" alt="">
+              <div class="carousel-caption3">
+                <h3>Myosin in autoinhibited off state(s), stabilized by mavacamten,
+                can be recruited in response to inotropic interventions</h3>
+                <p>Mavacamten is the first myosin-targeted small-molecule therapy approved
+                by the Food and Drug Administration to treat obstructive hypertrophic
+                cardiomyopathy by attenuating excessive myocardial sarcomere activity.
+                Mavacamten regulates cardiac function at the sarcomere level by selectively
+                but reversibly inhibiting the enzymatic activity of myosin. It shifts myosin
+                toward ordered off states close to the thick filament backbone making them
+                unavailable for binding to actin and generating force.  It is necessary,
+                however for the heart to adjust its output to ensure sufficient cardiac
+                output, especially during increased physiological demands. It was unknown
+                whether mavacamten stabilized heads could still be recruited by the usual
+                physiological inotropic mechanisms for the patient to be able to adapt to
+                changing demands on their hearts. The authors of this study
+                provided direct evidence the mavacamten-promoted off
+                states of myosin in the thick filament are at least partially
+                activable, thus preserving cardiac reserve mechanisms.</p>
+                <a href="/science/mavacamten-stabilization.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="item">
+              <div class="col text-center">
+              <img class="d-block w-100" src="/images/gallery/2024_myosin_decoupling.jpg" alt="">
+              <div class="carousel-caption3">
+                <h3>The structural OFF and ON states of myosin can be decoupled
+                from the biochemical super- and disordered-relaxed states</h3>
+                <p>Myosin-based thick-filament regulation is now known to be critical for
+                muscle contraction with myosin dysregulation found in hypertrophic and
+                dilated cardiomyopathies but many details of thick filament regulation
+                remain to be discovered. Myosin ATPase assays have demonstrated that under
+                relaxed conditions, myosin may reside either in a high-energy-consuming
+                disordered-relaxed (DRX) state available for binding actin to generate
+                force or in an energy-sparing super-relaxed (SRX) state unavailable for
+                actin binding. X-ray diffraction studies have shown that the majority of
+                myosin heads are in a quasi-helically ordered OFF state in a resting
+                muscle and that this helical ordering is lost when myosin heads are turned
+                ON for contraction. It has been assumed that myosin heads in SRX and DRX
+                states are equivalent to the OFF and ON states. Our results show that
+                biochemically defined SRX and DRX can be decoupled from structurally
+                defined OFF and ON states.</p>
+                <a href="/science/myosin-decoupling.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="item">
+              <div class="col text-center">
+              <img class="d-block w-100" src="/images/gallery/2024_benc1_idr.jpg" alt="">
+              <div class="carousel-caption3">
+                <h3>Invariant BECN1 CXXC Motifs Bind Zn<sup>2+</sup> and Regulate
+                Structure and Function of the BECN1 Intrinsically Disordered Region</h3>
+                <p>Autophagy is a conserved lysosomal degradation pathway that degrades
+                un-needed cellular components such as misfolded, aggregated, mutated
+                and damaged proteins, organelles, and pathogens. Autophagy dysfunction
+                is implicated in numerous diseases including neurodegenerative disorders,
+                muscular diseases, cardiomyopathy, cancer and infectious diseases. Many
+                proteins involved in autophagy contain intrinsically disordered regions
+                (IDRs) that do not form stable secondary or tertiary structure. The
+                structural flexibility of IDRs is thought to enable diverse and multiple
+                interactions enabling them to regulate cell signaling pathways. Many
+                IDRs have been shown to fold upon binding to ligands. BECN1, a key
+                autophagy protein involved in autophagosome nucleation, contains two
+                invariant CxxC motifs within a large BECN1 intrinsically disordered
+                region (IDR) at the BECN1 N-terminus. The goal of the research was to
+                uncover the functional roles of the invariant CxxC motifs which were
+                hitherto not understood.</p>
+                <a href="/science/becn1_idr.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="item">
+              <div class="col text-center">
+              <img class="d-block w-100" src="/images/gallery/2024_emulsification_semaglutide.png" alt="">
+              <div class="carousel-caption3">
+                <h3>Surface-mediated spontaneous emulsification of the acylated peptide semaglutide</h3>
+                <p>Semaglutide (SMG) is class of modified, acetylated
+                peptide mimic commonly used as a commercial therapeutic
+                to treat type-2 diabetes and obesity. Like other classes
+                of peptide mimic therapeutics, SMG’s suffer from physical
+                instabilities, including various aggregation and
+                degradation pathways but also spontaneous emulsification
+                into colloidal structures in the presence of certain
+                hydrophobic surfaces, a process often termed “ouzo formation.”
+                Researchers at the University of Delaware Center for Neutron
+                Science, in collaboration with Eli Lilly, used a variety of
+                biophysical methods including small-angle X-ray scattering
+                (SAXS), circular dichroism (CD) and dynamic light scattering
+                (DLS) to elucidate the fundamental physical mechanisms behind
+                ouzo formation. This work provides a foundation for predicting
+                ouzo-like formation in related molecules, which may help
+                guide future formulations and storage methods for a range of
+                therapeutics.</p>
+                <a href="/science/emulsification-semaglutide.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="item">
+              <div class="col text-center">
+              <img class="d-block w-100" src="/images/gallery/2024_starch_degrading_enzymes.png" alt="">
+              <div class="carousel-caption3">
+                <h3>Characterization of starch-degrading enzymes</h3>
+                <p>The ways in which starches, in particular digestion-resistant
+                starches, are accommodated by gut bacteria remains relatively
+                poorly understood at the molecular level. Digestion-resistant
+                starches are accessed by specialized gut bacteria with specific
+                carbohydrate-binding systems. The authors present a structural
+                and functional characterization by crystallography, SAXS,
+                native mass spec and other methods of one such system from
+                Ruminococcus bromii (Sas6). Together, these data allowed the
+                authors to elucidate the starch granule recognition mechanism,
+                providing foundational work for both engineering of
+                starch-degrading systems as well as gut-microbiome focused
+                health applications.</p>
+                <a href="/science/starch-degrading-enzymes.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="item">
+              <div class="col text-center">
+              <img class="d-block w-100" src="/images/gallery/2023_polyubiquitin.jpg" alt="">
+              <div class="carousel-caption3">
+                <h3>Polyubiquitin ligand-induced phase transitions are optimized by spacing between ubiquitin units</h3>
+                <p>Biomolecular condensates are involved in a range of
+                cellular processes including stress response, protein
+                degradation and gene expression. These condensates contain
+                a wide range of unique macromolecules, but the drivers of
+                this condensation, referred to as scaffolds, comprise only
+                a very small fraction. The non-driver components are commonly
+                referred to as ligands and may not phase separate on their own
+                but nonetheless may help regulate assembly, disassembly and
+                other material properties. One such ligand is ubiquitin (Ub)
+                or its linked multimers (polyubiquitin chains), which are
+                attached as posttranslational modifications to partner proteins
+                and help determine various downstream signaling outcomes such
+                as DNA repair. There is growing evidence that suggests the
+                involvement of polyUb chains in phase separation acts as a
+                mechanism for the reading and interpretation of said Ub code
+                in the cell. Research from the Castaneda lab at Syracuse
+                University has worked towards understanding the molecular
+                rules by which polyUb chains are able to regulate biomolecular
+                condensation.</p>
+                <a href="/science/polyubiquitin.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="item">
+              <div class="col text-center">
+              <img class="d-block w-100" src="/images/gallery/2023_mpz_ig_interactions.png" alt="">
+              <div class="carousel-caption3">
+                <h3>Homomeric interactions of the MPZ Ig domain and their relation to Charcot-Marie-Tooth disease</h3>
+                <p>Charcot Marie Tooth (CMT) disease is the most common form
+                of heritable peripheral neuropathy, which are a group of
+                inherited diseases affecting the peripheral nervous system
+                (PNS). Myelin protein zero (MPZ) is necessary for normal
+                myelin structural and function comprises ~50% of all
+                proteins in the PNS; mutations in MPZ account for around
+                5% of CMT cases. The authors performed nuclear magnetic
+                resonance spectroscopy and small angle X-ray scattering
+                (SAXS) analysis on a region of this protein. They were
+                able to correlate different types of Charcot-Marie-Tooth
+                disease symptoms to subregions within this protein.</p>
+                <a href="/science/mpz_ig_interactions.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="item">
+              <div class="col text-center">
+              <img class="d-block w-100" src="/images/gallery/2023_sarcomere_contractile_depression.jpg" alt="">
+              <div class="carousel-caption3">
+                <h3>Right Ventricular Sarcomere Contractile Depression and
+                the Role of Thick Filament Activation in Human Heart Failure
+                With Pulmonary Hypertension</h3>
+                <p>Right ventricular (RV) contractile dysfunction commonly
+                occurs and worsens outcomes in patients with heart failure
+                with reduced ejection fraction and pulmonary hypertension
+                (HFrEF-PH). However, such dysfunction often goes undetected
+                by standard clinical RV indices, raising concerns that they
+                may not reflect aspects of underlying myocyte dysfunction.
+                To address the need for better diagnostics, the authors sought
+                to characterize RV myocyte contractile depression in HFrEF-PH,
+                identify those components reflected by clinical RV indices,
+                and uncover underlying biophysical mechanisms.</p>
+                <a href="/science/sarcomere-contractile-depression.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="item">
+              <div class="col text-center">
+              <img class="d-block w-100" src="/images/gallery/2023_heart_oomph.jpg" alt="">
+              <div class="carousel-caption3">
+                <h3>Proteins in Heart Muscle Can Produce More Oomph than Previously Thought</h3>
+                <p>Recent research by a team of investigators from the Illinois
+                Institute of Technology and the University of Washington
+                presents a more detailed description of the positional
+                changes of the myosin proteins within the heart as they
+                prepare for contraction, and demonstrates how the myosin’s
+                behavior directly affects the amount of force created during
+                muscle contraction, revealing new focus points for medicines.</p>
+                <a href="/science/heart-oomph.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="item">
+              <div class="col text-center">
+              <img class="d-block w-100" src="/images/gallery/2023_grb2_domain_swap.png" alt="">
+              <div class="carousel-caption3">
+                <h3>GRB2 dimerization mediated by SH2 domain-swapping is critical for T cell signaling and cytokine production</h3>
+                <p>Adaptor proteins are accessories to main proteins in
+                signal transduction pathways that usually lack intrinsic
+                enzymatic activity but instead facilitate the linking of
+                binding partners together to enable the formation of larger
+                signaling complexes. One widely expressed adaptor protein
+                is the growth factor receptor-bound protein 2 (GRB2), which
+                facilitates formation of cytoplasmic signaling complexes
+                from a wide array of binding partners. As a consequence,
+                the structure and function of GRB2 have become major areas
+                of investigation for novel areas of interventions against
+                various human diseases. Here, the authors showed that a
+                novel dimeric GRB2 conformation with domain-swapping between
+                SH2 domains and monomer/dimer transitions was critical for
+                GRB2 to facilitate early signaling complexes in human T cells.</p>
+                <a href="/science/grb2_domain_swap.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="item">
+              <div class="col text-center">
+              <img class="d-block w-100" src="/images/gallery/2022_titin_lattice.jpg" alt="">
+              <div class="carousel-caption3">
+                <h3>Titin force in muscle cells alters lattice order, thick and thin filament protein connections</h3>
+                <p>Muscles can produce more force when stretched to a
+                longer length at the same level of activating calcium,
+                a poorly understood phenomenon known as myofilament length
+                dependent activation (LDA). It was suggested several years
+                ago that passive force generated by the giant elastic protein
+                titin could be the length sensor behind this phenomenon,
+                but direct evidence has been lacking. These experiments
+                firmly established titin as the length sensor in LDA and
+                showed that LDA involves structural changes in both thick
+                and thin filaments.</p>
+                <a href="/science/titin-lattice.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="item">
+              <div class="col text-center">
+              <img class="d-block w-100" src="/images/gallery/2022_phase_separation.jpg" alt="">
+              <div class="carousel-caption3">
+                <h3>Understanding Phase Separation Could Impact Treatment of Neurodegenerative Disease</h3>
+                <p>Living cells are amazing little biochemical factories that
+                conduct countless chemical reactions in a cellular soup packed
+                with lipids, proteins, nucleic acids, and ions, keeping them
+                all in their proper places at any given time. Cells maintain
+                this organization even while carrying out complex tasks such
+                as cell division, signaling, transcriptional regulation, and
+                stress responses. One example of this is the careful
+                management of stress granule formation, a process in which
+                membraneless organelles transiently form to control the
+                utilization of mRNA during stress. These granules form and
+                disperse through reversible liquid-liquid phase transitions
+                involving proteins and RNA in the granules. Recent research
+                has demonstrated that RNA-binding proteins in these granules
+                contain intrinsically disordered sequences, called prion-like
+                low-complexity domains (PLCDs), that are critical to regulation
+                of these reversible phase transitions. There is also mounting
+                evidence that these transitions may be disrupted in
+                neurodegenerative diseases, like amyotrophic lateral
+                sclerosis (ALS), in which mutations in PLCD-containing
+                proteins, such as hnRNPA1, have been implicated as a cause
+                of the disease. Recent work that relied on data gathered
+                at the U.S. Department of Energy’s Advanced Photon Source (APS),
+                an Office of Science user facility at Argonne National
+                Laboratory, and published in the journal Nature Chemistry
+                aimed to learn more about how these phase transitions are
+                regulated. These findings will provide important information
+                about the causes of diseases like ALS.</p>
+                <a href="/science/phase-separation-neuordegenerative-disease.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="item">
+              <div class="col text-center">
+              <img class="d-block w-100" src="/images/gallery/2022_cancer.jpeg" alt="">
+              <div class="carousel-caption3">
+                <h3>Targeting Cancer at the Level of DNA Expression</h3>
+                <p>The last 20 years have brought a revolution in targeted
+                therapies for cancer. Small-molecule inhibitors and monoclonal
+                antibodies that target a specific aberrant protein in tumors
+                have provided cancer patients with treatments that are
+                associated with fewer side effects and longer survival than
+                conventional chemotherapy. This has been, in large part, the
+                result of intensive research into the role of oncogenes in
+                cancer development. Oncogenes are normal cellular genes that
+                have become mutated in such a way that they aberrantly promote
+                the uncontrolled cell growth seen in cancer. They are often
+                proteins involved in growth control or activation of cellular
+                signaling; inhibiting these mutated proteins has proven to be
+                effective in stopping the growth of many cancers. Research by
+                a team from the Brown Cancer Center at the University of
+                Louisville in Kentucky using the U.S. Department of Energy’s
+                Advanced Photon Source (APS) and published in the journal
+                Nucleic Acids Research promises to extend these treatment
+                possibilities to control these oncogenes at the gene
+                expression level. The work, based on the discovery that DNA
+                in the promoter region of many genes forms higher order
+                structures that could provide unique druggable targets for
+                intervention, extends structural knowledge of the promoter
+                regions of three important oncogenes.</p>
+                <a href="/science/targeting-cancer-with-dna-expression.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="item">
+              <div class="col text-center">
+              <img class="d-block w-100" src="/images/gallery/2022_heart_disease.jpg" alt="">
+              <div class="carousel-caption3">
+                <h3>Understanding the Structural Implications of Genetic Mutations in Heart-Muscle Disease</h3>
+                <p>Cardiomyopathies are diseases of the heart muscle in which
+                the muscle of the pumping chamber (ventricle) can become
+                enlarged (dilated cardiomyopathy; DCM) or thickened
+                (hypertrophic cardiomyopathy; HCM), potentially leading
+                to heart failure. There are currently no effective
+                treatments but the disease often has a genetic component
+                related to mutations in the heart muscle proteins that are
+                involved in muscle contraction, so some researchers have
+                focused their therapeutic development efforts on correcting
+                these muscle contraction problems based on the structural
+                basis of the defect. A recent study from a team of researchers
+                using the U.S. Department of Energy’s Advanced Photon Source
+                (APS) employed humanized mouse models expressing mutations
+                observed in patients with HCM and DCM to evaluate the
+                structure-function relationships and the changes observed in
+                cardiac muscle contraction with these mutations. The work,
+                published in the Proceedings of the National Academy of Sciences
+                of the United States of America, provides a deeper
+                understanding of the effects of cardiomyopathy-causing gene
+                mutations on heart muscle contraction that could lead to the
+                development of new therapies for this potentially
+                life-threatening disease.</p>
+                <a href="/science/genetic-mutation-heart-disease.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
+              </div>
+            </div>
+
+          <div class="item">
               <div class="col text-center">
               <img class="d-block w-100" src="/images/gallery/2022_muscle_review.jpg" alt="">
               <div class="carousel-caption3">

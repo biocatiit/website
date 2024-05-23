@@ -8,8 +8,8 @@ How to get SAXS beamtime during the APS-U Dark Period
 
 Overview
 =====================================
-The BioCAT 18ID beamline will be unavailable from April 17 2023 to summer/fall of
-2024 due to the `APS-U dark period <{filename}/pages/users_aps_u.rst>`_. During
+The BioCAT 18ID beamline will be unavailable from April 17 2023 to late 2024/early
+2025 due to the `APS-U dark period <{filename}/pages/users_aps_u.rst>`_. During
 that period, users are encouraged to make SAXS measurements at other bioSAXS
 beamlines in the US. Information on these beamlines is provided below. We will
 provide some BioCAT supported time at these facilities, and users can also

@@ -19,10 +19,8 @@ sizes for all APS beamlines, including BioCAT 18ID.
 BioCAT user program during the shutdown
 =========================================
 
-The APS plans to shut down on April 17, 2023 and restart operations in April,
-2024. After the restart there will be several months of safety and technical
-commissioning before the beamline is available for first experiments. We
-anticipate resuming user experiments in the summer/fall of 2024. There will be
+The APS shut down on April 17, 2023. Based on the current state of the upgrade,
+We anticipate resuming user experiments in late 2024/early 2025. There will be
 no user access to the APS for x-ray experiments during this “Dark Period”.
 
 SAXS experiments

@@ -8,33 +8,33 @@ How to get fiber beamtime during the APS-U Dark Period
 
 Overview
 =====================================
-The BioCAT 18ID beamline will be unavailable from April 17 2023 to summer/fall of
-2024 due to the `APS-U dark period <{filename}/pages/users_aps_u.rst>`_. During 
-that period we plan to offer the opportunity to perform a limited number of 
+The BioCAT 18ID beamline will be unavailable from April 17 2023 to late 2024/early
+2025 due to the `APS-U dark period <{filename}/pages/users_aps_u.rst>`_. During
+that period we plan to offer the opportunity to perform a limited number of
 experiments on other synchrotron facilities.
 
 BioCAT supported beamtime
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Every few months BioCAT will work with a different beamline to schedule about a 
-week of time at the beamline. For muscle diffraction experiments, BioCAT will 
-solicit interest from our users, help them plan the experiments, and BioCAT will 
-submit a proposal on the user’s behalf to other facility for a contiguous block 
-of time for ta selected set of experiments. A BioCAT scientist will travel to 
-the facility during that block to help support our users’ experiments. We will 
-also assist them after the experiment with data processing/analysis as needed. 
+Every few months BioCAT will work with a different beamline to schedule about a
+week of time at the beamline. For muscle diffraction experiments, BioCAT will
+solicit interest from our users, help them plan the experiments, and BioCAT will
+submit a proposal on the user’s behalf to other facility for a contiguous block
+of time for ta selected set of experiments. A BioCAT scientist will travel to
+the facility during that block to help support our users’ experiments. We will
+also assist them after the experiment with data processing/analysis as needed.
 These experiments will be done at beamline BL4-2 at SSRL or at MacCHESS at CHESS.
 
 
-If you want to know more about this BioCAT supported time at other facilities 
+If you want to know more about this BioCAT supported time at other facilities
 `contact Weikang Ma <{filename}/pages/contact.rst>`_.
 
 Options for Fiber Diffraction at other facilities not supported by BioCAT
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-General fiber diffraction experiments are supported at beamline BL4-2 at SSRL 
-and the LiX beamline at NSLS II. Users interested in performing such experiments 
-should contact beamline staff for procedures and submit proposals for beamtime 
+General fiber diffraction experiments are supported at beamline BL4-2 at SSRL
+and the LiX beamline at NSLS II. Users interested in performing such experiments
+should contact beamline staff for procedures and submit proposals for beamtime
 through the SSRL and NSLS II proposal systems.
 
 General notes
