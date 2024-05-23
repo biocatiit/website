@@ -8,22 +8,23 @@ Sector Orientation for BioCAT, Sector 18 - page 5
 on this website, please feel free to ask questions.*
 
 Electrical and Equipment Safety
-=================================
+===============================
 
 Device Inspections
---------------------
+------------------
 
 If you are bringing or have brought any devices (other than laptop/desktop
 computers) to support your experiment, you must notify members of BioCAT staff,
-so that they may be inspected. All electrical/mechanical/high-pressure/other
-devices brought on site are subject to the Argonne Electrical Safety and
-Inspection Policy. This means that your devices cannot be connected to
-power until they are approved by an ANL DEEI (Designated Electrical
-Equipment Inspector). Please consult the BioCAT staff before powering up
-any electrical device.
+so that they may be inspected. 
+
+All electrical/ mechanical/ high-pressure/ other devices brought on site are 
+subject to the Argonne Electrical Safety and Inspection Policy. This means that 
+your devices cannot be connected to power until they are approved by an ANL DEEI 
+(Designated Electrical Equipment Inspector). Please consult the BioCAT Staff before 
+powering up any electrical device.
 
 Electrical Work
---------------------------------
+---------------
 
 Users may connect approved devices to power, and use them as intended by
 the manufacturer, and as outlined in the ESAF. However, users are not
@@ -31,13 +32,13 @@ permitted to perform any electrical repair or troubleshooting. Also, users
 are restricted to working at or below 25 V (for wire connections) and never
 while devices are energized (Mode Zero).
 
-What does this mean? This means if you experience any issues with electrical
+What does this mean? **This means if you experience any issues with electrical
 equipment while at Argonne, you are not authorized to repair it, so you should
-get a member of BioCAT staff who is qualified (ANL Qualified Electrical Worker)
-to repair it and notify them of the issues.
+get a member of BioCAT Staff who is qualified (ANL Qualified Electrical Worker)
+to repair it and notify them of the issues.**
 
-Areas Outlined in Yellow Tape
---------------------------------
+Areas Outlined in Yellow-and-Black Striped Tape
+-----------------------------------------------
 
 .. row::
 
@@ -55,17 +56,17 @@ Areas Outlined in Yellow Tape
             :class: img-responsive
             :align: center
 
-Yellow tape may be used on the floor to indicate a controlled-access area,
-such as that surrounding an emergency electrical shutoff or an emergency exit
-aisle. 
+Yellow-and-Black striped tape is used on the floor in various areas at Argonne to indicate 
+a controlled-access area (egress), such as that surrounding an emergency electrical shutoff 
+or an emergency exit aisle. 
 
-**Do not place anything (chairs, equipment, bookbags, etc) inside of a
-yellow-taped-off area, and do not block the pathway into it.**
+**Do not place anything (chairs, equipment, bookbags, etc) inside of a yellow-and-black stiped 
+taped-off area, and do not block the pathway into it.**
 
 Extension Cords
---------------------------------
+---------------
 
-** If an extension cord is needed, you must make sure that it does not present
+**If an extension cord is needed, you must make sure that it does not present
 a trip hazard to any personnel.** Also, extension cords are not to be daisy-chained
 (one connected to another) to extend the length. Please ask Staff if you need 
 assistance.

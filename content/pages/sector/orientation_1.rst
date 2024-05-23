@@ -37,7 +37,7 @@ Hutches or the Wet-Lab until the following conditions are met:
 #.  BioCAT Staff must confirm that that all Users present match the user list
     in the ESAF and that all training modules have been taken. If any Users
     are absent or are additional, they must be added or subtracted
-    electronically by BioCAT Staff. Absent Users should be marked as 'off-site'.
+    electronically by BioCAT Staff. **Absent Users should be marked as 'off-site'.**
     BioCAT staff must then administer the Sector-Specific Orientation (Sector
     Orientation) and obtain signed sheets from Users. For Users who will be 
     arriving later, BioCAT Staff should make a notation on the paper copy of 
@@ -49,7 +49,7 @@ Hutches or the Wet-Lab until the following conditions are met:
     this is an appropriate time to do so. Materials can be added at any time
     during the course of the experiment (if the User would like to use a
     chemical in the BioCAT chemical inventory, for instance) but that material
-    will not be available for use until the ameded ESAF is approved. 
+    will not be available for use until the amended ESAF is approved. 
 
 #.  Finally, a Floor Coordinator should be paged by BioCAT Staff to come to 
     Sector 18 to post the ESAF.  The Floor Coordinator will arrive when they are

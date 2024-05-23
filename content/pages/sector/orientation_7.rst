@@ -1,5 +1,5 @@
 Sector Orientation for BioCAT, Sector 18 - page 7
-###############################################################################
+#################################################
 
 :category: users
 :slug: orientation-7
@@ -10,16 +10,17 @@ on this website, please feel free to ask questions.*
 Wet-Lab
 ========
 
-As with all of your work at BioCAT, your use of the wet-lab facilities is
+As with all of your work at BioCAT, your use of the Wet-Lab facilities is
 subject to the rules and guidelines in your ESAF, and any applicable SOPs.
 
-General Rules for Use of the wet-lab:
+General Rules for Use of the Wet-Lab:
 
 #.  NO FOOD OR DRINK IS ALLOWED INSIDE OF THE WET-LAB!
 
 #.  PROPER PPE - You must use the proper PPE(Personal Protective Equipment)
-    when conducting your experiment. Gloves, face masks, laser goggles, etc.
-    can be found at BioCAT.
+    for the appropriate tasks when conducting your experiment. Cryogenic and 
+    nitrile glovess, face shield, laser goggles, etc. can be found at BioCAT.
+    If you need help locationg them, please ask a member of staff.
 
 #.  **Keep the Wet-Lab neat and clean - do not leave powders, residues, or
     liquids on equipment or benchtop surfaces for other people to encounter.**

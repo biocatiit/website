@@ -14,7 +14,7 @@ Clean any hardware and glassware you've used. Brushes and dish washing liquid
 are available at the sink. Clean glassware and hardware may be left on the
 drying rack. Please waste out any non-hazardous tubes, bottles, vials, buffers
 that you generate during your visit. All hazardous waste needs to be reported
-to Mark Vukonich to be stored and disposed of properly. Do not take any BioCAT
+to BioCAT Staff to be stored and disposed of properly. Do not take any BioCAT
 equipment home with you.
 
 If you wish to ship any items back to your home institution, you must consult with
@@ -50,10 +50,13 @@ experimental console. If you have a question in the off-hours, use the
 beamline phone by pushing 71 then by entering in the area code and phone
 number.
 
-Part 2 of the BioCAT sector orientation is a tour of LOM, wet-lab, beamline
-console area, and D-hutch. There will also be a short in-person quiz.
+**Part 2 of the BioCAT Sector Orientation is a tour of LOM, Wet-Lab, Beamline
+Console area, and D-hutch. There will also be a short online quiz.**
 
+*Please take the following quiz:*
 
+-> `QUIZ <https://forms.office.com/r/cAmywdr3J9>`_
+==================================================
 .. column::
     :width: 6
 
