@@ -15,12 +15,12 @@ Device Inspections
 
 If you are bringing or have brought any devices (other than laptop/desktop
 computers) to support your experiment, you must notify members of BioCAT staff,
-so that they may be inspected. 
+so that they may be inspected.
 
-All electrical/ mechanical/ high-pressure/ other devices brought on site are 
-subject to the Argonne Electrical Safety and Inspection Policy. This means that 
-your devices cannot be connected to power until they are approved by an ANL DEEI 
-(Designated Electrical Equipment Inspector). Please consult the BioCAT Staff before 
+All electrical/ mechanical/ high-pressure/ other devices brought on site are
+subject to the Argonne Electrical Safety and Inspection Policy. This means that
+your devices cannot be connected to power until they are approved by an ANL DEEI
+(Designated Electrical Equipment Inspector). Please consult the BioCAT Staff before
 powering up any electrical device.
 
 Electrical Work
@@ -56,11 +56,11 @@ Areas Outlined in Yellow-and-Black Striped Tape
             :class: img-responsive
             :align: center
 
-Yellow-and-Black striped tape is used on the floor in various areas at Argonne to indicate 
-a controlled-access area (egress), such as that surrounding an emergency electrical shutoff 
-or an emergency exit aisle. 
+Yellow-and-Black striped tape is used on the floor in various areas at Argonne to indicate
+a controlled-access area (egress), such as that surrounding an emergency electrical shutoff
+or an emergency exit aisle.
 
-**Do not place anything (chairs, equipment, bookbags, etc) inside of a yellow-and-black stiped 
+**Do not place anything (chairs, equipment, bookbags, etc) inside of a yellow-and-black striped
 taped-off area, and do not block the pathway into it.**
 
 Extension Cords
@@ -68,7 +68,7 @@ Extension Cords
 
 **If an extension cord is needed, you must make sure that it does not present
 a trip hazard to any personnel.** Also, extension cords are not to be daisy-chained
-(one connected to another) to extend the length. Please ask Staff if you need 
+(one connected to another) to extend the length. Please ask Staff if you need
 assistance.
 
 

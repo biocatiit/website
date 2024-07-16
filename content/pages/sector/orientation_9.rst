@@ -10,14 +10,18 @@ on this website, please feel free to ask questions.*
 Beamline Console Area
 =====================
 
-The BioCAT Beamline is controlled by two main computers at the console. You are 
-not to use either of these computers for general computing; they control all of 
-the motions on the beamline and are critical to supporting your experiment. 
+The BioCAT Beamline is controlled by two main computers at the console. You are
+not to use either of these computers for general computing; they control all of
+the motions on the beamline and are critical to supporting your experiment.
 
-Please do not close any active windows on these computers, as well. If you happen 
-to accidentally close an active window or move the wrong set of motors at any time, 
-please stop and notify a BioCAT staff member so that we can get your experiment 
+Please do not close any active windows on these computers, as well. If you happen
+to accidentally close an active window or move the wrong set of motors at any time,
+please stop and notify a BioCAT staff member so that we can get your experiment
 running again correctly.
+
+There are three other computers in the experimental controls area (one Windows
+and two Linux) that you will use to control the experiment and can also use
+for personal business like checking email.
 
 Experimental Hutch
 ==================
@@ -33,7 +37,7 @@ General rules for use of the D-hutch:
     conducting your experiment. Gloves, face masks, laser goggles, etc. can be
     found at BioCAT - if you are using a laser, use the goggles!
 
-#.  Do not put any objects (chairs, bookbags, boxes, etc) inside of the yellow-and-black 
+#.  Do not put any objects (chairs, bookbags, boxes, etc) inside of the yellow-and-black
     striped taped areas by either the electrical panel or the eyewash station
 
 #.  Use 'SHARPS' containers.
@@ -58,12 +62,12 @@ You should always be in communication with the people you are working with
 inside of the hutch. When you are ready to close the hutch door, ask if all
 of the people also inside of the hutch are ready to 'close the hutch.' If
 they are not ready, wait until they are. If they are ready, you may begin the
-hutch closure procedure. 
+hutch closure procedure.
 
-Once everyone is ready, please ask everyone to leave the D-hutch and then you 
-may begin the Hutch Search Procedure. There are three green search buttons 
-that have yellow flashing lights inside of our hutch which are spaced in such 
-a way that you must walk the length of the hutch in order to make sure that 
+Once everyone is ready, please ask everyone to leave the D-hutch and then you
+may begin the Hutch Search Procedure. There are three green search buttons
+that have yellow flashing lights inside of our hutch which are spaced in such
+a way that you must walk the length of the hutch in order to make sure that
 no one remains in the hutch once it is closed.
 
 **The hutch search buttons are numbered, and you must push them in the same sequence every time
@@ -87,14 +91,14 @@ and press the 'open' door release button.
 You will notice on the patch panel that there are two shutters - an 'A'
 shutter and a 'D' shutter. **The 'A' shutter is normally left open and is not
 normally operated by the Users. The 'D' shutter is the main shutter which you
-will use after closing the D-hutch to begin your experiment.** 
+will use after closing the D-hutch to begin your experiment.**
 
 The only time that you would have to operate the 'A' shutter is after a beam-dump. During a
 beam-dump when the main storage ring goes down, the APS disables the 'A' shutter.
 Once the main ring is refilled and the announcement is made that beam is
 available, you may re-open the 'A' shutter. If you are not getting beam,
 you should check to see if either of the **'FAULT' lights on the patch panel** are
-lit. 
+lit.
 
 If you have a fault, then the Floor Coordinator must be paged at 2-0101
 to reset the fault condition. You should alert BioCAT Staff if you ever find
@@ -106,30 +110,30 @@ Emergency Beam Stops
 Our experimental hutch is equipped with 2 emergency beam stops. These are to
 be used in the unlikely event that you should be locked in an experimental
 hutch. **This should never happen and it is forbidden for someone to be inside
-of the hutch with the door closed!** 
+of the hutch with the door closed!**
 
-However, in the event that an accident has occurred, **pressing the red mushroom 
-button while the shutter is open will dump the storage ring, and stop the X-ray beam.** 
+However, in the event that an accident has occurred, **pressing the red mushroom
+button while the shutter is open will dump the storage ring, and stop the X-ray beam.**
 
-The door can then be opened by pressing the top button on the auxiliary door 
-control panel(to the left of the entry door), and holding for three seconds. 
-If the door does not open with a press of the top button, press the bottom 
+The door can then be opened by pressing the top button on the auxiliary door
+control panel(to the left of the entry door), and holding for three seconds.
+If the door does not open with a press of the top button, press the bottom
 button to disengage it from the pneumatic system. You can then open the door manually.
 
-If an emergency beam stop is inadvertently pressed while working in the hutch, it will not dump 
-the ring, because the door will be open, and the shutter closed. However, it 
-will disable your search boxes (see above), and must be pulled out in order 
+If an emergency beam stop is inadvertently pressed while working in the hutch, it will not dump
+the ring, because the door will be open, and the shutter closed. However, it
+will disable your search boxes (see above), and must be pulled out in order
 to perform a search of the hutch.
 
 Beam Dumps
 ----------
 
 From time to time, the beam in the APS Main Storage Ring will trigger a fault
-in the main ring and will 'dump.' The current in the main ring will go to 0mA and 
-the A-Station Shutter will be disabled and an announcement will be made over 
-the intercom. It could take a few minutes or it could take a few hours until 
-the beam comes back up, it just depends on what caused the original fault. 
-Once the main storage ring has been refilled, an announcement will again be 
+in the main ring and will 'dump.' The current in the main ring will go to 0mA and
+the A-Station Shutter will be disabled and an announcement will be made over
+the intercom. It could take a few minutes or it could take a few hours until
+the beam comes back up, it just depends on what caused the original fault.
+Once the main storage ring has been refilled, an announcement will again be
 made indicating that beam is available for use.
 
 
