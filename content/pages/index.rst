@@ -250,24 +250,27 @@ Welcome to BioCAT
 
                 .. thumbnail::
 
-                    .. image:: {static}/images/news/2024_aca_sas_workshop.png
+                    .. image:: {static}/images/news/2024_eb10_cover.png
                         :class: img-rounded
 
                     .. caption::
 
-                        :h4:`Register for ACA SAS Workshop`
+                        :h4:`Apply for Everything BioSAXS 10 Workshop`
 
-                        BioCAT is helping organize an introductory small angle scattering
-                        workshop at the 2024 ACA Annual Meeting in Denver CO.
-                        The workshop will introduce both the theory of the method and best
-                        practices common to the field and will include lectures and a
-                        selection of hands-on practical exercises from leading experts
-                        in the field. The course will take place on July 7th, 2024.
+                        BioCAT is offering its tenth intensive HOW-TO course in BioSAXS.
+                        Students will have four days of virtual lectures and hands-on
+                        software tutorials on the basics of BioSAXS data collection and
+                        processing from expert practitioners in the field. Students may
+                        also be able to mail in samples for data collection on the BioCAT
+                        beamline (Sector 18 at the APS) before the course, and there will
+                        be time during the workshop to get help with analysis of their own
+                        data. The course will take place from 12/10/24 to 12/13/24
+                        and is entirely virtual (via Zoom).
 
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/news/2024_aca_sas_workshop.rst
+                        :target: {filename}/news/2024_everything_biosaxs10.rst
 
 
             .. -------------------------------------------------------------------------
@@ -276,20 +279,26 @@ Welcome to BioCAT
 
                 .. thumbnail::
 
-                    .. image:: {static}/images/news/2024_ma_grant.jpeg
+                    .. image:: {static}/images/facility_thumbnail.jpg
                         :class: img-rounded
 
                     .. caption::
 
-                        :h4:`BioCAT scientist gets grant to study inherited cardiac conditions`
+                        :h4:`BioCAT awarded $2 million in supplementary funds to upgrade beamline`
 
-                        BioCAT scientist Weikang Ma was awarded a five year $2 million
-                        grant from the NIH to study inherited cardiac conditions.
+                        The BioCAT team has been awarded $2 million in
+                        supplementary funds from the NIH to upgrade the BioCAT
+                        beamline. These funds will let us upgrade our x-ray optics (mostly original to
+                        the beamline and more than 20 years old) to modern state-of-the-art
+                        systems that can  take full advantage of the new upgraded APS source.
+                        These new optics will provide smaller, more intense x-ray beams
+                        and improved beam stability. The upgrade is expected to take ~2 years
+                        to complete and user operations will continue unhindered while it is taking place.
 
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/news/2024_ma_grant.rst
+                        :target: {filename}/news/2024_supplement.rst
 
         .. row::
 
