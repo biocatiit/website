@@ -18,9 +18,9 @@ General Rules for Use of the Wet-Lab:
 #.  NO FOOD OR DRINK IS ALLOWED INSIDE OF THE WET-LAB!
 
 #.  PROPER PPE - You must use the proper PPE(Personal Protective Equipment)
-    for the appropriate tasks when conducting your experiment. Cryogenic and 
-    nitrile glovess, face shield, laser goggles, etc. can be found at BioCAT.
-    If you need help locationg them, please ask a member of staff.
+    for the appropriate tasks when conducting your experiment. Cryogenic and
+    nitrile gloves, face shield, laser goggles, etc. can be found at BioCAT.
+    If you need help locating them, please ask a member of staff.
 
 #.  **Keep the Wet-Lab neat and clean - do not leave powders, residues, or
     liquids on equipment or benchtop surfaces for other people to encounter.**
@@ -36,8 +36,8 @@ General Rules for Use of the Wet-Lab:
     #.  Your initials.
 
 #.  Trash bins are for normal trash only. Biological tissues, sharps, carcasses,
-    chemical waste, and hazardous waste are not to be disposed of in the normal 
-    trash bins. Use a 'SHARPS' container for any sharps, and bag any biological 
+    chemical waste, and hazardous waste are not to be disposed of in the normal
+    trash bins. Use a 'SHARPS' container for any sharps, and bag any biological
     waste for storage at -20C and disposal at IIT.
 
 #.  If you use a syringe, even if it does not have a needle, it must be disposed
@@ -63,7 +63,7 @@ Chemical Eye Wash and Shower
 -------------------------------
 
 If you should you accidentally get harmful chemicals on you or in your eyes, the
-BioCAT Wet-Lab is supplied with a chemical shower and eyewash station. Please do not 
+BioCAT Wet-Lab is supplied with a chemical shower and eyewash station. Please do not
 hesitate to use them, if needed.
 
 

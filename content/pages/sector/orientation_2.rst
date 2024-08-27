@@ -30,20 +30,20 @@ which pertain to your experiment. This includes:
 #.  BioCAT Wet and Dry Labs.
 #.  BioCAT Experimental Floor.
 
-You are required to wear your APS/ Argonne badge so that it is visible. You are also 
-required to wear your radiation (dosimeter) badge at heart height. 
+You are required to wear your APS/ Argonne badge so that it is visible. You are also
+required to wear your radiation (dosimeter) badge at heart height.
 
-**Wearing shorts and/or open-toes shoes is not allowed.**
+**Wearing shorts, skirts and/or open-toes shoes is not allowed in labs or on the experimental floor.**
 
 Argonne Landline Phones
 =======================
 
 The BioCAT landline extension at the beamline console on the experimental floor
-is 2-1818. Notice that within the Argonne campus, you may use the last 5 digits 
-of the number that you wish to call. The cell-phone numbers of BioCAT Staff are 
-available at the beamline console landline phone. To dial an external number, 
-dial 71, then the area code and number. Floor coordinators may be paged via the 
-APS Website or they may be paged by dialing 2-0101 from the beamline phone and 
+is 2-1818. Notice that within the Argonne campus, you may use the last 5 digits
+of the number that you wish to call. The cell-phone numbers of BioCAT Staff are
+available at the beamline console landline phone. To dial an external number,
+dial 71, then the area code and number. Floor coordinators may be paged via the
+APS Website or they may be paged by dialing 2-0101 from the beamline phone and
 2-1818 in response to a call-back number.
 
 * Dialing 911 from any Argonne Landline phone will connect you with the Argonne Protective Force for immediate medical or security emergency.

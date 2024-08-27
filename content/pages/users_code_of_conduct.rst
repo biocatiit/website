@@ -1,14 +1,9 @@
-Sector Orientation for BioCAT, Sector 18 - page 10
-##################################################
+BioCAT Diversity Statement and Code of Conduct
+#################################################
 
 :category: users
-:slug: orientation-10
+:slug: code-of-conduct
 
-*If you have questions regarding our facility that are not adequately answered
-on this website, please feel free to ask questions.*
-
-BioCAT Diversity Statement and Code of Conduct
-=================================================
 
 Diversity Statement
 *********************
@@ -109,17 +104,3 @@ reporting mechanisms for the broader institutions, can be found here:
     `https://www.iit.edu/student-affairs/student-handbook/fine-print/code-conduct <https://www.iit.edu/student-affairs/student-handbook/fine-print/code-conduct>`_
 *   Illinois Tech EthicsPoint reporting system (can be used by anyone):
     `https://www.iit.edu/general-counsel/ethicspoint <https://www.iit.edu/general-counsel/ethicspoint>`_
-
-.. column::
-    :width: 6
-
-    .. button:: Back
-        :class: primary block
-        :target: {filename}/pages/sector/orientation_9.rst
-
-.. column::
-    :width: 6
-
-    .. button:: Next
-        :class: primary block
-        :target: {filename}/pages/sector/orientation_11.rst
