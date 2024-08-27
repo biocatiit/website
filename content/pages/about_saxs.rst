@@ -110,8 +110,8 @@ The AKTA Pure used for SEC-SAXS is also capable of IEC-SAXS using the two
 pumps to create the necessary gradient for elution. BioCAT also has the
 following columns available for users:
 
-*   HiTrap Q HP anion exchange, 1 mL and 5 mL
-*   HiTrap SP HP cation exchange, 1 mL and 5 mL
+*   Capto HiRes Q 5/50
+*   Capto HiRes S 5/50
 
 Batch Mode
 ^^^^^^^^^^^^^^^

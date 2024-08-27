@@ -182,6 +182,11 @@ A full list of columns and the corresponding MW ranges is available for both
 `SEC-SAXS <{filename}/pages/about_saxs.rst#sec-saxs>`_ and
 `SEC-MALS-SAXS <{filename}/pages/about_saxs.rst#sec-mals-saxs>`_.
 
+We also have standard columns available for IEC-SAXS:
+
+*   Capto HiRes Q 5/50
+*   Capto HiRes S 5/50
+
 Users may also provide their own columns if desired. However, due to the dilution
 factor, we recommend that you only use analytical grade columns, not the larger
 prep columns like the Cytiva HiPrep or HiLoad columns.
