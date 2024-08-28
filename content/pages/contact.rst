@@ -36,8 +36,7 @@ Contact BioCAT
 
         .. raw:: html
 
-            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d862.0526870119504!2d-87.989123!3d41.7014889!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e44e1bdeda35b%3A0x0!2zNDHCsDQyJzA2LjAiTiA4N8KwNTknMTkuMSJX!5e1!3m2!1sen!2sus!4v1671484750057!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1267.429537934359!2d-87.98917867937375!3d41.701648200348586!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e4500413e1227%3A0x7ef5114b040cd33b!2sBuilding%20435!5e1!3m2!1sen!2sus!4v1724856113622!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 .. row::
 
@@ -53,8 +52,8 @@ Contact BioCAT
 
         SAXS:
 
-        *   Jesse Hopkins
         *   Max Watkins
+        *   Jesse Hopkins
 
         Beamline:
 
@@ -337,7 +336,7 @@ Staff
             .. caption::
 
                 :h3:`Dr. Max Watkins`
-                Beamline Scientist
+                Beamline Scientist, SAXS
 
             .. row::
 
