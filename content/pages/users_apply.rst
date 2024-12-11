@@ -24,7 +24,7 @@ feasibility and scientific merit. Obtaining time at the BioCAT facility is a
 multiple-step process. Below is a listing of the things you need to
 do - from start to finish - to acquire, use, and complete time at BioCAT.
 Please also check the `APS new user checklist
-<https://www.aps.anl.gov/Users-Information/Getting-Started/User-Checklist>`_.
+<https://www.aps.anl.gov/Users-Information/Getting-Started/User-Checklist/APS>`_.
 
 #.  `Discuss Your Proposed Experiment with Us <{filename}/pages/contact.rst>`_
 
@@ -58,22 +58,21 @@ Please also check the `APS new user checklist
     If you are apply for beamtime within the current run, or for the next run after
     the standard GUP proposal deadline has passed, you will need to put in a Rapid
     Access proposal. To do so, when creating a new proposal select the "General
-    Users" proposal and then select the "Rapid Access General User Proposal
-    (DO NOT USE FOR MC PROPOSALS)" for your General User (GU) Proposal Type.
-    These proposals are good for only one run.
+    Users" proposal and then select the "General User - Rapid Access" for your
+    General User (GU) Proposal Type. These proposals are good for only one run.
 
-    Users with active proposals wishing time in the next run should submit a
-    beamtime request by following the directions for a Returning Proposer on
+    Users with active proposals wishing time in the next run should submit an
+    experiment time request by following the directions for a Returning Proposer on
     the `APS website <https://www.aps.anl.gov/Users-Information/About-Proposals/Apply-for-Time>`_.
     Users with an active proposal who want time in the current run, or for the next
     run after the standard GUP proposal deadline has passed can put in a rapid
-    access beamtime request.
+    access experiment time request.
 
     For all proposals to BioCAT you must list the BioCAT beamline, "18-ID-D", as one of
-    the three beamlines in the "Choice of Beamline" section in the Beamtime Request.
+    the beamlines in the "Choice of Beamline" section in the Experiment Time Request.
     For a Rapid Access proposal, you should list only BioCAT in this section.
 
-#.  `Complete the Experiment Safety Assessment Form (ESAF) <https://beam.aps.anl.gov/pls/apsweb/esaf0001.start_page>`_
+#.  `Complete the Experiment Safety Assessment Form (ESAF) <https://www.aps.anl.gov/Users-Information/Safety-Training/Experiment-Safety-Overview>`_
 
     Every proposal awarded beam time must be accompanied by an approved Experiment Safety Assessment
     Form (ESAF) before it is allowed to proceed.
@@ -173,26 +172,32 @@ Please also check the `APS new user checklist
 #.  Arrive at the Beamline
 
     Argonne National Lab is a closed campus. In order to `obtain site access
-    <https://www.aps.anl.gov/Users-Information/Getting-Started/Argonne-Site-Access>`_
+    <https://www.aps.anl.gov/Users-Information/Getting-Started/User-Checklist/APS#siteaccess>`_
     you must first register (step 2, above). **Any on-site user arriving outside of normal business hours on a weekday or on a
     holiday or weekend must request a Gate Pass in advance of their arrival or they will not
-    be allowed on site.** Current information on business hours and how far in advance a
-    gate pass must be requested is available here:
-    `https://aps.anl.gov/Users-Information/Updates/Covid-Rule-Regulations <https://aps.anl.gov/Users-Information/Updates/Covid-Rule-Regulations>`_.
+    be allowed on site.**
 
     For on-site users, please note that in order to get your user photo badge or
     gate pass, you will have to show a valid form of photo identification. If you want
     to use a driver's license or other state identification card as your photo ID
-    it must be REAL-ID compatible. The APS website has
-    `more information on how to obtain site access. <https://aps.anl.gov/Users-Information/Getting-Started/Argonne-Site-Access>`_
+    it must be REAL-ID compatible. The Argonne website has
+    `more information on how to obtain site access. <https://www.anl.gov/site-entry-requirements>`_
+
+    On-site users must also request a dosimeter at least 3 business days
+    in advance of your visit. If you do not do this you will not be allowed on
+    the experimental floor. Dosimiters can be picked up in the 401 building by
+    the APS user office. The APS website has `more information on how to request
+    a dosimeter. <https://www.aps.anl.gov/Users-Information/APS-Dosimetry-Information>`_
+    **You are not allowed on the experimental floor without your dosimeter, so be
+    sure to pick it up when you first arrive at the APS.**
 
     Nominally your beamtime starts at 8 am on your first scheduled day. In practice,
     you should usually plan to arrive at the beamline between 9:30-10 am unless
     otherwise specified by your scientific contact. If you have
     particular questions or concerns about the start of your beamtime, contact
     your scientific contact. **You cannot start any work until you ESAF is posted,
-    so if you arrive before your scientific contact wait at the beamline or in
-    the LOM until they arrive. Do not start working on your own!**
+    so if you arrive before your scientific contact wait in the LOM until they
+    arrive. Do not start working on your own!**
 
 #.  Observe Beamline Etiquette
 
