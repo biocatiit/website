@@ -7,13 +7,9 @@ Welcome to BioCAT
 .. alert::
     :type: warning
 
-    The APS shut down on April 17, 2023 for an upgrade. During this
-    APS-U dark period the BioCAT beamline is unavailable for x-ray experiments.
-    We anticipate resuming user experiments in late 2024/early 2025.
+    BioCAT is resuming user operations for the 2025-1 run!
 
-    Find out more about: `the APS-U <{filename}/pages/users_aps_u.rst>`_;
-    `SAXS experiments during the APS-U dark period; <{filename}/pages/users_aps_u_saxs.rst>`_
-    `Fiber experiments during the APS-U dark period. <{filename}/pages/users_aps_u_fiber.rst>`_
+    `Find out more. <{filename}/news/2024_user_operations.rst>`_
 
 
 .. class:: center
@@ -225,21 +221,20 @@ Welcome to BioCAT
 
             .. caption::
 
-                :h3:`BioCAT Plans for the APS-U Dark Period`
+                :h3:`BioCAT town hall and resumption of user operations`
 
-                The APS shut down on April 17, 2023 for a major year-long
-                upgrade, the "APS-U" project. There is no user access to the
-                APS during this “dark period”. We anticipate that BioCAT will
-                resume user experiments in late 2024/early 2025. We continue
-                to help support experiments by our users at other beamlines,
-                including sending BioCAT staff to other beamlines to help with
-                some of the more complicated experiments, until operations
-                resume at BioCAT.
+                Starting with the APS 2025-1 run next year BioCAT will be resuming user
+                operations. After the long dark period for the APS upgrade (APS-U) project,
+                we are very excited to be welcoming you back to the facility early next
+                year. We also invite you to join us on January 10th at 1 pm CST for a virtual Town
+                Hall where we will discuss the upgrade's effects on BioCAT, new capabilities
+                that we've added during the dark period, and remind you about the process for
+                getting beamtime at BioCAT.
 
 
             .. button:: Learn More
                 :class: primary block
-                :target: {filename}/pages/users_aps_u.rst
+                :target: {filename}/news/2024_user_operations.rst
 
 
         .. row::

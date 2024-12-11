@@ -167,25 +167,6 @@ continue operating the BioCAT facility.
 
             .. caption::
 
-                :h3:`APS-U and BioCAT`
-
-            .. button:: More
-                :class: primary block
-                :target: {filename}/pages/users_aps_u.rst
-
-.. row::
-
-    .. -------------------------------------------------------------------------
-    .. column::
-        :width: 3
-
-        .. thumbnail::
-
-            .. image:: {static}/images/conf.jpg
-                :class: img-rounded
-
-            .. caption::
-
                 :h3:`Code of Conduct`
 
             .. button:: More

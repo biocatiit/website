@@ -7,13 +7,9 @@ Getting beamtime at BioCAT
 .. alert::
     :type: warning
 
-    The APS shut down on April 17, 2023 for an upgrade. During this
-    APS-U dark period the BioCAT beamline is unavailable for x-ray experiments.
-    We anticipate resuming user experiments in late 2024/early 2025.
+    BioCAT is resuming user operations for the 2025-1 run!
 
-    Find out more about: `the APS-U <{filename}/pages/users_aps_u.rst>`_;
-    `SAXS experiments during the APS-U dark period; <{filename}/pages/users_aps_u_saxs.rst>`_
-    `Fiber experiments during the APS-U dark period. <{filename}/pages/users_aps_u_fiber.rst>`_
+    `Find out more. <{filename}/news/2024_user_operations.rst>`_
 
 .. contents::
 
