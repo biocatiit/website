@@ -59,7 +59,7 @@ organizations other than BioCAT but held at BioCAT (e.g. tours).
     comments related to gender, sexual orientation, disability, physical
     appearance, body size, race, religion, national origin; inappropriate
     use of nudity and/or sexual images in facility spaces; or threatening or
-    stalking facility user, BioCAT staff member, service provider, or other
+    stalking a facility user, BioCAT staff member, service provider, or other
     APS user or staff.
 *   Violation of any APS or ANL rules will not be tolerated.
 

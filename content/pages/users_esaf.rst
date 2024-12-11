@@ -9,34 +9,34 @@ ESAFS
 Overview
 ********
 
-As a PI/ Spokesperson who has been awarded time to conduct an experiment at BioCAT, 
-you are responsible for filling out and submitting all of the Safety Paperwork for 
-your experiment sufficiently far in advance of the experiment (see the deadline section 
-below). We recommend submission before these hard deadlines so any issues can be resolved 
+As a PI/ Spokesperson who has been awarded time to conduct an experiment at BioCAT,
+you are responsible for filling out and submitting all of the Safety Paperwork for
+your experiment sufficiently far in advance of the experiment (see the deadline section
+below). We recommend submission before these hard deadlines so any issues can be resolved
 and your experiment can proceed as planned.
 
-The `ESAF <https://beam.aps.anl.gov/pls/apsweb/esaf0001.start_page>`_ (Experiment
-Safety Assessment Form) is the primary piece of paperwork that the APS uses to
+The `ESAF <https://www.aps.anl.gov/Users-Information/Safety-Training/Experiment-Safety-Overview>`_
+(Experiment Safety Assessment Form) is the primary piece of paperwork that the APS uses to
 verify the safety envelope of your experiment, and so it needs to be **completed
 and submitted well ahead of your experimental start date.**
 
-The PI/ Spokesperson is also responsible for notifying their staff who will be 
-visiting BioCAT to take all of the APS Core Safety Courses required by the Argonne/ APS 
+The PI/ Spokesperson is also responsible for notifying their staff who will be
+visiting BioCAT to take all of the APS Core Safety Courses required by the Argonne/ APS
 Safety Oversight Committee. There are times when the Users have difficulty, for one
 reason or another, accessing the APS Safety Courses Web Portal. In cases like
 this, you may take them when you arrive at the APS/ BioCAT, but do understand
 that this will delay the participation of those people not fully trained and
 could delay the start of your experiment.
 
-Please email the `BioCAT Safety Officer <{filename}/pages/contact.rst>`_, Mark Vukonich, 
+Please email the `BioCAT Safety Officer <{filename}/pages/contact.rst>`_, Mark Vukonich,
 if you have any questions regarding the ESAF or APS Safety Training.
 
 
 ESAF Deadline
 =============
 
-**Argonne is currently enforcing hard-cutoff intervals with respect to the timing 
-of the ESAF final submission dates. The cutoff is timed according to the experiment 
+**Argonne is currently enforcing hard-cutoff intervals with respect to the timing
+of the ESAF final submission dates. The cutoff is timed according to the experiment
 Start Date.**
 
 *   There is currently a two-week (14 day) hard-cutoff for ESAF submissions
@@ -48,8 +48,8 @@ ESAFs submitted after these cutoff intervals will be not be approved by the APS
 and the experiment will not be allowed to proceed.  ESAFs must be submitted in
 their entirety by these interval cutoffs – without any missing information.
 
-If your ESAF involves any of the additional hazards listed below it will require 
-a more detailed (and, therefore, prolonged) review before access can be granted, 
+If your ESAF involves any of the additional hazards listed below it will require
+a more detailed (and, therefore, prolonged) review before access can be granted,
 so you should submit it at least 1 month before your experiment:
 
 *   `Bio-Hazardous Materials <https://www.anl.gov/safety/biosafety>`_
@@ -77,7 +77,7 @@ so you should submit it at least 1 month before your experiment:
 
     The use of hazardous materials needs to be approved within the framework of your ESAF.
     The use of some hazardous materials requires the development and approval of protocols
-    by the APS. While this is not prohibitive, it does sometimes present an additional time 
+    by the APS. While this is not prohibitive, it does sometimes present an additional time
     barrier in some cases. If your experiment requires the use of a hazardous material such
     as a corrosive, acid, base, toxin, etc. please consult with your Scientific Contact and allow
     extra time for the proper development of procedures for working with these substances
@@ -127,7 +127,7 @@ Mostly self-explanatory.
 Description Tab
 ----------------------
 
-This tab should contain a short abstract of the experiment that you wish to 
+This tab should contain a short abstract of the experiment that you wish to
 perform at BioCAT, the associated hazards, and how you will mitigate those hazards.
 
 
@@ -183,16 +183,16 @@ commercial chemical items which you intend on bringing or shipping to BioCAT.
 
 *   Near the bottom-half of the page there is the question "Will you require to
     use beamline laboratory facilities to prepare samples or perform other work?"
-    Select "Y" if you intend on using our facilities to prepare your samples. 
-    Click on any other tab in the ESAF. A "Lab Use" tab will then be generated, 
+    Select "Y" if you intend on using our facilities to prepare your samples.
+    Click on any other tab in the ESAF. A "Lab Use" tab will then be generated,
     which should be filled out.
 
-Concerning the transport of samples, chemicals, and equipment – all items must be 
-transported or shipped according to the Department of Transportation (DOT) Regulations, 
-as well as, Argonne National Laboratory Regulations (which may be more restrictive than DOT 
+Concerning the transport of samples, chemicals, and equipment – all items must be
+transported or shipped according to the Department of Transportation (DOT) Regulations,
+as well as, Argonne National Laboratory Regulations (which may be more restrictive than DOT
 Regulations).
 
-This is best achieved by consulting with the shipping department of your home 
+This is best achieved by consulting with the shipping department of your home
 institution so that they may ship the chemicals according to the hazards
 that they present. Alternatively, chemicals needed in larger quantities which
 have an associated hazard may be purchased and shipped directly to BioCAT for your
@@ -206,9 +206,9 @@ Equipment Tab
 List any equipment you plan on bringing to or using at the beamline on this tab.
 
 If you plan on bringing any electronics to be used in your experiment
-(other than personal computers) check the 'Electrical Equipment' Box and the 
-corresponding "Bringing to APS" box to schedule an electrical inspection. Click 
-on any other tab in the ESAF. An 'Electrical Inspection' tab will appear, which should be 
+(other than personal computers) check the 'Electrical Equipment' Box and the
+corresponding "Bringing to APS" box to schedule an electrical inspection. Click
+on any other tab in the ESAF. An 'Electrical Inspection' tab will appear, which should be
 filled out.
 
 (See 'Electrical Inspection Tab' below for additional information)
@@ -217,8 +217,8 @@ filled out.
 Lab Use Tab
 -----------
 
-The 'Lab Use' Tab will be auto-generated when you click 'Y' for the first drop-down on the 'Materials' Tab asking the 
-the question: 
+The 'Lab Use' Tab will be auto-generated when you click 'Y' for the first drop-down on the 'Materials' Tab asking the
+the question:
 'Will you require to use beamline laboratory facilities to prepare samples or perform
 other work?'
 
@@ -228,18 +228,18 @@ Some things to note:
 
 *  BioCAT does not have a Glovebox.
 
-*  'Planned use of non-beamline supplied equipment' compliments the 'Equipment' Tab and applies to any equipment which you will supply to be used in the Wet-Lab.  
+*  'Planned use of non-beamline supplied equipment' compliments the 'Equipment' Tab and applies to any equipment which you will supply to be used in the Wet-Lab.
 
 
 Electrical Inspection Tab
 ----------------------------
 
-The 'Electrical Inspection' Tab is auto-generated when you check any of the 
+The 'Electrical Inspection' Tab is auto-generated when you check any of the
 'Equipment Information' Boxes in the 'Equipment' Tab.
 
 Please contact the `BioCAT Electrical Safety Officer <{filename}/pages/contact.rst>`_,
-Rick Heurich, if you are planning on bringing any electrical equipment(other than personal computers) 
-to function as part of the experiment. He will help you schedule an electrical inspection, if the 
+Rick Heurich, if you are planning on bringing any electrical equipment(other than personal computers)
+to function as part of the experiment. He will help you schedule an electrical inspection, if the
 equipment needs one.
 
 If you are bringing modified NRTL or non-NRTL equipment or unsure NRTL check
