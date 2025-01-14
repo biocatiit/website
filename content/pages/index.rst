@@ -275,7 +275,7 @@ Welcome to BioCAT
 
                     .. caption::
 
-                        :h4:`BioCAT Town Hall wrapup`
+                        :h4:`BioCAT Town Hall Wrap-Up`
 
                         BioCAT held a town hall on January 10th to discuss
                         upgrades to the beamline over the APS-U dark period

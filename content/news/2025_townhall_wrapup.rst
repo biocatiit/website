@@ -47,7 +47,8 @@ For solution SAXS, we announced:
 #.  A new `batch mode autosampler for SAXS <{filename}/pages/about_saxs.rst#batch-saxs>`_
     that uses just 10 µL of sample and can run a sample every ~3 minutes.
 
-#.  A new self-scheduling tool for equilibrium SAXS experiments.
+#.  A new `self-scheduling tool <{filename}/pages/users_saxs_schedule.rst>`_
+    for equilibrium SAXS experiments.
 
 
 For fiber and muscle diffraction we announced:
