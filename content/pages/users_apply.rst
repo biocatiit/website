@@ -261,21 +261,3 @@ Please also check the `APS new user checklist
     are are the primary measure of scientific output. Properly documented publications insure
     that funds are available to continue operating the facility.
 
-
-SAXS Specific Information
-============================
-
-In the following video from the Everything BioSAXS workshop, BioCAT Deputy Director
-Jesse Hopkins discusses what you need to know about planning and performing SAXS
-experiments at BioCAT, including getting beamtime
-(`get slides <{static}/files/eb8_lectures/Hopkins_Planning_BioCAT_Experiments.pdf>`_).
-
-.. row::
-
-    .. column::
-        :width: 8
-
-        .. raw:: html
-
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/lBc2hU3-WO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-

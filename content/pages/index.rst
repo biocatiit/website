@@ -277,10 +277,11 @@ Welcome to BioCAT
 
                         :h4:`BioCAT Town Hall wrapup`
 
-                        Thanks to everyone who joined us for the BioCAT Town hall on January 10th!
-                        We announced a lot of exciting new/upgraded capabilities
-                        during the town hall, so be sure to check out the wrapup
-                        and videos.
+                        BioCAT held a town hall on January 10th to discuss
+                        upgrades to the beamline over the APS-U dark period
+                        and the resumption of user operations in February.
+                        Videos of the town hall, as well as slides, and a
+                        summary of the announcements are now available.
 
 
                     .. button:: Learn More
