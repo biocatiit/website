@@ -110,29 +110,44 @@ Available instrumentation:
         *   Glassware and plasticware
         *   Safety glasses, lab coats, and other safety equipment
 
+The biochemistry lab also contains equipment for muscle dissection and preparation:
+
+*   Stemi 2000 and SV6 stereo microscopes
+*   Nikon Diaphot brightfield/phase/epifluorescence inverted microscope
+
+
 Available consumables:
 
-*   18 M-Ohm deionized water (Millipore Synergy UV-R water purification system)
-*   Ice
-*   Dry ice (via the APCF, see Facilities section)
-*   Micropipette tips
-*   0.5, 1.5, 2, 15 and 50 ml conical tubes
-*   Glass and plastic pipettes
-*   Centrifugal filter units
-*   Centrifugal concentrators (3, 10, 30, 50 and 100 kDa cutoffs; 2, 4, and 15 ml volumes)
-*   Syringe filters
-*   0.1 and 0.2 μm vacuum filter membranes (used with reusable glass filtration apparatus)
-*   0.1 and 0.2 μm vacuum filtration single use kits
-*   Plastic syringes and needles (assorted sizes)
-*   Most generally used buffers, including Tris, HEPES, PBS, TBS, MOPS, etc.
-*   Most generally used buffer components, including NaCl, KCl, EDTA, DTT, TCEP, Glycerol, etc.
-*   Ethanol
-*   Acetone
-*   IPA
-*   Assorted acids and bases (HCl, KCl, NaOH, etc.) for adjusting pH
-*   RNaseZapTM
-*   pH calibration standards for electrodes
-*   Gloves, absorbent pads, and other safety equipment
+.. row::
+
+    .. column::
+        :width: 6
+
+        *   18 M-Ohm deionized water (Millipore Synergy UV-R water purification system)
+        *   Ice
+        *   Dry ice (via the APCF)
+        *   Micropipette tips
+        *   0.5, 1.5, 2, 15 and 50 ml conical tubes
+        *   Glass and plastic pipettes
+        *   Centrifugal filter units
+        *   Centrifugal concentrators (3, 10, 30, 50 and 100 kDa cutoffs; 2, 4, and 15 ml volumes)
+        *   Syringe filters
+        *   0.1 and 0.2 μm vacuum filter membranes (used with reusable glass filtration apparatus)
+        *   0.1 and 0.2 μm vacuum filtration single use kits
+
+    .. column::
+        :width: 6
+
+        *   Plastic syringes and needles (assorted sizes)
+        *   Most generally used buffers, including Tris, HEPES, PBS, TBS, MOPS, etc.
+        *   Most generally used buffer components, including NaCl, KCl, EDTA, DTT, TCEP, Glycerol, etc.
+        *   Ethanol
+        *   Acetone
+        *   IPA
+        *   Assorted acids and bases (HCl, KCl, NaOH, etc.) for adjusting pH
+        *   RNaseZapTM
+        *   pH calibration standards for electrodes
+        *   Gloves, absorbent pads, and other safety equipment
 
 
 BioCAT also supports a small prep area just outside the experimental hutch with
