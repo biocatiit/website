@@ -48,3 +48,27 @@ full 24-hours, while mail-ins are limited to 10 hours of samples per day.
 You will also receive follow-up emails from both the APS and our scheduling
 system with reminders of relevant deadlines (such as ESAF submission and
 dosimeter requests).
+
+FAQ
+=========
+
+How do I find my ETR number?
+--------------------------------
+
+Log into the UPS portal. If you don't default to it, click on "My Dashboard"
+at the top to go to your dashboard. In the My Proposals section click on
+"Advanced Photon Source". It will turn orange when selected.
+
+.. image:: {static}/images/how_tos/schedule_proposal_select.png
+        :class: img-rounded
+
+In the section that appears below the facilities list, make sure the "Active" proposals tab is
+selected. Click on the proposal of interest and click on the blue bototm on
+the right in the "View Experiment Time Requests" column to show the experiment
+time requests associated with the proposal (you may have  to scroll down in
+this window to see them). Make sure the "Active" tab is selected, and then
+use the ETR number given in the left hand column (note, this is not the proposal
+number, make sure you are in the Experiment Time Requests section).
+
+.. image:: {static}/images/how_tos/schedule_etr_number.png
+        :class: img-rounded
