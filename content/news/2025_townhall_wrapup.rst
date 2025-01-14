@@ -85,7 +85,7 @@ Videos and slides from the town hall are now available here:
 
 *   Opening remarks - Dr. Tom Irving, BioCAT PI
 
-    *   `Intro video <https://youtu.be/EdOWzqvCnJc>`_
+    *   `Intro video <https://youtu.be/VauCiuHnczA>`_
     *   `Intro Slides <{static}/files/2025_townhall/BioCAT_2025_Townhall_Intro.pdf>`_
 
 *   Overview of APS-U - Dr. Jesse Hopkins, BioCAT Deputy Director

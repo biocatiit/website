@@ -5,9 +5,9 @@ Scheduling equilibrium SAXS beamtime
 :slug: saxs-schedule
 
 Users interested in equilibrium SAXS beamtime can use our self-scheduling
-tool to book their beamtime. You must first have a submitted proposal
-and valid experiment time request (ETR) for the current run. We also
-recommend contacting the `SAXS scientific contact <{filename}/pages/contact.rst>`_
+tool to book their beamtime. You must first have a `submitted proposal
+and valid experiment time request (ETR) for the current run <{filename}/pages/users_apply.rst>`_.
+We alsorecommend contacting the `SAXS scientific contact <{filename}/pages/contact.rst>`_
 about your experiment before booking time.
 
 After you book time your reservation will be reviewed and confirmed by a beamline

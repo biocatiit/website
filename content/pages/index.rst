@@ -9,7 +9,7 @@ Welcome to BioCAT
 
     BioCAT is resuming user operations for the 2025-1 run!
 
-    `Find out more. <{filename}/news/2024_user_operations.rst>`_
+    `Find out more. <{filename}/news/2025_user_operations.rst>`_
 
 
 .. class:: center
@@ -216,25 +216,21 @@ Welcome to BioCAT
 
         .. thumbnail::
 
-            .. image:: {static}/images/conf.jpg
+            .. image:: {static}/images/facility_thumbnail.jpg
                 :class: img-rounded
 
             .. caption::
 
-                :h3:`BioCAT town hall and resumption of user operations`
+                :h3:`BioCAT resumes user operations`
 
-                Starting with the APS 2025-1 run next year BioCAT will be resuming user
-                operations. After the long dark period for the APS upgrade (APS-U) project,
-                we are very excited to be welcoming you back to the facility early next
-                year. We also invite you to join us on January 10th at 1 pm CST for a virtual Town
-                Hall where we will discuss the upgrade's effects on BioCAT, new capabilities
-                that we've added during the dark period, and remind you about the process for
-                getting beamtime at BioCAT.
+                BioCAT is very excited to be welcoming users back to the facility starting in
+                February. If you are interested in beam time next run, please contact the
+                appropriate beamline scientist.
 
 
             .. button:: Learn More
                 :class: primary block
-                :target: {filename}/news/2024_user_operations.rst
+                :target: {filename}/news/2025_user_operations.rst
 
 
         .. row::
@@ -245,27 +241,27 @@ Welcome to BioCAT
 
                 .. thumbnail::
 
-                    .. image:: {static}/images/news/2024_eb10_cover.png
+                    .. image:: {static}/images/news/2025_MuscleX4_logo.jpg
                         :class: img-rounded
 
                     .. caption::
 
-                        :h4:`Apply for Everything BioSAXS 10 Workshop`
+                        :h4:`Register for MuscleX 4 Symposium`
 
-                        BioCAT is offering its tenth intensive HOW-TO course in BioSAXS.
-                        Students will have four days of virtual lectures and hands-on
-                        software tutorials on the basics of BioSAXS data collection and
-                        processing from expert practitioners in the field. Students may
-                        also be able to mail in samples for data collection on the BioCAT
-                        beamline (Sector 18 at the APS) before the course, and there will
-                        be time during the workshop to get help with analysis of their own
-                        data. The course will take place from 12/10/24 to 12/13/24
-                        and is entirely virtual (via Zoom).
+                        We are pleased to announce the fourth BioCAT MuscleX symposium.
+                        The symposium will feature an introductory
+                        presentation on BioCAT's scientific missions, new capabilities enabled
+                        by recent upgrades to the APS source and to the BioCAT beamline, and
+                        a series of talks highlighting recent muscle studies utilizing X-ray
+                        diffraction or other structural techniques.
+                        The workshop will take place from 5/15/2025 to 5/16/2025 and will
+                        be entirely virtual (via Zoom). A Zoom link will be provided to
+                        registered participants at a later time, prior to the symposium.
 
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/news/2024_everything_biosaxs10.rst
+                        :target: {filename}/news/2025_musclex_symposium.rst
 
 
             .. -------------------------------------------------------------------------
@@ -279,21 +275,17 @@ Welcome to BioCAT
 
                     .. caption::
 
-                        :h4:`BioCAT awarded $2 million in supplementary funds to upgrade beamline`
+                        :h4:`BioCAT Town Hall wrapup`
 
-                        The BioCAT team has been awarded $2 million in
-                        supplementary funds from the NIH to upgrade the BioCAT
-                        beamline. These funds will let us upgrade our x-ray optics (mostly original to
-                        the beamline and more than 20 years old) to modern state-of-the-art
-                        systems that can  take full advantage of the new upgraded APS source.
-                        These new optics will provide smaller, more intense x-ray beams
-                        and improved beam stability. The upgrade is expected to take ~2 years
-                        to complete and user operations will continue unhindered while it is taking place.
+                        Thanks to everyone who joined us for the BioCAT Town hall on January 10th!
+                        We announced a lot of exciting new/upgraded capabilities
+                        during the town hall, so be sure to check out the wrapup
+                        and videos.
 
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/news/2024_supplement.rst
+                        :target: {filename}/news/2025_townhall_wrapup.rst
 
         .. row::
 
