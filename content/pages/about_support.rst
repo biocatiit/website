@@ -21,8 +21,8 @@ we use to characterize mirror and multilayer optics. For animal care we have
 access to the Animal Housing Facility in the Engineering Research Building at IIT.
 
 
-Biochemistry Lab
-=================
+Biochemistry Lab and Prep Area
+===================================
 
 .. _wetlab:
 
