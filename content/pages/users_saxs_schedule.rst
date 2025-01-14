@@ -63,7 +63,7 @@ at the top to go to your dashboard. In the My Proposals section click on
         :class: img-rounded
 
 In the section that appears below the facilities list, make sure the "Active" proposals tab is
-selected. Click on the proposal of interest and click on the blue bototm on
+selected. Click on the proposal of interest and click on the blue button on
 the right in the "View Experiment Time Requests" column to show the experiment
 time requests associated with the proposal (you may have  to scroll down in
 this window to see them). Make sure the "Active" tab is selected, and then
