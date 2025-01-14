@@ -9,7 +9,7 @@ SAXS has emerged as a standard biophysical tool deployed routinely for
 characterizing macromolecules of biomedical interest. The relative logistical
 simplicity embodied in a technique that provides easy access to the size and
 low-resolution shape of macromolecules makes it an essential part of the
-biophysicists' tool kit. With the irange of separation coupled SAXS experiments,
+biophysicists' tool kit. With the range of separation coupled SAXS experiments,
 such as SEC-SAXS, at BioCAT, SAXS data can be collected from even the most
 challenging systems.
 
@@ -158,7 +158,7 @@ AF4-MALS-SAXS has concentration requirements similar to SEC-SAXS.
 
 IEC-SAXS experiments can have significantly larger loading volumes if desired
 (will require loop to be change, so inform your beamline scientist in advance).
-AF4-MALS-SAXSexperiments use sample volumes similar to SEC-SAXS.
+AF4-MALS-SAXS experiments use sample volumes similar to SEC-SAXS.
 
 In either case, talk to your beamline scientist for more details.
 

@@ -115,7 +115,7 @@ and make 3 repeated measurements to improve signal to noise, for a total loaded
 volume of 300 µL.
 
 Note that these recommended concentrations are 2x lower and the loading volume
-is equivalent to what we recommend for SEC-SAXS experiments, so a lamianr flow
+is equivalent to what we recommend for SEC-SAXS experiments, so a laminar flow
 time series can be measured with less material than a single SEC-SAXS injection.
 For many proteins and nucleic acids these experiments require significantly
 less than 1 mg of material, making them feasible for essentially every
