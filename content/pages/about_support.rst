@@ -72,50 +72,79 @@ Available instrumentation:
     .. column::
         :width: 6
 
-        *   4°C, -20°C, -80°C short-term storage
-        *   Nanodrop One C UV-Vis spectrophotometer (microvolume and cuvette measurements)
-        *   Nanodrop Lite UV-Vis spectrophotometer (microvolume only)
-        *   Eppendorf P2, P20, P200, P1000 micropipettes
-        *   Eppendorf 5415R Microfuge
-        *   Eppendorf 5415C Microfuge
-        *   Sorvall Swing-bucket Centrifuge (15 & 50 mL adaptors)
-        *   Beckman J-25 Centrifuge with JA-20.1 rotor
-        *   Isotemp 210 Water bath
-        *   Isotemp 3006 Circulating bath
-        *   Heating block
-        *   Vacuum filtration and degassing setup
-        *   Stir plates and hotplates
+        *   4 C, -20 C, and -80 C short term storage
+        *   Branson sonifier 450
+        *   Beckman Coulter Avanti J-25 Centrifuge with JA-20.1 rotor
+        *   Bio-Rad NGC Quest 10 Plus FPLC and fraction collector at 4 C
+            (separate from SEC-SAXS)
+        *   AKTA Pure FPLC, fraction collector, and Spark-Holland Alias
+            autosampler at RT (separate from SEC-SAXS)
+        *   Mini-PORTEAN Tetra vertical electrophoresis cell and PowerPac
+            Basic power supply (Bio-Rad)
+        *   Nanodrop OneC UV-Vis spectrometer (Thermo Scientific), microvolume
+            and cuvette measurements
+        *   Qubit 4 Fluorometer (Invitrogen)
+        *   Eon Plate Reader/microspectrophotometer (BioTek)
+        *   Sorvall ST 8R swing-bucket centrifuge (Thermo Scientific), 4 C to
+            RT, 15 & 50 mL adaptors
+        *   5430R centrifuge (Eppendorf), 4 C to RT, 0.5-2 ml tubes
+
 
     .. column::
         :width: 6
 
-        *   Millipore Synergy UV-R water purification system
-        *   Stemi 2000 and SV6 stereo microscopes
-        *   Nikon Diaphot brightfield/phase/epifluorescence inverted microscope
-        *   Bio-Rad NGC Quest 10 Plus FPLC, fraction collector and columns at
-            4 C (separate from SEC-SAXS)
-        *   Branson sonifier 450
+        *   PlateFuge microplate microcentrifuge (Benchmark Scientific)
+        *   P2, P20, P200 and P1000 (Eppendorf) micropipettes
+        *   Mini dry bath with cooling, RT -25 C to 100 C (Benchmark Scientific),
+            with 0.5 ml, 1.5 ml, 2.0 ml, 15 ml, and 50 ml tube adapters
+        *   pH meter and electrode
+        *   Electronic balances
+        *   Cordless pipettor
+        *   Vacuum filtration and degassing
         *   Sonicator bath
-        *   BioTek Eon Plate Reader/microspectrophotometer
-        *   Denver instruments electronic balances
-        *   Micro and standard pH electrodes
-        *   Pipet-aid cordless pipettor
-        *   Glassware
-        *   Chemical fume hood
+        *   Water bath
+        *   Vortex mixers
+        *   Stir plates and stir bars
+        *   Hot plates
+        *   Rocking plates and tube rotator
+        *   Glassware and plasticware
+        *   Safety glasses, lab coats, and other safety equipment
 
 Available consumables:
 
-*   Micropipette tips
-*   1.5, 5, 15, and 50 mL tubes
-*   Glass and plastic pipettes
-*   Filtered, deionized water
-*   Centrifugal filter units
+*   18 M-Ohm deionized water (Millipore Synergy UV-R water purification system)
 *   Ice
-*   Dry ice
-*   Most generally used buffers including Tris, HEPES, PBS, MOPS, etc.
-*   Most generally used buffer components, including NaCl, KCl, EDTA, DTT, GTA, TCEP, Glycerol, etc.
-*   Acetone
+*   Dry ice (via the APCF, see Facilities section)
+*   Micropipette tips
+*   0.5, 1.5, 2, 15 and 50 ml conical tubes
+*   Glass and plastic pipettes
+*   Centrifugal filter units
+*   Centrifugal concentrators (3, 10, 30, 50 and 100 kDa cutoffs; 2, 4, and 15 ml volumes)
+*   Syringe filters
+*   0.1 and 0.2 μm vacuum filter membranes (used with reusable glass filtration apparatus)
+*   0.1 and 0.2 μm vacuum filtration single use kits
+*   Plastic syringes and needles (assorted sizes)
+*   Most generally used buffers, including Tris, HEPES, PBS, TBS, MOPS, etc.
+*   Most generally used buffer components, including NaCl, KCl, EDTA, DTT, TCEP, Glycerol, etc.
 *   Ethanol
+*   Acetone
+*   IPA
+*   Assorted acids and bases (HCl, KCl, NaOH, etc.) for adjusting pH
+*   RNaseZapTM
+*   pH calibration standards for electrodes
+*   Gloves, absorbent pads, and other safety equipment
+
+
+BioCAT also supports a small prep area just outside the experimental hutch with
+the following equipment:
+
+*   Nanodrop OneC UV-Vis spectrometer (Thermo Scientific), microvolume and cuvette measurements
+*   P2, P20, P200 and P1000 (Eppendorf) micropipettes
+*   5415R Microfuge (Eppendorf), 4 C to RT, 0.5-2 ml tubes
+*   LSE Mini Microcentrifuge (Corning), 0.5-2 ml tubes
+
+This prep area also has consumables such as centrifuge tubes, pipette tips, and gloves.
+
 
 .. row::
 
