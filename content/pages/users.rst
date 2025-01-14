@@ -186,7 +186,7 @@ continue operating the BioCAT facility.
 
             .. caption::
 
-                :h3:`Schedule SAXS beamtime`
+                :h3:`SAXS scheduling`
 
             .. button:: More
                 :class: primary block

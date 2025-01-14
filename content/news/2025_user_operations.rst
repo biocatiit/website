@@ -15,7 +15,7 @@ appropriate beamline scientist: Dr. Weikang Ma for muscle/fiber diffraction
 and Dr. Max Watkins for solution SAXS. <{filename}/pages/contact.rst>`_
 
 If you want beamtime, `you can also check out our guide to applying for time.
-<{filename}/pages/user_apply.rst>`_
+<{filename}/pages/users_apply.rst>`_
 
 A few key updates on how things have changed from before the APS-U dark period:
 
