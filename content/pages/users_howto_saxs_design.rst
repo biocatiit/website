@@ -36,7 +36,7 @@ BioCAT strongly encourages users to use either SEC-SAXS or SEC-MALS-SAXS if poss
 If multiple components in solution cannot be separated by size, IEC-SAXS may
 be the appropriate choice. If components need to be separated by size but are
 not amenable to size exclusion (such as having strong column interactions or
-falling apart due to sheer or hydrostatic pressure) then AF4-MALS-SAXS is a good
+falling apart due to shear or hydrostatic pressure) then AF4-MALS-SAXS is a good
 choice. This is of particular use for samples like lipid nanoparticles (LNPs).
 
 There are also some cases where sample concentration and volume are inadequate
@@ -121,6 +121,11 @@ We recommend that you bring enough sample volume for two measurements at each
 condition, that way if something happens during a measurement (such as the
 beam going down) we can repeat and obtain the desired data.
 
+Less sample can be used, either as lower concentrations or volumes, either with
+lower but still decent signal on the same columns or by using the smaller 5/150
+columns with less resolution but similar signal. Talk to your beamline scientist
+about options if you cannot product enough sample.
+
 
 Batch SAXS
 ^^^^^^^^^^^^^
@@ -156,9 +161,10 @@ Concentrations for IEC-SAXS will depending on the loading volume, but you should
 be aiming for a concentration on elution similar to that of a batch mode experiment.
 AF4-MALS-SAXS has concentration requirements similar to SEC-SAXS.
 
-IEC-SAXS experiments can have significantly larger loading volumes if desired
-(will require loop to be change, so inform your beamline scientist in advance).
-AF4-MALS-SAXS experiments use sample volumes similar to SEC-SAXS.
+IEC-SAXS experiments can have significantly larger loading volumes if desired,
+and concentration can be done on the column. The Capto HiRes 5/50 have a maximum
+loading capacity of 50 mg. AF4-MALS-SAXS experiments use sample volumes similar
+to SEC-SAXS.
 
 In either case, talk to your beamline scientist for more details.
 

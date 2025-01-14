@@ -81,7 +81,7 @@ Quality control: Pre-examination before X-ray scattering (Monodispersity)
 
 *   Gel filtration (single and symmetric peak)
 *   SDS-PAGE or Native GEL (single band)
-*   Centrifugation or filter (> 15,000g * 10 mins)
+*   Centrifugation or filter (> 15,000 x g * 5-10 mins)
 *   Dynamic light scattering
 *   SEC-MALS
 *   Others
