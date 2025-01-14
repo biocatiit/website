@@ -9,31 +9,53 @@ How to prepare samples for equilibrium SAXS
 Checklist for SAXS sample preparation
 =======================================
 
-Buffer components
+Below are the recommendations for buffer and sample preparation for SAXS. Note
+that at the end of the day, these are guidelines and the goal is always the
+happiness and stability of the sample. We can accommodate most buffers, so ask
+your beamline scientist if you have an unusual buffer composition.
+
+Also, if possible we recommend combining similar buffers, particularly for
+separation-coupled measurements like SEC-SAXS. Fewer buffers will save you a
+significant amount of time during your experiment, so consider whether you can
+combine similar conditions.
+
+Buffer component recommendations
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 *   20-100 mM PBS, Tris,  HEPES, etc. PBS is preferred if possible.
-*   Salt concentration < 1M, typically 150-200 mM
+*   Salt concentration < 1M, typically 50-200 mM
 *   Avoid radical scavengers (glycerol, DTT, etc) unless needed for the
     stability of your protein. With BioCAT's coflow setup these actually
-    increase the likelyhood of seeing radiation damage.
+    increase the likelihood of seeing radiation damage.
+*   If you need a reductant, use longer lived ones like TCEP
+    rather than DTT (especially with higher pH buffers)
 
 Buffer matching
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-*   SEC-SAXS/SEC-MALS-SAXS - Use dialysis buffer or a matched buffer from the
-    final SEC purification step.
-*   Batch-mode SAXS - use dialysis buffer
-*   SEC-SAXS - make enough buffer for both the experiments and equilibration.
-    `For SEC-MALS-SAXS > 1.5 L, for SEC-SAXS > 500 mL. <{filename}/pages/users_howto_saxs_design.rst#saxs-buffer-volume>`_
-*   If mailing concentrated buffer for SEC-SAXS or SEC-MALS-SAXS (e.g. 10x),
-    we recommend you prepare the concentrated solution, create the final
-    dilution in your lab, exchange your samples into that, and then mail us
-    the remaining concentrated stock for dilution on site. While this doesn't
-    perfectly match buffer, it gets close, and the buffer exchange on the
-    column will guarantee a perfect match.
+*   SEC-SAXS/SEC-MALS-SAXS - Best if buffer is perfectly matched, but can
+    tolerate nominally matched buffers that are not matched through exchange.
+*   Batch SAXS - Must be a perfect match. Use dialysis buffer, the buffer
+    from the final SEC purification step, or the flow through from the final
+    concentration step.
 
-Sample (Protein or DNA/RNA) concentration and amount
+If mailing concentrated buffer for separation coupled measurements (e.g. a
+10x stock for use with SEC-SAXS), we recommend you prepare the concentrated
+solution, create the final dilution in your lab, exchange your samples into
+that, and then mail us the remaining concentrated stock for dilution on site.
+While this doesn't perfectly match buffer, it gets close, and the buffer exchange
+on the column will provide the necessary perfect match.
+
+Buffer volume
+^^^^^^^^^^^^^^^^^
+*   SEC-SAXS/SEC-MALS-SAXS - `Buffer volume = 4*(column volume)*(number of samples + 1) + 250 mL. <{filename}/pages/users_howto_saxs_design.rst#saxs-buffer-volume>`_
+*   Batch SAXS - Requires a `basic running buffer for the sheath and a perfectly
+    matched buffer for the sample (can be the sample) <{filename}/pages/users_howto_saxs_design.rst#saxs-buffer-volume>`_.
+
+    *   Sheath buffer: Buffer volume = 0.6*(number of samples) + 50 mL
+    *   Perfectly matched buffer (if not sheath): Buffer volume = 3*(sample volume)
+
+Sample (Protein or DNA/RNA) concentration and volume
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 *   Concentration:
@@ -43,10 +65,12 @@ Sample (Protein or DNA/RNA) concentration and amount
         series with a least 2 other concentrations bracketed around this. E.g.
         for a 20 kDa protein, measure at 6, 3, and 1.5 mg/ml.
 
+For nucleic acid samples, you can divide the above concentrations by 2.5.
+
 *   Minimum volume:
 
-    *   SEC-MALS-SAXS / SEC-SAXS - 250 µL
-    *   Batch-mode SAXS - 50 µl per concentration
+    *   SEC-SAXS/SEC-MALS-SAXS - 250 µL
+    *   Batch-mode SAXS - 10 µL per concentration
 
 Note: If mail-in samples are shipped frozen, they will be fast thawed
 (e.g. in hand/water bath) unless you specify that the samples should
@@ -59,6 +83,7 @@ Quality control: Pre-examination before X-ray scattering (Monodispersity)
 *   SDS-PAGE or Native GEL (single band)
 *   Centrifugation or filter (> 15,000g * 10 mins)
 *   Dynamic light scattering
+*   SEC-MALS
 *   Others
 
 .. image:: {static}/images/gel.jpg

@@ -45,7 +45,7 @@ continue operating the BioCAT facility.
 
             .. caption::
 
-                :h3:`Apply for time`
+                :h3:`Get beamtime`
 
             .. button:: More
                 :class: primary block
@@ -172,3 +172,22 @@ continue operating the BioCAT facility.
             .. button:: More
                 :class: primary block
                 :target: {filename}/pages/users_code_of_conduct.rst
+
+.. row::
+
+    .. -------------------------------------------------------------------------
+    .. column::
+        :width: 3
+
+        .. thumbnail::
+
+            .. image:: {static}/images/conf.jpg
+                :class: img-rounded
+
+            .. caption::
+
+                :h3:`Schedule SAXS beamtime`
+
+            .. button:: More
+                :class: primary block
+                :target: {filename}/pages/users_saxs_schedule.rst

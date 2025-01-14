@@ -53,7 +53,6 @@ Contact BioCAT
         SAXS:
 
         *   Max Watkins
-        *   Jesse Hopkins
 
         Beamline:
 
@@ -72,7 +71,7 @@ Contact BioCAT
             Safety:
 
             *   Mark Vukonich - Chief Safety Lead: General, Biological and Chemical
-            *   Tom Irving - General
+            *   Jesse Hopkins - General
             *   Rick Heurich - Electrical and Mechanical
             *   Weikang Ma - Laser
 
@@ -182,7 +181,7 @@ Staff
             .. caption::
 
                 :h3:`Dr. Jesse Hopkins`
-                Deputy Director
+                Director
 
             .. row::
 
@@ -214,7 +213,7 @@ Staff
             .. caption::
 
                 :h3:`Prof. Thomas Irving`
-                Director, PI
+                PI
 
             .. row::
 

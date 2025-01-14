@@ -26,8 +26,8 @@ become a mainstream structural biology/biophysical technique. Key to the growing
 popularity of SAXS have been new experimental approaches able to probe challenging
 systems, specifically in-line purification techniques coupled to SAXS, including
 size-exclusion chromatography, ion-exchange chromatography and, very recently,
-asymmetric flow field-flow fractionation (SEC-SAXS, IEC-SAXS, and AF4-SAXS). Having in-line
-purification allows high-quality measurements on less stable and more
+asymmetric flow field-flow fractionation (SEC-SAXS, IEC-SAXS, and AF4-SAXS). Having
+in-line purification allows high-quality measurements on less stable and more
 heterogeneous biological samples that were previously intractable for SAXS.
 The increasing automation of data collection and analysis and a growing
 awareness that SAXS is highly complementary to other structural and biophysical
@@ -107,15 +107,14 @@ provides a mature, state-of-the-art facility for equilibrium SAXS capable of
 tackling the most challenging systems.
 
 
-SEC-SAXS, SEC-MALS-SAXS, and IEC-SAXS
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
 .. _sec-saxs:
 
 .. _sec-mals-saxs:
 
 .. _iec-saxs:
 
+SEC-SAXS, SEC-MALS-SAXS, and IEC-SAXS
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 BioCAT provides a custom designed HPLC system with two Agilent 1260 Infinity II bioinert
 pumps, an Agilent 1260 Infinity II bioinert multisampler, and customized valves and
@@ -186,10 +185,10 @@ following IEC columns available for users:
 *   Capto HiRes Q 5/50
 *   Capto HiRes S 5/50
 
+.. _batch-saxs:
+
 Batch Mode
 ^^^^^^^^^^^^^^^
-
-.. _batch-saxs:
 
 Batch mode samples are directly loaded into the sample cell, rather than
 first passing through a sizing column. This reduces the volume and concentration
@@ -203,10 +202,10 @@ every ~3 minutes.
 At BioCAT, these measurements batch mode measurements take ~10 µl of sample.
 However, in some cases smaller volumes can also yield usable SAXS data.
 
+.. _af4-mals-saxs:
+
 AF4-MALS-SAXS
 ^^^^^^^^^^^^^^^^
-
-.. _af4-mals-saxs:
 
 Asymmetric flow field-flow fractionation (AF4) is a method for size-based
 separation of macromolecules with no stationary phase and almost no shear.
@@ -221,20 +220,23 @@ interest currently for drug delivery purposes.
 BioCAT uses a Wyatt Eclipse NEON with dilution control module (DCM) for optimal
 separation. This is coupled to a Wyatt DAWN HELEOS II MALS+DLS (17 channels LS,
 plus 1 DLS) detector, and a Wyatt Optilab T-rEX dRI detector for the MALS-DLS-RI
-measurements. BioCAT provides the following channels, spacers, and membranes for
-users:
+measurements. It is run off of an Agilent 1260 Infinity II HPLC with a
+multisampler and mulit-wavelength UV detector. BioCAT provides the following
+channels, spacers, and membranes for users:
 
 *   Wyatt Short Channel
 *   Wyatt Long Channel
 *   Wyatt Dispersion Inlet Channel
-*   Polyethersulfone (PES) membranes with 5, 10 and 30 kDa MW cutoffs
-*   Regenerated cellulose (RC) membranes with 2, 5, 10 and 30 kDa MW cutoffs
+*   Polyethersulfone (PES) membranes with 10 and 30 kDa MW cutoffs
+*   Regenerated cellulose (RC) membranes with 10 and 30 kDa MW cutoffs
 *   275, 400 and 525 µm spacers
 
 These experiments are more involved, and often require some work to optimize an
-appropriate elution program, so it is important to discuss your potential AF4-MALS-SAXS
-experiments with beamline personnel before requesting beamtime.
+appropriate separation program, so it is important to discuss your potential
+AF4-MALS-SAXS experiments with beamline personnel before requesting beamtime.
 
+
+.. _tr-saxs:
 
 Time-Resolved SAXS
 ====================
@@ -307,6 +309,23 @@ of systems are studied, including published work on conformational changes
 induced by ligand binding, kinetics of micelle formation, and the kinetics of
 liquid-liquid phase separation.
 
+
+In the following video from the 2022 Everything BioSAXS 8 workshop, Dr. Jesse
+Hopkins discusses the current state of time resolved SAXS at BioCAT
+(`get slides <{static}/files/eb8_lectures/Hopkins_Time_Resolved_SAXS.pdf>`_)
+
+.. row::
+
+    .. column::
+        :width: 8
+
+        .. raw:: html
+
+            <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/fwVcoZCsPKY' frameborder='0' allowfullscreen></iframe></div>
+
+
+.. _cf-tr-saxs:
+
 Continuous Flow
 ^^^^^^^^^^^^^^^^
 
@@ -333,7 +352,8 @@ the Matthews group at U. Mass.) can access time points from
 ~45 µs to 60 ms and a complete experiment can be performed with ~10 mg of sample.
 
 Time-resolved experiments are more involved than equilibrium experiments, so
-interested users should discuss possible experiments with the `SAXS scientific contact <{filename}/pages/contact.rst>`_.
+interested users should discuss possible experiments with the
+`SAXS scientific contact <{filename}/pages/contact.rst>`_.
 
 Both of BioCAT's mixers are microfabricated in quartz by
 Translume, with X-ray observation regions with 1 mm (laminar) or 250 μm (chaotic)
@@ -375,7 +395,10 @@ the various trigger systems (<120 ns).
 Fluid handling and monitoring for the laminar mixer uses syringe pumps (Pump 11
 Pico Plus Elite, Harvard Apparatus), stand-alone chromatography injection valves
 (IDEX MXP9900-00), and flow meters (BFS-1 Elveflow). The chaotic
-mixer uses much of the same setup, but is driven by three HPLC pumps (ReaXus LD012PRX Teledyne).
+mixer uses much of the same setup, but is driven by three HPLC pumps (ReaXus
+LD012PRX Teledyne).
+
+.. _sf-tr-saxs:
 
 Stopped Flow
 ^^^^^^^^^^^^^
@@ -385,6 +408,7 @@ with an MEC 22998 micro-volume mixer, allowing ~1 ms dead time, and an
 x-ray observation cell. Because of the limitations in time resolution and
 possibility of radiation damage, unless you specifically know your experiment
 requires stopped flow mixing, BioCAT recommends using the continuous flow systems.
+
 
 
 Instrumentation for SAXS

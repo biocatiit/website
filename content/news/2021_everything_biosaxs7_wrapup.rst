@@ -54,7 +54,7 @@ you want to collect to sample preparation for the experiment, to complementary
 biophysical techniques for verifying your results. Following that Dr. Hopkins
 (BioCAT) gave a lecture covering the details on what a scattering profile is
 and basic SAXS data analysis and validation. The first day ended with a Q&A
-with Dr.s Gupta, Hopkins, and Chakravarthy and the participants.
+with Drs. Gupta, Hopkins, and Chakravarthy and the participants.
 
 
 Day two started with an overview of SAXS data processing software by Dr. Hopkins.
@@ -86,5 +86,5 @@ using SAXS to analyze intrinsically disordered proteins. In the afternoon
 there was a small group session focusing on data analysis of the SAXS data
 collected on the samples they sent as part of the workshop. The workshop
 finished with a brief lecture from Dr. Chakravarthy on the practical steps
-to apply for beamtime at BioCAT, and a large group Q&A with Dr.s Chakravarthy
+to apply for beamtime at BioCAT, and a large group Q&A with Drs. Chakravarthy
 and Hopkins.

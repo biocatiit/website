@@ -34,7 +34,7 @@ Everything BioSAXS 9 Workshop Wrap-Up
             .. caption::
 
                 Some of the participants and instructors at the Everything
-                BioSAXS 8 Workshop.
+                BioSAXS 9 Workshop.
 
 
 BioCAT held its ninth BioSAXS training course from 2/28/22-3/3/23.
@@ -55,7 +55,7 @@ you want to collect to sample preparation for the experiment, to complementary
 biophysical techniques for verifying your results. Following that Dr. Hopkins
 gave a lecture covering the details on what a scattering profile is
 and basic SAXS data analysis and validation. The first day ended with a Q&A
-with Dr.s Gillilan, Gupta, Hopkins, and Dr. Max Watkins (BioCAT) and the participants.
+with Drs. Gillilan, Gupta, Hopkins, and Dr. Max Watkins (BioCAT) and the participants.
 
 Day two started with an overview of SAXS data processing software by Dr. Hopkins.
 Then the workshop broke into smaller groups, and students spent several hours
@@ -87,5 +87,5 @@ do with the technique at BioCAT. There was then
 a small group session focusing on data analysis of the SAXS data
 collected on the samples they sent as part of the workshop. The workshop
 finished with a brief lecture from Dr. Hopkins on the practical steps
-to apply for beamtime at BioCAT, and a large group Q&A with Dr.s Hopkins
+to apply for beamtime at BioCAT, and a large group Q&A with Drs. Hopkins
 and Watkins.

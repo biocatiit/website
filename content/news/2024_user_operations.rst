@@ -3,7 +3,7 @@ BioCAT town hall and resumption of user operations
 
 :date: 2024-12-11
 :category: news
-:slug: 2024-user operations
+:slug: 2024-user-operations
 :authors: BioCAT
 
 .. image:: {static}/images/facility_thumbnail.jpg
@@ -27,8 +27,9 @@ getting beamtime at BioCAT. The tentative schedule is:
     1:00 pm     Opening remarks - Dr. Tom Irving, BioCAT PI
     1:05 pm     Overview of APS-U and effects on BioCAT - Dr. Jesse Hopkins, BioCAT Deputy Director
     1:20 pm     Upgraded and new capabilities for solution SAXS - Dr. Max Watkins, BioCAT Beamline Scientist
-    1:35 pm     Obtaining beamtime at BioCAT - Dr. Jesse Hopkins, BioCAT Deputy Director
-    1:50 pm     Q&A
+    1:35 pm     Upgraded and new capabilities for muscle diffraction - Dr. Weikang Ma, BioCAT Beamline Scientist
+    1:50 pm     Obtaining beamtime at BioCAT - Dr. Jesse Hopkins, BioCAT Deputy Director
+    2:05 pm     Q&A
     =========== ======================================================================================================================
 
 

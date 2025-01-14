@@ -1,4 +1,4 @@
-Getting beamtime at BioCAT
+Getting and using beamtime at BioCAT
 ############################################################
 
 :category: users
@@ -9,7 +9,7 @@ Getting beamtime at BioCAT
 
     BioCAT is resuming user operations for the 2025-1 run!
 
-    `Find out more. <{filename}/news/2024_user_operations.rst>`_
+    `Find out more. <{filename}/news/2025_user_operations.rst>`_
 
 .. contents::
 
@@ -30,7 +30,7 @@ Please also check the `APS new user checklist
 
     Our facility is very flexible and can accommodate most experiments that
     fall within our `supported techniques <{filename}/pages/about_biocat.rst>`_.
-    We strongly encourage you to discuss your experiment with the `user liaison <{filename}/pages/contact.rst>`_
+    We strongly encourage you to discuss your experiment with the `scientific contact <{filename}/pages/contact.rst>`_
     for your technique. This will save a lot of time assembling and
     debugging your set-up giving you more time to acquire high-quality data
     once you've arrived.
@@ -71,6 +71,10 @@ Please also check the `APS new user checklist
     For all proposals to BioCAT you must list the BioCAT beamline, "18-ID-D", as one of
     the beamlines in the "Choice of Beamline" section in the Experiment Time Request.
     For a Rapid Access proposal, you should list only BioCAT in this section.
+
+#.  Schedule your beamtime. For fiber/muscle diffraction and time resolved SAXS
+    experiments this is done in direct consultation with your beamline scientist.
+    For equilibrium SAXS experiments use our `self-scheduling tool. <{filename}/pages/users_saxs_schedule.rst>`_
 
 #.  `Complete the Experiment Safety Assessment Form (ESAF) <https://www.aps.anl.gov/Users-Information/Safety-Training/Experiment-Safety-Overview>`_
 
