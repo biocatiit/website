@@ -6,6 +6,18 @@ How to prepare samples for equilibrium SAXS
 
 .. contents::
 
+SAXS sample shreadsheets
+============================
+
+BioCAT requests that for each beamtime you send us a spreadsheet of your samples
+and buffers at least a week before the beamtime starts. This helps us make sure
+the appropriate equipment is available for your beamtime, and also lets us recommend
+any changes that might be needed to sample or buffer volumes/quantities/concentrations
+ahead of time, ensuring a more successful beamtime.
+
+*   `Download blank sample spreadsheet <{static}/files/saxs_samples.xlsx>`_
+*   `Download example sample spreadsheet <{static}/files/20210730_Hopkins_saxs_samples_example.xlsx>`_
+
 Checklist for SAXS sample preparation
 =======================================
 
