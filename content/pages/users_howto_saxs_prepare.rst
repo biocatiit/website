@@ -10,10 +10,15 @@ SAXS sample shreadsheets
 ============================
 
 BioCAT requests that for each beamtime you send us a spreadsheet of your samples
-and buffers at least a week before the beamtime starts. This helps us make sure
-the appropriate equipment is available for your beamtime, and also lets us recommend
-any changes that might be needed to sample or buffer volumes/quantities/concentrations
-ahead of time, ensuring a more successful beamtime.
+and buffers at least a week before the beamtime starts or you ship your samples
+(whichever is earlier). Please note that there are two tabs, one for sample and
+one for buffer. You may also find it useful for tracking/planning your experiments.
+If you're not sure what the final concentrations are a week out, send us the
+spreadsheet with target concentrations, then send us an update once you've
+finalized the preparation. This helps us make sure the appropriate equipment
+is available for your beamtime, and also lets us recommend any changes that
+might be needed to sample or buffer volumes/quantities/concentrations ahead
+of time, ensuring a more successful beamtime.
 
 *   `Download blank sample spreadsheet <{static}/files/saxs_samples.xlsx>`_
 *   `Download example sample spreadsheet <{static}/files/20210730_Hopkins_saxs_samples_example.xlsx>`_
