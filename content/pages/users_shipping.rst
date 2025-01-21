@@ -105,7 +105,7 @@ If you would like to ship nonhazardous materials to BioCAT, you should ship to:
     | 9700 South Cass Avenue
     | Lemont, IL 60439
 
-Hazardous materials should be sipped to:
+Hazardous materials should be shipped to:
 
     | <Scientific Contact's Name> c/o Bldg 46, Haz Mat
 
