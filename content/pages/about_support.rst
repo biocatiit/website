@@ -20,11 +20,10 @@ jobs. The Advanced Photon Source has a well-equipped metrology shop which
 we use to characterize mirror and multilayer optics. For animal care we have
 access to the Animal Housing Facility in the Engineering Research Building at IIT.
 
+.. _wetlab:
 
 Biochemistry Lab and Prep Area
 ===================================
-
-.. _wetlab:
 
 The Biochemistry Lab is a well-equipped facility for sample preparation work.
 We have all of the equipment needed for the on-site purification of proteins.

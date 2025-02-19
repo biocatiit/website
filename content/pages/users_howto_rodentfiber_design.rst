@@ -21,6 +21,10 @@ rodent skeletal muscle fiber experiment at BioCAT.
 The video is part of a `Journal of Visualized Experiments article
 <https://www.jove.com/video/59559/x-ray-diffraction-intact-murine-skeletal-muscle-as-tool-for-studying>`_.
 
-If you are interested in discussing beamtime for a fiber diffraction experiment
-that you would like to do, email `Dr. Weikang Ma <mailto:wma6@iit.edu>`_.
+We have also published a comprehensive review article `"Small angle x-ray
+diffraction as a tool for characterization of muscle disease" <https://doi.org/10.3390/ijms23063052>`_
+describing in detail how to use X-ray diffraction to investigate muscle pathologies.
+
+Please contact `Dr. Weikang Ma <{filename}/pages/contact.rst>`_ to discuss
+your needs for fiber and muscle diffraction experiments.
 

@@ -7,12 +7,12 @@ Shipping
 Overview
 ********
 
-At Argonne, Shipping is a process that is highly focused on safety. Shipping things
+At Argonne, shipping is a process that is highly focused on safety. Shipping things
 improperly can incur fines exceeding $80,000 per day/ per offense.
 
-Unforseen issues can often occur with shipping which could significantly hinder your ability to conduct your experiment. It is recommended that you ship your items 2-3 days **before** they are needed for your experiment.
-
-* Users are not authorized to ship anything to BioCAT **before** their ESAF has been approved!
+Unforseen issues can often occur with shipping which could significantly hinder
+your ability to conduct your experiment. It is recommended that you ship your
+items 2-3 days **before** they are needed for your experiment.
 
 To begin - please review the following websites, which address basic Argonne guidelines
 for shipping samples, chemicals, and equipment:
@@ -28,14 +28,12 @@ Shipping Department for advice regarding your shipment.
 Shipping is a highly regulated activity by the US Department of Transportation
 (DOT) and Argonne National Laboratory, which may also involve other government
 agencies for approvals and permits to ship certain plant, animal, and human specimens,
-as well as, any viruses, fungi, bacteria, etc... Additionally, the type of packaging needs to
-be coordinated with the hazards associated with your shipment. **Not following
-Department of Transportation rules and regulations can result in very large
-fines.**
+as well as, any viruses, fungi, bacteria, etc. Additionally, the type of packaging needs to
+be coordinated with the hazards associated with your shipment.
 
-Some Users prefer to transport materials by personal vehicle. Be advised that the same DOT
+Some users prefer to transport materials by personal vehicle. Be advised that the same DOT
 and Argonne Regulations apply to personal vehicle transport. There are also additional
-regulations which you need to be aware of... for example, **Users are not allowed to
+regulations which you need to be aware of, most importantly **users are not allowed to
 transport dry-ice in a personal vehicle.**
 
 First Stage: ESAF Submission and Approval
@@ -46,7 +44,8 @@ ESAF for your experiment. <https://www.bio.aps.anl.gov/pages/safety.html>`_
 Under the 'Materials' Tab, you will list all of the samples, chemicals, buffers,
 and commercial products (which contain chemicals) that you will be using during
 the course of your experiment. Include all chemicals, even if you will be using
-some which belong to BioCAT, which you will not be shipping.
+some which belong to BioCAT, which you will not be shipping. **Users are not
+authorized to ship anything to BioCAT before their ESAF has been approved!**
 
 Second Stage: Shipping Requirements
 ***********************************
@@ -58,22 +57,22 @@ Small quantities of chemicals found in buffers are usually okay to ship via
 FedEx due to the DOT small quantity exemption rule - depending on hazard class
 and quantity. Please refer to your MSDS and institutional shipping experts. Exceptions
 to this are hazardous materials - ie. adding berylium to a buffer would make it a
-hazardous material. Hazardous material inclusion would have to be approved through
+hazardous material. Hazardous material inclusion have to be approved through
 the ESAF associated with your experiment.
 
 Bulk chemicals, however, often have associated hazards and packaging requirements
 which require a shipping specialist. If your experiment will require bulk chemicals/
 reagents, we recommend that you order those chemicals and have them shipped directly
-to BioCAT from the vendor (ie, Sigma, Fisher, etc). It is often less expensive and time
+to BioCAT from the vendor. It is often less expensive and time
 consuming to leave bulk/ stock chemicals with us at BioCAT, so that you can access
 them again when you come back to BioCAT for future experiments.
 
 Temperature
 ===========
 
-Temperature is also an important consideration for your package. 4C packages may be shipped
-with cold-packs, while -20C packages will require dry-ice. Dry shippers are another means
-of shipping samples at liquid nitrogen temperatures.
+Temperature is also an important consideration for your package. 4 C packages may be shipped
+with cold-packs, while frozen (-20/-80 C) packages will require dry-ice. Dry shippers are another means
+of shipping samples at cryogenic temperatures.
 
 At Argonne, dry-ice is considered a hazardous material. As such, the outer box must include
 all relevant markings, and the container must conform to package requirements. You are
@@ -91,12 +90,12 @@ wet) and should be shipped separately from wet chemicals and chemicals that pres
 Third Stage: Shipping your items to BioCAT
 ******************************************
 
-Please plan the arrival of your samples/ materials needed for your experiment
+Please plan the arrival of your samples/materials needed for your experiment
 at BioCAT carefully. You should send your samples such that they arrive a day or
 two before the start day of your experiment - **on a business week day!**
-It is difficult and sometimes impossible to receive packages at BioCAT on a
-weekend or holiday, so samples may sit at room temperature for several days
-if they arrive on a weekend or holiday.
+It is not possible to receive packages at BioCAT on a weekend or holiday,
+so samples may sit at room temperature for several days if they arrive on a
+weekend or holiday.
 
 If you would like to ship nonhazardous materials to BioCAT, you should ship to:
 
@@ -105,11 +104,12 @@ If you would like to ship nonhazardous materials to BioCAT, you should ship to:
     | 9700 South Cass Avenue
     | Lemont, IL 60439
 
-Hazardous materials should be shipped to:
+Hazardous materials, **including any package with dry ice,** should be shipped to:
 
     | <Scientific Contact's Name> c/o Bldg 46, Haz Mat
-
-with the rest of the address the same.
+    | Bldg 435 Room B
+    | 9700 South Cass Avenue
+    | Lemont, IL 60439
 
 To prepare your package, please note that if you send a styrofoam container, it needs
 to have an outer cardboard box or FedEx will return the package to you. All shipping
@@ -119,7 +119,7 @@ boxes should be labeled with the following on the outside of the box:
 2.  You should write storage instructions on the outside of the package:
     Room temperature, 4 C (refrigerate), -20 C, or -80 C.
 3.  Attach a shipping label, which is separate from the FedEx label with a
-    sender address and phone number and a recipient address(which includes
+    sender address and phone number and a recipient address (which includes
     your Scientific Contact's name) with the extensions 2-0543 and 2-0540.
 
 Inside the box, include:

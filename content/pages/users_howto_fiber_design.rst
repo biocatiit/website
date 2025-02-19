@@ -6,25 +6,21 @@ How to design a fiber-diffraction experiment
 
 You need to know the first order resolution needed and the highest resolution
 needed in order to have interpretable data for your system. Then the task is to
-select a camera length and a size that allows both of these to be achieved. To
-make this simple, please use our `Q Calculator <{filename}/pages/tools_qcalc.rst>`_.
-
-Enter the X-ray energy in KeV (all experiments are usually done at 12 keV) and a
-trial camera length in mm. Knowing the dimensions of the backstop and the detector
-active area, one can find the optimal camera length for your application by adjusting
-it in the application by trial and error.
+select a camera length and a size that allows both of these criteria to be met.
+To make this simple, you can use our `Q Calculator <{filename}/pages/tools_qcalc.rst>`_.
+Enter the X-ray energy in KeV (all experiments are usually done at 12 keV) and
+a trial camera length in mm. Knowing the dimensions of the backstop and the
+detector active area, one can find the optimal camera length for your application
+by adjusting it in the application by trial and error.
 
 BioCAT provides `several area detectors <{filename}/pages/about_detectors.rst>`_
-for these experiments. Most users use either Pilatus or MAR detector.
+for these experiments. Most users use either EIGER2 XE 9M or MAR detector.
 
 For small angle fiber diffraction experiments, the available range of camera
-lengths go from approximately 1 to 9 m with 2-3 m being the most commonly used
-length. The minimum beamstop size that is practical to use with the standard
-small-angle camera is 4 mm. We are capable of accommodating a very wide variety of
-sample chambers, laser setups, etc.
-
-Please contact `Weikang Ma <{filename}/pages/contact.rst>`_ to discuss your
-needs for fiber and muscle diffraction experiments.
+lengths go from approximately 1 to 9 m with 2-4 m being the most commonly
+used lengths. The minimum beamstop size that is practical to use with the
+standard small-angle camera is 2 mm. The instrument is capable of accommodating
+a very wide variety of sample chambers, laser setups, etc.
 
 A short introduction to the basis of the equatorial
 X-ray diffraction pattern from muscle can be found here:

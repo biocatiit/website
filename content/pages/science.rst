@@ -6,9 +6,9 @@ Science
 
 BioCAT is a mature user facility that `supports several types of experiments <{filename}/pages/about_biocat.rst>`_.
 One measure of the facility's scientific impact is the number and quality of the
-publications produced. As of October 2023, the facility and its users had
-published more than 600 articles, which had been cited more than 28,000 times
-with an average number of citations per article around 46.
+publications produced. As of June 2024, the facility and its users had
+published more than 700 articles, which had been cited more than 48,000 times
+with an average number of citations per article around 68.
 
 `A list of all BioCAT publications can be found in the APS database
 <https://beam.aps.anl.gov/pls/apsweb/pub_V2_0006.query_results?i_beamline=134&I_DISCIPLINE_M=9999&i_order_by_radio=YEAR>`_

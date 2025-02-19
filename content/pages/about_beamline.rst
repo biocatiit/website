@@ -12,27 +12,25 @@ now over 20 years old, remains a state-of-the-art instrument for biological smal
 and wide angle fiber diffraction and macromolecular solution scattering
 (Fischetti, et al., 2004 J. Synchrotron Rad. (2004). 11, 399-405). It is
 capable of delivering well over 10\ :sup:`13` photons/s into focal spots as small
-as 30 x 150 µm\ :sup:`2` with the conventional beamline optics. The BioCAT beamline
+as 15 x 25 µm\ :sup:`2` with the conventional beamline optics. The BioCAT beamline
 was designed by Dr. Rosenbaum (Argonne National Laboratory) and shares the
 same overall mechanical design of the SBC undulator 19-ID (Rosenbaum et al.
 J Synchrotron. 2006 Jan;13(Pt 1):30-45). Undulator "A" provides very intense
-monochromatic radiation in the 3.2 - 14 keV range (first harmonic) with low
-angular divergence (<8.3 micro-radian vertical and <29.3 micro-radian
-horizontal FWHM) with a small source size (typically ~ 680 micrometers
-horizontal by ~22 micrometers vertical FWHM, specifications as of fall 2010).
-While it is possible to change the beam energy, in practice all experiments are done at 12 keV.
-A differential pump separates the vacuum structure from the storage ring
-eliminating the need for any windows between the beamline and the storage ring.
+monochromatic radiation in the 5 - 16 keV range with low angular divergence
+and a small source size. While it is possible to change the beam energy,
+in practice all experiments are done at 12 keV. A differential pump separates
+the vacuum structure from the storage ring eliminating the need for any windows
+between the beamline and the storage ring.
 
 .. class:: table-hover
 
     ===================================================== =============================================================================
     Source                                                APS Undulator A
-    Monochromators                                        Si <111> and <400>
-    Energy Range (Si <111>)                               3.5-13 keV (fundamental), 10.5-39 keV (third harmonic)
+    Monochromators                                        Si <111>
+    Energy Range (Si <111>)                               5-15 keV
     Energy Resolution (dE/E)                              2 x 10\ :sup:`-4` (Si <111>)
-    Minimum Spot Size (µm\ :sup:`2` FWHM)                 < 1500 x 3500 (unfocused), ~30 x 150 (focused at detector 3.5 m from sample)
-    Angular Resolution (µrad\ :sup:`2` FWHM)              160 x 190
+    Minimum Spot Size (µm\ :sup:`2` FWHM)                 < 1000 x 1000 (unfocused), ~15 x 25 (focused at detector 3.5 m from sample)
+    Monochromatic flux (12 keV)                           5x10\ :sup:`13` ph/s
     ===================================================== =============================================================================
 
 The first optical element is a set of white beam slits located just downstream
@@ -42,13 +40,9 @@ assemblies. The upstream monochromator #1 has fixed Si(111) crystals to
 facilitate energy changes for the microfocus setup while the downstream
 monochromator #2 has a sagittal focusing second crystal assemblies that can
 provide horizontal focusing of the beam for the main SAXS camera. We have
-observed a FWHM of 150 µm in intensity profiles of the sagittally
+observed a FWHM of 15 µm in intensity profiles of the sagittally
 focused 12.0 keV X-ray beam at the focal point for a 2 meter SAXS camera
-(about 64 m from the source) which corresponds to a demagnification ratio
-of 4.4:1. The maximum horizontal demagnification ratios are 6.2:1 and 7.3:1
-for monochromator #1 and monochromator #2, respectively. (The increased
-divergence due to the relatively high demagnification ratios is not generally
-a problem for the systems we are studying). The beamline mirror is used for
+(about 64 m from the source). The beamline mirror is used for
 harmonic rejection and vertical focusing but it easily can be withdrawn from
 the beam path when desired. In between the monochromators and the mirror is
 a diamond beam position monitor (Dectris Rigi) and a set of scatterless
@@ -56,7 +50,7 @@ monochromatic slits that can be used as beam defining slits.
 
 The current vertical focusing mirror is a dynamically bent flat mirror. Typical
 vertical beam profiles when focused for 1.5-3.5 m SAXS camera configurations are
-less than 30 µm FWHM. A monochromatic photon shutter allows the monochromator
+less than 25 µm FWHM. A monochromatic photon shutter allows the monochromator
 optics to stay warm while allowing the user
 to enter the experimental enclosure.
 
