@@ -16,7 +16,7 @@ Insights Into Unusual Morphologies of Lipid Nanoparticle Encapsulations
 The success of mRNA-based COVID-19 vaccines has brought increased attention to
 lipid nanoparticles (LNPs) as an RNA therapeutic delivery method. One of the
 main challenges of LNPs as a delivery method remains the significant percentage
-of unloaded LNPs in most (if not all) RNA-LNP formulations22, highlighting a
+of unloaded LNPs in most (if not all) RNA-LNP formulations, highlighting a
 need for better characterization of their formation, composition and morphology.
 While there have been a number of recent advances in understanding the formation
 and structure of LNPs, studies exploring the influence of non-mRNA RNAs on LNP
@@ -25,7 +25,7 @@ self-amplifying mRNA (SAM), which has the potential to both significantly
 lower dosage as well extend the antigen expression lifetime in the body.
 However, given that SAM molecules are typically significantly larger than
 conventional nonreplicating mRNA, and that larger nucleic acids are known to
-promote the formation of significant populations of empty LNPs22, further work
+promote the formation of significant populations of empty LNPs, further work
 is needed to better understand the formation, composition and morphology of
 LNPs in order to better inform LNPs as a delivery system for promising
 therapeutic strategies that rely on larger nucleic acids.

@@ -73,25 +73,65 @@ Below is a gallery of some of BioCAT's science highlights.
 
           <div class="item active">
               <div class="col text-center">
-              <img class="d-block w-100" src="/images/gallery/2024_idp_temperature.png" alt="">
+              <img class="d-block w-100" src="/images/gallery/2025_g4_folding.jpeg" alt="">
               <div class="carousel-caption3">
-                <h3>How hydrophobicity, side chains, and salt affect the dimensions of disordered proteins</h3>
-                <p>Understanding the driving forces behind stability of
-                denatured state ensembles (DSE’s) and intrinsically disordered
-                proteins (IDP’s) is central to a number of unresolved questions
-                in bimolecular thermodynamics regarding protein folding pathways
-                and foldability, thermodynamic stability, aggregation and
-                misfolding. Researchers at the University of Chicago and Notre
-                Dame used temperature-controlled size-exclusion
-                chromatography-coupled SAXS (SEC-SAXS) and NMR to examine how
-                temperature and solvent ionic strength influences the solution
-                structure(s) of the N-terminal domain of pertactin (PNt). PNt
-                is a valuable model system from a fundamental biophysical
-                point of view, as the full-length 539-residue pertactin folds
-                into a parallel β-helix but the 334 N-terminal residues do not
-                and instead behave as a highly expanded, intrinsically
-                disordered chain.</p>
-                <a href="/science//idp-temperature.html" class="btn btn-primary" role="button">Learn More</a>
+                <h3>Unraveling folding pathways of dynamic DNA quadruplexes</h3>
+                <p>G-quadruplexes (G4s) are non-B form DNA structures containing genomic regions
+                rich in guanine that sometimes fold into and often act as transcriptional
+                regulators. They are frequently located at regulatory sites including promoters,
+                replication origins and telomeres11. Understanding their folding pathways,
+                while important to a fundamental understanding of form and function, has
+                been challenging. G4 quadruplex folding pathways are distinct from not
+                only proteins but also duplex RNA and DNA12. Previous work characterizing
+                folding pathways using FRET, CD or stopped-flow absorbance suggested a
+                complex, multi-step pathway. Researchers from the University of Louisville,
+                some of whom are frequent BioCAT users, performed continuous-flow mixing
+                time-resolved SAXS experiments to directly structurally characterize, for
+                the first time, early steps in the G4 quadruplex folding pathway.</p>
+                <a href="/science/g4-folding.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="item">
+              <div class="col text-center">
+              <img class="d-block w-100" src="/images/gallery/2024_titin_rfe.jpg" alt="">
+              <div class="carousel-caption3">
+                <h3>A role for titin in residual force enhancement in skeletal muscle</h3>
+                <p>Residual force enhancement (RFE) is a property of skeletal muscle where
+                more force is produced after an active stretch than if it were simply
+                activated at the longer length.  This property is important for jumping,
+                locomotive, and stabilizing movements of the body. The molecular mechanism
+                underlying RFE is not well understood. In muscle, the protein titin
+                connects myofilaments and has been shown to
+                have many roles in sarcomere stability and modulating contraction.  The
+                authors of this study investigated titin's function during contraction using
+                small-angle X-ray diffraction of untreated WT mouse skeletal muscle and
+                muscle where 50%  of the titin was cleaved. They compared their results to
+                those obtained from mdm titin mutant mce that do not show residual force enhancement.</p>
+                <a href="/science/titin-rfe.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
+              </div>
+            </div>
+
+          <div class="item">
+              <div class="col text-center">
+              <img class="d-block w-100" src="/images/gallery/2024_titin_ventilation.jpg" alt="">
+              <div class="carousel-caption3">
+                <h3>Role of titin in the pathophysiology of diaphragm weakness during mechanical ventilation</h3>
+                <p>Diaphragm unloading during mechanical ventilation is an important clinical
+                problem. The diaphragm is the main muscle of respiration and contracts during
+                each breath, thereby changing the anatomic configurations of the chest wall so
+                that air flows into the lungs. Increased diaphragm loading is associated with
+                diaphragm fiber contractile dysfunction, atrophy and injury. Whereas these
+                effects of increased loading on the diaphragm take months or years to develop,
+                the effects of decreased loading, as occurs when ICU patients are mechanically
+                ventilated, occur extremely rapidly, within hours. Not known is which
+                structures sense the mechanical unloading of the diaphragm
+                and set in motion the molecular cascades leading to atrophy. Here we test the
+                hypothesis that the mechano-sensor protein is titin, a giant elastic protein
+                connecting Z-disks and the thick filaments in the A-band.</p>
+                <a href="/science/titin-ventillation.html" class="btn btn-primary" role="button">Learn More</a>
                 </div>
               </div>
             </div>
@@ -219,6 +259,32 @@ Below is a gallery of some of BioCAT's science highlights.
                 biochemically defined SRX and DRX can be decoupled from structurally
                 defined OFF and ON states.</p>
                 <a href="/science/myosin-decoupling.html" class="btn btn-primary" role="button">Learn More</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="item">
+              <div class="col text-center">
+              <img class="d-block w-100" src="/images/gallery/2024_lnp_morphologies.jpeg" alt="">
+              <div class="carousel-caption3">
+                <h3>Insights Into Unusual Morphologies of Lipid Nanoparticle Encapsulations</h3>
+                <p>The success of mRNA-based COVID-19 vaccines has brought increased attention to
+                lipid nanoparticles (LNPs) as an RNA therapeutic delivery method. One of the
+                main challenges of LNPs as a delivery method remains the significant percentage
+                of unloaded LNPs in most (if not all) RNA-LNP formulations, highlighting a
+                need for better characterization of their formation, composition and morphology.
+                While there have been a number of recent advances in understanding the formation
+                and structure of LNPs, studies exploring the influence of non-mRNA RNAs on LNP
+                morphology remain limited. Of particular interest is the delivery of
+                self-amplifying mRNA (SAM), which has the potential to both significantly
+                lower dosage as well extend the antigen expression lifetime in the body.
+                However, given that SAM molecules are typically significantly larger than
+                conventional nonreplicating mRNA, and that larger nucleic acids are known to
+                promote the formation of significant populations of empty LNPs, further work
+                is needed to better understand the formation, composition and morphology of
+                LNPs in order to better inform LNPs as a delivery system for promising
+                therapeutic strategies that rely on larger nucleic acids.</p>
+                <a href="/science/lnp-morphologies.html" class="btn btn-primary" role="button">Learn More</a>
                 </div>
               </div>
             </div>
