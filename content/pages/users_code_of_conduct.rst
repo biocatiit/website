@@ -77,8 +77,8 @@ organizations other than BioCAT but held at BioCAT (e.g. tours).
 *   Notification should be done by either:
 
     *   Contacting a BioCAT staff person on site.
-    *   Emailing your concerns to BioCAT Deputy Director Jesse Hopkins at
-        jhopkins1@iit.edu, BioCAT Director Tom Irving at irving@iit.edu and/or
+    *   Emailing your concerns to BioCAT Director Jesse Hopkins at
+        jhopkins1@iit.edu, BioCAT PI Tom Irving at irving@iit.edu and/or
         CSRRI (BioCAT’s parent organization) Director Carlo Segre at segre@iit.edu.
 
 *   Anyone experiencing or witnessing behavior that constitutes an immediate or

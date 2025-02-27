@@ -35,8 +35,11 @@ Projects
 Education & Experience
 ------------------------
 
+*   Director, BioCAT, Illinois Institute of Technology/Advanced Photon
+    Source, 2025-present
+
 *   Deputy Director, BioCAT, Illinois Institute of Technology/Advanced Photon
-    Source, 2021-present
+    Source, 2021-2025
 
 *   Beamline Scientist, BioCAT, Illinois Institute of Technology/Advanced
     Photon Source, 2018-2021
