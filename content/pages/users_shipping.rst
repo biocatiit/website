@@ -79,6 +79,18 @@ all relevant markings, and the container must conform to package requirements. Y
 responsible for making sure packages are prepared properly. Argonne may also impose penalties
 for improperly shipped items.
 
+Samples
+=======
+
+Sample packaging is an important consideration.
+
+non-hazardous Animal Tissue
+
+Non-hazardous animal tissues are those tissues which are being shipped with cold-packs and the shipment will not contain dry-ice.  The addition of dry-ice to any non-hazardous animal tissue sample shipment would render the shipment hazardous (because dry-ice is considered to be a hazardous material) and receiving would have to occur through building 46 as detailed below in the section 'dry-ice.'  
+
+All non-hazardous animal tissue samples must be packaged using triple containment as detailed by `USPS Regulations:
+<https://pe.usps.com/text/pub52/pub52apxc_024.htm>`_.
+
 Equipment
 =========
 
