@@ -84,7 +84,7 @@ Samples
 
 Sample packaging is an important consideration.
 
-## non-hazardous Animal Tissue
+**non-hazardous Animal Tissue**
 
 Non-hazardous animal tissues are those tissues which are being shipped with cold-packs and the shipment will not contain dry-ice.  The addition of dry-ice to any non-hazardous animal tissue sample shipment would render the shipment hazardous (because dry-ice is considered to be a hazardous material) and receiving would have to occur through building 46 as detailed below in the section 'dry-ice.'  
 
@@ -104,7 +104,7 @@ Third Stage: Shipping your items to BioCAT
 
 Please plan the arrival of your samples/materials needed for your experiment
 at BioCAT carefully. You should send your samples such that they arrive a day or
-two before the start day of your experiment - **on a business week day!**
+two before the start day of your experiment - **on a business week day, and preferably not a Friday!**
 It is not possible to receive packages at BioCAT on a weekend or holiday,
 so samples may sit at room temperature for several days if they arrive on a
 weekend or holiday.
