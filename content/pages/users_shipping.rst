@@ -84,7 +84,7 @@ Samples
 
 Sample packaging is an important consideration.
 
-non-hazardous Animal Tissue
+## non-hazardous Animal Tissue
 
 Non-hazardous animal tissues are those tissues which are being shipped with cold-packs and the shipment will not contain dry-ice.  The addition of dry-ice to any non-hazardous animal tissue sample shipment would render the shipment hazardous (because dry-ice is considered to be a hazardous material) and receiving would have to occur through building 46 as detailed below in the section 'dry-ice.'  
 
