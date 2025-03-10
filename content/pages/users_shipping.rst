@@ -84,14 +84,17 @@ Samples
 
 Sample packaging is an important consideration.
 
+**Concentrated Protein Samples**
+
+Concentrated protein samples for SAXS should be shipped in sealed vials which are well-labelled.  The vials should be placed inside of a sealed plastic bag or sealed container and then placed inside of a styrofoam cooler - the cooler must include an outer carboard box.  If the samples are being shipped with cold packs, then the shipment may be addressed directly to BioCAT.  However, the inclusion of dry-ice to any shipment renders the shipment a 'hazardous material shipment' and the shipment must be addressed to Building 46, as explained below.  Please note in cases where tubes labelled with tape are subjected to dry-ice temperatures, the tape will unstick from the tubes in many cases.  Use permanent marker to label your tubes.    
 **non-hazardous Animal Tissue**
 
 Non-hazardous animal tissues are those tissues which are being shipped with cold-packs and the shipment will not contain dry-ice.  The addition of dry-ice to any non-hazardous animal tissue sample shipment would render the shipment hazardous (because dry-ice is considered to be a hazardous material) and receiving would have to occur through building 46 as detailed below in the section 'dry-ice.'  
 
-All non-hazardous animal tissue samples must be packaged using triple containment as detailed by `USPS Regulations:
+All non-hazardous animal tissue samples must be packaged using triple-containment as detailed by `USPS Regulations:
 <https://pe.usps.com/text/pub52/pub52apxc_024.htm>`_.
 
-A picture of triple-containment can be seen below.  You should purchase a triple-containment package from a company such as U-line, as they need to ahere to certain shipping specifications.
+A picture of triple-containment can be seen below.  You may choose to purchase a triple-containment package from a company such as Fisher Scientific, however, do not use any biohazard labels to ship non-infectious animal specimens.
 
 .. image:: {static}/images/triplecontainment.jpg
     :class: img-responsive
