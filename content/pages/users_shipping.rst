@@ -91,6 +91,13 @@ Non-hazardous animal tissues are those tissues which are being shipped with cold
 All non-hazardous animal tissue samples must be packaged using triple containment as detailed by `USPS Regulations:
 <https://pe.usps.com/text/pub52/pub52apxc_024.htm>`_.
 
+A picture of triple-containment can be seen below.  You should purchase a triple-containment package from a company such as U-line, as they need to ahere to certain shipping specifications.
+
+.. image:: {static}/images/triplecontainment.jpg
+    :class: img-responsive
+    :align: center
+
+
 Equipment
 =========
 
