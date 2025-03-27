@@ -76,3 +76,45 @@ Confirmed speakers (Alphabetically):
 *   Michael Regnier (University of Washington, USA)
 *   Leonardo Sacconi (Institute of Clinical Physiology-CNR, Italy)
 
+entative schedule
+^^^^^^^^^^^^^^^^^^^^
+
+Note: All times are Central Daylight Time (UTC-5)
+
+:h4:`Tuesday 5/15/25`
+
+.. class:: table-hover
+
+    =========== ======================================================================================================================
+    09:30 am    Welcome - Tom Irving
+    09:45 am    Introduction to scientific programs at BioCAT - Weikang Ma
+           .    **Thick filament structure and regulation**
+    10:00 am    Muscle myosin dynamics in hibernation - Julien Ochala
+    10:40 am    Annotating the X-ray diffraction pattern of vertebrate striated muscle - Roger Craig
+    11:20 am    Cardiac performance and hierarchical activation of thick filament - Ilaria Morotti
+    12:00 pm    Break
+    12:30 pm    X-ray diffraction and other biophysical approaches to study myosin OFF and ON states - Michael Regnier
+    01:10 pm    Regulation of contraction of slow-twitch skeletal muscle - Cameron Hill
+    01:50 pm    Molecular basis of length-dependent activation (LDA) in cardiac muscle - Alice Arcidiacono
+    02:30 pm    Breakout Sessions for Discussion
+    =========== ======================================================================================================================
+
+
+:h4:`Friday 5/16/25`
+
+.. class:: table-hover
+
+    =========== ===============================================================================================================================================================
+           .    **Translational Studies in Muscle Research**
+    09:30 am    Probing relaxed myosin states in hypertrophic cardiomyopathy by second harmonic-generation microscopy - Leonardo Sacconi
+    10:10 am    Implications of Obesity on Myofilament Function in Heart Failure with Preserved Ejection Fraction - Vivek Jani
+    10:50 am    Investigating the structural effects HCM causing variants on the cardiac sarcomere - Christopher McAllister
+    11:30 am    Desmoglein-2 deficiency results in cardiac dysfunction by compromising both Z-disc- and intercalated disc-mediated mechanotransduction - Maicon Landim-Vieira
+    12:10 pm    Break
+    12:40 pm    Regulation of the structure-function relationship by small molecule myosin modulators in porcine cardiac muscle - Kristi Kooiker
+           .    **Titin and MyBP-C**
+    01:20 pm    Switching ON of titin in relation to dual filament activation in skeletal muscle    Vincenzo Lombardi
+    02:00 pm    Exploring the role of titin and MyBP-C in skeletal and cardiac muscle   Anthony Hessel
+    02:30 pm    Breakout Sessions for Discussion
+
+    =========== ===============================================================================================================================================================
