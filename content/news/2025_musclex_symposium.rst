@@ -25,8 +25,7 @@ Register for MuscleX 4 Symposium: Sarcomeric regulation mechanisms in health and
             diffraction or other structural techniques.
 
             The workshop will take place from 5/15/2025 to 5/16/2025 and will
-            be entirely virtual (via Zoom). A Zoom link will be provided to
-            registered participants at a later time, prior to the symposium.
+            be entirely virtual (via Zoom https://iit-edu.zoom.us/s/82803659384).
 
 
     .. column::
@@ -62,21 +61,23 @@ or Weikang Ma (wma6@iit.edu).
 Confirmed speakers (Alphabetically):
 
 *   Alice Arcidiacono (King’s College London, UK)
-*   Roger Craig (UMass Chan Medical School, USA)
 *   Anthony Hessel (University of Muenster, Germany)
 *   Cameron Hill (King’s College London, UK)
-*   Vivek Jani (Johns Hopkins University, USA)
-*   Kristi Kooiker (University of Washington, USA)
-*   Maicon Landim Vieira (Illinois Institute of Technology, USA)
-*   Vincenzo Lombardi (University of Florence, Italy)
-*   Weikang Ma (BioCAT, Illinois Institute of Technology, USA)
 *   Christopher McAllister (University of Pennsylvania, USA)
 *   Ilaria Morotti (University of Florence, Italy)
 *   Julien Ochala (University of Copenhagen, Denmark)
-*   Michael Regnier (University of Washington, USA)
+*   Kristi Kooiker (University of Washington, USA)
 *   Leonardo Sacconi (Institute of Clinical Physiology-CNR, Italy)
+*   Maicon Landim Vieira (Illinois Institute of Technology, USA)
+*   Michael Regnier (University of Washington, USA)
+*   Natalia Koubassova (Moscow University, Russia)
+*   Roger Craig (UMass Chan Medical School, USA)
+*   Thomas Irving (BioCAT, Illinois Institute of Technology, USA)
+*   Vincenzo Lombardi (University of Florence, Italy)
+*   Vivek Jani (Johns Hopkins University, USA)
+*   Weikang Ma (BioCAT, Illinois Institute of Technology, USA)
 
-entative schedule
+Tentative schedule
 ^^^^^^^^^^^^^^^^^^^^
 
 Note: All times are Central Daylight Time (UTC-5)
@@ -90,7 +91,7 @@ Note: All times are Central Daylight Time (UTC-5)
     09:45 am    Introduction to scientific programs at BioCAT - Weikang Ma
            .    **Thick filament structure and regulation**
     10:00 am    Muscle myosin dynamics in hibernation - Julien Ochala
-    10:40 am    Annotating the X-ray diffraction pattern of vertebrate striated muscle - Roger Craig
+    10:40 am    Annotating the X-ray diffraction pattern of vertebrate striated muscle - Roger Craig and Natalia Koubassova
     11:20 am    Cardiac performance and hierarchical activation of thick filament - Ilaria Morotti
     12:00 pm    Break
     12:30 pm    X-ray diffraction and other biophysical approaches to study myosin OFF and ON states - Michael Regnier
@@ -113,8 +114,8 @@ Note: All times are Central Daylight Time (UTC-5)
     12:10 pm    Break
     12:40 pm    Regulation of the structure-function relationship by small molecule myosin modulators in porcine cardiac muscle - Kristi Kooiker
            .    **Titin and MyBP-C**
-    01:20 pm    Switching ON of titin in relation to dual filament activation in skeletal muscle    Vincenzo Lombardi
-    02:00 pm    Exploring the role of titin and MyBP-C in skeletal and cardiac muscle   Anthony Hessel
+    01:20 pm    Switching ON of titin in relation to dual filament activation in skeletal muscle - Vincenzo Lombardi
+    02:00 pm    Exploring the role of titin and MyBP-C in skeletal and cardiac muscle - Anthony Hessel
     02:30 pm    Breakout Sessions for Discussion
 
     =========== ===============================================================================================================================================================
