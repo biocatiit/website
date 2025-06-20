@@ -25,7 +25,7 @@ Register for MuscleX 4 Symposium: Sarcomeric regulation mechanisms in health and
             diffraction or other structural techniques.
 
             The workshop will take place from 5/15/2025 to 5/16/2025 and will
-            be entirely virtual (via Zoom https://iit-edu.zoom.us/s/82803659384).
+            be entirely virtual (via Zoom https://iit-edu.zoom.us/meeting/register/tup-TPN-RS2g_pqBKHSQ5w).
 
 
     .. column::
