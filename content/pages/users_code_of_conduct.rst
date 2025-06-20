@@ -78,8 +78,8 @@ organizations other than BioCAT but held at BioCAT (e.g. tours).
 
     *   Contacting a BioCAT staff person on site.
     *   Emailing your concerns to BioCAT Director Jesse Hopkins at
-        jhopkins1@iit.edu, BioCAT PI Tom Irving at irving@iit.edu and/or
-        CSRRI (BioCAT’s parent organization) Director Carlo Segre at segre@iit.edu.
+        jhopkins1@illinoistech.edu, BioCAT PI Tom Irving at irving@illinoistech.edu and/or
+        CSRRI (BioCAT’s parent organization) Director Carlo Segre at segre@illinoistech.edu.
 
 *   Anyone experiencing or witnessing behavior that constitutes an immediate or
     serious threat to public safety is advised to contact Argonne’s onsite

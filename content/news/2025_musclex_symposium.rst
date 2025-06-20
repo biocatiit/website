@@ -55,8 +55,8 @@ Symposium topics:
 *   Scientific presentations from recent muscle studies using x-ray diffraction
     and/or other structural techniques.
 
-If you have questions, please contact Maicon Landim Vieira (mlandimvieira@iit.edu)
-or Weikang Ma (wma6@iit.edu).
+If you have questions, please contact Maicon Landim Vieira (mlandimvieira@illinoistech.edu)
+or Weikang Ma (wma6@illinoistech.edu).
 
 Confirmed speakers (Alphabetically):
 

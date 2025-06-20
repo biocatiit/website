@@ -65,7 +65,7 @@ Workshop topics:
     *   MyBPC and regulation of thick and thin filaments
     *   Translational studies on structural bases of muscle diseases
 
-If you have questions, please contact Weikang Ma (wma6@iit.edu).
+If you have questions, please contact Weikang Ma (wma6@illinoistech.edu).
 
 Confirmed speakers (chronologically):
 

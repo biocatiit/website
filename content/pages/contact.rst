@@ -129,7 +129,7 @@ Staff
 
                     .. button:: Email
                         :class: primary block
-                        :target: mailto:mclark19@iit.edu
+                        :target: mailto:mclark19@illinoistech.edu
 
                 .. column::
                     :width: 6
@@ -160,7 +160,7 @@ Staff
 
                     .. button:: Email
                         :class: primary block
-                        :target: mailto:heurich@iit.edu
+                        :target: mailto:heurich@illinoistech.edu
 
                 .. column::
                     :width: 6
@@ -190,7 +190,7 @@ Staff
 
                     .. button:: Email
                         :class: primary block
-                        :target: mailto:jhopkins1@iit.edu
+                        :target: mailto:jhopkins1@illinoistech.edu
 
                 .. column::
                     :width: 6
@@ -222,7 +222,7 @@ Staff
 
                     .. button:: Email
                         :class: primary block
-                        :target: mailto:irving@iit.edu
+                        :target: mailto:irving@illinoistech.edu
 
                 .. column::
                     :width: 6
@@ -252,7 +252,7 @@ Staff
 
                     .. button:: Email
                         :class: primary block
-                        :target: mailto:wlavende@iit.edu
+                        :target: mailto:wlavende@illinoistech.edu
 
                 .. column::
                     :width: 6
@@ -282,7 +282,7 @@ Staff
 
                     .. button:: Email
                         :class: primary block
-                        :target: mailto:wma6@iit.edu
+                        :target: mailto:wma6@illinoistech.edu
 
                 .. column::
                     :width: 6
@@ -314,7 +314,7 @@ Staff
 
                     .. button:: Email
                         :class: primary block
-                        :target: mailto:vukonich@iit.edu
+                        :target: mailto:vukonich@illinoistech.edu
 
                 .. column::
                     :width: 6
@@ -344,7 +344,7 @@ Staff
 
                     .. button:: Email
                         :class: primary block
-                        :target: mailto:mwatkins2@iit.edu
+                        :target: mailto:mwatkins2@illinoistech.edu
 
                 .. column::
                     :width: 6

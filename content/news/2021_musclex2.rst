@@ -62,7 +62,7 @@ Workshop topics:
 *   Science highlights from recent muscle studies using x-ray diffraction and
     scattering
 
-If you have questions, please contact Weikang Ma (wma6@iit.edu).
+If you have questions, please contact Weikang Ma (wma6@illinoistech.edu).
 
 Confirmed speakers:
 

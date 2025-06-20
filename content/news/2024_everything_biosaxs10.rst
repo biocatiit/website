@@ -97,7 +97,7 @@ Confirmed speakers:
 *   Estella Yee (MacCHESS, CHESS)
 *   Michal Hammel (SIBYLS, ALS)
 
-If you have questions, please contact Jesse Hopkins (jhopkins1@iit.edu).
+If you have questions, please contact Jesse Hopkins (jhopkins1@illinoistech.edu).
 
 Tentative schedule
 ^^^^^^^^^^^^^^^^^^^^

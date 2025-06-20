@@ -81,7 +81,7 @@ Course topics:
 Students will be assigned into small groups for 4 hour data collection slots
 starting Tuesday afternoon and running through Wednesday evening (11 pm). If
 you are coming as a group or if you need a particular time slot, please notify
-Jesse Hopkins (jhopkins1@iit.edu) for scheduling. Lectures and tutorials are
+Jesse Hopkins (jhopkins1@illinoistech.edu) for scheduling. Lectures and tutorials are
 finished by 1 pm on Tuesday. There are no other officially scheduled activities
 besides your data collection slot, so you may wish to make your travel arrangements
 once you know when your slot will be. Note that data analysis help is available
@@ -90,7 +90,7 @@ in parallel with the data collection, but it is not a formal tutorial.
 While BioCAT supports SEC-SAXS, SEC-MALS-SAXS, and batch mode SAXS, due to
 time constraints students will be limited to only SEC-SAXS data collection. Please
 send your buffer requirements (pH, salt concentration and other additives)
-to Jesse Hopkins (jhopkins1@iit.edu) so we can try to minimize buffer changes
+to Jesse Hopkins (jhopkins1@illinoistech.edu) so we can try to minimize buffer changes
 during the course. We may ask you if you can accommodate slightly different pH and
 salt concentration in order to combine similar buffers. Please contact Srinivas
 Chakravarthy (schakrav11@gmail.com) with any questions about samples or sample

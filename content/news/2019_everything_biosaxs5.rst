@@ -107,7 +107,7 @@ samples will be available to all on-site participants for training purposes.
 Participants will be assigned into small groups for 4 hour data collection slots
 starting Wednesday afternoon and running through Thursday evening (11 pm). If
 you are coming as a group or if you need a particular time slot, please notify
-Jesse Hopkins (jhopkins1@iit.edu) for scheduling. Data analysis help is available
+Jesse Hopkins (jhopkins1@illinoistech.edu) for scheduling. Data analysis help is available
 in parallel with the data collection on Thursday, but it is not a formal tutorial.
 
 While BioCAT supports SEC-SAXS, SEC-MALS-SAXS, and batch mode SAXS, due to
@@ -115,7 +115,7 @@ time constraints students will be limited to only SEC-SAXS data collection.
 Please read our guide on `how to design a SAXS experiment <{filename}/pages/users_howto_saxs_design.rst>`_
 and `how to prepare your SAXS samples <{filename}/pages/users_howto_saxs_prepare.rst>`_.
 
-If you have questions, please contact Jesse Hopkins (jhopkins1@iit.edu).
+If you have questions, please contact Jesse Hopkins (jhopkins1@illinoistech.edu).
 
 Confirmed speakers:
 

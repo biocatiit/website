@@ -29,7 +29,7 @@ encouraged for administrative purposes. How to register:
 `https://www.eventbrite.com/e/biocatctmr-workshop-tickets-325287903877
 <https://www.eventbrite.com/e/biocatctmr-workshop-tickets-325287903877>`_
 
-For questions, please contact Weikang Ma (`wma6@iit.edu <mailto:wma6@iit.edu>`_)
+For questions, please contact Weikang Ma (`wma6@illinoistech.edu <mailto:wma6@illinoistech.edu>`_)
 or Michael Regnier (`mregnier@uw.edu <mailto:mregnier@uw.edu>`_).
 
 

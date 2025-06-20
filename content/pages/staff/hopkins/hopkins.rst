@@ -15,7 +15,7 @@ cryoSAXS and TR-SAXS, and radiation damage to biological systems.
 
 Contact Me
 -----------
-E-mail: jhopkins1@iit.edu
+E-mail: jhopkins1@illinoistech.edu
 
 Phone: 630-252-3062
 

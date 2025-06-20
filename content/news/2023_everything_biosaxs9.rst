@@ -89,7 +89,7 @@ time constraints students will be limited to only SEC-SAXS data collection.
 Please read our guide on `how to design a SAXS experiment <{filename}/pages/users_howto_saxs_design.rst>`_
 and `how to prepare your SAXS samples <{filename}/pages/users_howto_saxs_prepare.rst>`_.
 
-If you have questions, please contact Jesse Hopkins (jhopkins1@iit.edu).
+If you have questions, please contact Jesse Hopkins (jhopkins1@illinoistech.edu).
 
 Confirmed speakers:
 
