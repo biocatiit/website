@@ -23,15 +23,24 @@ results from BioCAT:
 #.  Publications resulting from work performed at BioCAT are required
     to include the following acknowledgements:
 
-    This research used resources of the Advanced Photon Source, a U.S.
-    Department of Energy (DOE) Office of Science User Facility operated
-    for the DOE Office of Science by Argonne National Laboratory under
-    Contract No. DE-AC02-06CH11357. BioCAT was supported by grant P30 GM138395
+    This research was performed on APS beam time award(s) (DOI(s): <add beam
+    time award DOI hyperlinks>) from the Advanced Photon Source, a U.S.
+    Department of Energy (DOE) Office of Science user facility operated for
+    the DOE Office of Science by Argonne National Laboratory under Contract
+    No. DE-AC02-06CH11357. BioCAT was supported by grant P30 GM138395
     from the National Institute of General Medical Sciences of the National
     Institutes of Health. ................ *<add at end of acknowledgements>*
     The content is solely the responsibility of the authors and does not
     necessarily reflect the official views of the National Institute of
     General Medical Sciences or the National Institutes of Health.
+
+    *   APS beamtime DOIs can be obtained from the `APS User Portal
+        <https://beam.aps.anl.gov/pls/apsweb/usercheckin.start_page>`_
+        via the My DOIs tab. Note that only beamtime since 2025 has assigned
+        DOIs available in the User Portal, and so work done prior to that
+        does not need to include the DOIs in the acknowledgements. If more than
+        one beamtime contributed to the publicaiton, DOIs should be included
+        for all beamtimes, not just one of them.
 
     *   If you used the Pilatus 3 1M to acquire your data, please add the following:
 
