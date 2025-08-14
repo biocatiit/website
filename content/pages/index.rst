@@ -244,7 +244,7 @@ Welcome to BioCAT
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/news/2025_musclex4_wrapup.rst
+                        :target: {filename}/news/2025_musclex_4_wrapup.rst
 
             .. -------------------------------------------------------------------------
             .. column::
