@@ -4,14 +4,6 @@ Welcome to BioCAT
 :url:
 :save_as: index.html
 
-.. alert::
-    :type: warning
-
-    BioCAT is resuming user operations for the 2025-1 run!
-
-    `Find out more. <{filename}/news/2025_user_operations.rst>`_
-
-
 .. class:: center
 
     .. raw:: html
@@ -206,24 +198,32 @@ Welcome to BioCAT
 
         .. thumbnail::
 
-            .. image:: {static}/images/facility_thumbnail.jpg
+            .. image:: {static}/images/news/2025_eb11_cover.png
                 :class: img-rounded
 
             .. caption::
 
-                :h3:`BioCAT resumes user operations`
+                :h3:`Register for Everything BioSAXS 11 Workshop`
 
-                BioCAT is very excited to be welcoming users back to the facility starting in
-                February. If you are interested in beam time next run, please contact the
-                appropriate beamline scientist.
+                BioCAT is offering its eleventh intensive HOW-TO course in BioSAXS.
+                Students will have four days of virtual lectures and hands-on
+                software tutorials on the basics of BioSAXS data collection and
+                processing from expert practitioners in the field. Students will
+                also be able to come on site or mail in samples for data collection
+                on the BioCAT beamline (Sector 18 at the APS) after the lecture
+                portion of the course.
+
+                The lectures will take place from 10/7/25 to 10/10/25 and are entirely
+                virtual (via Zoom). Data collection will occur the week of 10/23/25.
 
 
             .. button:: Learn More
                 :class: primary block
-                :target: {filename}/news/2025_user_operations.rst
+                :target: {filename}/news/2025_everything_biosaxs11.rst
 
 
         .. row::
+
 
             .. -------------------------------------------------------------------------
             .. column::
@@ -231,28 +231,20 @@ Welcome to BioCAT
 
                 .. thumbnail::
 
-                    .. image:: {static}/images/news/2025_MuscleX4_logo.jpg
+                    .. image:: {static}/images/news/2025_musclex4_group.png
                         :class: img-rounded
 
                     .. caption::
 
-                        :h4:`Register for MuscleX 4 Symposium`
+                        :h4:`MuscleX 4 Workshop Wrap-Up`
 
-                        We are pleased to announce the fourth BioCAT MuscleX symposium.
-                        The symposium will feature an introductory
-                        presentation on BioCAT's scientific missions, new capabilities enabled
-                        by recent upgrades to the APS source and to the BioCAT beamline, and
-                        a series of talks highlighting recent muscle studies utilizing X-ray
-                        diffraction or other structural techniques.
-                        The workshop will take place from 5/15/2025 to 5/16/2025 and will
-                        be entirely virtual (via Zoom). A Zoom link will be provided to
-                        registered participants at a later time, prior to the symposium.
+                        BioCAT offered its fourth MuscleX workshop from May 15-16 2025. This
+                        entirely virtual workshop had over 100 registered attendees.
 
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/news/2025_musclex_symposium.rst
-
+                        :target: {filename}/news/2025_musclex4_wrapup.rst
 
             .. -------------------------------------------------------------------------
             .. column::
@@ -265,18 +257,16 @@ Welcome to BioCAT
 
                     .. caption::
 
-                        :h4:`BioCAT Town Hall Wrap-Up`
+                        :h4:`BioCAT resumes user operations`
 
-                        BioCAT held a town hall on January 10th to discuss
-                        upgrades to the beamline over the APS-U dark period
-                        and the resumption of user operations in February.
-                        Videos of the town hall, as well as slides, and a
-                        summary of the announcements are now available.
+                        BioCAT is very excited to be welcoming users back to the facility starting in
+                        February 2025. If you are interested in beam time next run, please contact the
+                        appropriate beamline scientist.
 
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/news/2025_townhall_wrapup.rst
+                        :target: {filename}/news/2025_user_operations.rst
 
         .. row::
 
