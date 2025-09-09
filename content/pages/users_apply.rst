@@ -4,13 +4,6 @@ Getting and using beamtime at BioCAT
 :category: users
 :slug: applying-for-time
 
-.. alert::
-    :type: warning
-
-    BioCAT is resuming user operations for the 2025-1 run!
-
-    `Find out more. <{filename}/news/2025_user_operations.rst>`_
-
 .. contents::
 
 

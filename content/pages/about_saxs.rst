@@ -197,9 +197,9 @@ sample, increasing requirements on sample prep. BioCAT has a custom built
 batch mode autosampler capable of loading samples from 96 and 384 well plates.
 The plates are temperature controlled, and the measurements are done in the coflow
 sample cell to minimize radiation damage. This autosampler can run one sample
-every ~3 minutes.
+every ~5 minutes.
 
-At BioCAT, these measurements batch mode measurements take ~10 µl of sample.
+At BioCAT, these measurements batch mode measurements take ~30 µl of sample.
 However, in some cases smaller volumes can also yield usable SAXS data.
 
 .. _af4-mals-saxs:

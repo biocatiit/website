@@ -273,7 +273,7 @@ Staff
             .. caption::
 
                 :h3:`Dr. Weikang Ma`
-                Beamline Scientist, Fiber/Muscle
+                Deputy Director, Fiber/Muscle
 
             .. row::
 

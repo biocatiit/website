@@ -149,7 +149,7 @@ bracketing the target concentration in factors of 2 or more. For example, for a 
 protein you might prepare concentrations of 0.6 mg/ml (target), 0.3 mg/ml and
 1.2 mg/ml.
 
-Batch mode experiments can be done routinely with ~10 µl per measurement.
+Batch mode experiments can be done routinely with ~30 µl per measurement.
 We recommend that you bring enough sample volume for two measurements at each
 condition, that way if something happens during a measurement (such as the
 beam going down) we can repeat and obtain the desired data.
@@ -196,7 +196,7 @@ are ~15 minutes.
 Note: If you bring your own column, run times will depend on the flow rate and
 volume for that column.
 
-The batch mode autosampler can run a sample every ~3 minutes.
+The batch mode autosampler can run a sample every ~5 minutes.
 
 IEC-SAXS experiments can take significantly longer, hours to run a single elution
 depending on the gradient, plus needing an equilibration step after each elution
