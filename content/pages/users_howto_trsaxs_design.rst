@@ -228,30 +228,30 @@ Laminar flow mixing
 
 In the laminar flow mixer the dilution is fixed by the ratios of the flow rate of
 the sample buffer and mixing buffer. Components in the sample buffer will
-get diluted to 8.7% (11.5x) of their initial value and components in the mixing buffer
-will get diluted to 91.3% (1.1x) of their initial value. You can calculate the
+get diluted to 12.7% (7.9x) of their initial value and components in the mixing buffer
+will get diluted to 87.3% (1.15x) of their initial value. You can calculate the
 final mixed concentration as (where IC is initial concentration, SB is sample
 buffer and MB is mixing buffer)
 
-* Final concentration = 0.087*(IC in SB) + 0.913*(IC in MB)
+* Final concentration = 0.127*(IC in SB) + 0.873*(IC in MB)
 
 Consider the example of mixing from high salt in the sample buffer to
 low salt in the final buffer. If the salt in the mixing buffer is zero,
-then the final concentration = 0.087*(initial concentration in sample buffer).
+then the final concentration = 0.127*(initial concentration in sample buffer).
 So if you want a final concentration of 150 mM, you'd need an initial concentration
-of (150 mM)/0.087 = 1.724 M. Alternatively, if you wanted to start with a 500 mM
-solution, you would achieve a final concentration of (500 mM)*0.087 = 43.5 mM.
+of (150 mM)/0.127 = 1.181 M. Alternatively, if you wanted to start with a 500 mM
+solution, you would achieve a final concentration of (500 mM)*0.127 = 63.5 mM.
 
 Equivalently, consider a salt jump experiment mixing from a zero salt sample buffer
 to a high salt final buffer. If you want a final salt concentration of 500 mM,
-you would use a mixing buffer with (500 mM)/0.913 = 548 mM salt.
+you would use a mixing buffer with (500 mM)/0.873 = 573 mM salt.
 
 For a more complicated sample, consider a case where you want to start with
 50 mM salt in the sample buffer and end with 500 mM salt final buffer. The necessary
 mixing buffer salt concentration would be:
 
-*   (Final concentration - (0.087*(IC in SB)))/0.913 = IC in MB
-*   (500 mM - (0.087*(50 mM)))/0.913 = 543 mM
+*   (Final concentration - (0.127*(IC in SB)))/0.873 = IC in MB
+*   (500 mM - (0.127*(50 mM)))/0.873 = 565 mM
 
 Note that any component can be changed via mixing, salt is just a sample example.
 If you are changing pH, note that the above formulas will not apply.
