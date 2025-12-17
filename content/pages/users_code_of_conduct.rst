@@ -1,24 +1,8 @@
-BioCAT Diversity Statement and Code of Conduct
+BioCAT Code of Conduct
 #################################################
 
 :category: users
 :slug: code-of-conduct
-
-
-Diversity Statement
-*********************
-
-The Biophysics Collaborative Access Team (BioCAT) is committed to diversity and
-inclusiveness in our facility, as well as in all BioCAT activities, events and
-services. Scientific innovation requires bringing together both diverse ideas
-and people from varied backgrounds who may have different world views and ways
-of solving problems. BioCAT seeks to include scientists across age, gender
-identity and expression, race, nationality, ethnicity, physical ability, marital
-status, sexual orientation, socioeconomic status, military or veteran status, or
-any other facet of social diversity in the use of our facility and in our staff.
-
-Code of Conduct Policy
-************************
 
 [Wording of this policy based on that of the American Crystallographic Association]
 
@@ -33,7 +17,7 @@ organizations other than BioCAT but held at BioCAT (e.g. tours).
 **Expected Behavior**
 
 *   All facility users, BioCAT staff and service providers should treat each
-    other with respect and consideration, valuing a diversity of views and opinions.
+    other with respect and consideration, valuing a range of views and opinions.
 *   They should be considerate, respectful, and collaborative with others.
 *   They should communicate openly with respect for others, critiquing ideas
     rather than individuals.

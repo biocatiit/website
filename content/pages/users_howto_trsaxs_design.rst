@@ -305,13 +305,13 @@ Laminar flow mixing
 Laminar flow experiments are typically run at fixed ratios between the mixing buffer
 and sample buffer and at standard flow rates. You can calculate the necessary buffer as:
 
-*   Sample buffer = (0.4 mL)*(number of measurements) + 10 mL
-*   Mixing buffer = (4.1 mL)*(number of measurements) + 20 mL
+*   Sample buffer = (0.5 mL)*(number of measurements) + 10 mL
+*   Mixing buffer = (6 mL)*(number of measurements) + 30 mL
 
 So, for example, to measure a time series consisting of 3 repeated measurements on
 the same sample, you would prepare:
 
-*   Sample buffer = (0.4 mL)*3 + 10 mL = 11.2 mL
-*   Mixing buffer = (4.1 mL)*3 + 20 mL = 32.3 mL
+*   Sample buffer = (0.5 mL)*3 + 10 mL = 11.5 mL
+*   Mixing buffer = (6 mL)*3 + 30 mL = 48 mL
 
 
