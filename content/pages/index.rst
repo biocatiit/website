@@ -198,53 +198,27 @@ Welcome to BioCAT
 
         .. thumbnail::
 
-            .. image:: {static}/images/news/2025_eb11_cover.png
+            .. image:: {static}/images/facility_thumbnail.jpg
                 :class: img-rounded
 
             .. caption::
 
-                :h3:`Register for Everything BioSAXS 11 Workshop`
+                :h3:`BioCAT awarded 5 year $8 million P30 grant renewal`
 
-                BioCAT is offering its eleventh intensive HOW-TO course in BioSAXS.
-                Students will have four days of virtual lectures and hands-on
-                software tutorials on the basics of BioSAXS data collection and
-                processing from expert practitioners in the field. Students will
-                also be able to come on site or mail in samples for data collection
-                on the BioCAT beamline (Sector 18 at the APS) after the lecture
-                portion of the course.
-
-                The lectures will take place from 10/7/25 to 10/10/25 and are entirely
-                virtual (via Zoom). Data collection will occur the week of 10/23/25.
-
+                The BioCAT team, led by Illinois Tech professors Thomas Irving (Biology),
+                Weikang Ma (Biology) and Jesse Hopkins (Physics) was just awarded a 5 year 8
+                million dollar grant renewal from the National Institute for General Medical Sciences
+                at the US National Institutes of Health to continue the operation of the BioCAT
+                Beamline 18ID at the Advanced Photon Source at Argonne National Laboratory
+                for the next 5 years.
 
             .. button:: Learn More
                 :class: primary block
-                :target: {filename}/news/2025_everything_biosaxs11.rst
+                :target: {filename}/news/2026_p30_announcement.rst
 
 
         .. row::
 
-
-            .. -------------------------------------------------------------------------
-            .. column::
-                :width: 6
-
-                .. thumbnail::
-
-                    .. image:: {static}/images/news/2025_musclex4_group.png
-                        :class: img-rounded
-
-                    .. caption::
-
-                        :h4:`MuscleX 4 Workshop Wrap-Up`
-
-                        BioCAT offered its fourth MuscleX workshop from May 15-16 2025. This
-                        entirely virtual workshop had over 100 registered attendees.
-
-
-                    .. button:: Learn More
-                        :class: primary block
-                        :target: {filename}/news/2025_musclex_4_wrapup.rst
 
             .. -------------------------------------------------------------------------
             .. column::
@@ -257,16 +231,43 @@ Welcome to BioCAT
 
                     .. caption::
 
-                        :h4:`BioCAT resumes user operations`
+                        :h4:`Beamline scientist position open at BioCAT`
 
-                        BioCAT is very excited to be welcoming users back to the facility starting in
-                        February 2025. If you are interested in beam time next run, please contact the
-                        appropriate beamline scientist.
+                        BioCAT is seeking a Ph.D. level scientist to lead the X-ray Fiber Diffraction
+                        Program at the beamline with a major emphasis on studies of striated muscle
+                        systems.
 
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/news/2025_user_operations.rst
+                        :target: {filename}/news/2026_fiber_scientist_ad.rst
+
+            .. -------------------------------------------------------------------------
+            .. column::
+                :width: 6
+
+                .. thumbnail::
+
+                    .. image:: {static}/images/news/2025_eb11_group.png
+                        :class: img-rounded
+
+                    .. caption::
+
+                        :h4:`Everything BioSAXS 11 Workshop Wrap-Up`
+
+                        BioCAT held its eleventh intensive HOW-TO course in BioSAXS from
+                        10/7/25-10/10/25 with 35 remote participants. There were four
+                        days of lectures and hands-on software tutorials on the basics of
+                        BioSAXS data collection and processing from expert practitioners
+                        in the field. Participants could elect to mail in samples for data
+                        collection prior to the course, and roughly a quarter of them sent
+                        research samples and were able to analyze their own data as part
+                        of the workshop.
+
+
+                    .. button:: Learn More
+                        :class: primary block
+                        :target: {filename}/news/2025_everything_biosaxs11_wrapup.rst
 
         .. row::
 

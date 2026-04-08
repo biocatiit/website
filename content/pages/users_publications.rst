@@ -11,9 +11,7 @@ results from BioCAT:
 
 #.  All final, peer-reviewed manuscripts must comply with the `NIH public
     access policy <https://sharing.nih.gov/public-access-policy>`_ upon acceptance
-    for publication and be made publicly available on `PubMed
-    Central <https://www.ncbi.nlm.nih.gov/pmc/>`_ no later than twelve months
-    after the official date of publication. To comply, follow the `Pubmed
+    for publication. To comply, follow the `Pubmed
     sumission guidelines <https://sharing.nih.gov/public-access-policy/submitting-to-pubmed-central>`_.
     You will need to link your submission
     to a source of NIH funding. If you do not receive additional NIH

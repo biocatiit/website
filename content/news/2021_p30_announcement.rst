@@ -1,4 +1,4 @@
-BioCAT awarded new 5 year $8.6 million P30 grant
+BioCAT awarded 5 year $8.6 million P30 grant renewal
 ######################################################################################################
 
 :date: 2021-02-01
@@ -13,7 +13,7 @@ BioCAT awarded new 5 year $8.6 million P30 grant
 
 
 A team of researchers led by Prof. Thomas Irving (Illinois Institute of
-Technology) has received a $8.6 million grant from the National Institutes
+Technology) has received a $8.6 million grant renewal from the National Institutes
 of Health to continue to operate the Biophysics Collaborative Access Team
 (BioCAT) facility at the Advanced Photon Source, Argonne National Laboratory
 for the next 5 years. The facility provides access to the most intense X-ray

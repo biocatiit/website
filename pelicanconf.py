@@ -22,7 +22,6 @@ AUTHOR_FEED_RSS = None
 PLUGIN_PATHS = ['./plugins']
 PLUGINS = ['bootstrap-rst',
     'i18n_subsites',
-    'render_math',
     'tipue_search',
     ]
 
