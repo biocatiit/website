@@ -203,18 +203,15 @@ Welcome to BioCAT
 
             .. caption::
 
-                :h3:`BioCAT awarded 5 year $8 million P30 grant renewal`
+                :h3:`Beamline scientist position open at BioCAT`
 
-                The BioCAT team, led by Illinois Tech professors Thomas Irving (Biology),
-                Weikang Ma (Biology) and Jesse Hopkins (Physics) was just awarded a 5 year 8
-                million dollar grant renewal from the National Institute for General Medical Sciences
-                at the US National Institutes of Health to continue the operation of the BioCAT
-                Beamline 18ID at the Advanced Photon Source at Argonne National Laboratory
-                for the next 5 years.
+                BioCAT is seeking a Ph.D. level scientist to lead the X-ray Fiber Diffraction
+                Program at the beamline with a major emphasis on studies of striated muscle
+                systems.
 
             .. button:: Learn More
                 :class: primary block
-                :target: {filename}/news/2026_p30_announcement.rst
+                :target: {filename}/news/2026_fiber_scientist_ad.rst
 
 
         .. row::
@@ -231,16 +228,15 @@ Welcome to BioCAT
 
                     .. caption::
 
-                        :h4:`Beamline scientist position open at BioCAT`
+                        :h4:`MuscleX 4 Workshop Wrap-Up`
 
-                        BioCAT is seeking a Ph.D. level scientist to lead the X-ray Fiber Diffraction
-                        Program at the beamline with a major emphasis on studies of striated muscle
-                        systems.
+                        BioCAT offered its fourth MuscleX workshop from May 15-16 2025. This
+                        entirely virtual workshop had over 100 registered attendees.
 
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/news/2026_fiber_scientist_ad.rst
+                        :target: {filename}/news/2025_musclex_4_wrapup.rst
 
             .. -------------------------------------------------------------------------
             .. column::
