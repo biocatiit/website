@@ -228,15 +228,16 @@ Welcome to BioCAT
 
                     .. caption::
 
-                        :h4:`MuscleX 4 Workshop Wrap-Up`
+                        :h4:`BioCAT wins NIH grant renewal`
 
-                        BioCAT offered its fourth MuscleX workshop from May 15-16 2025. This
-                        entirely virtual workshop had over 100 registered attendees.
+                        We are pleased to announce that the P30 grant that funds BioCAT has been renewed
+                        by the NIH and we are looking forward to continuing to serve this community and
+                        generate exciting science.
 
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/news/2025_musclex_4_wrapup.rst
+                        :target: {filename}/news/2026_p30_announcement.rst
 
             .. -------------------------------------------------------------------------
             .. column::
