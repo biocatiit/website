@@ -115,5 +115,5 @@ At the Crossroads of Chromosomes
         the American Heart Association. Use of the APS was supported by the
         DOE-BES, under Contract No. DE-AC02-06CH11357.
 
-        The original University of Pennsylvania School of Medicine
-        `can be found here <https://www.pennmedicine.org/news/news-releases/2010/september/at-the-crossroads-of-chromoso>`_.
+        The original University of Pennsylvania School of Medicine press release
+        is no longer available online.

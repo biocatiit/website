@@ -34,13 +34,7 @@ Register for the ACA Introductory SAS Workshop
 How to register
 ^^^^^^^^^^^^^^^^
 
-Registration and more information can be found on the ACA website (workshop
-2): `https://www.acameeting24.com/workshop <https://www.acameeting24.com/workshop>`_
-
-Registration fee (meeting registration also required):
-
-*   $75 USD - Student
-*   $150 USD - Regular, Retired, Postdoc and Corporate Members
+Registration is closed.
 
 
 More information

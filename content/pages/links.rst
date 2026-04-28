@@ -16,7 +16,8 @@ Useful Links
         *   `General User Program login <https://beam.aps.anl.gov/pls/apsweb/gup0005.start_page>`_
         *   `Experiment Safety Assessment Form (ESAF) <https://beam.aps.anl.gov/pls/apsweb/esaf0001.start_page>`_
         *   `APS User Information <https://www.aps.anl.gov/Users-Information>`_
-        *   `Argonne Guest House <https://www.anlgh.org/>`_
+        *   `Travel and Amenities <https://www.aps.anl.gov/About/Visiting-the-APS>`_
+        *   `On-Site Dining Options <https://www.aps.anl.gov/Users-Information/Dining-Options-for-Facility-Users>`_
 
     .. column::
         :width: 6
@@ -76,8 +77,8 @@ Useful Links
 
         *   `National Institute of General Biomedical Sciences (NIGMS) <https://www.nigms.nih.gov/>`_
         *   `NIGMS Mature Synchrotron Resources (P30) <https://www.nigms.nih.gov/grants/Pages/Mature-Synchrotron-Resources.aspx>`_
-        *   `NIGMS Biomedical Technology Optimization and and Dissemination (BTOD) Centers (RM1) <https://www.nigms.nih.gov/about/overview/BBCB/biomedicaltechnology/Pages/btdd.aspx>`_
+        *   `NIGMS Biomedical Technology Optimization and and Dissemination (BTOD) Centers (RM1) <https://www.nigms.nih.gov/grants/Pages/btod>`_
         *   `NIGMS National and Regional Resources Program (R24) <https://nigms.nih.gov/Research/mechanisms/Pages/NIGMS-National-and-Regional-Resources-(R24)-Program---Funded-Resources.aspx>`_
-        *   `NIGMS Biomedical Technology Research Resource (BTRR) Centers (P41) <https://www.nigms.nih.gov/about/overview/BBCB/biomedicaltechnology/Pages/biomedicaltechnologyresearchresources.aspx>`_
+        *   `NIGMS Biomedical Technology Research Resource (BTRR) Centers (P41) <https://www.nigms.nih.gov/grants/Pages/p41researchresources>`_
 
 

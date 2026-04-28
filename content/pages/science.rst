@@ -131,7 +131,7 @@ Below is a gallery of some of BioCAT's science highlights.
                 and set in motion the molecular cascades leading to atrophy. Here we test the
                 hypothesis that the mechano-sensor protein is titin, a giant elastic protein
                 connecting Z-disks and the thick filaments in the A-band.</p>
-                <a href="/science/titin-ventillation.html" class="btn btn-primary" role="button">Learn More</a>
+                <a href="/science/titin-ventilation.html" class="btn btn-primary" role="button">Learn More</a>
                 </div>
               </div>
             </div>

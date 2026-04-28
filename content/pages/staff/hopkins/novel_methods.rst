@@ -65,7 +65,7 @@ Project Collaborators
 
     *   Andrea Katz (now a postdoc at Cornell)
 
-*   The `Thorne group <http://www.lassp.cornell.edu/Thorne/>`_ at Cornell, particularly
+*   The `Thorne group <http://thorne.lassp.cornell.edu>`_ at Cornell, particularly
 
     *   Matt Warkentin (former graduate student and postdoc)
 
