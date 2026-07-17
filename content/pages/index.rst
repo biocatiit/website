@@ -203,15 +203,13 @@ Welcome to BioCAT
 
             .. caption::
 
-                :h3:`Beamline scientist position open at BioCAT`
+                :h3:`Coordinator position open at BioCAT`
 
-                BioCAT is seeking a Ph.D. level scientist to lead the X-ray Fiber Diffraction
-                Program at the beamline with a major emphasis on studies of striated muscle
-                systems.
+                BioCAT is seeking a Coordinator to support the operations of the facility.
 
             .. button:: Learn More
                 :class: primary block
-                :target: {filename}/news/2026_fiber_scientist_ad.rst
+                :target: {filename}/news/2026_coordinator_ad.rst
 
 
         .. row::
@@ -245,26 +243,20 @@ Welcome to BioCAT
 
                 .. thumbnail::
 
-                    .. image:: {static}/images/news/2025_eb11_group.png
+                    .. image:: {static}/images/facility_thumbnail.jpg
                         :class: img-rounded
 
                     .. caption::
 
-                        :h4:`Everything BioSAXS 11 Workshop Wrap-Up`
+                        :h3:`Beamline scientist position open at BioCAT`
 
-                        BioCAT held its eleventh intensive HOW-TO course in BioSAXS from
-                        10/7/25-10/10/25 with 35 remote participants. There were four
-                        days of lectures and hands-on software tutorials on the basics of
-                        BioSAXS data collection and processing from expert practitioners
-                        in the field. Participants could elect to mail in samples for data
-                        collection prior to the course, and roughly a quarter of them sent
-                        research samples and were able to analyze their own data as part
-                        of the workshop.
-
+                        BioCAT is seeking a Ph.D. level scientist to lead the X-ray Fiber Diffraction
+                        Program at the beamline with a major emphasis on studies of striated muscle
+                        systems.
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/news/2025_everything_biosaxs11_wrapup.rst
+                        :target: {filename}/news/2026_fiber_scientist_ad.rst
 
         .. row::
 
