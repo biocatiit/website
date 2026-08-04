@@ -1,9 +1,9 @@
-Apply for Everything BioSAXS 11: Getting started in biological small-angle x-ray solution scattering
+Apply for Everything BioSAXS 12: Getting started in biological small-angle x-ray solution scattering
 ######################################################################################################
 
-:date: 2025-08-14
+:date: 2026-08-04
 :category: news
-:slug: everything-biosaxs-11
+:slug: everything-biosaxs-12
 :authors: BioCAT
 
 .. row::
@@ -13,7 +13,7 @@ Apply for Everything BioSAXS 11: Getting started in biological small-angle x-ray
 
         .. lead::
 
-            BioCAT is offering its eleventh intensive HOW-TO course in BioSAXS.
+            BioCAT is offering its twelfth intensive HOW-TO course in BioSAXS.
             Students will have four days of virtual lectures and hands-on
             software tutorials on the basics of BioSAXS data collection and
             processing from expert practitioners in the field. Students will
@@ -21,8 +21,8 @@ Apply for Everything BioSAXS 11: Getting started in biological small-angle x-ray
             on the BioCAT beamline (Sector 18 at the APS) after the lecture
             portion of the course.
 
-            The lectures will take place from 10/7/25 to 10/10/25 and are entirely
-            virtual (via Zoom). Data collection will occur the week of 10/23/25.
+            The lectures will take place from 10/27/26 to 10/30/26 and are entirely
+            virtual (via Zoom). Data collection will occur the week of 11/3/26 or 11/9/26.
             See the schedule below for details.
 
     .. column::
@@ -30,7 +30,7 @@ Apply for Everything BioSAXS 11: Getting started in biological small-angle x-ray
 
         .. thumbnail::
 
-            .. image:: {static}/images/news/2025_eb11_cover.png
+            .. image:: {static}/images/news/2026_eb12_cover.png
                 :class: img-rounded
 
 
@@ -47,7 +47,8 @@ monodisperse biological macromolecules in solution. It is NOT for soft matter,
 materials, or systems which are polydisperse.**
 
 Participants are also invited to come on-site or mail in samples for data
-collection and  training. Data collection will occur during the week of 10/23/25.
+collection and  training. Data collection will occur during the week of 11/3/26
+or 11/9/26.
 
 There is no cost associated with the workshop (excepting travel and lodging costs
 for participants who come on site for data collection, which individual participants
@@ -60,10 +61,11 @@ To apply for a spot in the workshop fill out the short application. This request
 basic contact and demographic data as well as your experience with SAXS and
 a paragraph about your research interests and proposed use of SAXS
 
-Applications will be accepted through September 7th 2025, and reviewed the
-week of September 8th. You will be notified by email about your application.
+Applications will be accepted through September 7th 2026. You will be notified
+by email about your application.
 
-Applications for this workshop are now closed.
+The application is available here:
+`https://forms.cloud.microsoft/r/hiXZfmAztv <https://forms.cloud.microsoft/r/hiXZfmAztv>`_
 
 
 
@@ -87,11 +89,8 @@ Confirmed speakers:
 
 *   Jesse Hopkins (BioCAT, APS)
 *   Max Watkins (BioCAT, APS)
-*   Michal Hammel (SIBYLS, ALS)
-*   Melissa Graewert (EMBL)
 *   Thomas Grant (U. Buffalo)
 *   Kushol Gupta (U. Pennsylvania)
-*   Thomas Weiss (SMB, SSRL)
 *   Estella Yee (MacCHESS, CHESS)
 
 If you have questions, please contact Jesse Hopkins (jhopkins1@illinoistech.edu)
@@ -102,7 +101,7 @@ Tentative lecture schedule
 
 Note: All times are Central Daylight Time (UTC-5)
 
-:h4:`Tuesday 10/7/25`
+:h4:`Tuesday 10/27/26`
 
 .. class:: table-hover
 
@@ -117,7 +116,7 @@ Note: All times are Central Daylight Time (UTC-5)
     =========== ======================================================================================================================
 
 
-:h4:`Wednesday 10/8/25`
+:h4:`Wednesday 10/28/26`
 
 .. class:: table-hover
 
@@ -131,7 +130,7 @@ Note: All times are Central Daylight Time (UTC-5)
     =========== ======================================================================================================================
 
 
-:h4:`Thursday 10/9/25`
+:h4:`Thursday 10/29/26`
 
 .. class:: table-hover
 
@@ -144,14 +143,14 @@ Note: All times are Central Daylight Time (UTC-5)
     03:00 pm    End
     =========== ======================================================================================================================
 
-:h4:`Friday 10/10/25`
+:h4:`Friday 10/30/26`
 
 .. class:: table-hover
 
     =========== ======================================================================================================================
     10:00 am    Advanced analysis: Introduction to rigid body modeling
     10:45 am    Advanced analysis: Introduction to flexibility and ensemble modeling
-    11:30 am    Advanced topic: Introduction to FoXS tools and BilboMD
+    11:30 am    Advanced topic: TBD
     12:15 am    Break
     12:45 pm    Advanced topic: Time resolved SAXS
     01:30 pm    Planning experiments at BioCAT

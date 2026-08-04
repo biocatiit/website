@@ -198,18 +198,24 @@ Welcome to BioCAT
 
         .. thumbnail::
 
-            .. image:: {static}/images/facility_thumbnail.jpg
+            .. image:: {static}/images/news/2026_eb12_cover.png
                 :class: img-rounded
 
             .. caption::
 
-                :h3:`Coordinator position open at BioCAT`
+                :h3:`Register for Everything BioSAXS 12`
 
-                BioCAT is seeking a Coordinator to support the operations of the facility.
+                BioCAT is offering its twelfth intensive HOW-TO course in BioSAXS.
+                Students will have four days of virtual lectures and hands-on
+                software tutorials on the basics of BioSAXS data collection and
+                processing from expert practitioners in the field. Students will
+                also be able to come on site or mail in samples for data collection
+                on the BioCAT beamline (Sector 18 at the APS) after the lecture
+                portion of the course.
 
             .. button:: Learn More
                 :class: primary block
-                :target: {filename}/news/2026_coordinator_ad.rst
+                :target: {filename}/news/2026_everything_biosaxs12.rst
 
 
         .. row::
@@ -248,15 +254,13 @@ Welcome to BioCAT
 
                     .. caption::
 
-                        :h3:`Beamline scientist position open at BioCAT`
+                        :h3:`Coordinator position open at BioCAT`
 
-                        BioCAT is seeking a Ph.D. level scientist to lead the X-ray Fiber Diffraction
-                        Program at the beamline with a major emphasis on studies of striated muscle
-                        systems.
+                        BioCAT is seeking a Coordinator to support the operations of the facility.
 
                     .. button:: Learn More
                         :class: primary block
-                        :target: {filename}/news/2026_fiber_scientist_ad.rst
+                        :target: {filename}/news/2026_coordinator_ad.rst
 
         .. row::
 
