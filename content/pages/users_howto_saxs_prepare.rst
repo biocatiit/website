@@ -40,12 +40,38 @@ Buffer component recommendations
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 *   20-100 mM PBS, Tris,  HEPES, etc. PBS is preferred if possible.
-*   Salt concentration < 1M, typically 50-200 mM
-*   Avoid radical scavengers (glycerol, DTT, etc) unless needed for the
-    stability of your protein. With BioCAT's coflow setup these actually
-    increase the likelihood of seeing radiation damage.
+*   Avoid precipitation-prone compositions (such as calcium salts
+    in phosphate buffers).
+*   Salt concentration < 1M, typically 50-200 mM. 
 *   If you need a reductant, use longer lived ones like TCEP
-    rather than DTT (especially with higher pH buffers)
+    rather than DTT (especially with higher pH buffers).
+*   As the limiting factor for radiation damage is typically sheath buffer
+    composition as opposed to the macromolecular sample itself, 
+    additives often used specifically to protect against damage 
+    (such as glycerol) are not recommended.
+*   As some additives, such as TCEP, can change buffer pH; it is 
+    recommended to pH-adjust your buffer after addition, or to pH
+    adjust any additive stocks. 
+
+Coflow sheath buffers
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+*   BioCAT's SAXS sample cell utilizes a coflow sheath design, where the
+    central (sample) stream is protected from the capillary walls by a 
+    fluidic sheath. This necessitates a separate buffer in addition to 
+    the sample buffer.
+*   As sheath buffer composition is typically our limiting factor in 
+    terms of radiation damage, if your running buffer/sample buffer
+    contains radical scavengers (such as reductants, or even some buffers
+    themselves such as Tris or HEPES), it is recommended that you provide a 
+    separate coflow sheath buffer. If possible, phosphate buffers are preferred.
+*   It is recommended that the sheath buffer be pH-matched to the sample buffer,
+    as some pH equilibration can take place between the sample stream and coflow 
+    sheath. Matching the ionic strength, or at least the salt concentration, 
+    can also be helpful for contrast. 
+*   For example: for an SEC running buffer compsition of 20 mM Tris, 100 mM NaCl, 
+    1 mM TCEP pH 7.4, the recommended sheath buffer composition would be 20 mM 
+    sodium or potassium phosphate, 100 mM NaCl pH 7.4.
 
 Buffer matching
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -55,6 +81,8 @@ Buffer matching
 *   Batch SAXS - Must be a perfect match. Use dialysis buffer, the buffer
     from the final SEC purification step, or the flow through from the final
     concentration step.
+*   For batch mode, it is recommended that additives such as substrates also 
+    be prepared in the perfectly matched sample buffer if possible.
 
 If mailing concentrated buffer for separation coupled measurements (e.g. a
 10x stock for use with SEC-SAXS), we recommend you prepare the concentrated

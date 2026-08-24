@@ -212,7 +212,9 @@ Equilibration
 You will have to equilibrate the column at the start of your SEC-SAXS or
 SEC-MALS-SAXS experiment, and every time thereafter that you want to change
 buffers. We recommend a 2 CV equilibration, which for a Superdex 200 Increase
-10/300 GL column will take ~1.5 hours.
+10/300 GL column will take ~1.5 hours. Buffer changes for AF4-SAXS take 
+approximately 1 hour, but other changes to experimental conditions (such as channel 
+spacer or membrane type) typically take ~3 hours.
 
 
 What column should I use?
