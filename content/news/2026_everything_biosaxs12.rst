@@ -22,7 +22,7 @@ Apply for Everything BioSAXS 12: Getting started in biological small-angle x-ray
             portion of the course.
 
             The lectures will take place from 10/27/26 to 10/30/26 and are entirely
-            virtual (via Zoom). Data collection will occur the week of 11/3/26 or 11/9/26.
+            virtual (via Zoom). Data collection will occur in November.
             See the schedule below for details.
 
     .. column::
@@ -61,7 +61,7 @@ To apply for a spot in the workshop fill out the short application. This request
 basic contact and demographic data as well as your experience with SAXS and
 a paragraph about your research interests and proposed use of SAXS
 
-Applications will be accepted through September 7th 2026. You will be notified
+Applications will be accepted through September 14th 2026. You will be notified
 by email about your application.
 
 The application is available here:

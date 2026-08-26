@@ -198,28 +198,53 @@ Welcome to BioCAT
 
         .. thumbnail::
 
-            .. image:: {static}/images/news/2026_eb12_cover.png
+            .. image:: {static}/images/facility_thumbnail.jpg
                 :class: img-rounded
 
             .. caption::
 
-                :h3:`Register for Everything BioSAXS 12`
+                :h3:`BioCAT upgrade and downtime in early 2027`
 
-                BioCAT is offering its twelfth intensive HOW-TO course in BioSAXS.
-                Students will have four days of virtual lectures and hands-on
-                software tutorials on the basics of BioSAXS data collection and
-                processing from expert practitioners in the field. Students will
-                also be able to come on site or mail in samples for data collection
-                on the BioCAT beamline (Sector 18 at the APS) after the lecture
-                portion of the course.
+                BioCAT is approaching the end of a nearly 3 year long, 2
+                million dollar x-ray optics upgrade project. BioCAT will be
+                operational as usual during the upcoming 2026-3 run that starts
+                in September. We will start installing the optics in January 2027. During the
+                installation and commissioning of these optics the beamline will not be
+                available for users. We are currently planning
+                on having no user beamtime in the 2027-1 run.
 
             .. button:: Learn More
                 :class: primary block
-                :target: {filename}/news/2026_everything_biosaxs12.rst
+                :target: {filename}/news/2026_biocat_upgrade.rst
 
 
         .. row::
 
+
+            .. -------------------------------------------------------------------------
+            .. column::
+                :width: 6
+
+                .. thumbnail::
+
+                    .. image:: {static}/images/news/2026_eb12_cover.png
+                        :class: img-rounded
+
+                    .. caption::
+
+                        :h3:`Register for Everything BioSAXS 12`
+
+                        BioCAT is offering its twelfth intensive HOW-TO course in BioSAXS.
+                        Students will have four days of virtual lectures and hands-on
+                        software tutorials on the basics of BioSAXS data collection and
+                        processing from expert practitioners in the field. Students will
+                        also be able to come on site or mail in samples for data collection
+                        on the BioCAT beamline (Sector 18 at the APS) after the lecture
+                        portion of the course.
+
+                    .. button:: Learn More
+                        :class: primary block
+                        :target: {filename}/news/2026_everything_biosaxs12.rst
 
             .. -------------------------------------------------------------------------
             .. column::
@@ -242,25 +267,6 @@ Welcome to BioCAT
                     .. button:: Learn More
                         :class: primary block
                         :target: {filename}/news/2026_p30_announcement.rst
-
-            .. -------------------------------------------------------------------------
-            .. column::
-                :width: 6
-
-                .. thumbnail::
-
-                    .. image:: {static}/images/facility_thumbnail.jpg
-                        :class: img-rounded
-
-                    .. caption::
-
-                        :h3:`Coordinator position open at BioCAT`
-
-                        BioCAT is seeking a Coordinator to support the operations of the facility.
-
-                    .. button:: Learn More
-                        :class: primary block
-                        :target: {filename}/news/2026_coordinator_ad.rst
 
         .. row::
 

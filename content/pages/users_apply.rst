@@ -10,7 +10,7 @@ Getting and using beamtime at BioCAT
 Overview
 ============
 
-BioCAT is an NIH-supported Biotechnology Research Resource. Anyone can
+BioCAT is an NIH-supported Mature Synchrotron Resource. Anyone can
 use the facility for free by putting in an application through the
 APS GUP program. These applications are reviewed on the basis of
 feasibility and scientific merit. Obtaining time at the BioCAT facility is a
@@ -58,7 +58,7 @@ Please also check the `APS new user checklist
     experiment time request by following the directions for a Returning Proposer on
     the `APS website <https://www.aps.anl.gov/Users-Information/About-Proposals/Apply-for-Time>`_.
     Please note the deadline for submitting a follow-on ETR on an active proposal
-    in this way is the same as the standard GUP deadline. 
+    in this way is the same as the standard GUP deadline.
     Users with an active proposal who want time in the current run, or for the next
     run after the standard GUP proposal deadline has passed can put in a rapid
     access experiment time request.
