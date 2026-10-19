@@ -3,6 +3,7 @@ APS-U and BioCAT
 
 :category: users
 :slug: aps-u
+:status: draft
 
 The APS is now nearly 30 years old and badly needs a refit. The APS is scheduled
 to shut down on April 17, 2023 to build an entirely new accelerator and storage
