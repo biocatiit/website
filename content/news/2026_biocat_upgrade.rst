@@ -41,3 +41,6 @@ This upgrade will usher in a new era of science at BioCAT, as we replace our
 the next 30 years of world class science. We look forward to continuing to
 collaborate with and serve you, our users, and are excited for the cutting
 edge new science this upgrade will make possible.
+
+`Click here for more details and information on where else to obtain beamtime while BioCAT
+is down in the spring. <{filename}/pages/users_optics_upgrade_downtime.rst>`_

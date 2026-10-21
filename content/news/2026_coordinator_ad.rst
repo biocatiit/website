@@ -5,6 +5,7 @@ Coordinator position open at BioCAT
 :category: news
 :slug: biocat-jobs-2
 :authors: BioCAT
+:status: skip
 
 
 

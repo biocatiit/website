@@ -4,8 +4,7 @@ Beamline scientist position open at BioCAT
 :date: 2026-04-08
 :category: news
 :slug: biocat-jobs
-:authors: BioCAT
-
+:status: skip
 
 
 .. image:: {static}/images/facility_thumbnail.jpg

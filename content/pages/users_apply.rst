@@ -4,6 +4,16 @@ Getting and using beamtime at BioCAT
 :category: users
 :slug: applying-for-time
 
+
+.. alert:: BioCAT is upgrading our x-ray optics starting January 2027. We
+    will have no user beamtime for the 2027-1 run (roughly February-April 2027).
+    We anticipate resuming standard user operations in the 2027-2 run starting
+    in June 2027. `There are several recommended alternative beamlines
+    where you can do experiments while we are down in the spring.
+    <{filename}/pages/users_optics_upgrade_downtime.rst>`_
+    :type: danger
+
+
 .. contents::
 
 

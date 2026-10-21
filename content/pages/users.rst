@@ -191,3 +191,20 @@ continue operating the BioCAT facility.
             .. button:: More
                 :class: primary block
                 :target: {filename}/pages/users_saxs_schedule.rst
+
+    .. -------------------------------------------------------------------------
+    .. column::
+        :width: 3
+
+        .. thumbnail::
+
+            .. image:: {static}/images/conf.jpg
+                :class: img-rounded
+
+            .. caption::
+
+                :h3:`BioCAT optics upgrade`
+
+            .. button:: More
+                :class: primary block
+                :target: {filename}/pages/users_optics_upgrade_downtime.rst
