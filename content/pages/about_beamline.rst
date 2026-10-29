@@ -8,7 +8,7 @@ The BioCAT Beamline 18ID
     :class: img-responsive
 
 The BioCAT undulator beamline 18ID at the Advanced Photon Source, although
-now over 20 years old, remains a state-of-the-art instrument for biological small
+now around 30 years old, remains a state-of-the-art instrument for biological small
 and wide angle fiber diffraction and macromolecular solution scattering
 (Fischetti, et al., 2004 J. Synchrotron Rad. (2004). 11, 399-405). It is
 capable of delivering well over 10\ :sup:`13` photons/s into focal spots as small
@@ -18,7 +18,7 @@ same overall mechanical design of the SBC undulator 19-ID (Rosenbaum et al.
 J Synchrotron. 2006 Jan;13(Pt 1):30-45). Undulator "A" provides very intense
 monochromatic radiation in the 5 - 16 keV range with low angular divergence
 and a small source size. While it is possible to change the beam energy,
-in practice all experiments are done at 12 keV. A differential pump separates
+in practice almost all experiments are done at 12 keV. A differential pump separates
 the vacuum structure from the storage ring eliminating the need for any windows
 between the beamline and the storage ring.
 
@@ -79,37 +79,32 @@ running the proprietary real-time UNIX-like operating system VxWorks (Wind
 River Systems). Some equipment is run using The portable beamline control
 software package MX (Lavender, 2000). User interface software communicates
 over Ethernet via the EPICS Channel Access (CA) protocol or via MX servers.
-Beamline controls for EPICS are implemented using Tcl/Tk and Java menus as
-using the EPICS graphical control displays (MEDM). Other controls for MX
+Beamline controls for EPICS are implemented in python and caQtDM. Other controls for MX
 and EPICS are written in python. These controls are all portable between
 different operating systems. Almost all user-facing controls are python GUIs.
 
-The beamline stepper motors and data acquisition systems are controlled by two VME
-crates with Motorola MVME controllers. Many beamline motors were chosen
+Many beamline motors were chosen
 to be DC servos because of their advantages in high torque, speed, and power
 consumption over stepper motors. Three 16-channel Delta Tau PowerPMAC servo motor
 controllers control the beamline optics and XY positioning stages. Stepper motors
-are controlled by five 8-channel Oregon Microsystems OMS-58 stepper motor
-controllers with Step-Pak drivers.
+are controlled by GALIL DMC4183 controllers using Gecko Drives GR214V drivers.
 
 For time resolved data acquisition there is a Struck 3820 multichannel
 histogramming scaler with 32 inputs. For conventional scans there is also a
 Joerger VCS16 scaler with 16 inputs. There are four fast 100 MHz voltage to
-frequency (V to F) converters (V2F100, Quantum Detectors) and one slower 1 MHz V to F
-(Hytec VFC 2504, Hytec Electronics Ltd). Most fast experiments are controlled
+frequency (V to F) converters (V2F100, Quantum Detectors). Most fast experiments are controlled
 by two SRS DG645 pulse/delay generators (Stanford Research Systems), which together
 provide up to 8 controllable pulse outputs for controlling shutters, detectors,
 and other equipment.
 
 External equipment (area detectors, shutters) can be interfaced to the control
-system using a digital I/O board (two LabJack T4s) with 16 input and 16 output channels.
-There are 8 current amplifiers (Keithley, model 42) which are interfaced through
-the RS232 ports on the beamline workstations. We have designed soft EPICS
-IOCs for these devices so that they can be accessed from other computers
-in exactly the same way as the VME modules.
+system using digital I/O board, either LabJack T4s or Measurement Computing USB1608Gs.
+There are 4 current amplifiers (SRS SR570s) which are controlled over EPICS.
+We have designed soft EPICS IOCs for these devices so that they can be accessed
+from other computers in exactly the same way as the VME modules.
 
-Two XIA model PF2S2 filter assemblies contain a series of aluminum filters
-that allow at least 3 decades of beam attenuation (at 12 keV). A standard uniblitz
+A Huber 8-fold attenuator contains a series of aluminum filters
+that allow at least 6 decades of beam attenuation (at 12 keV). A standard uniblitz
 x-ray shutter (XRS6) capable of 5 ms exposures is routinely used for most experiments.
 We also have a shutter capable of <500 µs minimum exposure time consisting of
 two electrically-activated, inclined blade-type shutters in series (Model

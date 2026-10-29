@@ -22,7 +22,7 @@ BioCAT Staff. Our `BioCAT Shipping Page for Users <https://www.bio.aps.anl.gov/p
 outlines the process for shipping items out of Argonne back to your home institution.
 
 You can prepare for shipping your items back by having a detailed list of the package
-contents which you will want to ship back, along with webpage links to any
+contents which you will want to ship back, along with web page links to any
 MSDS sheets which will be needed for shipping the items back. You will also
 need your FedEx Account Number and Internal Billing Reference (if you use one).
 

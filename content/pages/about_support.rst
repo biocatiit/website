@@ -61,8 +61,10 @@ instrumentation, tools, and filtering apparatus not found on this page should be
 supplied by the User. If you wish to ship chemicals or equipment to BioCAT
 consult our `shipping page <{filename}/pages/users_shipping.rst>`_.
 
-It is expected that the user group will furnish their own consumables and will
-make arrangements for any hazardous waste generated while at BioCAT.
+BioCAT provides standard consumables, listed below. If the user group expects to
+use a large number of these consumables they should supply their own (particularly
+for centrifugal concentrators and filters). Users also need to make arrangements
+for any hazardous waste generated while at BioCAT.
 
 Available instrumentation:
 

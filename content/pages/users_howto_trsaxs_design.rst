@@ -83,8 +83,7 @@ in mg/ml after dilution that is:
 Note that in chaotic mixing experiments the sample undergoes typically
 between 4-10x dilution.
 
-For example, to measure a 100 kDa protein we would recommend a concentration
-after dilution of 0.6 mg/ml. For example, to measure a 100 kDa protein we would
+For example, to measure a 100 kDa protein we would
 recommend a concentration after dilution of 0.6 mg/ml. At a typical dilution
 factor of 5x, this would be a starting concentration of 3.0 mg/ml.
 Whereas for a 100 kDa nucleic acid, we would recommend a diluted
@@ -96,7 +95,15 @@ and make 3 repeated measurements to improve signal to noise, for a total
 loaded volume of 3 mL.
 
 Note that with these concentrations and volumes, a chaotic flow experiment with
-a 100 kDa protein would take less than 10 mg for the entire time series
+a 100 kDa protein would take less than 10 mg for the entire time series.
+
+The standard mode for chaotic flow experiments uses a large volume of mixing buffer
+(see below). Sometimes users wish to mix together two components of which they have
+limited volume, such as two macromolecules or a macromolecule and a precious ligand.
+BioCAT has a dual-injection mode for the chaotic flow mixer that allows simultaneous
+injection and mixing of two components in the mixer. In this mode, you simply
+need 1 mL of each component per measurement. Let your beamline scientist know
+in advance if you want to use this mode.
 
 Laminar flow mixing
 ^^^^^^^^^^^^^^^^^^^^^^^^
@@ -139,7 +146,7 @@ It takes ~5 minutes to load a sample and start data collection. A final time
 series usually consists three repeated measurements of the same sample,
 so you can plan on measuring roughly one time series per hour.
 
-If you need to change buffers between that takes roughly 30 minutes.
+If you need to change buffers between time series that takes roughly 30 minutes.
 
 Laminar flow mixing
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -150,7 +157,7 @@ takes ~5 minutes to load a sample and start data collection. A final time
 series usually consists three repeated measurements of the same sample,
 so you can plan on measuring roughly one time series per two hour.
 
-If you need to change buffers between that takes roughly 60 minutes.
+If you need to change buffers between time series that takes roughly 60 minutes.
 
 
 What buffers should I use?
@@ -193,7 +200,7 @@ Note that if you have zero of the component in either buffer this formula
 simplifies.
 
 Suppose you want to do a salt dilution experiment, where the sample goes from
-high to low salt. If you know the sample needs to start in 1 M start for the
+high to low salt. If you know the sample needs to start in 1 M salt for the
 initial state of interest and you want a mixed state with 150 mM salt, you
 would then pick a dilution ratio of 1000 mM/150 mM = 6.67, using a zero salt
 mixing buffer. On the other hand, if you wanted a final state of  150 mM salt

@@ -55,12 +55,14 @@ Basic characteristics of the equilibrium SAXS setup at BioCAT:
     Energy                                                12 keV
     Flux                                                  ~7*10\ :sup:`12` ph/s
     Energy Resolution (dE/E)                              2 x 10\ :sup:`-4` (Si <111>)
-    Beam size (FWHM)                                      ~25 x 16 µm\ :sup:`2` (V x H), focused at the detector
+    Beam size (FWHM)                                      ~25 x 70 µm\ :sup:`2` (V x H), focused at the detector
+    Beam size at sample                                   ~190 x 330 µm\ :sup:`2` (V x H)
     Sample to detector distance                           ~3.7 m
     q range                                               ~0.0027 - 0.43 Å\ :sup:`-1`
     Detector                                              EIGER2 XE 9M (Dectris)
     Sample cell                                           Coflow cell with a 1.0 mm ID quartz capillary
     Temperature range                                     4 - 40 ˚C (more extreme temperatures may be possible upon request)
+    Default temperature                                   21 ˚C
     ===================================================== =============================================================================
 
 While data acquisition during a typical SAXS experiment is relatively simple,
@@ -94,7 +96,8 @@ information on the overall particle shape.
 
 Besides these data collection modalities, BioCAT provides additional experimental
 capabilities that enhance SAXS data collection at the beamline. An in-vacuum
-coflow cell is used for all equilibrium techniques to minimize background
+`coflow cell <https://pmc.ncbi.nlm.nih.gov/articles/PMC5137223/>`_ is used for
+all equilibrium techniques to minimize background
 scattering and radiation damage to samples, providing optimal signal-to-noise
 ratio measurements, and all systems are fully temperature controlled (including
 the HPLC, columns, and fluidic lines) for experiments anywhere between 4-40 ˚C.
@@ -154,8 +157,8 @@ SEC-MALS-SAXS
 BioCAT provides a data collection mode where SEC is coupled to MALS (multi-angle
 light scattering), DLS (dynamic light scattering), and RI (refractive index) detectors
 in addition to the SAXS flow-cell, a technique called SEC-MALS-SAXS. A Wyatt
-DAWN HELEOS II MALS+DLS (17 channels LS, plus 1 DLS) detector, and a Wyatt Optilab
-T-rEX dRI detector are used for these measurements. The MALS and RI detectors
+DAWN MALS+DLS (18 channels LS, plus 1 DLS) detector, and a Wyatt Optilab
+dRI detector are used for these measurements. The MALS and RI detectors
 are temperature controlled from 4-40 C. This approach  provides all of the
 sample quality benefits of SEC-SAXS and eliminates possible ambiguity about
 differences between non-identical separate SEC-SAXS and SEC-MALS-DLS-RI measurements.
@@ -253,7 +256,7 @@ Basic characteristics of the time-resolved SAXS setup at BioCAT:
     Sample to detector distance                           ~2 m
     q range                                               ~0.01 - 0.65 Å\ :sup:`-1`
     Detector                                              EIGER2 XE 9M (Dectris)
-    Temperature                                           RT
+    Temperature                                           Room Temperature (~23-25 ˚C)
     Time range (chaotic mixer)                            45 μs to 60 ms
     Time range (laminar mixer)                            5 ms to 1.5 s
     Time range (stopped flow)                             >1 ms
@@ -420,6 +423,6 @@ to the `beamline instrumentation described elsewhere <{filename}/pages/about_bea
 two sets of scatterless in-vacuum JJ x-ray slits are used as the collimating and
 anti-scatter beam slits, and a two sets of in-vacuum Xenocs scatterless x-ray slits
 are used as the guard slits. An in-line sample camera is located just after the
-guard slits, using a mirror with a 6 mm through hole for the x-ray beam. Normalization
+guard slits, using a mirror with a 2.8 mm through hole for the x-ray beam. Normalization
 of data is done using an `active beamstop which uses indirect detection on a photodiode
 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4344362/>`_.
