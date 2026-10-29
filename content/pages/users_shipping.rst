@@ -10,7 +10,7 @@ Overview
 At Argonne, shipping is a process that is highly focused on safety. Shipping things
 improperly can incur fines exceeding $80,000 per day/ per offense.
 
-Unforseen issues can often occur with shipping which could significantly hinder
+Unforeseen issues can often occur with shipping which could significantly hinder
 your ability to conduct your experiment. It is recommended that you ship your
 items 2-3 days **before** they are needed for your experiment.
 
@@ -56,7 +56,7 @@ Samples and Chemicals
 Small quantities of chemicals found in buffers are usually okay to ship via
 FedEx due to the DOT small quantity exemption rule - depending on hazard class
 and quantity. Please refer to your MSDS and institutional shipping experts. Exceptions
-to this are hazardous materials - ie. adding berylium to a buffer would make it a
+to this are hazardous materials - ie. adding beryllium to a buffer would make it a
 hazardous material. Hazardous material inclusion have to be approved through
 the ESAF associated with your experiment.
 
@@ -84,18 +84,37 @@ Samples
 
 Sample packaging is an important consideration.
 
-**Concentrated Protein Samples**
+**Biological Macromolecule Solution Samples**
 
-Concentrated protein samples for SAXS should be shipped in sealed vials which are well-labelled.  The vials should be placed inside of a sealed plastic bag or sealed container and then placed inside of a styrofoam cooler - the cooler must include an outer carboard box.  If the samples are being shipped with cold packs, then the shipment may be addressed directly to BioCAT.  However, the inclusion of dry-ice to any shipment renders the shipment a 'hazardous material shipment' and the shipment must be addressed to Building 46, as explained below.  Please note in cases where tubes labelled with tape are subjected to dry-ice temperatures, the tape will unstick from the tubes in many cases.  Use permanent marker to label your tubes.
+Biological macromolecule solution samples for SAXS should be shipped in sealed vials which
+are well-labeled.  The vials should be placed inside of a sealed plastic bag or
+sealed container and then placed inside of a Styrofoam cooler or reusable thermal
+shipper - the cooler must  include an outer cardboard box.  If the samples are
+being shipped with cold packs,  then the shipment may be addressed directly to
+BioCAT.  However, the inclusion  of dry-ice to any shipment renders the shipment
+a 'hazardous material shipment' and the shipment must be addressed to Building
+46, as explained below.  Please note in cases where tubes labeled with tape
+are subjected to dry-ice temperatures, the tape will unstick from the tubes
+in many cases. Use permanent marker to label your tubes.
 
-**non-hazardous Animal Tissue**
+You may find this best practices article on shipping biological research samples
+useful for additional recommendations and tips: `<https://doi.org/10.1107/S2053230X24006174>`_
 
-Non-hazardous animal tissues are those tissues which are being shipped with cold-packs and the shipment will not contain dry-ice.  The addition of dry-ice to any non-hazardous animal tissue sample shipment would render the shipment hazardous (because dry-ice is considered to be a hazardous material) and receiving would have to occur through building 46 as detailed below in the section 'dry-ice.'  
+**Non-Hazardous Animal Tissue**
 
-All non-hazardous animal tissue samples must be packaged using triple-containment as detailed by `USPS Regulations:
+Non-hazardous animal tissues are those tissues which are being shipped with
+cold-packs and the shipment will not contain dry-ice.  The addition of dry-ice
+to any non-hazardous animal tissue sample shipment would render the shipment
+hazardous (because dry-ice is considered to be a hazardous material) and receiving
+would have to occur through building 46 as detailed below in the section 'dry-ice.'
+
+All non-hazardous animal tissue samples must be packaged using triple-containment
+as detailed by `USPS Regulations:
 <https://pe.usps.com/text/pub52/pub52apxc_024.htm>`_.
 
-A picture of triple-containment can be seen below.  You may choose to purchase a triple-containment package from a company such as Fisher Scientific, however, do not use any biohazard labels to ship non-infectious animal specimens.
+A picture of triple-containment can be seen below.  You may choose to purchase
+a triple-containment package from a company such as Fisher Scientific, however,
+do not use any biohazard labels to ship non-infectious animal specimens.
 
 .. image:: {static}/images/triplecontainment.jpg
     :class: img-responsive
@@ -134,9 +153,10 @@ Hazardous materials, **including any package with dry ice,** should be shipped t
     | 9700 South Cass Avenue
     | Lemont, IL 60439
 
-To prepare your package, please note that if you send a styrofoam container, it needs
-to have an outer cardboard box or FedEx will return the package to you. All shipping
-boxes should be labeled with the following on the outside of the box:
+To prepare your package, please note that if you send a Styrofoam container or
+reusable thermal shipper it needs to have an outer cardboard box or FedEx will
+return the package to you. All shipping boxes should be labeled with the
+following on the outside of the box:
 
 1.  The box should have a label that says 'PERISHABLE` if it contains perishable goods.
 2.  You should write storage instructions on the outside of the package:

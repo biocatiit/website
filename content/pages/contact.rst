@@ -98,8 +98,7 @@ Contact BioCAT
 :h3:`Mailing List`
 
 BioCAT has a mailing list for users and prospective users where we make occasional (<1 per week)
-announcements about BioCAT news, upcoming workshops, available beamtime, and our
-`SAXS coffee hour <{filename}/news/2021_saxs_coffee_hour.rst>`_.
+announcements about BioCAT news, upcoming workshops and available beamtime.
 New users are automatically added to the mailing list, but you can
 also `sign up here <{filename}/pages/mailing_list.rst>`_.
 
@@ -120,7 +119,7 @@ Staff
             .. caption::
 
                 :h3:`Carrie Clark`
-                Executive Administrator
+                Program Coordinator
 
             .. row::
 
@@ -213,7 +212,7 @@ Staff
             .. caption::
 
                 :h3:`Prof. Thomas Irving`
-                PI
+                Principal Investigator
 
             .. row::
 
