@@ -64,8 +64,7 @@ a paragraph about your research interests and proposed use of SAXS
 Applications will be accepted through September 14th 2026. You will be notified
 by email about your application.
 
-The application is available here:
-`https://forms.cloud.microsoft/r/hiXZfmAztv <https://forms.cloud.microsoft/r/hiXZfmAztv>`_
+Applications for this workshop are now closed.
 
 
 
@@ -91,6 +90,8 @@ Confirmed speakers:
 *   Max Watkins (BioCAT, APS)
 *   Thomas Grant (U. Buffalo)
 *   Kushol Gupta (U. Pennsylvania)
+*   Wellington Leite (Bio-SANS, ORNL)
+*   Thomas Weiss (BL4-2, SSRL)
 *   Estella Yee (MacCHESS, CHESS)
 
 If you have questions, please contact Jesse Hopkins (jhopkins1@illinoistech.edu)
@@ -148,11 +149,11 @@ Note: All times are Central Daylight Time (UTC-5)
 .. class:: table-hover
 
     =========== ======================================================================================================================
-    10:00 am    Advanced analysis: Introduction to rigid body modeling
-    10:45 am    Advanced analysis: Introduction to flexibility and ensemble modeling
-    11:30 am    Advanced topic: TBD
+    10:00 pm    Advanced topic: Time resolved SAXS
+    10:45 am    Advanced analysis: Introduction to rigid body modeling
+    11:30 am    Advanced analysis: Introduction to flexibility and ensemble modeling
     12:15 am    Break
-    12:45 pm    Advanced topic: Time resolved SAXS
+    12:45 pm    Advanced topic: SAXS and SANS
     01:30 pm    Planning experiments at BioCAT
     01:45 pm    Wrap up and final Q&A
     02:30 pm    End
